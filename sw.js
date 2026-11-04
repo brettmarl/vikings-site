@@ -1,6 +1,6 @@
 // Service worker: pages are network-first (so new scores show up right away),
 // with a cached fallback for patchy island coverage. Hashed assets are cache-first.
-const CACHE = 'vikings-v3';
+const CACHE = 'vikings-v4';
 
 self.addEventListener('install', (e) => self.skipWaiting());
 self.addEventListener('activate', (e) => {
@@ -11,7 +11,10 @@ self.addEventListener('activate', (e) => {
 
 self.addEventListener('fetch', (e) => {
   const req = e.request;
-  if (req.method !== 'GET' || new URL(req.url).origin !== self.location.origin) return;
+  const url = new URL(req.url);
+  if (req.method !== 'GET' || url.origin !== self.location.origin) return;
+  // Always from the network: these say whether a newer version exists.
+  if (/\/(version|data)\.json$/.test(url.pathname)) return;
   const isPage = req.mode === 'navigate' || req.headers.get('accept')?.includes('text/html');
   if (isPage) {
     e.respondWith(
