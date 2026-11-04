@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T15:43:04.682Z",
+  "generatedAt": "2026-11-04T20:37:57.510Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -60,6 +60,7 @@
   ],
   "nextGame": {
     "stage": "District",
+    "round": "semifinal",
     "label": "District semifinal",
     "date": "2026-11-05T20:30:00.000Z",
     "timeKnown": true,
@@ -96,10 +97,11 @@
     "links": {
       "map": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA"
     },
-    "calId": "2026-11-05-district-semifinal"
+    "calId": "2026-11-05-g7"
   },
   "dates": [
     {
+      "key": "g7",
       "date": "2026-11-05T20:30:00.000Z",
       "timeKnown": true,
       "label": "District semifinal",
@@ -107,19 +109,21 @@
       "status": "confirmed",
       "note": "Next game",
       "vs": "Providence",
-      "calId": "2026-11-05-district-semifinal"
+      "calId": "2026-11-05-g7"
     },
     {
-      "date": "2026-11-08T03:00:00.000Z",
+      "key": "g9",
+      "date": "2026-11-07T23:00:00.000Z",
       "timeKnown": true,
       "label": "District final",
       "venue": "Sammamish HS",
       "status": "possible",
       "note": "If we beat Providence on Thursday",
       "vs": "Mount Vernon or Friday Harbor",
-      "calId": "2026-11-08-district-final"
+      "calId": "2026-11-07-g9"
     },
     {
+      "key": "state-0",
       "date": null,
       "whenText": "Fri Nov 13",
       "label": "State quarterfinal",
@@ -128,6 +132,7 @@
       "note": "Date and site confirmed after districts"
     },
     {
+      "key": "state-1",
       "date": null,
       "whenText": "Fri Nov 20",
       "label": "State semifinal",
@@ -136,6 +141,7 @@
       "note": "If we win the quarterfinal"
     },
     {
+      "key": "state-2",
       "date": null,
       "whenText": "Sat Nov 21",
       "label": "State championship",
@@ -158,6 +164,7 @@
         "games": [
           {
             "no": "1",
+            "round": "firstRound",
             "label": "District first round",
             "date": "2026-11-03T20:30:00.000Z",
             "timeKnown": true,
@@ -200,6 +207,7 @@
           },
           {
             "no": "4",
+            "round": "firstRound",
             "label": "District first round",
             "date": "2026-11-03T22:00:00.000Z",
             "timeKnown": true,
@@ -242,6 +250,7 @@
           },
           {
             "no": "2",
+            "round": "firstRound",
             "label": "District first round",
             "date": "2026-11-03T22:45:00.000Z",
             "timeKnown": true,
@@ -284,6 +293,7 @@
           },
           {
             "no": "3",
+            "round": "firstRound",
             "label": "District first round",
             "date": "2026-11-04T02:15:00.000Z",
             "timeKnown": true,
@@ -332,6 +342,7 @@
         "games": [
           {
             "no": "7",
+            "round": "semifinal",
             "label": "District semifinal",
             "date": "2026-11-05T20:30:00.000Z",
             "timeKnown": true,
@@ -367,6 +378,7 @@
             },
             "loser": {
               "text": "3rd place · to State",
+              "short": "3rd place",
               "state": true
             },
             "ours": true,
@@ -374,6 +386,7 @@
           },
           {
             "no": "8",
+            "round": "semifinal",
             "label": "District semifinal",
             "date": "2026-11-05T21:00:00.000Z",
             "timeKnown": true,
@@ -409,6 +422,7 @@
             },
             "loser": {
               "text": "3rd place · to State",
+              "short": "3rd place",
               "state": true
             },
             "ours": false,
@@ -416,6 +430,7 @@
           },
           {
             "no": "5",
+            "round": "lastChance",
             "label": "Last-chance game",
             "date": "2026-11-05T21:30:00.000Z",
             "timeKnown": true,
@@ -447,6 +462,7 @@
             ],
             "winner": {
               "text": "5th place · to State",
+              "short": "5th place",
               "state": true
             },
             "loser": {
@@ -458,8 +474,9 @@
           },
           {
             "no": "6",
+            "round": "lastChance",
             "label": "Last-chance game",
-            "date": "2026-11-06T02:00:00.000Z",
+            "date": "2026-11-06T00:00:00.000Z",
             "timeKnown": true,
             "venue": "Peck Community Sports Par",
             "siteNote": "@ Higher Seed",
@@ -489,6 +506,7 @@
             ],
             "winner": {
               "text": "5th place · to State",
+              "short": "5th place",
               "state": true
             },
             "loser": {
@@ -502,12 +520,13 @@
         "title": "District semifinal & Last-chance game"
       },
       {
-        "date": "2026-11-08T03:00:00.000Z",
+        "date": "2026-11-07T23:00:00.000Z",
         "games": [
           {
             "no": "9",
+            "round": "final",
             "label": "District final",
-            "date": "2026-11-08T03:00:00.000Z",
+            "date": "2026-11-07T23:00:00.000Z",
             "timeKnown": true,
             "venue": "Sammamish HS",
             "siteNote": "Sammamish HS",
@@ -563,10 +582,12 @@
             ],
             "winner": {
               "text": "Champions · to State",
+              "short": "Champions",
               "state": true
             },
             "loser": {
               "text": "Runner-up · to State",
+              "short": "Runner-up",
               "state": true
             },
             "ours": false,
@@ -584,6 +605,7 @@
         "games": [
           {
             "no": "2",
+            "round": "firstRound",
             "label": "District first round",
             "date": "2026-11-03T22:45:00.000Z",
             "timeKnown": true,
@@ -626,6 +648,7 @@
           },
           {
             "no": "1",
+            "round": "firstRound",
             "label": "District first round",
             "date": "2026-11-03T20:30:00.000Z",
             "timeKnown": true,
@@ -668,6 +691,7 @@
           },
           {
             "no": "3",
+            "round": "firstRound",
             "label": "District first round",
             "date": "2026-11-04T02:15:00.000Z",
             "timeKnown": true,
@@ -710,6 +734,7 @@
           },
           {
             "no": "4",
+            "round": "firstRound",
             "label": "District first round",
             "date": "2026-11-03T22:00:00.000Z",
             "timeKnown": true,
@@ -759,6 +784,7 @@
         "games": [
           {
             "no": "7",
+            "round": "semifinal",
             "label": "District semifinal",
             "date": "2026-11-05T20:30:00.000Z",
             "timeKnown": true,
@@ -794,6 +820,7 @@
             },
             "loser": {
               "text": "3rd place · to State",
+              "short": "3rd place",
               "state": true
             },
             "ours": true,
@@ -801,6 +828,7 @@
           },
           {
             "no": "8",
+            "round": "semifinal",
             "label": "District semifinal",
             "date": "2026-11-05T21:00:00.000Z",
             "timeKnown": true,
@@ -836,6 +864,7 @@
             },
             "loser": {
               "text": "3rd place · to State",
+              "short": "3rd place",
               "state": true
             },
             "ours": false,
@@ -845,13 +874,14 @@
       },
       {
         "title": "Final",
-        "date": "2026-11-08T03:00:00.000Z",
+        "date": "2026-11-07T23:00:00.000Z",
         "note": "Both teams go to State. This game decides 1st and 2nd.",
         "games": [
           {
             "no": "9",
+            "round": "final",
             "label": "District final",
-            "date": "2026-11-08T03:00:00.000Z",
+            "date": "2026-11-07T23:00:00.000Z",
             "timeKnown": true,
             "venue": "Sammamish HS",
             "siteNote": "Sammamish HS",
@@ -907,10 +937,12 @@
             ],
             "winner": {
               "text": "Champions · to State",
+              "short": "Champions",
               "state": true
             },
             "loser": {
               "text": "Runner-up · to State",
+              "short": "Runner-up",
               "state": true
             },
             "ours": false,
@@ -922,6 +954,7 @@
     "secondChance": [
       {
         "no": "5",
+        "round": "lastChance",
         "label": "Last-chance game",
         "date": "2026-11-05T21:30:00.000Z",
         "timeKnown": true,
@@ -953,6 +986,7 @@
         ],
         "winner": {
           "text": "5th place · to State",
+          "short": "5th place",
           "state": true
         },
         "loser": {
@@ -965,8 +999,9 @@
       },
       {
         "no": "6",
+        "round": "lastChance",
         "label": "Last-chance game",
-        "date": "2026-11-06T02:00:00.000Z",
+        "date": "2026-11-06T00:00:00.000Z",
         "timeKnown": true,
         "venue": "Peck Community Sports Par",
         "siteNote": "@ Higher Seed",
@@ -996,6 +1031,7 @@
         ],
         "winner": {
           "text": "5th place · to State",
+          "short": "5th place",
           "state": true
         },
         "loser": {
@@ -1010,6 +1046,7 @@
     "playIns": [
       {
         "no": "A",
+        "round": "playIn",
         "label": "Play-in",
         "date": "2026-10-15T00:30:00.000Z",
         "timeKnown": true,
@@ -1049,6 +1086,7 @@
       },
       {
         "no": "B",
+        "round": "playIn",
         "label": "Play-in",
         "date": "2026-10-28T02:00:00.000Z",
         "timeKnown": true,
@@ -1088,6 +1126,7 @@
       },
       {
         "no": "C",
+        "round": "playIn",
         "label": "Play-in",
         "date": "2026-10-29T22:30:00.000Z",
         "timeKnown": true,
@@ -1127,6 +1166,7 @@
       },
       {
         "no": "D",
+        "round": "playIn",
         "label": "Play-in",
         "date": "2026-10-30T21:00:00.000Z",
         "timeKnown": true,
@@ -1169,6 +1209,7 @@
       },
       {
         "no": "E",
+        "round": "playIn",
         "label": "Play-in",
         "date": "2026-11-03T03:30:00.000Z",
         "timeKnown": true,
@@ -1214,6 +1255,7 @@
       {
         "game": {
           "no": "1",
+          "round": "firstRound",
           "label": "District first round",
           "date": "2026-11-03T20:30:00.000Z",
           "timeKnown": true,
@@ -1268,6 +1310,7 @@
       {
         "game": {
           "no": "7",
+          "round": "semifinal",
           "label": "District semifinal",
           "date": "2026-11-05T20:30:00.000Z",
           "timeKnown": true,
@@ -1303,6 +1346,7 @@
           },
           "loser": {
             "text": "3rd place · to State",
+            "short": "3rd place",
             "state": true
           },
           "ours": true,
@@ -1323,6 +1367,7 @@
     "scenarios": {
       "game": {
         "no": "7",
+        "round": "semifinal",
         "label": "District semifinal",
         "date": "2026-11-05T20:30:00.000Z",
         "timeKnown": true,
@@ -1358,6 +1403,7 @@
         },
         "loser": {
           "text": "3rd place · to State",
+          "short": "3rd place",
           "state": true
         },
         "ours": true,
@@ -1366,8 +1412,9 @@
       "win": {
         "game": {
           "no": "9",
+          "round": "final",
           "label": "District final",
-          "date": "2026-11-08T03:00:00.000Z",
+          "date": "2026-11-07T23:00:00.000Z",
           "timeKnown": true,
           "venue": "Sammamish HS",
           "siteNote": "Sammamish HS",
@@ -1423,10 +1470,12 @@
           ],
           "winner": {
             "text": "Champions · to State",
+            "short": "Champions",
             "state": true
           },
           "loser": {
             "text": "Runner-up · to State",
+            "short": "Runner-up",
             "state": true
           },
           "ours": false,
@@ -1499,16 +1548,19 @@
     "rounds": [
       {
         "name": "Quarterfinal",
+        "names": "Quarterfinals",
         "when": "Fri Nov 13 (expected)",
         "where": "Regional site set by WIAA"
       },
       {
         "name": "Semifinal",
+        "names": "Semifinals",
         "when": "Fri Nov 20",
         "where": "Mount Tahoma Stadium, Tacoma"
       },
       {
         "name": "Championship",
+        "names": "Championship",
         "when": "Sat Nov 21",
         "where": "Mount Tahoma Stadium, Tacoma"
       }
@@ -2394,12 +2446,12 @@
       "what": "District game 5"
     },
     {
-      "start": "2026-11-06T02:00:00.000Z",
+      "start": "2026-11-06T00:00:00.000Z",
       "timeKnown": true,
       "what": "District game 6"
     },
     {
-      "start": "2026-11-08T03:00:00.000Z",
+      "start": "2026-11-07T23:00:00.000Z",
       "timeKnown": true,
       "what": "District game 9"
     }
@@ -4015,7 +4067,7 @@
   "historySince": "2022",
   "calendar": [
     {
-      "id": "2026-11-05-district-semifinal",
+      "id": "2026-11-05-g7",
       "title": "Vikings vs Providence · District semifinal",
       "start": "2026-11-05T20:30:00.000Z",
       "timeKnown": true,
@@ -4023,9 +4075,9 @@
       "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
     },
     {
-      "id": "2026-11-08-district-final",
+      "id": "2026-11-07-g9",
       "title": "Vikings vs Mount Vernon or Friday Harbor · District final (if we advance)",
-      "start": "2026-11-08T03:00:00.000Z",
+      "start": "2026-11-07T23:00:00.000Z",
       "timeKnown": true,
       "location": "Sammamish HS",
       "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
@@ -4049,5 +4101,4110 @@
       "url": "https://www.wiaa.com/tournament/?sportid=9"
     }
   ],
-  "notes": []
+  "notes": [],
+  "es": {
+    "generatedAt": "2026-11-04T20:37:57.510Z",
+    "team": {
+      "name": "Orcas Island",
+      "mascot": "Vikings",
+      "abbr": "OI",
+      "color": "#034CB2",
+      "isUs": true,
+      "full": "Orcas Island Vikings",
+      "sport": "Fútbol varonil",
+      "season": "2026",
+      "record": "16-0-1",
+      "streak": "W12",
+      "goals": {
+        "for": 94,
+        "against": 13
+      },
+      "rank": {
+        "rank": 1,
+        "of": "escuelas pequeñas de WA (2B/1B)"
+      }
+    },
+    "headline": {
+      "tone": "great",
+      "title": "¡Vamos al Estatal!",
+      "sub": "Nuestro lugar está asegurado. Los próximos partidos deciden en qué posición llegamos."
+    },
+    "journey": [
+      {
+        "key": "league",
+        "name": "Liga",
+        "sub": "Temporada regular",
+        "status": "done",
+        "badge": "Campeones",
+        "good": true,
+        "detail": "9-0-0 en la liga"
+      },
+      {
+        "key": "district",
+        "name": "Distrito",
+        "sub": "Torneo distrital",
+        "status": "active",
+        "badge": "1 victoria hasta ahora",
+        "good": true,
+        "detail": "Primer sembrado · campeones de liga"
+      },
+      {
+        "key": "state",
+        "name": "Estatal",
+        "sub": "Torneo estatal",
+        "status": "qualified",
+        "badge": "¡Clasificados!",
+        "good": true,
+        "detail": "Empieza el vie 13 nov"
+      }
+    ],
+    "connectors": [
+      "Ganar la liga nos dio el primer lugar en el sembrado del distrito",
+      "Los 6 mejores del distrito van al Estatal"
+    ],
+    "nextGame": {
+      "stage": "District",
+      "round": "semifinal",
+      "label": "Semifinal del distrito",
+      "date": "2026-11-05T20:30:00.000Z",
+      "timeKnown": true,
+      "venue": "Anacortes HS",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA",
+      "home": true,
+      "hostNote": "Como primer sembrado, somos el equipo local.",
+      "opponents": [
+        {
+          "name": "Providence Classical Christian",
+          "mascot": "Highlanders",
+          "abbr": "PC",
+          "color": "#022C66",
+          "isUs": false,
+          "meetings": [
+            {
+              "date": "2026-10-03T20:00:00.000Z",
+              "result": "W",
+              "gf": 3,
+              "ga": 2,
+              "home": true
+            },
+            {
+              "date": "2026-10-15T22:30:00.000Z",
+              "result": "W",
+              "gf": 4,
+              "ga": 3,
+              "home": false
+            }
+          ]
+        }
+      ],
+      "feeder": null,
+      "links": {
+        "map": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA"
+      },
+      "calId": "2026-11-05-g7"
+    },
+    "dates": [
+      {
+        "key": "g7",
+        "date": "2026-11-05T20:30:00.000Z",
+        "timeKnown": true,
+        "label": "Semifinal del distrito",
+        "venue": "Anacortes HS",
+        "status": "confirmed",
+        "note": "Próximo partido",
+        "vs": "Providence",
+        "calId": "2026-11-05-g7"
+      },
+      {
+        "key": "g9",
+        "date": "2026-11-07T23:00:00.000Z",
+        "timeKnown": true,
+        "label": "Final del distrito",
+        "venue": "Sammamish HS",
+        "status": "possible",
+        "note": "Si le ganamos a Providence el jueves",
+        "vs": "Mount Vernon o Friday Harbor",
+        "calId": "2026-11-07-g9"
+      },
+      {
+        "key": "state-0",
+        "date": null,
+        "whenText": "vie 13 nov",
+        "label": "Cuartos de final del Estatal",
+        "venue": null,
+        "status": "booked",
+        "note": "Fecha y sede se confirman después del distrito"
+      },
+      {
+        "key": "state-1",
+        "date": null,
+        "whenText": "vie 20 nov",
+        "label": "Semifinal del Estatal",
+        "venue": "Mount Tahoma Stadium, Tacoma",
+        "status": "possible",
+        "note": "Si ganamos los cuartos de final"
+      },
+      {
+        "key": "state-2",
+        "date": null,
+        "whenText": "sáb 21 nov",
+        "label": "Final del Estatal",
+        "venue": "Mount Tahoma Stadium, Tacoma",
+        "status": "possible",
+        "note": "Si ganamos la semifinal"
+      }
+    ],
+    "district": {
+      "title": "2026 District 1/2/3/4 1B/2B Boys Soccer",
+      "url": "https://www.wpanetwork.com/wiaa/brackets/tournament.php?act=view&tournament_id=5242",
+      "seed": {
+        "number": 1,
+        "of": 12
+      },
+      "status": "in-progress",
+      "rounds": [
+        {
+          "date": "2026-11-03T20:30:00.000Z",
+          "games": [
+            {
+              "no": "1",
+              "round": "firstRound",
+              "label": "Primera ronda del distrito",
+              "date": "2026-11-03T20:30:00.000Z",
+              "timeKnown": true,
+              "venue": "Anacortes HS",
+              "siteNote": "@ Higher Seed",
+              "played": true,
+              "scoreSource": "bracket",
+              "teams": [
+                {
+                  "name": "Coupeville",
+                  "mascot": "Wolves",
+                  "abbr": "CO",
+                  "color": "#CC0022",
+                  "isUs": false,
+                  "score": 1,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
+                  "color": "#034CB2",
+                  "isUs": true,
+                  "score": 3,
+                  "winner": true,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Semifinal del distrito",
+                "state": false
+              },
+              "loser": {
+                "text": "Partido de última oportunidad",
+                "state": false
+              },
+              "ours": true,
+              "maybeOurs": false
+            },
+            {
+              "no": "4",
+              "round": "firstRound",
+              "label": "Primera ronda del distrito",
+              "date": "2026-11-03T22:00:00.000Z",
+              "timeKnown": true,
+              "venue": "Puyallup Valley Sports Co",
+              "siteNote": "@ Higher Seed",
+              "played": true,
+              "scoreSource": "bracket",
+              "teams": [
+                {
+                  "name": "Friday Harbor",
+                  "mascot": "Wolverines",
+                  "abbr": "FH",
+                  "color": "#754ACC",
+                  "isUs": false,
+                  "score": 3,
+                  "winner": true,
+                  "seed": null
+                },
+                {
+                  "name": "Evergreen Lutheran",
+                  "mascot": "Eagles",
+                  "abbr": "EL",
+                  "color": "#00824B",
+                  "isUs": false,
+                  "score": 1,
+                  "winner": false,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Semifinal del distrito",
+                "state": false
+              },
+              "loser": {
+                "text": "Partido de última oportunidad",
+                "state": false
+              },
+              "ours": false,
+              "maybeOurs": false
+            },
+            {
+              "no": "2",
+              "round": "firstRound",
+              "label": "Primera ronda del distrito",
+              "date": "2026-11-03T22:45:00.000Z",
+              "timeKnown": true,
+              "venue": "Puyallup Valley Sports Co",
+              "siteNote": "@ Higher Seed",
+              "played": true,
+              "scoreSource": "bracket",
+              "teams": [
+                {
+                  "name": "Providence Classical Christian",
+                  "mascot": "Highlanders",
+                  "abbr": "PC",
+                  "color": "#022C66",
+                  "isUs": false,
+                  "score": 5,
+                  "winner": true,
+                  "seed": null
+                },
+                {
+                  "name": "Auburn Adventist",
+                  "mascot": null,
+                  "abbr": "AA",
+                  "color": "#8C3B4A",
+                  "isUs": false,
+                  "score": 0,
+                  "winner": false,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Semifinal del distrito",
+                "state": false
+              },
+              "loser": {
+                "text": "Partido de última oportunidad",
+                "state": false
+              },
+              "ours": false,
+              "maybeOurs": false
+            },
+            {
+              "no": "3",
+              "round": "firstRound",
+              "label": "Primera ronda del distrito",
+              "date": "2026-11-04T02:15:00.000Z",
+              "timeKnown": true,
+              "venue": "Mt Vernon HS",
+              "siteNote": "@ Higher Seed",
+              "played": true,
+              "scoreSource": "bracket",
+              "teams": [
+                {
+                  "name": "Columbia Adventist",
+                  "mascot": null,
+                  "abbr": "CA",
+                  "color": "#3D5A99",
+                  "isUs": false,
+                  "score": 0,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Mount Vernon Christian",
+                  "mascot": "Hurricanes",
+                  "abbr": "MV",
+                  "color": "#034CB2",
+                  "isUs": false,
+                  "score": 9,
+                  "winner": true,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Semifinal del distrito",
+                "state": false
+              },
+              "loser": {
+                "text": "Partido de última oportunidad",
+                "state": false
+              },
+              "ours": false,
+              "maybeOurs": false
+            }
+          ],
+          "title": "Primera ronda del distrito"
+        },
+        {
+          "date": "2026-11-05T20:30:00.000Z",
+          "games": [
+            {
+              "no": "7",
+              "round": "semifinal",
+              "label": "Semifinal del distrito",
+              "date": "2026-11-05T20:30:00.000Z",
+              "timeKnown": true,
+              "venue": "Anacortes HS",
+              "siteNote": "@ Higher Seed",
+              "played": false,
+              "scoreSource": null,
+              "teams": [
+                {
+                  "name": "Providence Classical Christian",
+                  "mascot": "Highlanders",
+                  "abbr": "PC",
+                  "color": "#022C66",
+                  "isUs": false,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
+                  "color": "#034CB2",
+                  "isUs": true,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Final del distrito",
+                "state": false
+              },
+              "loser": {
+                "text": "3.er lugar · al Estatal",
+                "short": "3.er lugar",
+                "state": true
+              },
+              "ours": true,
+              "maybeOurs": false
+            },
+            {
+              "no": "8",
+              "round": "semifinal",
+              "label": "Semifinal del distrito",
+              "date": "2026-11-05T21:00:00.000Z",
+              "timeKnown": true,
+              "venue": "Mt Vernon HS",
+              "siteNote": "@ Higher Seed",
+              "played": false,
+              "scoreSource": null,
+              "teams": [
+                {
+                  "name": "Mount Vernon Christian",
+                  "mascot": "Hurricanes",
+                  "abbr": "MV",
+                  "color": "#034CB2",
+                  "isUs": false,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Friday Harbor",
+                  "mascot": "Wolverines",
+                  "abbr": "FH",
+                  "color": "#754ACC",
+                  "isUs": false,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Final del distrito",
+                "state": false
+              },
+              "loser": {
+                "text": "3.er lugar · al Estatal",
+                "short": "3.er lugar",
+                "state": true
+              },
+              "ours": false,
+              "maybeOurs": false
+            },
+            {
+              "no": "5",
+              "round": "lastChance",
+              "label": "Partido de última oportunidad",
+              "date": "2026-11-05T21:30:00.000Z",
+              "timeKnown": true,
+              "venue": "Game Farm Park - Auburn",
+              "siteNote": "@ Higher Seed",
+              "played": false,
+              "scoreSource": null,
+              "teams": [
+                {
+                  "name": "Coupeville",
+                  "mascot": "Wolves",
+                  "abbr": "CO",
+                  "color": "#CC0022",
+                  "isUs": false,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Auburn Adventist",
+                  "mascot": null,
+                  "abbr": "AA",
+                  "color": "#8C3B4A",
+                  "isUs": false,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "5.º lugar · al Estatal",
+                "short": "5.º lugar",
+                "state": true
+              },
+              "loser": {
+                "text": "Fin de temporada",
+                "out": true
+              },
+              "ours": false,
+              "maybeOurs": false
+            },
+            {
+              "no": "6",
+              "round": "lastChance",
+              "label": "Partido de última oportunidad",
+              "date": "2026-11-06T00:00:00.000Z",
+              "timeKnown": true,
+              "venue": "Peck Community Sports Par",
+              "siteNote": "@ Higher Seed",
+              "played": false,
+              "scoreSource": null,
+              "teams": [
+                {
+                  "name": "Columbia Adventist",
+                  "mascot": null,
+                  "abbr": "CA",
+                  "color": "#3D5A99",
+                  "isUs": false,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Evergreen Lutheran",
+                  "mascot": "Eagles",
+                  "abbr": "EL",
+                  "color": "#00824B",
+                  "isUs": false,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "5.º lugar · al Estatal",
+                "short": "5.º lugar",
+                "state": true
+              },
+              "loser": {
+                "text": "Fin de temporada",
+                "out": true
+              },
+              "ours": false,
+              "maybeOurs": false
+            }
+          ],
+          "title": "Semifinal del distrito y Partido de última oportunidad"
+        },
+        {
+          "date": "2026-11-07T23:00:00.000Z",
+          "games": [
+            {
+              "no": "9",
+              "round": "final",
+              "label": "Final del distrito",
+              "date": "2026-11-07T23:00:00.000Z",
+              "timeKnown": true,
+              "venue": "Sammamish HS",
+              "siteNote": "Sammamish HS",
+              "played": false,
+              "scoreSource": null,
+              "teams": [
+                {
+                  "name": "Ganador del partido 7",
+                  "placeholder": true,
+                  "candidates": [
+                    {
+                      "name": "Providence Classical Christian",
+                      "mascot": "Highlanders",
+                      "abbr": "PC",
+                      "color": "#022C66",
+                      "isUs": false
+                    },
+                    {
+                      "name": "Orcas Island",
+                      "mascot": "Vikings",
+                      "abbr": "OI",
+                      "color": "#034CB2",
+                      "isUs": true
+                    }
+                  ],
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Ganador del partido 8",
+                  "placeholder": true,
+                  "candidates": [
+                    {
+                      "name": "Mount Vernon Christian",
+                      "mascot": "Hurricanes",
+                      "abbr": "MV",
+                      "color": "#034CB2",
+                      "isUs": false
+                    },
+                    {
+                      "name": "Friday Harbor",
+                      "mascot": "Wolverines",
+                      "abbr": "FH",
+                      "color": "#754ACC",
+                      "isUs": false
+                    }
+                  ],
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Campeones · al Estatal",
+                "short": "Campeones",
+                "state": true
+              },
+              "loser": {
+                "text": "Subcampeones · al Estatal",
+                "short": "Subcampeones",
+                "state": true
+              },
+              "ours": false,
+              "maybeOurs": true
+            }
+          ],
+          "title": "Final del distrito"
+        }
+      ],
+      "mainColumns": [
+        {
+          "title": "Primera ronda",
+          "date": "2026-11-03T22:45:00.000Z",
+          "note": "Los ganadores avanzan. Los perdedores tienen otra oportunidad.",
+          "games": [
+            {
+              "no": "2",
+              "round": "firstRound",
+              "label": "Primera ronda del distrito",
+              "date": "2026-11-03T22:45:00.000Z",
+              "timeKnown": true,
+              "venue": "Puyallup Valley Sports Co",
+              "siteNote": "@ Higher Seed",
+              "played": true,
+              "scoreSource": "bracket",
+              "teams": [
+                {
+                  "name": "Providence Classical Christian",
+                  "mascot": "Highlanders",
+                  "abbr": "PC",
+                  "color": "#022C66",
+                  "isUs": false,
+                  "score": 5,
+                  "winner": true,
+                  "seed": null
+                },
+                {
+                  "name": "Auburn Adventist",
+                  "mascot": null,
+                  "abbr": "AA",
+                  "color": "#8C3B4A",
+                  "isUs": false,
+                  "score": 0,
+                  "winner": false,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Semifinal del distrito",
+                "state": false
+              },
+              "loser": {
+                "text": "Partido de última oportunidad",
+                "state": false
+              },
+              "ours": false,
+              "maybeOurs": false
+            },
+            {
+              "no": "1",
+              "round": "firstRound",
+              "label": "Primera ronda del distrito",
+              "date": "2026-11-03T20:30:00.000Z",
+              "timeKnown": true,
+              "venue": "Anacortes HS",
+              "siteNote": "@ Higher Seed",
+              "played": true,
+              "scoreSource": "bracket",
+              "teams": [
+                {
+                  "name": "Coupeville",
+                  "mascot": "Wolves",
+                  "abbr": "CO",
+                  "color": "#CC0022",
+                  "isUs": false,
+                  "score": 1,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
+                  "color": "#034CB2",
+                  "isUs": true,
+                  "score": 3,
+                  "winner": true,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Semifinal del distrito",
+                "state": false
+              },
+              "loser": {
+                "text": "Partido de última oportunidad",
+                "state": false
+              },
+              "ours": true,
+              "maybeOurs": false
+            },
+            {
+              "no": "3",
+              "round": "firstRound",
+              "label": "Primera ronda del distrito",
+              "date": "2026-11-04T02:15:00.000Z",
+              "timeKnown": true,
+              "venue": "Mt Vernon HS",
+              "siteNote": "@ Higher Seed",
+              "played": true,
+              "scoreSource": "bracket",
+              "teams": [
+                {
+                  "name": "Columbia Adventist",
+                  "mascot": null,
+                  "abbr": "CA",
+                  "color": "#3D5A99",
+                  "isUs": false,
+                  "score": 0,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Mount Vernon Christian",
+                  "mascot": "Hurricanes",
+                  "abbr": "MV",
+                  "color": "#034CB2",
+                  "isUs": false,
+                  "score": 9,
+                  "winner": true,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Semifinal del distrito",
+                "state": false
+              },
+              "loser": {
+                "text": "Partido de última oportunidad",
+                "state": false
+              },
+              "ours": false,
+              "maybeOurs": false
+            },
+            {
+              "no": "4",
+              "round": "firstRound",
+              "label": "Primera ronda del distrito",
+              "date": "2026-11-03T22:00:00.000Z",
+              "timeKnown": true,
+              "venue": "Puyallup Valley Sports Co",
+              "siteNote": "@ Higher Seed",
+              "played": true,
+              "scoreSource": "bracket",
+              "teams": [
+                {
+                  "name": "Friday Harbor",
+                  "mascot": "Wolverines",
+                  "abbr": "FH",
+                  "color": "#754ACC",
+                  "isUs": false,
+                  "score": 3,
+                  "winner": true,
+                  "seed": null
+                },
+                {
+                  "name": "Evergreen Lutheran",
+                  "mascot": "Eagles",
+                  "abbr": "EL",
+                  "color": "#00824B",
+                  "isUs": false,
+                  "score": 1,
+                  "winner": false,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Semifinal del distrito",
+                "state": false
+              },
+              "loser": {
+                "text": "Partido de última oportunidad",
+                "state": false
+              },
+              "ours": false,
+              "maybeOurs": false
+            }
+          ]
+        },
+        {
+          "title": "Semifinales",
+          "date": "2026-11-05T20:30:00.000Z",
+          "note": "Los ganadores juegan la final. Los perdedores también van al Estatal.",
+          "games": [
+            {
+              "no": "7",
+              "round": "semifinal",
+              "label": "Semifinal del distrito",
+              "date": "2026-11-05T20:30:00.000Z",
+              "timeKnown": true,
+              "venue": "Anacortes HS",
+              "siteNote": "@ Higher Seed",
+              "played": false,
+              "scoreSource": null,
+              "teams": [
+                {
+                  "name": "Providence Classical Christian",
+                  "mascot": "Highlanders",
+                  "abbr": "PC",
+                  "color": "#022C66",
+                  "isUs": false,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
+                  "color": "#034CB2",
+                  "isUs": true,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Final del distrito",
+                "state": false
+              },
+              "loser": {
+                "text": "3.er lugar · al Estatal",
+                "short": "3.er lugar",
+                "state": true
+              },
+              "ours": true,
+              "maybeOurs": false
+            },
+            {
+              "no": "8",
+              "round": "semifinal",
+              "label": "Semifinal del distrito",
+              "date": "2026-11-05T21:00:00.000Z",
+              "timeKnown": true,
+              "venue": "Mt Vernon HS",
+              "siteNote": "@ Higher Seed",
+              "played": false,
+              "scoreSource": null,
+              "teams": [
+                {
+                  "name": "Mount Vernon Christian",
+                  "mascot": "Hurricanes",
+                  "abbr": "MV",
+                  "color": "#034CB2",
+                  "isUs": false,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Friday Harbor",
+                  "mascot": "Wolverines",
+                  "abbr": "FH",
+                  "color": "#754ACC",
+                  "isUs": false,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Final del distrito",
+                "state": false
+              },
+              "loser": {
+                "text": "3.er lugar · al Estatal",
+                "short": "3.er lugar",
+                "state": true
+              },
+              "ours": false,
+              "maybeOurs": false
+            }
+          ]
+        },
+        {
+          "title": "Final",
+          "date": "2026-11-07T23:00:00.000Z",
+          "note": "Los dos equipos van al Estatal. Este partido decide el 1.º y el 2.º lugar.",
+          "games": [
+            {
+              "no": "9",
+              "round": "final",
+              "label": "Final del distrito",
+              "date": "2026-11-07T23:00:00.000Z",
+              "timeKnown": true,
+              "venue": "Sammamish HS",
+              "siteNote": "Sammamish HS",
+              "played": false,
+              "scoreSource": null,
+              "teams": [
+                {
+                  "name": "Ganador del partido 7",
+                  "placeholder": true,
+                  "candidates": [
+                    {
+                      "name": "Providence Classical Christian",
+                      "mascot": "Highlanders",
+                      "abbr": "PC",
+                      "color": "#022C66",
+                      "isUs": false
+                    },
+                    {
+                      "name": "Orcas Island",
+                      "mascot": "Vikings",
+                      "abbr": "OI",
+                      "color": "#034CB2",
+                      "isUs": true
+                    }
+                  ],
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Ganador del partido 8",
+                  "placeholder": true,
+                  "candidates": [
+                    {
+                      "name": "Mount Vernon Christian",
+                      "mascot": "Hurricanes",
+                      "abbr": "MV",
+                      "color": "#034CB2",
+                      "isUs": false
+                    },
+                    {
+                      "name": "Friday Harbor",
+                      "mascot": "Wolverines",
+                      "abbr": "FH",
+                      "color": "#754ACC",
+                      "isUs": false
+                    }
+                  ],
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Campeones · al Estatal",
+                "short": "Campeones",
+                "state": true
+              },
+              "loser": {
+                "text": "Subcampeones · al Estatal",
+                "short": "Subcampeones",
+                "state": true
+              },
+              "ours": false,
+              "maybeOurs": true
+            }
+          ]
+        }
+      ],
+      "secondChance": [
+        {
+          "no": "5",
+          "round": "lastChance",
+          "label": "Partido de última oportunidad",
+          "date": "2026-11-05T21:30:00.000Z",
+          "timeKnown": true,
+          "venue": "Game Farm Park - Auburn",
+          "siteNote": "@ Higher Seed",
+          "played": false,
+          "scoreSource": null,
+          "teams": [
+            {
+              "name": "Coupeville",
+              "mascot": "Wolves",
+              "abbr": "CO",
+              "color": "#CC0022",
+              "isUs": false,
+              "score": null,
+              "winner": false,
+              "seed": null
+            },
+            {
+              "name": "Auburn Adventist",
+              "mascot": null,
+              "abbr": "AA",
+              "color": "#8C3B4A",
+              "isUs": false,
+              "score": null,
+              "winner": false,
+              "seed": null
+            }
+          ],
+          "winner": {
+            "text": "5.º lugar · al Estatal",
+            "short": "5.º lugar",
+            "state": true
+          },
+          "loser": {
+            "text": "Fin de temporada",
+            "out": true
+          },
+          "ours": false,
+          "maybeOurs": false,
+          "note": "El ganador va al Estatal. Para el perdedor, se acaba la temporada."
+        },
+        {
+          "no": "6",
+          "round": "lastChance",
+          "label": "Partido de última oportunidad",
+          "date": "2026-11-06T00:00:00.000Z",
+          "timeKnown": true,
+          "venue": "Peck Community Sports Par",
+          "siteNote": "@ Higher Seed",
+          "played": false,
+          "scoreSource": null,
+          "teams": [
+            {
+              "name": "Columbia Adventist",
+              "mascot": null,
+              "abbr": "CA",
+              "color": "#3D5A99",
+              "isUs": false,
+              "score": null,
+              "winner": false,
+              "seed": null
+            },
+            {
+              "name": "Evergreen Lutheran",
+              "mascot": "Eagles",
+              "abbr": "EL",
+              "color": "#00824B",
+              "isUs": false,
+              "score": null,
+              "winner": false,
+              "seed": null
+            }
+          ],
+          "winner": {
+            "text": "5.º lugar · al Estatal",
+            "short": "5.º lugar",
+            "state": true
+          },
+          "loser": {
+            "text": "Fin de temporada",
+            "out": true
+          },
+          "ours": false,
+          "maybeOurs": false,
+          "note": "El ganador va al Estatal. Para el perdedor, se acaba la temporada."
+        }
+      ],
+      "playIns": [
+        {
+          "no": "A",
+          "round": "playIn",
+          "label": "Repechaje",
+          "date": "2026-10-15T00:30:00.000Z",
+          "timeKnown": true,
+          "venue": "Concordia Christian Academy",
+          "siteNote": "PLAY-IN",
+          "played": true,
+          "scoreSource": "bracket",
+          "teams": [
+            {
+              "name": "Salvation Christian Academy",
+              "mascot": null,
+              "abbr": "SC",
+              "color": "#2E7D6B",
+              "isUs": false,
+              "score": 2,
+              "winner": true,
+              "seed": null
+            },
+            {
+              "name": "Cristo Rey Jesuit",
+              "mascot": null,
+              "abbr": "CR",
+              "color": "#4F7A28",
+              "isUs": false,
+              "score": 1,
+              "winner": false,
+              "seed": null
+            }
+          ],
+          "winner": null,
+          "loser": {
+            "text": "Fin de temporada",
+            "out": true
+          },
+          "ours": false,
+          "maybeOurs": false
+        },
+        {
+          "no": "B",
+          "round": "playIn",
+          "label": "Repechaje",
+          "date": "2026-10-28T02:00:00.000Z",
+          "timeKnown": true,
+          "venue": "Tenino HS",
+          "siteNote": "PLAY-IN",
+          "played": true,
+          "scoreSource": "bracket",
+          "teams": [
+            {
+              "name": "Salvation Christian Academy",
+              "mascot": null,
+              "abbr": "SC",
+              "color": "#2E7D6B",
+              "isUs": false,
+              "score": 1,
+              "winner": false,
+              "seed": null
+            },
+            {
+              "name": "Columbia Adventist",
+              "mascot": null,
+              "abbr": "CA",
+              "color": "#3D5A99",
+              "isUs": false,
+              "score": 5,
+              "winner": true,
+              "seed": null
+            }
+          ],
+          "winner": null,
+          "loser": {
+            "text": "Fin de temporada",
+            "out": true
+          },
+          "ours": false,
+          "maybeOurs": false
+        },
+        {
+          "no": "C",
+          "round": "playIn",
+          "label": "Repechaje",
+          "date": "2026-10-29T22:30:00.000Z",
+          "timeKnown": true,
+          "venue": "Puget Sound Adventist Academy",
+          "siteNote": "PLAY-IN",
+          "played": true,
+          "scoreSource": "bracket",
+          "teams": [
+            {
+              "name": "Columbia Adventist",
+              "mascot": null,
+              "abbr": "CA",
+              "color": "#3D5A99",
+              "isUs": false,
+              "score": 4,
+              "winner": true,
+              "seed": null
+            },
+            {
+              "name": "Puget Sound Adventist",
+              "mascot": null,
+              "abbr": "PS",
+              "color": "#2E7D6B",
+              "isUs": false,
+              "score": 0,
+              "winner": false,
+              "seed": null
+            }
+          ],
+          "winner": null,
+          "loser": {
+            "text": "Fin de temporada",
+            "out": true
+          },
+          "ours": false,
+          "maybeOurs": false
+        },
+        {
+          "no": "D",
+          "round": "playIn",
+          "label": "Repechaje",
+          "date": "2026-10-30T21:00:00.000Z",
+          "timeKnown": true,
+          "venue": "Oak Harbor HS",
+          "siteNote": null,
+          "played": true,
+          "scoreSource": "bracket",
+          "teams": [
+            {
+              "name": "Puget Sound Adventist",
+              "mascot": null,
+              "abbr": "PS",
+              "color": "#2E7D6B",
+              "isUs": false,
+              "score": 0,
+              "winner": false,
+              "seed": null
+            },
+            {
+              "name": "Coupeville",
+              "mascot": "Wolves",
+              "abbr": "CO",
+              "color": "#CC0022",
+              "isUs": false,
+              "score": 2,
+              "winner": true,
+              "seed": null
+            }
+          ],
+          "winner": {
+            "text": "Primera ronda del distrito",
+            "state": false
+          },
+          "loser": {
+            "text": "Fin de temporada",
+            "out": true
+          },
+          "ours": false,
+          "maybeOurs": false
+        },
+        {
+          "no": "E",
+          "round": "playIn",
+          "label": "Repechaje",
+          "date": "2026-11-03T03:30:00.000Z",
+          "timeKnown": true,
+          "venue": "Tenino HS",
+          "siteNote": null,
+          "played": true,
+          "scoreSource": "bracket",
+          "teams": [
+            {
+              "name": "La Conner",
+              "mascot": "Braves",
+              "abbr": "LC",
+              "color": "#034CB2",
+              "isUs": false,
+              "score": 0,
+              "winner": false,
+              "seed": null
+            },
+            {
+              "name": "Columbia Adventist",
+              "mascot": null,
+              "abbr": "CA",
+              "color": "#3D5A99",
+              "isUs": false,
+              "score": 5,
+              "winner": true,
+              "seed": null
+            }
+          ],
+          "winner": {
+            "text": "Primera ronda del distrito",
+            "state": false
+          },
+          "loser": {
+            "text": "Fin de temporada",
+            "out": true
+          },
+          "ours": false,
+          "maybeOurs": false
+        }
+      ],
+      "path": [
+        {
+          "game": {
+            "no": "1",
+            "round": "firstRound",
+            "label": "Primera ronda del distrito",
+            "date": "2026-11-03T20:30:00.000Z",
+            "timeKnown": true,
+            "venue": "Anacortes HS",
+            "siteNote": "@ Higher Seed",
+            "played": true,
+            "scoreSource": "bracket",
+            "teams": [
+              {
+                "name": "Coupeville",
+                "mascot": "Wolves",
+                "abbr": "CO",
+                "color": "#CC0022",
+                "isUs": false,
+                "score": 1,
+                "winner": false,
+                "seed": null
+              },
+              {
+                "name": "Orcas Island",
+                "mascot": "Vikings",
+                "abbr": "OI",
+                "color": "#034CB2",
+                "isUs": true,
+                "score": 3,
+                "winner": true,
+                "seed": null
+              }
+            ],
+            "winner": {
+              "text": "Semifinal del distrito",
+              "state": false
+            },
+            "loser": {
+              "text": "Partido de última oportunidad",
+              "state": false
+            },
+            "ours": true,
+            "maybeOurs": false
+          },
+          "result": "W",
+          "gf": 3,
+          "ga": 1,
+          "opponent": {
+            "name": "Coupeville",
+            "mascot": "Wolves",
+            "abbr": "CO",
+            "color": "#CC0022",
+            "isUs": false
+          }
+        },
+        {
+          "game": {
+            "no": "7",
+            "round": "semifinal",
+            "label": "Semifinal del distrito",
+            "date": "2026-11-05T20:30:00.000Z",
+            "timeKnown": true,
+            "venue": "Anacortes HS",
+            "siteNote": "@ Higher Seed",
+            "played": false,
+            "scoreSource": null,
+            "teams": [
+              {
+                "name": "Providence Classical Christian",
+                "mascot": "Highlanders",
+                "abbr": "PC",
+                "color": "#022C66",
+                "isUs": false,
+                "score": null,
+                "winner": false,
+                "seed": null
+              },
+              {
+                "name": "Orcas Island",
+                "mascot": "Vikings",
+                "abbr": "OI",
+                "color": "#034CB2",
+                "isUs": true,
+                "score": null,
+                "winner": false,
+                "seed": null
+              }
+            ],
+            "winner": {
+              "text": "Final del distrito",
+              "state": false
+            },
+            "loser": {
+              "text": "3.er lugar · al Estatal",
+              "short": "3.er lugar",
+              "state": true
+            },
+            "ours": true,
+            "maybeOurs": false
+          },
+          "result": null,
+          "gf": null,
+          "ga": null,
+          "opponent": {
+            "name": "Providence Classical Christian",
+            "mascot": "Highlanders",
+            "abbr": "PC",
+            "color": "#022C66",
+            "isUs": false
+          }
+        }
+      ],
+      "scenarios": {
+        "game": {
+          "no": "7",
+          "round": "semifinal",
+          "label": "Semifinal del distrito",
+          "date": "2026-11-05T20:30:00.000Z",
+          "timeKnown": true,
+          "venue": "Anacortes HS",
+          "siteNote": "@ Higher Seed",
+          "played": false,
+          "scoreSource": null,
+          "teams": [
+            {
+              "name": "Providence Classical Christian",
+              "mascot": "Highlanders",
+              "abbr": "PC",
+              "color": "#022C66",
+              "isUs": false,
+              "score": null,
+              "winner": false,
+              "seed": null
+            },
+            {
+              "name": "Orcas Island",
+              "mascot": "Vikings",
+              "abbr": "OI",
+              "color": "#034CB2",
+              "isUs": true,
+              "score": null,
+              "winner": false,
+              "seed": null
+            }
+          ],
+          "winner": {
+            "text": "Final del distrito",
+            "state": false
+          },
+          "loser": {
+            "text": "3.er lugar · al Estatal",
+            "short": "3.er lugar",
+            "state": true
+          },
+          "ours": true,
+          "maybeOurs": false
+        },
+        "win": {
+          "game": {
+            "no": "9",
+            "round": "final",
+            "label": "Final del distrito",
+            "date": "2026-11-07T23:00:00.000Z",
+            "timeKnown": true,
+            "venue": "Sammamish HS",
+            "siteNote": "Sammamish HS",
+            "played": false,
+            "scoreSource": null,
+            "teams": [
+              {
+                "name": "Ganador del partido 7",
+                "placeholder": true,
+                "candidates": [
+                  {
+                    "name": "Providence Classical Christian",
+                    "mascot": "Highlanders",
+                    "abbr": "PC",
+                    "color": "#022C66",
+                    "isUs": false
+                  },
+                  {
+                    "name": "Orcas Island",
+                    "mascot": "Vikings",
+                    "abbr": "OI",
+                    "color": "#034CB2",
+                    "isUs": true
+                  }
+                ],
+                "score": null,
+                "winner": false,
+                "seed": null
+              },
+              {
+                "name": "Ganador del partido 8",
+                "placeholder": true,
+                "candidates": [
+                  {
+                    "name": "Mount Vernon Christian",
+                    "mascot": "Hurricanes",
+                    "abbr": "MV",
+                    "color": "#034CB2",
+                    "isUs": false
+                  },
+                  {
+                    "name": "Friday Harbor",
+                    "mascot": "Wolverines",
+                    "abbr": "FH",
+                    "color": "#754ACC",
+                    "isUs": false
+                  }
+                ],
+                "score": null,
+                "winner": false,
+                "seed": null
+              }
+            ],
+            "winner": {
+              "text": "Campeones · al Estatal",
+              "short": "Campeones",
+              "state": true
+            },
+            "loser": {
+              "text": "Subcampeones · al Estatal",
+              "short": "Subcampeones",
+              "state": true
+            },
+            "ours": false,
+            "maybeOurs": true
+          },
+          "win": {
+            "outcome": "Campeones del distrito",
+            "short": "Campeones",
+            "state": true,
+            "over": false
+          },
+          "lose": {
+            "outcome": "Subcampeones del distrito",
+            "short": "Subcampeones",
+            "state": true,
+            "over": false
+          }
+        },
+        "lose": {
+          "outcome": "Terminar 3.º en el distrito",
+          "short": "3.er lugar",
+          "state": true,
+          "over": false
+        }
+      },
+      "guaranteedState": true,
+      "final": null,
+      "berths": 6,
+      "teamCount": null,
+      "bracketLagging": false,
+      "stateSpots": {
+        "total": 6,
+        "teams": [
+          {
+            "name": "Orcas Island",
+            "mascot": "Vikings",
+            "abbr": "OI",
+            "color": "#034CB2",
+            "isUs": true
+          },
+          {
+            "name": "Mount Vernon Christian",
+            "mascot": "Hurricanes",
+            "abbr": "MV",
+            "color": "#034CB2",
+            "isUs": false
+          },
+          {
+            "name": "Providence Classical Christian",
+            "mascot": "Highlanders",
+            "abbr": "PC",
+            "color": "#022C66",
+            "isUs": false
+          },
+          {
+            "name": "Friday Harbor",
+            "mascot": "Wolverines",
+            "abbr": "FH",
+            "color": "#754ACC",
+            "isUs": false
+          }
+        ]
+      }
+    },
+    "state": {
+      "name": "WIAA 1B/2B Boys Soccer State Championships",
+      "status": "qualified",
+      "size": 8,
+      "seedingAfter": "sáb 7 nov",
+      "rounds": [
+        {
+          "name": "Cuartos de final",
+          "names": "Cuartos de final",
+          "when": "vie 13 nov (previsto)",
+          "where": "Sede regional elegida por la WIAA"
+        },
+        {
+          "name": "Semifinal",
+          "names": "Semifinales",
+          "when": "vie 20 nov",
+          "where": "Mount Tahoma Stadium, Tacoma"
+        },
+        {
+          "name": "Final",
+          "names": "Final",
+          "when": "sáb 21 nov",
+          "where": "Mount Tahoma Stadium, Tacoma"
+        }
+      ],
+      "bracket": null,
+      "field": {
+        "clinched": [
+          {
+            "name": "Orcas Island",
+            "mascot": "Vikings",
+            "abbr": "OI",
+            "color": "#034CB2",
+            "isUs": true
+          },
+          {
+            "name": "Mount Vernon Christian",
+            "mascot": "Hurricanes",
+            "abbr": "MV",
+            "color": "#034CB2",
+            "isUs": false
+          },
+          {
+            "name": "Providence Classical Christian",
+            "mascot": "Highlanders",
+            "abbr": "PC",
+            "color": "#022C66",
+            "isUs": false
+          },
+          {
+            "name": "Friday Harbor",
+            "mascot": "Wolverines",
+            "abbr": "FH",
+            "color": "#754ACC",
+            "isUs": false
+          }
+        ],
+        "alive": [
+          {
+            "name": "Evergreen Lutheran",
+            "mascot": "Eagles",
+            "abbr": "EL",
+            "color": "#00824B",
+            "isUs": false
+          },
+          {
+            "name": "Auburn Adventist",
+            "mascot": null,
+            "abbr": "AA",
+            "color": "#8C3B4A",
+            "isUs": false
+          },
+          {
+            "name": "Coupeville",
+            "mascot": "Wolves",
+            "abbr": "CO",
+            "color": "#CC0022",
+            "isUs": false
+          },
+          {
+            "name": "Columbia Adventist",
+            "mascot": null,
+            "abbr": "CA",
+            "color": "#3D5A99",
+            "isUs": false
+          }
+        ],
+        "out": [
+          {
+            "name": "Puget Sound Adventist",
+            "mascot": null,
+            "abbr": "PS",
+            "color": "#2E7D6B",
+            "isUs": false
+          },
+          {
+            "name": "La Conner",
+            "mascot": "Braves",
+            "abbr": "LC",
+            "color": "#034CB2",
+            "isUs": false
+          },
+          {
+            "name": "Cristo Rey Jesuit",
+            "mascot": null,
+            "abbr": "CR",
+            "color": "#4F7A28",
+            "isUs": false
+          },
+          {
+            "name": "Salvation Christian Academy",
+            "mascot": null,
+            "abbr": "SC",
+            "color": "#2E7D6B",
+            "isUs": false
+          }
+        ],
+        "fromDistrict": 6,
+        "fromElsewhere": 2
+      },
+      "lastYear": {
+        "champion": true,
+        "games": [
+          {
+            "date": "2025-11-14T20:00:00.000Z",
+            "opponent": {
+              "name": "Upper Columbia Academy",
+              "mascot": "Lions",
+              "abbr": "UC",
+              "color": "#FFC005",
+              "isUs": false
+            },
+            "result": "W",
+            "gf": 5,
+            "ga": 0
+          },
+          {
+            "date": "2025-11-22T03:00:00.000Z",
+            "opponent": {
+              "name": "Evergreen Lutheran",
+              "mascot": "Eagles",
+              "abbr": "EL",
+              "color": "#00824B",
+              "isUs": false
+            },
+            "result": "W",
+            "gf": 6,
+            "ga": 1
+          },
+          {
+            "date": "2025-11-22T23:30:00.000Z",
+            "opponent": {
+              "name": "St. George's",
+              "mascot": "Dragons",
+              "abbr": "SG",
+              "color": "#CC0022",
+              "isUs": false
+            },
+            "result": "W",
+            "gf": 1,
+            "ga": 0
+          }
+        ],
+        "districtLoss": {
+          "opponent": {
+            "name": "Mount Vernon Christian",
+            "mascot": "Hurricanes",
+            "abbr": "MV",
+            "color": "#034CB2",
+            "isUs": false
+          },
+          "gf": 1,
+          "ga": 2
+        }
+      },
+      "infoUrl": "https://www.wiaa.com/tournament/?sportid=9"
+    },
+    "league": {
+      "name": "Northwest 2B/1B League",
+      "final": true,
+      "asOf": "1 de noviembre",
+      "sourceUrl": "https://coupevillesports.com/2026/11/01/freeze-the-standings-until-winter/",
+      "pointsWin": 3,
+      "pointsTie": 1,
+      "gamesPerTeam": 9,
+      "summary": "¡Campeones de liga! 5 puntos por encima de Mount Vernon, sin perder ni empatar.",
+      "rows": [
+        {
+          "name": "Orcas Island",
+          "mascot": "Vikings",
+          "abbr": "OI",
+          "color": "#034CB2",
+          "isUs": true,
+          "place": 1,
+          "w": 9,
+          "l": 0,
+          "t": 0,
+          "pts": 27,
+          "remaining": 0,
+          "maxPts": 27,
+          "overall": "15-0-1"
+        },
+        {
+          "name": "Mount Vernon Christian",
+          "mascot": "Hurricanes",
+          "abbr": "MV",
+          "color": "#034CB2",
+          "isUs": false,
+          "place": 2,
+          "w": 7,
+          "l": 1,
+          "t": 1,
+          "pts": 22,
+          "remaining": 0,
+          "maxPts": 22,
+          "overall": "10-1-3"
+        },
+        {
+          "name": "Providence Classical Christian",
+          "mascot": "Highlanders",
+          "abbr": "PC",
+          "color": "#022C66",
+          "isUs": false,
+          "place": 3,
+          "w": 7,
+          "l": 2,
+          "t": 0,
+          "pts": 21,
+          "remaining": 0,
+          "maxPts": 21,
+          "overall": "9-4-1"
+        },
+        {
+          "name": "Friday Harbor",
+          "mascot": "Wolverines",
+          "abbr": "FH",
+          "color": "#754ACC",
+          "isUs": false,
+          "place": 4,
+          "w": 5,
+          "l": 2,
+          "t": 2,
+          "pts": 17,
+          "remaining": 0,
+          "maxPts": 17,
+          "overall": "8-4-2"
+        },
+        {
+          "name": "Coupeville",
+          "mascot": "Wolves",
+          "abbr": "CO",
+          "color": "#CC0022",
+          "isUs": false,
+          "place": 5,
+          "w": 5,
+          "l": 3,
+          "t": 1,
+          "pts": 16,
+          "remaining": 0,
+          "maxPts": 16,
+          "overall": "9-5-1"
+        },
+        {
+          "name": "La Conner",
+          "mascot": "Braves",
+          "abbr": "LC",
+          "color": "#034CB2",
+          "isUs": false,
+          "place": 6,
+          "w": 3,
+          "l": 6,
+          "t": 0,
+          "pts": 9,
+          "remaining": 0,
+          "maxPts": 9,
+          "overall": "6-9-1"
+        },
+        {
+          "name": "Lopez",
+          "mascot": "Lobos",
+          "abbr": "LO",
+          "color": "#8F0018",
+          "isUs": false,
+          "place": 6,
+          "w": 3,
+          "l": 6,
+          "t": 0,
+          "pts": 9,
+          "remaining": 0,
+          "maxPts": 9,
+          "overall": "4-10-0"
+        },
+        {
+          "name": "Evangel Classical",
+          "mascot": null,
+          "abbr": "EC",
+          "color": "#8C3B4A",
+          "isUs": false,
+          "place": 8,
+          "w": 2,
+          "l": 6,
+          "t": 1,
+          "pts": 7,
+          "remaining": 0,
+          "maxPts": 7,
+          "overall": "6-6-2"
+        },
+        {
+          "name": "Cedar Park Christian",
+          "mascot": "Eagles",
+          "abbr": "CP",
+          "color": "#022C66",
+          "isUs": false,
+          "place": 9,
+          "w": 1,
+          "l": 7,
+          "t": 1,
+          "pts": 4,
+          "remaining": 0,
+          "maxPts": 4,
+          "overall": "4-10-1"
+        },
+        {
+          "name": "Grace Academy",
+          "mascot": "Eagles",
+          "abbr": "GA",
+          "color": "#022C66",
+          "isUs": false,
+          "place": 10,
+          "w": 0,
+          "l": 9,
+          "t": 0,
+          "pts": 0,
+          "remaining": 0,
+          "maxPts": 0,
+          "overall": "0-13-0"
+        }
+      ]
+    },
+    "results": [
+      {
+        "date": "2026-09-11T23:00:00.000Z",
+        "opponent": {
+          "name": "Lopez",
+          "mascot": "Lobos",
+          "abbr": "LO",
+          "color": "#8F0018",
+          "isUs": false
+        },
+        "home": true,
+        "result": "W",
+        "gf": 8,
+        "ga": 0,
+        "stage": "Non-league",
+        "venue": "Orcas Island High School"
+      },
+      {
+        "date": "2026-09-12T20:00:00.000Z",
+        "opponent": {
+          "name": "Evergreen Lutheran",
+          "mascot": "Eagles",
+          "abbr": "EL",
+          "color": "#00824B",
+          "isUs": false
+        },
+        "home": true,
+        "result": "W",
+        "gf": 7,
+        "ga": 1,
+        "stage": "Non-league",
+        "venue": "Orcas Island High School"
+      },
+      {
+        "date": "2026-09-18T21:30:00.000Z",
+        "opponent": {
+          "name": "St. George's",
+          "mascot": "Dragons",
+          "abbr": "SG",
+          "color": "#CC0022",
+          "isUs": false
+        },
+        "home": false,
+        "result": "W",
+        "gf": 7,
+        "ga": 1,
+        "stage": "Non-league",
+        "venue": "Saint Georges High School"
+      },
+      {
+        "date": "2026-09-19T17:00:00.000Z",
+        "opponent": {
+          "name": "Chesterton Academy of Notre Dame",
+          "mascot": "Knights",
+          "abbr": "CA",
+          "color": "#022C66",
+          "isUs": false
+        },
+        "home": false,
+        "result": "W",
+        "gf": 6,
+        "ga": 0,
+        "stage": "Non-league",
+        "venue": "Saint George's high school"
+      },
+      {
+        "date": "2026-09-23T22:00:00.000Z",
+        "opponent": {
+          "name": "Mount Vernon Christian",
+          "mascot": "Hurricanes",
+          "abbr": "MV",
+          "color": "#034CB2",
+          "isUs": false
+        },
+        "home": false,
+        "result": "D",
+        "gf": 0,
+        "ga": 0,
+        "stage": "Non-league",
+        "venue": "Mount Vernon Christian"
+      },
+      {
+        "date": "2026-09-25T22:30:00.000Z",
+        "opponent": {
+          "name": "Friday Harbor",
+          "mascot": "Wolverines",
+          "abbr": "FH",
+          "color": "#754ACC",
+          "isUs": false
+        },
+        "home": false,
+        "result": "W",
+        "gf": 4,
+        "ga": 1,
+        "stage": "League",
+        "venue": "Linde Community Fields"
+      },
+      {
+        "date": "2026-09-29T22:15:00.000Z",
+        "opponent": {
+          "name": "Cedar Park Christian",
+          "mascot": "Eagles",
+          "abbr": "CP",
+          "color": "#022C66",
+          "isUs": false
+        },
+        "home": false,
+        "result": "W",
+        "gf": 9,
+        "ga": 1,
+        "stage": "League",
+        "venue": "Evergreen Playfields"
+      },
+      {
+        "date": "2026-10-01T23:00:00.000Z",
+        "opponent": {
+          "name": "Grace Academy",
+          "mascot": "Eagles",
+          "abbr": "GA",
+          "color": "#022C66",
+          "isUs": false
+        },
+        "home": true,
+        "result": "W",
+        "gf": 12,
+        "ga": 0,
+        "stage": "League",
+        "venue": "Orcas Island High School"
+      },
+      {
+        "date": "2026-10-03T20:00:00.000Z",
+        "opponent": {
+          "name": "Providence Classical Christian",
+          "mascot": "Highlanders",
+          "abbr": "PC",
+          "color": "#022C66",
+          "isUs": false
+        },
+        "home": true,
+        "result": "W",
+        "gf": 3,
+        "ga": 2,
+        "stage": "Non-league",
+        "venue": "Orcas Island High School"
+      },
+      {
+        "date": "2026-10-07T23:00:00.000Z",
+        "opponent": {
+          "name": "Mount Vernon Christian",
+          "mascot": "Hurricanes",
+          "abbr": "MV",
+          "color": "#034CB2",
+          "isUs": false
+        },
+        "home": true,
+        "result": "W",
+        "gf": 1,
+        "ga": 0,
+        "stage": "League",
+        "venue": "Orcas Island High School"
+      },
+      {
+        "date": "2026-10-09T23:00:00.000Z",
+        "opponent": {
+          "name": "Lopez",
+          "mascot": "Lobos",
+          "abbr": "LO",
+          "color": "#8F0018",
+          "isUs": false
+        },
+        "home": false,
+        "result": "W",
+        "gf": 3,
+        "ga": 1,
+        "stage": "League",
+        "venue": "Lopez High School"
+      },
+      {
+        "date": "2026-10-13T23:00:00.000Z",
+        "opponent": {
+          "name": "Friday Harbor",
+          "mascot": "Wolverines",
+          "abbr": "FH",
+          "color": "#754ACC",
+          "isUs": false
+        },
+        "home": true,
+        "result": "W",
+        "gf": 2,
+        "ga": 0,
+        "stage": "Non-league",
+        "venue": "Orcas Island High School"
+      },
+      {
+        "date": "2026-10-15T22:30:00.000Z",
+        "opponent": {
+          "name": "Providence Classical Christian",
+          "mascot": "Highlanders",
+          "abbr": "PC",
+          "color": "#022C66",
+          "isUs": false
+        },
+        "home": false,
+        "result": "W",
+        "gf": 4,
+        "ga": 3,
+        "stage": "League",
+        "venue": "North Creek Fields"
+      },
+      {
+        "date": "2026-10-21T21:00:00.000Z",
+        "opponent": {
+          "name": "La Conner",
+          "mascot": "Braves",
+          "abbr": "LC",
+          "color": "#034CB2",
+          "isUs": false
+        },
+        "home": true,
+        "result": "W",
+        "gf": 12,
+        "ga": 0,
+        "stage": "League",
+        "venue": "Orcas Island High School"
+      },
+      {
+        "date": "2026-10-24T20:00:00.000Z",
+        "opponent": {
+          "name": "Evangel Classical",
+          "mascot": null,
+          "abbr": "EC",
+          "color": "#8C3B4A",
+          "isUs": false
+        },
+        "home": true,
+        "result": "W",
+        "gf": 10,
+        "ga": 1,
+        "stage": "League",
+        "venue": "Orcas Island High School"
+      },
+      {
+        "date": "2026-10-27T23:00:00.000Z",
+        "opponent": {
+          "name": "Coupeville",
+          "mascot": "Wolves",
+          "abbr": "CO",
+          "color": "#CC0022",
+          "isUs": false
+        },
+        "home": false,
+        "result": "W",
+        "gf": 3,
+        "ga": 1,
+        "stage": "League",
+        "venue": "COUPEVILLE ELEMENTARY SCHOOL"
+      },
+      {
+        "date": "2026-11-03T20:30:00.000Z",
+        "opponent": {
+          "name": "Coupeville",
+          "mascot": "Wolves",
+          "abbr": "CO",
+          "color": "#CC0022",
+          "isUs": false
+        },
+        "home": true,
+        "result": "W",
+        "gf": 3,
+        "ga": 1,
+        "stage": "District",
+        "venue": "Anacortes HS"
+      },
+      {
+        "date": "2026-11-05T20:30:00.000Z",
+        "opponent": {
+          "name": "Providence Classical Christian",
+          "mascot": "Highlanders",
+          "abbr": "PC",
+          "color": "#022C66",
+          "isUs": false
+        },
+        "home": true,
+        "result": null,
+        "gf": null,
+        "ga": null,
+        "stage": "District",
+        "venue": "Anacortes High School"
+      }
+    ],
+    "history": [
+      {
+        "season": "2026-27",
+        "overall": "16-0-1",
+        "w": 16,
+        "l": 0,
+        "t": 1
+      },
+      {
+        "season": "2025-26",
+        "overall": "19-1-2",
+        "w": 19,
+        "l": 1,
+        "t": 2
+      },
+      {
+        "season": "2024-25",
+        "overall": "21-2",
+        "w": 21,
+        "l": 2,
+        "t": 0
+      },
+      {
+        "season": "2023-24",
+        "overall": "12-6",
+        "w": 12,
+        "l": 6,
+        "t": 0
+      },
+      {
+        "season": "2022-23",
+        "overall": "16-3",
+        "w": 16,
+        "l": 3,
+        "t": 0
+      },
+      {
+        "season": "2021-22",
+        "overall": "8-0",
+        "w": 8,
+        "l": 0,
+        "t": 0
+      },
+      {
+        "season": "2020-21",
+        "overall": "4-0",
+        "w": 4,
+        "l": 0,
+        "t": 0
+      },
+      {
+        "season": "2013-14",
+        "overall": "0-0",
+        "w": 0,
+        "l": 0,
+        "t": 0
+      },
+      {
+        "season": "2012-13",
+        "overall": "0-0",
+        "w": 0,
+        "l": 0,
+        "t": 0
+      },
+      {
+        "season": "2011-12",
+        "overall": "0-0",
+        "w": 0,
+        "l": 0,
+        "t": 0
+      }
+    ],
+    "insights": [
+      {
+        "icon": "🔒",
+        "title": "El jueves se decide nuestra posición para el Estatal",
+        "text": "Con nuestro lugar en el Estatal asegurado, la semifinal del jueves decide en qué posición llegamos. Una mejor posición normalmente significa un rival más débil en nuestro primer partido del Estatal."
+      },
+      {
+        "icon": "🏆",
+        "title": "Temporada de liga perfecta (9-0)",
+        "text": "Eso nos dio el primer lugar en el sembrado del distrito: jugamos de local y contra el rival peor clasificado primero."
+      },
+      {
+        "icon": "⚠️",
+        "title": "Providence nos pone las cosas difíciles",
+        "text": "Les ganamos los dos partidos, pero cada vez por solo un gol (3-2 y 4-3). Son nuestro próximo rival: jueves 5 de noviembre."
+      },
+      {
+        "icon": "💪",
+        "title": "Invictos toda la temporada",
+        "text": "16 victorias y 1 empate. Hemos anotado 94 goles y solo hemos recibido 13."
+      },
+      {
+        "icon": "⭐",
+        "title": "Campeones estatales defensores",
+        "text": "Dato curioso: el año pasado perdimos un partido del distrito contra Mount Vernon y aun así ganamos el Estatal. Una vez clasificado, el distrito solo decide tu posición."
+      }
+    ],
+    "funnel": [
+      {
+        "stage": "Liga",
+        "teams": 10,
+        "text": "10 escuelas de la zona juegan una vez entre sí. Victoria = 3 pts, empate = 1.",
+        "us": "Campeones"
+      },
+      {
+        "stage": "Distrito",
+        "teams": null,
+        "text": "Un torneo aparte con equipos de varias ligas. Los 6 mejores se ganan un lugar en el Estatal.",
+        "us": "1 victoria hasta ahora"
+      },
+      {
+        "stage": "Estatal",
+        "teams": 8,
+        "text": "Las 8 mejores escuelas pequeñas de Washington. Si pierdes una vez, quedas eliminado.",
+        "us": "¡Clasificados!"
+      },
+      {
+        "stage": "Campeón",
+        "teams": 1,
+        "text": "3 victorias seguidas en el Estatal dan el título.",
+        "us": "Lo ganamos el año pasado"
+      }
+    ],
+    "knownGameTimes": [
+      {
+        "start": "2026-09-11T23:00:00.000Z",
+        "timeKnown": true,
+        "what": "Lopez"
+      },
+      {
+        "start": "2026-09-12T20:00:00.000Z",
+        "timeKnown": true,
+        "what": "Evergreen Lutheran"
+      },
+      {
+        "start": "2026-09-18T21:30:00.000Z",
+        "timeKnown": true,
+        "what": "St. George's"
+      },
+      {
+        "start": "2026-09-19T17:00:00.000Z",
+        "timeKnown": true,
+        "what": "Chesterton Academy of Notre Dame"
+      },
+      {
+        "start": "2026-09-23T22:00:00.000Z",
+        "timeKnown": true,
+        "what": "Mount Vernon Christian"
+      },
+      {
+        "start": "2026-09-25T22:30:00.000Z",
+        "timeKnown": true,
+        "what": "Friday Harbor"
+      },
+      {
+        "start": "2026-09-29T22:15:00.000Z",
+        "timeKnown": true,
+        "what": "Cedar Park Christian"
+      },
+      {
+        "start": "2026-10-01T23:00:00.000Z",
+        "timeKnown": true,
+        "what": "Grace Academy"
+      },
+      {
+        "start": "2026-10-03T20:00:00.000Z",
+        "timeKnown": true,
+        "what": "Providence Classical Christian"
+      },
+      {
+        "start": "2026-10-07T23:00:00.000Z",
+        "timeKnown": true,
+        "what": "Mount Vernon Christian"
+      },
+      {
+        "start": "2026-10-09T23:00:00.000Z",
+        "timeKnown": true,
+        "what": "Lopez"
+      },
+      {
+        "start": "2026-10-13T23:00:00.000Z",
+        "timeKnown": true,
+        "what": "Friday Harbor"
+      },
+      {
+        "start": "2026-10-15T22:30:00.000Z",
+        "timeKnown": true,
+        "what": "Providence Classical Christian"
+      },
+      {
+        "start": "2026-10-21T21:00:00.000Z",
+        "timeKnown": true,
+        "what": "La Conner"
+      },
+      {
+        "start": "2026-10-24T20:00:00.000Z",
+        "timeKnown": true,
+        "what": "Evangel Classical"
+      },
+      {
+        "start": "2026-10-27T23:00:00.000Z",
+        "timeKnown": true,
+        "what": "Coupeville"
+      },
+      {
+        "start": "2026-11-03T20:30:00.000Z",
+        "timeKnown": true,
+        "what": "Coupeville"
+      },
+      {
+        "start": "2026-11-05T20:30:00.000Z",
+        "timeKnown": true,
+        "what": "Providence Classical Christian"
+      },
+      {
+        "start": "2026-10-15T00:30:00.000Z",
+        "timeKnown": true,
+        "what": "District game A"
+      },
+      {
+        "start": "2026-10-28T02:00:00.000Z",
+        "timeKnown": true,
+        "what": "District game B"
+      },
+      {
+        "start": "2026-10-29T22:30:00.000Z",
+        "timeKnown": true,
+        "what": "District game C"
+      },
+      {
+        "start": "2026-10-30T21:00:00.000Z",
+        "timeKnown": true,
+        "what": "District game D"
+      },
+      {
+        "start": "2026-11-03T03:30:00.000Z",
+        "timeKnown": true,
+        "what": "District game E"
+      },
+      {
+        "start": "2026-11-03T20:30:00.000Z",
+        "timeKnown": true,
+        "what": "District game 1"
+      },
+      {
+        "start": "2026-11-03T22:00:00.000Z",
+        "timeKnown": true,
+        "what": "District game 4"
+      },
+      {
+        "start": "2026-11-03T22:45:00.000Z",
+        "timeKnown": true,
+        "what": "District game 2"
+      },
+      {
+        "start": "2026-11-04T02:15:00.000Z",
+        "timeKnown": true,
+        "what": "District game 3"
+      },
+      {
+        "start": "2026-11-05T20:30:00.000Z",
+        "timeKnown": true,
+        "what": "District game 7"
+      },
+      {
+        "start": "2026-11-05T21:00:00.000Z",
+        "timeKnown": true,
+        "what": "District game 8"
+      },
+      {
+        "start": "2026-11-05T21:30:00.000Z",
+        "timeKnown": true,
+        "what": "District game 5"
+      },
+      {
+        "start": "2026-11-06T00:00:00.000Z",
+        "timeKnown": true,
+        "what": "District game 6"
+      },
+      {
+        "start": "2026-11-07T23:00:00.000Z",
+        "timeKnown": true,
+        "what": "District game 9"
+      }
+    ],
+    "opponents": {
+      "Lopez": {
+        "team": {
+          "name": "Lopez",
+          "mascot": "Lobos",
+          "abbr": "LO",
+          "color": "#8F0018",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2026",
+            "date": "2026-10-09T23:00:00.000Z",
+            "result": "W",
+            "gf": 3,
+            "ga": 1,
+            "home": false,
+            "stage": "League",
+            "venue": "Lopez High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2026",
+            "date": "2026-09-11T23:00:00.000Z",
+            "result": "W",
+            "gf": 8,
+            "ga": 0,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-10-14T23:00:00.000Z",
+            "result": "W",
+            "gf": 3,
+            "ga": 0,
+            "home": false,
+            "stage": "League",
+            "venue": "Lopez High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-11-23T21:00:00.000Z",
+            "result": "W",
+            "gf": 2,
+            "ga": 0,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "Federal Way Memorial Field",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-11-23T21:00:00.000Z",
+            "result": "W",
+            "gf": 2,
+            "ga": 0,
+            "home": false,
+            "stage": "State",
+            "venue": "1B/2B Boys Soccer State Championship",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-11-09T22:00:00.000Z",
+            "result": "L",
+            "gf": 0,
+            "ga": 1,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "Sammamish HS",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-10-18T22:30:00.000Z",
+            "result": "W",
+            "gf": 1,
+            "ga": 0,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-10-03T23:30:00.000Z",
+            "result": "W",
+            "gf": 5,
+            "ga": 1,
+            "home": false,
+            "stage": "League",
+            "venue": "Lopez Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-09-15T23:00:00.000Z",
+            "result": "W",
+            "gf": 6,
+            "ga": 0,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-10-08T20:00:00.000Z",
+            "result": "W",
+            "gf": 6,
+            "ga": 0,
+            "home": true,
+            "stage": "League",
+            "venue": null,
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 9,
+          "l": 1,
+          "d": 0
+        },
+        "since": "2022"
+      },
+      "Evergreen Lutheran": {
+        "team": {
+          "name": "Evergreen Lutheran",
+          "mascot": "Eagles",
+          "abbr": "EL",
+          "color": "#00824B",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2026",
+            "date": "2026-09-12T20:00:00.000Z",
+            "result": "W",
+            "gf": 7,
+            "ga": 1,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-11-22T03:00:00.000Z",
+            "result": "W",
+            "gf": 6,
+            "ga": 1,
+            "home": true,
+            "stage": "State",
+            "venue": "1B/2B Boys State Semifinals - MT Tahoma HS",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-10-25T20:00:00.000Z",
+            "result": "D",
+            "gf": 2,
+            "ga": 2,
+            "home": false,
+            "stage": "Non-league",
+            "venue": "Franklin Pierce HS",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-10-26T20:30:00.000Z",
+            "result": "W",
+            "gf": 6,
+            "ga": 0,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-11-10T21:00:00.000Z",
+            "result": "W",
+            "gf": 2,
+            "ga": 1,
+            "home": false,
+            "stage": "State",
+            "venue": "WIAA 1B/2B Boys State Soccer - Franklin Pierce HS",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-11-11T22:00:00.000Z",
+            "result": "W",
+            "gf": 6,
+            "ga": 1,
+            "home": false,
+            "stage": "State",
+            "venue": null,
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 5,
+          "l": 0,
+          "d": 1
+        },
+        "since": "2022"
+      },
+      "St. George's": {
+        "team": {
+          "name": "St. George's",
+          "mascot": "Dragons",
+          "abbr": "SG",
+          "color": "#CC0022",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2026",
+            "date": "2026-09-18T21:30:00.000Z",
+            "result": "W",
+            "gf": 7,
+            "ga": 1,
+            "home": false,
+            "stage": "Non-league",
+            "venue": "Saint Georges High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-11-22T23:30:00.000Z",
+            "result": "W",
+            "gf": 1,
+            "ga": 0,
+            "home": true,
+            "stage": "State",
+            "venue": "WIAA 1B/2B Boys Soccer State Championship",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-09-12T22:30:00.000Z",
+            "result": "W",
+            "gf": 2,
+            "ga": 1,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-09-13T21:30:00.000Z",
+            "result": "L",
+            "gf": 1,
+            "ga": 4,
+            "home": false,
+            "stage": "Non-league",
+            "venue": "Saint Georges High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-09-22T22:30:00.000Z",
+            "result": "W",
+            "gf": 2,
+            "ga": 1,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 4,
+          "l": 1,
+          "d": 0
+        },
+        "since": "2023"
+      },
+      "Chesterton Academy of Notre Dame": {
+        "team": {
+          "name": "Chesterton Academy of Notre Dame",
+          "mascot": "Knights",
+          "abbr": "CA",
+          "color": "#022C66",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2026",
+            "date": "2026-09-19T17:00:00.000Z",
+            "result": "W",
+            "gf": 6,
+            "ga": 0,
+            "home": false,
+            "stage": "Non-league",
+            "venue": "Saint George's high school",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 1,
+          "l": 0,
+          "d": 0
+        },
+        "since": "2026"
+      },
+      "Mount Vernon Christian": {
+        "team": {
+          "name": "Mount Vernon Christian",
+          "mascot": "Hurricanes",
+          "abbr": "MV",
+          "color": "#034CB2",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2026",
+            "date": "2026-10-07T23:00:00.000Z",
+            "result": "W",
+            "gf": 1,
+            "ga": 0,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2026",
+            "date": "2026-09-23T22:00:00.000Z",
+            "result": "D",
+            "gf": 0,
+            "ga": 0,
+            "home": false,
+            "stage": "Non-league",
+            "venue": "Mount Vernon Christian",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-11-08T22:00:00.000Z",
+            "result": "L",
+            "gf": 1,
+            "ga": 2,
+            "home": true,
+            "stage": "District",
+            "venue": "Sammamish HS",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-10-10T23:00:00.000Z",
+            "result": "W",
+            "gf": 6,
+            "ga": 0,
+            "home": false,
+            "stage": "League",
+            "venue": "Mount Vernon Christian",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-09-23T23:00:00.000Z",
+            "result": "D",
+            "gf": 1,
+            "ga": 1,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-10-11T22:00:00.000Z",
+            "result": "W",
+            "gf": 4,
+            "ga": 1,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-09-27T23:00:00.000Z",
+            "result": "W",
+            "gf": 1,
+            "ga": 0,
+            "home": false,
+            "stage": "Non-league",
+            "venue": "Mount Vernon Christian",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-10-28T19:00:00.000Z",
+            "result": "L",
+            "gf": 0,
+            "ga": 0,
+            "home": false,
+            "stage": "Tie-breaker",
+            "venue": "1B/2B Boys League Tie-Breaker - Oak Harbor HS",
+            "pens": true,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-09-28T22:15:00.000Z",
+            "result": "W",
+            "gf": 1,
+            "ga": 0,
+            "home": false,
+            "stage": "League",
+            "venue": "Mount Vernon Christian",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-09-12T22:00:00.000Z",
+            "result": "L",
+            "gf": 0,
+            "ga": 1,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-11-18T21:00:00.000Z",
+            "result": "W",
+            "gf": 1,
+            "ga": 0,
+            "home": false,
+            "stage": "State",
+            "venue": "STATE SEMI-FINALS!",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-10-04T22:30:00.000Z",
+            "result": "W",
+            "gf": 1,
+            "ga": 1,
+            "home": true,
+            "stage": "League",
+            "venue": null,
+            "pens": true,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-09-16T23:00:00.000Z",
+            "result": "W",
+            "gf": 1,
+            "ga": 0,
+            "home": false,
+            "stage": "Non-league",
+            "venue": null,
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 8,
+          "l": 3,
+          "d": 2
+        },
+        "since": "2022"
+      },
+      "Friday Harbor": {
+        "team": {
+          "name": "Friday Harbor",
+          "mascot": "Wolverines",
+          "abbr": "FH",
+          "color": "#754ACC",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2026",
+            "date": "2026-10-13T23:00:00.000Z",
+            "result": "W",
+            "gf": 2,
+            "ga": 0,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2026",
+            "date": "2026-09-25T22:30:00.000Z",
+            "result": "W",
+            "gf": 4,
+            "ga": 1,
+            "home": false,
+            "stage": "League",
+            "venue": "Linde Community Fields",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-11-06T20:30:00.000Z",
+            "result": "W",
+            "gf": 0,
+            "ga": 0,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "Anacortes HS",
+            "pens": true,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-10-18T19:30:00.000Z",
+            "result": "W",
+            "gf": 3,
+            "ga": 0,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-10-01T22:15:00.000Z",
+            "result": "W",
+            "gf": 2,
+            "ga": 1,
+            "home": false,
+            "stage": "Non-league",
+            "venue": "Linde Community Fields",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-10-15T22:30:00.000Z",
+            "result": "W",
+            "gf": 1,
+            "ga": 0,
+            "home": false,
+            "stage": "League",
+            "venue": "Linde Community Fields",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-10-04T23:00:00.000Z",
+            "result": "W",
+            "gf": 4,
+            "ga": 0,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-10-06T22:30:00.000Z",
+            "result": "L",
+            "gf": 0,
+            "ga": 4,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-09-19T22:00:00.000Z",
+            "result": "L",
+            "gf": 0,
+            "ga": 1,
+            "home": false,
+            "stage": "Non-league",
+            "venue": "Linde Community Fields",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-11-19T08:00:00.000Z",
+            "result": "L",
+            "gf": 1,
+            "ga": 2,
+            "home": false,
+            "stage": "State",
+            "venue": null,
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-11-05T19:00:00.000Z",
+            "result": "L",
+            "gf": 1,
+            "ga": 1,
+            "home": false,
+            "stage": "State",
+            "venue": null,
+            "pens": true,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-10-11T22:00:00.000Z",
+            "result": "W",
+            "gf": 3,
+            "ga": 2,
+            "home": false,
+            "stage": "League",
+            "venue": null,
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-09-20T23:00:00.000Z",
+            "result": "L",
+            "gf": 0,
+            "ga": 1,
+            "home": true,
+            "stage": "Non-league",
+            "venue": null,
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 8,
+          "l": 5,
+          "d": 0
+        },
+        "since": "2022"
+      },
+      "Cedar Park Christian": {
+        "team": {
+          "name": "Cedar Park Christian",
+          "mascot": "Eagles",
+          "abbr": "CP",
+          "color": "#022C66",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2026",
+            "date": "2026-09-29T22:15:00.000Z",
+            "result": "W",
+            "gf": 9,
+            "ga": 1,
+            "home": false,
+            "stage": "League",
+            "venue": "Evergreen Playfields",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-10-30T23:00:00.000Z",
+            "result": "W",
+            "gf": 7,
+            "ga": 0,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-09-16T22:45:00.000Z",
+            "result": "W",
+            "gf": 8,
+            "ga": 0,
+            "home": false,
+            "stage": "Non-league",
+            "venue": "Evergreen Playfields",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-11-01T22:45:00.000Z",
+            "result": "W",
+            "gf": 4,
+            "ga": 1,
+            "home": false,
+            "stage": "League",
+            "venue": "Evergreen Playfields",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-09-20T22:00:00.000Z",
+            "result": "W",
+            "gf": 6,
+            "ga": 0,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-10-20T21:30:00.000Z",
+            "result": "W",
+            "gf": 8,
+            "ga": 0,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School - Cancer Awarness Game",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-10-25T22:30:00.000Z",
+            "result": "W",
+            "gf": 11,
+            "ga": 0,
+            "home": false,
+            "stage": "League",
+            "venue": null,
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 7,
+          "l": 0,
+          "d": 0
+        },
+        "since": "2022"
+      },
+      "Grace Academy": {
+        "team": {
+          "name": "Grace Academy",
+          "mascot": "Eagles",
+          "abbr": "GA",
+          "color": "#022C66",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2026",
+            "date": "2026-10-01T23:00:00.000Z",
+            "result": "W",
+            "gf": 12,
+            "ga": 0,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-10-08T22:30:00.000Z",
+            "result": "W",
+            "gf": 9,
+            "ga": 0,
+            "home": false,
+            "stage": "League",
+            "venue": "Strawberry Fields - Marysville",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-10-08T22:00:00.000Z",
+            "result": "W",
+            "gf": 11,
+            "ga": 1,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-10-26T22:45:00.000Z",
+            "result": "W",
+            "gf": 5,
+            "ga": 0,
+            "home": false,
+            "stage": "League",
+            "venue": "Grace Academy High School - Strawberry Fields",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-09-30T22:00:00.000Z",
+            "result": "W",
+            "gf": 3,
+            "ga": 1,
+            "home": true,
+            "stage": "Non-league",
+            "venue": null,
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 5,
+          "l": 0,
+          "d": 0
+        },
+        "since": "2022"
+      },
+      "Providence Classical Christian": {
+        "team": {
+          "name": "Providence Classical Christian",
+          "mascot": "Highlanders",
+          "abbr": "PC",
+          "color": "#022C66",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2026",
+            "date": "2026-11-05T20:30:00.000Z",
+            "result": null,
+            "gf": null,
+            "ga": null,
+            "home": true,
+            "stage": "District",
+            "venue": "Anacortes High School",
+            "pens": false,
+            "close": false,
+            "upcoming": true
+          },
+          {
+            "season": "2026",
+            "date": "2026-10-15T22:30:00.000Z",
+            "result": "W",
+            "gf": 4,
+            "ga": 3,
+            "home": false,
+            "stage": "League",
+            "venue": "North Creek Fields",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2026",
+            "date": "2026-10-03T20:00:00.000Z",
+            "result": "W",
+            "gf": 3,
+            "ga": 2,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-11-04T20:30:00.000Z",
+            "result": "W",
+            "gf": 2,
+            "ga": 0,
+            "home": true,
+            "stage": "District",
+            "venue": "District Playoffs - Anacortes HS",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-10-22T23:00:00.000Z",
+            "result": "W",
+            "gf": 3,
+            "ga": 0,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-11-22T23:00:00.000Z",
+            "result": "W",
+            "gf": 4,
+            "ga": 1,
+            "home": false,
+            "stage": "State",
+            "venue": null,
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-11-08T03:00:00.000Z",
+            "result": "W",
+            "gf": 2,
+            "ga": 1,
+            "home": true,
+            "stage": "District",
+            "venue": "1B/2B Boys Soccer Districts - Anacortes Hs",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-10-22T23:00:00.000Z",
+            "result": "W",
+            "gf": 3,
+            "ga": 2,
+            "home": false,
+            "stage": "League",
+            "venue": "North Creek Sports Fields #2",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-11-18T03:00:00.000Z",
+            "result": "W",
+            "gf": 3,
+            "ga": 1,
+            "home": false,
+            "stage": "State",
+            "venue": "1B/2B Boys State Semi-Finals - Federal Way Stadium",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-10-14T21:00:00.000Z",
+            "result": "L",
+            "gf": 1,
+            "ga": 2,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School - Homecoming Game",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-10-14T23:15:00.000Z",
+            "result": "W",
+            "gf": 5,
+            "ga": 0,
+            "home": false,
+            "stage": "League",
+            "venue": null,
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 9,
+          "l": 1,
+          "d": 0
+        },
+        "since": "2022"
+      },
+      "La Conner": {
+        "team": {
+          "name": "La Conner",
+          "mascot": "Braves",
+          "abbr": "LC",
+          "color": "#034CB2",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2026",
+            "date": "2026-10-21T21:00:00.000Z",
+            "result": "W",
+            "gf": 12,
+            "ga": 0,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-10-24T23:00:00.000Z",
+            "result": "W",
+            "gf": 3,
+            "ga": 1,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-09-26T22:30:00.000Z",
+            "result": "W",
+            "gf": 8,
+            "ga": 0,
+            "home": false,
+            "stage": "Non-league",
+            "venue": "La Conner High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-10-29T22:00:00.000Z",
+            "result": "W",
+            "gf": 6,
+            "ga": 1,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-10-01T23:00:00.000Z",
+            "result": "W",
+            "gf": 6,
+            "ga": 0,
+            "home": false,
+            "stage": "Non-league",
+            "venue": "La Conner High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-10-12T22:15:00.000Z",
+            "result": "W",
+            "gf": 4,
+            "ga": 2,
+            "home": false,
+            "stage": "League",
+            "venue": "LaConner High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-10-22T20:00:00.000Z",
+            "result": "W",
+            "gf": 12,
+            "ga": 1,
+            "home": true,
+            "stage": "League",
+            "venue": null,
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-10-18T22:00:00.000Z",
+            "result": "W",
+            "gf": 1,
+            "ga": 0,
+            "home": true,
+            "stage": "Other",
+            "venue": null,
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-09-13T23:00:00.000Z",
+            "result": "W",
+            "gf": 4,
+            "ga": 1,
+            "home": false,
+            "stage": "Non-league",
+            "venue": null,
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 9,
+          "l": 0,
+          "d": 0
+        },
+        "since": "2022"
+      },
+      "Evangel Classical": {
+        "team": {
+          "name": "Evangel Classical",
+          "mascot": null,
+          "abbr": "EC",
+          "color": "#8C3B4A",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2026",
+            "date": "2026-10-24T20:00:00.000Z",
+            "result": "W",
+            "gf": 10,
+            "ga": 1,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-09-19T23:00:00.000Z",
+            "result": "W",
+            "gf": 11,
+            "ga": 0,
+            "home": true,
+            "stage": "Non-league",
+            "venue": null,
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 2,
+          "l": 0,
+          "d": 0
+        },
+        "since": "2025"
+      },
+      "Coupeville": {
+        "team": {
+          "name": "Coupeville",
+          "mascot": "Wolves",
+          "abbr": "CO",
+          "color": "#CC0022",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2026",
+            "date": "2026-11-03T20:30:00.000Z",
+            "result": "W",
+            "gf": 3,
+            "ga": 1,
+            "home": true,
+            "stage": "District",
+            "venue": "Anacortes HS",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2026",
+            "date": "2026-10-27T23:00:00.000Z",
+            "result": "W",
+            "gf": 3,
+            "ga": 1,
+            "home": false,
+            "stage": "League",
+            "venue": "COUPEVILLE ELEMENTARY SCHOOL",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-10-04T20:00:00.000Z",
+            "result": "W",
+            "gf": 8,
+            "ga": 0,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2025",
+            "date": "2025-09-13T19:30:00.000Z",
+            "result": "W",
+            "gf": 9,
+            "ga": 0,
+            "home": false,
+            "stage": "Non-league",
+            "venue": "Coupeville HS",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2024",
+            "date": "2024-11-02T19:30:00.000Z",
+            "result": "W",
+            "gf": 5,
+            "ga": 0,
+            "home": false,
+            "stage": "Non-league",
+            "venue": "Coupeville HS",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-10-24T22:00:00.000Z",
+            "result": "W",
+            "gf": 10,
+            "ga": 1,
+            "home": true,
+            "stage": "League",
+            "venue": "Orcas Island High School - Senior Night",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-09-23T19:00:00.000Z",
+            "result": "L",
+            "gf": 3,
+            "ga": 4,
+            "home": false,
+            "stage": "Non-league",
+            "venue": "Coupeville HS",
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-10-27T22:00:00.000Z",
+            "result": "W",
+            "gf": 8,
+            "ga": 1,
+            "home": true,
+            "stage": "League",
+            "venue": null,
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-09-27T23:00:00.000Z",
+            "result": "W",
+            "gf": 5,
+            "ga": 2,
+            "home": false,
+            "stage": "League",
+            "venue": null,
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 8,
+          "l": 1,
+          "d": 0
+        },
+        "since": "2022"
+      },
+      "Upper Columbia Academy": {
+        "team": {
+          "name": "Upper Columbia Academy",
+          "mascot": "Lions",
+          "abbr": "UC",
+          "color": "#FFC005",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2025",
+            "date": "2025-11-14T20:00:00.000Z",
+            "result": "W",
+            "gf": 5,
+            "ga": 0,
+            "home": true,
+            "stage": "State",
+            "venue": "WIAA 1B/2B Boys Soccer State Regionals",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2023",
+            "date": "2023-11-19T02:00:00.000Z",
+            "result": "L",
+            "gf": 0,
+            "ga": 2,
+            "home": false,
+            "stage": "State",
+            "venue": "WIAA 1B/2B Boys Soccer State Championship!!",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 1,
+          "l": 1,
+          "d": 0
+        },
+        "since": "2023"
+      },
+      "Mabton": {
+        "team": {
+          "name": "Mabton",
+          "mascot": null,
+          "abbr": "MA",
+          "color": "#8C3B4A",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2024",
+            "date": "2024-09-14T17:00:00.000Z",
+            "result": "W",
+            "gf": 5,
+            "ga": 0,
+            "home": false,
+            "stage": "League",
+            "venue": "Saint Georges High School - Vs Mabton HS",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 1,
+          "l": 0,
+          "d": 0
+        },
+        "since": "2024"
+      },
+      "Concordia Christian Academy": {
+        "team": {
+          "name": "Concordia Christian Academy",
+          "mascot": null,
+          "abbr": "CC",
+          "color": "#8C3B4A",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2024",
+            "date": "2024-11-05T22:30:00.000Z",
+            "result": "W",
+            "gf": 7,
+            "ga": 0,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "Anacortes HS",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 1,
+          "l": 0,
+          "d": 0
+        },
+        "since": "2024"
+      },
+      "Puget Sound Adventist": {
+        "team": {
+          "name": "Puget Sound Adventist",
+          "mascot": null,
+          "abbr": "PS",
+          "color": "#2E7D6B",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2024",
+            "date": "2024-11-17T02:30:00.000Z",
+            "result": "W",
+            "gf": 3,
+            "ga": 1,
+            "home": true,
+            "stage": "State",
+            "venue": "Anacortes HS",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-10-20T22:00:00.000Z",
+            "result": "W",
+            "gf": 7,
+            "ga": 0,
+            "home": true,
+            "stage": "Non-league",
+            "venue": null,
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 2,
+          "l": 0,
+          "d": 0
+        },
+        "since": "2022"
+      },
+      "Sound Christian": {
+        "team": {
+          "name": "Sound Christian",
+          "mascot": null,
+          "abbr": "SO",
+          "color": "#5B6770",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2023",
+            "date": "2023-09-16T20:30:00.000Z",
+            "result": "W",
+            "gf": 4,
+            "ga": 0,
+            "home": false,
+            "stage": "Non-league",
+            "venue": "SERA Athletic Fields",
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          },
+          {
+            "season": "2022",
+            "date": "2022-09-10T20:30:00.000Z",
+            "result": "W",
+            "gf": 12,
+            "ga": 0,
+            "home": true,
+            "stage": "Non-league",
+            "venue": null,
+            "pens": false,
+            "close": false,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 2,
+          "l": 0,
+          "d": 0
+        },
+        "since": "2022"
+      },
+      "Auburn Adventist": {
+        "team": {
+          "name": "Auburn Adventist",
+          "mascot": null,
+          "abbr": "AA",
+          "color": "#8C3B4A",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2022",
+            "date": "2022-11-02T00:30:00.000Z",
+            "result": "W",
+            "gf": 1,
+            "ga": 0,
+            "home": true,
+            "stage": "State",
+            "venue": null,
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 1,
+          "l": 0,
+          "d": 0
+        },
+        "since": "2022"
+      }
+    },
+    "historySince": "2022",
+    "calendar": [
+      {
+        "id": "2026-11-05-g7",
+        "title": "Vikings vs Providence · Semifinal del distrito",
+        "start": "2026-11-05T20:30:00.000Z",
+        "timeKnown": true,
+        "location": "Anacortes HS",
+        "details": "Fútbol varonil de los Orcas Island Vikings. Síguelos en: https://govikings.app"
+      },
+      {
+        "id": "2026-11-07-g9",
+        "title": "Vikings vs Mount Vernon o Friday Harbor · Final del distrito (si avanzamos)",
+        "start": "2026-11-07T23:00:00.000Z",
+        "timeKnown": true,
+        "location": "Sammamish HS",
+        "details": "Fútbol varonil de los Orcas Island Vikings. Síguelos en: https://govikings.app"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Schedule/results",
+        "url": "https://www.maxpreps.com/wa/eastsound/orcas-island-vikings/soccer/schedule/"
+      },
+      {
+        "name": "League standings",
+        "url": "https://coupevillesports.com/2026/11/01/freeze-the-standings-until-winter/"
+      },
+      {
+        "name": "District bracket",
+        "url": "https://www.wpanetwork.com/wiaa/brackets/tournament.php?act=view&tournament_id=5242"
+      },
+      {
+        "name": "State info (WIAA)",
+        "url": "https://www.wiaa.com/tournament/?sportid=9"
+      }
+    ],
+    "notes": []
+  }
 }
