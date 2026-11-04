@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T05:23:26.605Z",
+  "generatedAt": "2026-11-04T15:06:44.014Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -106,6 +106,7 @@
       "venue": "Anacortes HS",
       "status": "confirmed",
       "note": "Next game",
+      "vs": "Providence Classical",
       "calId": "2026-11-05-district-semifinal"
     },
     {
@@ -114,7 +115,8 @@
       "label": "District final",
       "venue": "Sammamish HS",
       "status": "possible",
-      "note": "If we win",
+      "note": "If we beat Providence Classical on Thursday",
+      "vs": "Mount Vernon or Friday Harbor",
       "calId": "2026-11-08-district-final"
     },
     {
@@ -4022,7 +4024,7 @@
     },
     {
       "id": "2026-11-08-district-final",
-      "title": "Vikings · District final (if we win)",
+      "title": "Vikings vs Mount Vernon or Friday Harbor · District final (if we advance)",
       "start": "2026-11-08T03:00:00.000Z",
       "timeKnown": true,
       "location": "Sammamish HS",
