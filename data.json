@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T03:49:43.606Z",
+  "generatedAt": "2026-11-04T03:57:24.871Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -95,7 +95,8 @@
     "feeder": null,
     "links": {
       "map": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA"
-    }
+    },
+    "calId": "2026-11-05-district-semifinal"
   },
   "dates": [
     {
@@ -104,7 +105,8 @@
       "label": "District semifinal",
       "venue": "Anacortes HS",
       "status": "confirmed",
-      "note": "Next game"
+      "note": "Next game",
+      "calId": "2026-11-05-district-semifinal"
     },
     {
       "date": "2026-11-08T03:00:00.000Z",
@@ -112,7 +114,8 @@
       "label": "District final",
       "venue": "Sammamish HS",
       "status": "possible",
-      "note": "If we win"
+      "note": "If we win",
+      "calId": "2026-11-08-district-final"
     },
     {
       "date": null,
@@ -323,50 +326,8 @@
         "title": "District first round"
       },
       {
-        "date": "2026-11-05T08:00:00.000Z",
+        "date": "2026-11-05T20:30:00.000Z",
         "games": [
-          {
-            "no": "5",
-            "label": "Last-chance game",
-            "date": "2026-11-05T08:00:00.000Z",
-            "timeKnown": false,
-            "venue": null,
-            "siteNote": "@ Higher Seed",
-            "played": false,
-            "scoreSource": null,
-            "teams": [
-              {
-                "name": "Coupeville",
-                "mascot": "Wolves",
-                "abbr": "CO",
-                "color": "#CC0022",
-                "isUs": false,
-                "score": null,
-                "winner": false,
-                "seed": null
-              },
-              {
-                "name": "Auburn Adventist",
-                "mascot": null,
-                "abbr": "AA",
-                "color": "#8C3B4A",
-                "isUs": false,
-                "score": null,
-                "winner": false,
-                "seed": null
-              }
-            ],
-            "winner": {
-              "text": "5th place · to State",
-              "state": true
-            },
-            "loser": {
-              "text": "Season over",
-              "out": true
-            },
-            "ours": false,
-            "maybeOurs": false
-          },
           {
             "no": "7",
             "label": "District semifinal",
@@ -452,6 +413,48 @@
             "maybeOurs": false
           },
           {
+            "no": "5",
+            "label": "Last-chance game",
+            "date": "2026-11-05T21:30:00.000Z",
+            "timeKnown": true,
+            "venue": "Game Farm Park - Auburn",
+            "siteNote": "@ Higher Seed",
+            "played": false,
+            "scoreSource": null,
+            "teams": [
+              {
+                "name": "Coupeville",
+                "mascot": "Wolves",
+                "abbr": "CO",
+                "color": "#CC0022",
+                "isUs": false,
+                "score": null,
+                "winner": false,
+                "seed": null
+              },
+              {
+                "name": "Auburn Adventist",
+                "mascot": null,
+                "abbr": "AA",
+                "color": "#8C3B4A",
+                "isUs": false,
+                "score": null,
+                "winner": false,
+                "seed": null
+              }
+            ],
+            "winner": {
+              "text": "5th place · to State",
+              "state": true
+            },
+            "loser": {
+              "text": "Season over",
+              "out": true
+            },
+            "ours": false,
+            "maybeOurs": false
+          },
+          {
             "no": "6",
             "label": "Last-chance game",
             "date": "2026-11-06T02:00:00.000Z",
@@ -494,7 +497,7 @@
             "maybeOurs": false
           }
         ],
-        "title": "Last-chance game & District semifinal"
+        "title": "District semifinal & Last-chance game"
       },
       {
         "date": "2026-11-08T03:00:00.000Z",
@@ -918,9 +921,9 @@
       {
         "no": "5",
         "label": "Last-chance game",
-        "date": "2026-11-05T08:00:00.000Z",
-        "timeKnown": false,
-        "venue": null,
+        "date": "2026-11-05T21:30:00.000Z",
+        "timeKnown": true,
+        "venue": "Game Farm Park - Auburn",
         "siteNote": "@ Higher Seed",
         "played": false,
         "scoreSource": null,
@@ -2374,11 +2377,6 @@
       "what": "District game 3"
     },
     {
-      "start": "2026-11-05T08:00:00.000Z",
-      "timeKnown": false,
-      "what": "District game 5"
-    },
-    {
       "start": "2026-11-05T20:30:00.000Z",
       "timeKnown": true,
       "what": "District game 7"
@@ -2389,6 +2387,11 @@
       "what": "District game 8"
     },
     {
+      "start": "2026-11-05T21:30:00.000Z",
+      "timeKnown": true,
+      "what": "District game 5"
+    },
+    {
       "start": "2026-11-06T02:00:00.000Z",
       "timeKnown": true,
       "what": "District game 6"
@@ -2397,6 +2400,1633 @@
       "start": "2026-11-08T03:00:00.000Z",
       "timeKnown": true,
       "what": "District game 9"
+    }
+  ],
+  "opponents": {
+    "Lopez": {
+      "team": {
+        "name": "Lopez",
+        "mascot": "Lobos",
+        "abbr": "LO",
+        "color": "#8F0018",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2026",
+          "date": "2026-10-09T23:00:00.000Z",
+          "result": "W",
+          "gf": 3,
+          "ga": 1,
+          "home": false,
+          "stage": "League",
+          "venue": "Lopez High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2026",
+          "date": "2026-09-11T23:00:00.000Z",
+          "result": "W",
+          "gf": 8,
+          "ga": 0,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-10-14T23:00:00.000Z",
+          "result": "W",
+          "gf": 3,
+          "ga": 0,
+          "home": false,
+          "stage": "League",
+          "venue": "Lopez High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-11-23T21:00:00.000Z",
+          "result": "W",
+          "gf": 2,
+          "ga": 0,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "Federal Way Memorial Field",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-11-23T21:00:00.000Z",
+          "result": "W",
+          "gf": 2,
+          "ga": 0,
+          "home": false,
+          "stage": "State",
+          "venue": "1B/2B Boys Soccer State Championship",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-11-09T22:00:00.000Z",
+          "result": "L",
+          "gf": 0,
+          "ga": 1,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "Sammamish HS",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-10-18T22:30:00.000Z",
+          "result": "W",
+          "gf": 1,
+          "ga": 0,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-10-03T23:30:00.000Z",
+          "result": "W",
+          "gf": 5,
+          "ga": 1,
+          "home": false,
+          "stage": "League",
+          "venue": "Lopez Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-09-15T23:00:00.000Z",
+          "result": "W",
+          "gf": 6,
+          "ga": 0,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-10-08T20:00:00.000Z",
+          "result": "W",
+          "gf": 6,
+          "ga": 0,
+          "home": true,
+          "stage": "League",
+          "venue": null,
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 9,
+        "l": 1,
+        "d": 0
+      },
+      "since": "2022"
+    },
+    "Evergreen Lutheran": {
+      "team": {
+        "name": "Evergreen Lutheran",
+        "mascot": "Eagles",
+        "abbr": "EL",
+        "color": "#00824B",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2026",
+          "date": "2026-09-12T20:00:00.000Z",
+          "result": "W",
+          "gf": 7,
+          "ga": 1,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-11-22T03:00:00.000Z",
+          "result": "W",
+          "gf": 6,
+          "ga": 1,
+          "home": true,
+          "stage": "State",
+          "venue": "1B/2B Boys State Semifinals - MT Tahoma HS",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-10-25T20:00:00.000Z",
+          "result": "D",
+          "gf": 2,
+          "ga": 2,
+          "home": false,
+          "stage": "Non-league",
+          "venue": "Franklin Pierce HS",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-10-26T20:30:00.000Z",
+          "result": "W",
+          "gf": 6,
+          "ga": 0,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-11-10T21:00:00.000Z",
+          "result": "W",
+          "gf": 2,
+          "ga": 1,
+          "home": false,
+          "stage": "State",
+          "venue": "WIAA 1B/2B Boys State Soccer - Franklin Pierce HS",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-11-11T22:00:00.000Z",
+          "result": "W",
+          "gf": 6,
+          "ga": 1,
+          "home": false,
+          "stage": "Tournament",
+          "venue": null,
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 5,
+        "l": 0,
+        "d": 1
+      },
+      "since": "2022"
+    },
+    "St. George's": {
+      "team": {
+        "name": "St. George's",
+        "mascot": "Dragons",
+        "abbr": "SG",
+        "color": "#CC0022",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2026",
+          "date": "2026-09-18T21:30:00.000Z",
+          "result": "W",
+          "gf": 7,
+          "ga": 1,
+          "home": false,
+          "stage": "Non-league",
+          "venue": "Saint Georges High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-11-22T23:30:00.000Z",
+          "result": "W",
+          "gf": 1,
+          "ga": 0,
+          "home": true,
+          "stage": "State",
+          "venue": "WIAA 1B/2B Boys Soccer State Championship",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-09-12T22:30:00.000Z",
+          "result": "W",
+          "gf": 2,
+          "ga": 1,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-09-13T21:30:00.000Z",
+          "result": "L",
+          "gf": 1,
+          "ga": 4,
+          "home": false,
+          "stage": "Non-league",
+          "venue": "Saint Georges High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-09-22T22:30:00.000Z",
+          "result": "W",
+          "gf": 2,
+          "ga": 1,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 4,
+        "l": 1,
+        "d": 0
+      },
+      "since": "2023"
+    },
+    "Chesterton Academy of Notre Dame": {
+      "team": {
+        "name": "Chesterton Academy of Notre Dame",
+        "mascot": "Knights",
+        "abbr": "CA",
+        "color": "#022C66",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2026",
+          "date": "2026-09-19T17:00:00.000Z",
+          "result": "W",
+          "gf": 6,
+          "ga": 0,
+          "home": false,
+          "stage": "Non-league",
+          "venue": "Saint George's high school",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 1,
+        "l": 0,
+        "d": 0
+      },
+      "since": "2026"
+    },
+    "Mount Vernon Christian": {
+      "team": {
+        "name": "Mount Vernon Christian",
+        "mascot": "Hurricanes",
+        "abbr": "MV",
+        "color": "#034CB2",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2026",
+          "date": "2026-10-07T23:00:00.000Z",
+          "result": "W",
+          "gf": 1,
+          "ga": 0,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2026",
+          "date": "2026-09-23T22:00:00.000Z",
+          "result": "D",
+          "gf": 0,
+          "ga": 0,
+          "home": false,
+          "stage": "Non-league",
+          "venue": "Mount Vernon Christian",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-11-08T22:00:00.000Z",
+          "result": "L",
+          "gf": 1,
+          "ga": 2,
+          "home": true,
+          "stage": "Tournament",
+          "venue": "Sammamish HS",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-10-10T23:00:00.000Z",
+          "result": "W",
+          "gf": 6,
+          "ga": 0,
+          "home": false,
+          "stage": "League",
+          "venue": "Mount Vernon Christian",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-09-23T23:00:00.000Z",
+          "result": "D",
+          "gf": 1,
+          "ga": 1,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-10-11T22:00:00.000Z",
+          "result": "W",
+          "gf": 4,
+          "ga": 1,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-09-27T23:00:00.000Z",
+          "result": "W",
+          "gf": 1,
+          "ga": 0,
+          "home": false,
+          "stage": "Non-league",
+          "venue": "Mount Vernon Christian",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-10-28T19:00:00.000Z",
+          "result": "L",
+          "gf": 0,
+          "ga": 0,
+          "home": false,
+          "stage": "Tie-breaker",
+          "venue": "1B/2B Boys League Tie-Breaker - Oak Harbor HS",
+          "pens": true,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-09-28T22:15:00.000Z",
+          "result": "W",
+          "gf": 1,
+          "ga": 0,
+          "home": false,
+          "stage": "League",
+          "venue": "Mount Vernon Christian",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-09-12T22:00:00.000Z",
+          "result": "L",
+          "gf": 0,
+          "ga": 1,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-11-18T21:00:00.000Z",
+          "result": "W",
+          "gf": 1,
+          "ga": 0,
+          "home": false,
+          "stage": "State",
+          "venue": "STATE SEMI-FINALS!",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-10-04T22:30:00.000Z",
+          "result": "W",
+          "gf": 1,
+          "ga": 1,
+          "home": true,
+          "stage": "League",
+          "venue": null,
+          "pens": true,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-09-16T23:00:00.000Z",
+          "result": "W",
+          "gf": 1,
+          "ga": 0,
+          "home": false,
+          "stage": "Non-league",
+          "venue": null,
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 8,
+        "l": 3,
+        "d": 2
+      },
+      "since": "2022"
+    },
+    "Friday Harbor": {
+      "team": {
+        "name": "Friday Harbor",
+        "mascot": "Wolverines",
+        "abbr": "FH",
+        "color": "#754ACC",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2026",
+          "date": "2026-10-13T23:00:00.000Z",
+          "result": "W",
+          "gf": 2,
+          "ga": 0,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2026",
+          "date": "2026-09-25T22:30:00.000Z",
+          "result": "W",
+          "gf": 4,
+          "ga": 1,
+          "home": false,
+          "stage": "League",
+          "venue": "Linde Community Fields",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-11-06T20:30:00.000Z",
+          "result": "W",
+          "gf": 0,
+          "ga": 0,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "Anacortes HS",
+          "pens": true,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-10-18T19:30:00.000Z",
+          "result": "W",
+          "gf": 3,
+          "ga": 0,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-10-01T22:15:00.000Z",
+          "result": "W",
+          "gf": 2,
+          "ga": 1,
+          "home": false,
+          "stage": "Non-league",
+          "venue": "Linde Community Fields",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-10-15T22:30:00.000Z",
+          "result": "W",
+          "gf": 1,
+          "ga": 0,
+          "home": false,
+          "stage": "League",
+          "venue": "Linde Community Fields",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-10-04T23:00:00.000Z",
+          "result": "W",
+          "gf": 4,
+          "ga": 0,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-10-06T22:30:00.000Z",
+          "result": "L",
+          "gf": 0,
+          "ga": 4,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-09-19T22:00:00.000Z",
+          "result": "L",
+          "gf": 0,
+          "ga": 1,
+          "home": false,
+          "stage": "Non-league",
+          "venue": "Linde Community Fields",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-11-19T08:00:00.000Z",
+          "result": "L",
+          "gf": 1,
+          "ga": 2,
+          "home": false,
+          "stage": "Tournament",
+          "venue": null,
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-11-05T19:00:00.000Z",
+          "result": "L",
+          "gf": 1,
+          "ga": 1,
+          "home": false,
+          "stage": "Tournament",
+          "venue": null,
+          "pens": true,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-10-11T22:00:00.000Z",
+          "result": "W",
+          "gf": 3,
+          "ga": 2,
+          "home": false,
+          "stage": "League",
+          "venue": null,
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-09-20T23:00:00.000Z",
+          "result": "L",
+          "gf": 0,
+          "ga": 1,
+          "home": true,
+          "stage": "Non-league",
+          "venue": null,
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 8,
+        "l": 5,
+        "d": 0
+      },
+      "since": "2022"
+    },
+    "Cedar Park Christian": {
+      "team": {
+        "name": "Cedar Park Christian",
+        "mascot": "Eagles",
+        "abbr": "CP",
+        "color": "#022C66",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2026",
+          "date": "2026-09-29T22:15:00.000Z",
+          "result": "W",
+          "gf": 9,
+          "ga": 1,
+          "home": false,
+          "stage": "League",
+          "venue": "Evergreen Playfields",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-10-30T23:00:00.000Z",
+          "result": "W",
+          "gf": 7,
+          "ga": 0,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-09-16T22:45:00.000Z",
+          "result": "W",
+          "gf": 8,
+          "ga": 0,
+          "home": false,
+          "stage": "Non-league",
+          "venue": "Evergreen Playfields",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-11-01T22:45:00.000Z",
+          "result": "W",
+          "gf": 4,
+          "ga": 1,
+          "home": false,
+          "stage": "League",
+          "venue": "Evergreen Playfields",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-09-20T22:00:00.000Z",
+          "result": "W",
+          "gf": 6,
+          "ga": 0,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-10-20T21:30:00.000Z",
+          "result": "W",
+          "gf": 8,
+          "ga": 0,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School - Cancer Awarness Game",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-10-25T22:30:00.000Z",
+          "result": "W",
+          "gf": 11,
+          "ga": 0,
+          "home": false,
+          "stage": "League",
+          "venue": null,
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 7,
+        "l": 0,
+        "d": 0
+      },
+      "since": "2022"
+    },
+    "Grace Academy": {
+      "team": {
+        "name": "Grace Academy",
+        "mascot": "Eagles",
+        "abbr": "GA",
+        "color": "#022C66",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2026",
+          "date": "2026-10-01T23:00:00.000Z",
+          "result": "W",
+          "gf": 12,
+          "ga": 0,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-10-08T22:30:00.000Z",
+          "result": "W",
+          "gf": 9,
+          "ga": 0,
+          "home": false,
+          "stage": "League",
+          "venue": "Strawberry Fields - Marysville",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-10-08T22:00:00.000Z",
+          "result": "W",
+          "gf": 11,
+          "ga": 1,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-10-26T22:45:00.000Z",
+          "result": "W",
+          "gf": 5,
+          "ga": 0,
+          "home": false,
+          "stage": "League",
+          "venue": "Grace Academy High School - Strawberry Fields",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-09-30T22:00:00.000Z",
+          "result": "W",
+          "gf": 3,
+          "ga": 1,
+          "home": true,
+          "stage": "Non-league",
+          "venue": null,
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 5,
+        "l": 0,
+        "d": 0
+      },
+      "since": "2022"
+    },
+    "Providence Classical Christian": {
+      "team": {
+        "name": "Providence Classical Christian",
+        "mascot": "Highlanders",
+        "abbr": "PC",
+        "color": "#022C66",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2026",
+          "date": "2026-11-05T20:30:00.000Z",
+          "result": null,
+          "gf": null,
+          "ga": null,
+          "home": true,
+          "stage": "District",
+          "venue": "Anacortes High School",
+          "pens": false,
+          "close": false,
+          "upcoming": true
+        },
+        {
+          "season": "2026",
+          "date": "2026-10-15T22:30:00.000Z",
+          "result": "W",
+          "gf": 4,
+          "ga": 3,
+          "home": false,
+          "stage": "League",
+          "venue": "North Creek Fields",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2026",
+          "date": "2026-10-03T20:00:00.000Z",
+          "result": "W",
+          "gf": 3,
+          "ga": 2,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-11-04T20:30:00.000Z",
+          "result": "W",
+          "gf": 2,
+          "ga": 0,
+          "home": true,
+          "stage": "District",
+          "venue": "District Playoffs - Anacortes HS",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-10-22T23:00:00.000Z",
+          "result": "W",
+          "gf": 3,
+          "ga": 0,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-11-22T23:00:00.000Z",
+          "result": "W",
+          "gf": 4,
+          "ga": 1,
+          "home": false,
+          "stage": "Tournament",
+          "venue": null,
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-11-08T03:00:00.000Z",
+          "result": "W",
+          "gf": 2,
+          "ga": 1,
+          "home": true,
+          "stage": "District",
+          "venue": "1B/2B Boys Soccer Districts - Anacortes Hs",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-10-22T23:00:00.000Z",
+          "result": "W",
+          "gf": 3,
+          "ga": 2,
+          "home": false,
+          "stage": "League",
+          "venue": "North Creek Sports Fields #2",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-11-18T03:00:00.000Z",
+          "result": "W",
+          "gf": 3,
+          "ga": 1,
+          "home": false,
+          "stage": "State",
+          "venue": "1B/2B Boys State Semi-Finals - Federal Way Stadium",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-10-14T21:00:00.000Z",
+          "result": "L",
+          "gf": 1,
+          "ga": 2,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School - Homecoming Game",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-10-14T23:15:00.000Z",
+          "result": "W",
+          "gf": 5,
+          "ga": 0,
+          "home": false,
+          "stage": "League",
+          "venue": null,
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 9,
+        "l": 1,
+        "d": 0
+      },
+      "since": "2022"
+    },
+    "La Conner": {
+      "team": {
+        "name": "La Conner",
+        "mascot": "Braves",
+        "abbr": "LC",
+        "color": "#034CB2",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2026",
+          "date": "2026-10-21T21:00:00.000Z",
+          "result": "W",
+          "gf": 12,
+          "ga": 0,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-10-24T23:00:00.000Z",
+          "result": "W",
+          "gf": 3,
+          "ga": 1,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-09-26T22:30:00.000Z",
+          "result": "W",
+          "gf": 8,
+          "ga": 0,
+          "home": false,
+          "stage": "Non-league",
+          "venue": "La Conner High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-10-29T22:00:00.000Z",
+          "result": "W",
+          "gf": 6,
+          "ga": 1,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-10-01T23:00:00.000Z",
+          "result": "W",
+          "gf": 6,
+          "ga": 0,
+          "home": false,
+          "stage": "Non-league",
+          "venue": "La Conner High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-10-12T22:15:00.000Z",
+          "result": "W",
+          "gf": 4,
+          "ga": 2,
+          "home": false,
+          "stage": "League",
+          "venue": "LaConner High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-10-22T20:00:00.000Z",
+          "result": "W",
+          "gf": 12,
+          "ga": 1,
+          "home": true,
+          "stage": "League",
+          "venue": null,
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-10-18T22:00:00.000Z",
+          "result": "W",
+          "gf": 1,
+          "ga": 0,
+          "home": true,
+          "stage": "Other",
+          "venue": null,
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-09-13T23:00:00.000Z",
+          "result": "W",
+          "gf": 4,
+          "ga": 1,
+          "home": false,
+          "stage": "Non-league",
+          "venue": null,
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 9,
+        "l": 0,
+        "d": 0
+      },
+      "since": "2022"
+    },
+    "Evangel Classical": {
+      "team": {
+        "name": "Evangel Classical",
+        "mascot": null,
+        "abbr": "EC",
+        "color": "#8C3B4A",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2026",
+          "date": "2026-10-24T20:00:00.000Z",
+          "result": "W",
+          "gf": 10,
+          "ga": 1,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-09-19T23:00:00.000Z",
+          "result": "W",
+          "gf": 11,
+          "ga": 0,
+          "home": true,
+          "stage": "Non-league",
+          "venue": null,
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 2,
+        "l": 0,
+        "d": 0
+      },
+      "since": "2025"
+    },
+    "Coupeville": {
+      "team": {
+        "name": "Coupeville",
+        "mascot": "Wolves",
+        "abbr": "CO",
+        "color": "#CC0022",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2026",
+          "date": "2026-11-03T20:30:00.000Z",
+          "result": "W",
+          "gf": 3,
+          "ga": 1,
+          "home": true,
+          "stage": "District",
+          "venue": "Anacortes HS",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2026",
+          "date": "2026-10-27T23:00:00.000Z",
+          "result": "W",
+          "gf": 3,
+          "ga": 1,
+          "home": false,
+          "stage": "League",
+          "venue": "COUPEVILLE ELEMENTARY SCHOOL",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-10-04T20:00:00.000Z",
+          "result": "W",
+          "gf": 8,
+          "ga": 0,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2025",
+          "date": "2025-09-13T19:30:00.000Z",
+          "result": "W",
+          "gf": 9,
+          "ga": 0,
+          "home": false,
+          "stage": "Non-league",
+          "venue": "Coupeville HS",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2024",
+          "date": "2024-11-02T19:30:00.000Z",
+          "result": "W",
+          "gf": 5,
+          "ga": 0,
+          "home": false,
+          "stage": "Non-league",
+          "venue": "Coupeville HS",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-10-24T22:00:00.000Z",
+          "result": "W",
+          "gf": 10,
+          "ga": 1,
+          "home": true,
+          "stage": "League",
+          "venue": "Orcas Island High School - Senior Night",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-09-23T19:00:00.000Z",
+          "result": "L",
+          "gf": 3,
+          "ga": 4,
+          "home": false,
+          "stage": "Non-league",
+          "venue": "Coupeville HS",
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-10-27T22:00:00.000Z",
+          "result": "W",
+          "gf": 8,
+          "ga": 1,
+          "home": true,
+          "stage": "League",
+          "venue": null,
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-09-27T23:00:00.000Z",
+          "result": "W",
+          "gf": 5,
+          "ga": 2,
+          "home": false,
+          "stage": "League",
+          "venue": null,
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 8,
+        "l": 1,
+        "d": 0
+      },
+      "since": "2022"
+    },
+    "Upper Columbia Academy": {
+      "team": {
+        "name": "Upper Columbia Academy",
+        "mascot": "Lions",
+        "abbr": "UC",
+        "color": "#FFC005",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2025",
+          "date": "2025-11-14T20:00:00.000Z",
+          "result": "W",
+          "gf": 5,
+          "ga": 0,
+          "home": true,
+          "stage": "State",
+          "venue": "WIAA 1B/2B Boys Soccer State Regionals",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2023",
+          "date": "2023-11-19T02:00:00.000Z",
+          "result": "L",
+          "gf": 0,
+          "ga": 2,
+          "home": false,
+          "stage": "State",
+          "venue": "WIAA 1B/2B Boys Soccer State Championship!!",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 1,
+        "l": 1,
+        "d": 0
+      },
+      "since": "2023"
+    },
+    "Mabton": {
+      "team": {
+        "name": "Mabton",
+        "mascot": null,
+        "abbr": "MA",
+        "color": "#8C3B4A",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2024",
+          "date": "2024-09-14T17:00:00.000Z",
+          "result": "W",
+          "gf": 5,
+          "ga": 0,
+          "home": false,
+          "stage": "League",
+          "venue": "Saint Georges High School - Vs Mabton HS",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 1,
+        "l": 0,
+        "d": 0
+      },
+      "since": "2024"
+    },
+    "Concordia Christian Academy": {
+      "team": {
+        "name": "Concordia Christian Academy",
+        "mascot": null,
+        "abbr": "CC",
+        "color": "#8C3B4A",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2024",
+          "date": "2024-11-05T22:30:00.000Z",
+          "result": "W",
+          "gf": 7,
+          "ga": 0,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "Anacortes HS",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 1,
+        "l": 0,
+        "d": 0
+      },
+      "since": "2024"
+    },
+    "Puget Sound Adventist": {
+      "team": {
+        "name": "Puget Sound Adventist",
+        "mascot": null,
+        "abbr": "PS",
+        "color": "#2E7D6B",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2024",
+          "date": "2024-11-17T02:30:00.000Z",
+          "result": "W",
+          "gf": 3,
+          "ga": 1,
+          "home": true,
+          "stage": "Tournament",
+          "venue": "Anacortes HS",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-10-20T22:00:00.000Z",
+          "result": "W",
+          "gf": 7,
+          "ga": 0,
+          "home": true,
+          "stage": "Non-league",
+          "venue": null,
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 2,
+        "l": 0,
+        "d": 0
+      },
+      "since": "2022"
+    },
+    "Sound Christian": {
+      "team": {
+        "name": "Sound Christian",
+        "mascot": null,
+        "abbr": "SO",
+        "color": "#5B6770",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2023",
+          "date": "2023-09-16T20:30:00.000Z",
+          "result": "W",
+          "gf": 4,
+          "ga": 0,
+          "home": false,
+          "stage": "Non-league",
+          "venue": "SERA Athletic Fields",
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        },
+        {
+          "season": "2022",
+          "date": "2022-09-10T20:30:00.000Z",
+          "result": "W",
+          "gf": 12,
+          "ga": 0,
+          "home": true,
+          "stage": "Non-league",
+          "venue": null,
+          "pens": false,
+          "close": false,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 2,
+        "l": 0,
+        "d": 0
+      },
+      "since": "2022"
+    },
+    "Auburn Adventist": {
+      "team": {
+        "name": "Auburn Adventist",
+        "mascot": null,
+        "abbr": "AA",
+        "color": "#8C3B4A",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2022",
+          "date": "2022-11-02T00:30:00.000Z",
+          "result": "W",
+          "gf": 1,
+          "ga": 0,
+          "home": true,
+          "stage": "Tournament",
+          "venue": null,
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 1,
+        "l": 0,
+        "d": 0
+      },
+      "since": "2022"
+    }
+  },
+  "historySince": "2022",
+  "calendar": [
+    {
+      "id": "2026-11-05-district-semifinal",
+      "title": "Vikings vs Providence Classical · District semifinal",
+      "start": "2026-11-05T20:30:00.000Z",
+      "timeKnown": true,
+      "location": "Anacortes HS",
+      "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
+    },
+    {
+      "id": "2026-11-08-district-final",
+      "title": "Vikings · District final (if we win)",
+      "start": "2026-11-08T03:00:00.000Z",
+      "timeKnown": true,
+      "location": "Sammamish HS",
+      "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
     }
   ],
   "sources": [
