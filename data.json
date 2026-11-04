@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T03:48:18.710Z",
+  "generatedAt": "2026-11-04T03:49:43.606Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -42,7 +42,7 @@
       "status": "active",
       "badge": "1 win so far",
       "good": true,
-      "detail": "Ranked #1 of 12"
+      "detail": "Top seed · league champs"
     },
     {
       "key": "state",
@@ -55,7 +55,7 @@
     }
   ],
   "connectors": [
-    "League title earned the #1 ranking for districts",
+    "League title earned the top seed for districts",
     "Top 6 from districts go to State"
   ],
   "nextGame": {
@@ -2193,7 +2193,7 @@
     {
       "icon": "🏆",
       "title": "Perfect league season (9-0)",
-      "text": "That earned us the #1 ranking in districts, which means a home game and the lowest-ranked opponent first."
+      "text": "That earned us the top seed in districts, which means a home game and the lowest-seeded opponent first."
     },
     {
       "icon": "⚠️",
