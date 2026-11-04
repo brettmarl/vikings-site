@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2026-11-05-district-semifinal@govikings.app
-DTSTAMP:20261104T151634Z
+DTSTAMP:20261104T154317Z
 DTSTART:20261105T203000Z
 DTEND:20261105T223000Z
-SUMMARY:Vikings vs Providence Classical · District semifinal
+SUMMARY:Vikings vs Providence · District semifinal
 LOCATION:Anacortes HS
 DESCRIPTION:Orcas Island Vikings boys soccer. Follow along: https://govikings.app
 URL:https://govikings.app/

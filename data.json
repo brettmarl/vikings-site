@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T15:16:22.292Z",
+  "generatedAt": "2026-11-04T15:43:04.682Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -106,7 +106,7 @@
       "venue": "Anacortes HS",
       "status": "confirmed",
       "note": "Next game",
-      "vs": "Providence Classical",
+      "vs": "Providence",
       "calId": "2026-11-05-district-semifinal"
     },
     {
@@ -115,7 +115,7 @@
       "label": "District final",
       "venue": "Sammamish HS",
       "status": "possible",
-      "note": "If we beat Providence Classical on Thursday",
+      "note": "If we beat Providence on Thursday",
       "vs": "Mount Vernon or Friday Harbor",
       "calId": "2026-11-08-district-final"
     },
@@ -1673,7 +1673,7 @@
     "pointsWin": 3,
     "pointsTie": 1,
     "gamesPerTeam": 9,
-    "summary": "League champions! 5 points ahead of Mount Vernon Christian, with a perfect record.",
+    "summary": "League champions! 5 points ahead of Mount Vernon, with a perfect record.",
     "rows": [
       {
         "name": "Orcas Island",
@@ -2192,8 +2192,8 @@
   "insights": [
     {
       "icon": "🔒",
-      "title": "State spot locked in",
-      "text": "Thursday’s semifinal decides our ranking, not whether we go. Win or lose, we’re going to State."
+      "title": "Thursday decides our State ranking",
+      "text": "With our State spot secured, Thursday’s semifinal decides how we’re ranked going in. A higher ranking usually means a lower-ranked opponent in our first State game."
     },
     {
       "icon": "🏆",
@@ -2202,7 +2202,7 @@
     },
     {
       "icon": "⚠️",
-      "title": "Providence Classical Christian plays us close",
+      "title": "Providence plays us close",
       "text": "We won both games, but only by one goal each time (3-2 and 4-3). They’re our next opponent: Thu Nov 5."
     },
     {
@@ -2213,7 +2213,7 @@
     {
       "icon": "⭐",
       "title": "Defending State champions",
-      "text": "Fun fact: last year we lost a district game to Mount Vernon Christian and still won State. Once you’re in, districts only decide your ranking."
+      "text": "Fun fact: last year we lost a district game to Mount Vernon and still won State. Once you’re in, districts only decide your ranking."
     }
   ],
   "funnel": [
@@ -4016,7 +4016,7 @@
   "calendar": [
     {
       "id": "2026-11-05-district-semifinal",
-      "title": "Vikings vs Providence Classical · District semifinal",
+      "title": "Vikings vs Providence · District semifinal",
       "start": "2026-11-05T20:30:00.000Z",
       "timeKnown": true,
       "location": "Anacortes HS",
