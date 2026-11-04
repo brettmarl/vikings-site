@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T03:16:46.686Z",
+  "generatedAt": "2026-11-04T03:24:27.600Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -22,8 +22,8 @@
   },
   "headline": {
     "tone": "great",
-    "title": "Going to State!",
-    "sub": "Their spot is locked in. The next games decide how they’re ranked going in."
+    "title": "We’re going to State!",
+    "sub": "Our spot is locked in. The next games decide how we’re ranked going in."
   },
   "journey": [
     {
@@ -66,7 +66,7 @@
     "venue": "Anacortes HS",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA",
     "home": true,
-    "hostNote": "As the top seed, Orcas is the home team.",
+    "hostNote": "As the top seed, we’re the home team.",
     "opponents": [
       {
         "name": "Providence Classical Christian",
@@ -112,7 +112,7 @@
       "label": "District final",
       "venue": "Sammamish HS",
       "status": "possible",
-      "note": "If they win"
+      "note": "If we win"
     },
     {
       "date": null,
@@ -120,7 +120,7 @@
       "label": "State quarterfinal",
       "venue": "Regional site set by WIAA",
       "status": "expected",
-      "note": "They’re in — date expected"
+      "note": "We’re in — date expected"
     },
     {
       "date": null,
@@ -128,7 +128,7 @@
       "label": "State semifinal",
       "venue": "Mount Tahoma Stadium, Tacoma",
       "status": "expected",
-      "note": "They’re in — date expected"
+      "note": "We’re in — date expected"
     },
     {
       "date": null,
@@ -136,7 +136,7 @@
       "label": "State championship",
       "venue": "Mount Tahoma Stadium, Tacoma",
       "status": "expected",
-      "note": "They’re in — date expected"
+      "note": "We’re in — date expected"
     }
   ],
   "district": {
@@ -2254,27 +2254,27 @@
     {
       "icon": "🔒",
       "title": "State spot locked in",
-      "text": "Even if they lose every remaining district game, they finish no worse than 3rd place — good enough for State."
+      "text": "Even if we lose every remaining district game, we finish no worse than 3rd place — good enough for State."
     },
     {
       "icon": "🏆",
       "title": "Perfect league season (9-0)",
-      "text": "That earned them the #1 ranking in districts, which means a home game and the lowest-ranked opponent first."
+      "text": "That earned us the #1 ranking in districts, which means a home game and the lowest-ranked opponent first."
     },
     {
       "icon": "⚠️",
-      "title": "Providence Classical Christian plays them close",
-      "text": "Orcas won both meetings, but only by one goal each time (3-2 and 4-3). They could be the next opponent."
+      "title": "Providence Classical Christian plays us close",
+      "text": "We won both meetings, but only by one goal each time (3-2 and 4-3). They could be the next opponent."
     },
     {
       "icon": "💪",
       "title": "Unbeaten all season",
-      "text": "16 wins and 1 draw. They’ve scored 94 goals and allowed just 13."
+      "text": "16 wins and 1 draw. We’ve scored 94 goals and allowed just 13."
     },
     {
       "icon": "⭐",
       "title": "Defending State champions",
-      "text": "Fun fact: last year they lost a district game to Mount Vernon Christian and still won State. Once you’re in, districts only decide your ranking."
+      "text": "Fun fact: last year we lost a district game to Mount Vernon Christian and still won State. Once you’re in, districts only decide your ranking."
     }
   ],
   "funnel": [
