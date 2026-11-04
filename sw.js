@@ -1,6 +1,6 @@
 // Service worker: pages are network-first (so new scores show up right away),
 // with a cached fallback for patchy island coverage. Hashed assets are cache-first.
-const CACHE = 'vikings-v1';
+const CACHE = 'vikings-v2';
 
 self.addEventListener('install', (e) => self.skipWaiting());
 self.addEventListener('activate', (e) => {
