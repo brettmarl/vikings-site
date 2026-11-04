@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T03:30:06.498Z",
+  "generatedAt": "2026-11-04T03:36:26.466Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -284,8 +284,8 @@
             "timeKnown": true,
             "venue": "Mt Vernon HS",
             "siteNote": "@ Higher Seed",
-            "played": false,
-            "scoreSource": null,
+            "played": true,
+            "scoreSource": "bracket",
             "teams": [
               {
                 "name": "Columbia Adventist",
@@ -293,7 +293,7 @@
                 "abbr": "CA",
                 "color": "#3D5A99",
                 "isUs": false,
-                "score": null,
+                "score": 0,
                 "winner": false,
                 "seed": null
               },
@@ -303,8 +303,8 @@
                 "abbr": "MV",
                 "color": "#034CB2",
                 "isUs": false,
-                "score": null,
-                "winner": false,
+                "score": 9,
+                "winner": true,
                 "seed": null
               }
             ],
@@ -420,24 +420,11 @@
             "scoreSource": null,
             "teams": [
               {
-                "name": "Winner of Game 3",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Columbia Adventist",
-                    "mascot": null,
-                    "abbr": "CA",
-                    "color": "#3D5A99",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Mount Vernon Christian",
-                    "mascot": "Hurricanes",
-                    "abbr": "MV",
-                    "color": "#034CB2",
-                    "isUs": false
-                  }
-                ],
+                "name": "Mount Vernon Christian",
+                "mascot": "Hurricanes",
+                "abbr": "MV",
+                "color": "#034CB2",
+                "isUs": false,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -475,24 +462,11 @@
             "scoreSource": null,
             "teams": [
               {
-                "name": "Loser of Game 3",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Columbia Adventist",
-                    "mascot": null,
-                    "abbr": "CA",
-                    "color": "#3D5A99",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Mount Vernon Christian",
-                    "mascot": "Hurricanes",
-                    "abbr": "MV",
-                    "color": "#034CB2",
-                    "isUs": false
-                  }
-                ],
+                "name": "Columbia Adventist",
+                "mascot": null,
+                "abbr": "CA",
+                "color": "#3D5A99",
+                "isUs": false,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -562,13 +536,6 @@
                 "name": "Winner of Game 8",
                 "placeholder": true,
                 "candidates": [
-                  {
-                    "name": "Columbia Adventist",
-                    "mascot": null,
-                    "abbr": "CA",
-                    "color": "#3D5A99",
-                    "isUs": false
-                  },
                   {
                     "name": "Mount Vernon Christian",
                     "mascot": "Hurricanes",
@@ -701,8 +668,8 @@
             "timeKnown": true,
             "venue": "Mt Vernon HS",
             "siteNote": "@ Higher Seed",
-            "played": false,
-            "scoreSource": null,
+            "played": true,
+            "scoreSource": "bracket",
             "teams": [
               {
                 "name": "Columbia Adventist",
@@ -710,7 +677,7 @@
                 "abbr": "CA",
                 "color": "#3D5A99",
                 "isUs": false,
-                "score": null,
+                "score": 0,
                 "winner": false,
                 "seed": null
               },
@@ -720,8 +687,8 @@
                 "abbr": "MV",
                 "color": "#034CB2",
                 "isUs": false,
-                "score": null,
-                "winner": false,
+                "score": 9,
+                "winner": true,
                 "seed": null
               }
             ],
@@ -838,24 +805,11 @@
             "scoreSource": null,
             "teams": [
               {
-                "name": "Winner of Game 3",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Columbia Adventist",
-                    "mascot": null,
-                    "abbr": "CA",
-                    "color": "#3D5A99",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Mount Vernon Christian",
-                    "mascot": "Hurricanes",
-                    "abbr": "MV",
-                    "color": "#034CB2",
-                    "isUs": false
-                  }
-                ],
+                "name": "Mount Vernon Christian",
+                "mascot": "Hurricanes",
+                "abbr": "MV",
+                "color": "#034CB2",
+                "isUs": false,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -926,13 +880,6 @@
                 "name": "Winner of Game 8",
                 "placeholder": true,
                 "candidates": [
-                  {
-                    "name": "Columbia Adventist",
-                    "mascot": null,
-                    "abbr": "CA",
-                    "color": "#3D5A99",
-                    "isUs": false
-                  },
                   {
                     "name": "Mount Vernon Christian",
                     "mascot": "Hurricanes",
@@ -1022,24 +969,11 @@
         "scoreSource": null,
         "teams": [
           {
-            "name": "Loser of Game 3",
-            "placeholder": true,
-            "candidates": [
-              {
-                "name": "Columbia Adventist",
-                "mascot": null,
-                "abbr": "CA",
-                "color": "#3D5A99",
-                "isUs": false
-              },
-              {
-                "name": "Mount Vernon Christian",
-                "mascot": "Hurricanes",
-                "abbr": "MV",
-                "color": "#034CB2",
-                "isUs": false
-              }
-            ],
+            "name": "Columbia Adventist",
+            "mascot": null,
+            "abbr": "CA",
+            "color": "#3D5A99",
+            "isUs": false,
             "score": null,
             "winner": false,
             "seed": null
@@ -1463,13 +1397,6 @@
               "placeholder": true,
               "candidates": [
                 {
-                  "name": "Columbia Adventist",
-                  "mascot": null,
-                  "abbr": "CA",
-                  "color": "#3D5A99",
-                  "isUs": false
-                },
-                {
                   "name": "Mount Vernon Christian",
                   "mascot": "Hurricanes",
                   "abbr": "MV",
@@ -1536,6 +1463,13 @@
           "isUs": true
         },
         {
+          "name": "Mount Vernon Christian",
+          "mascot": "Hurricanes",
+          "abbr": "MV",
+          "color": "#034CB2",
+          "isUs": false
+        },
+        {
           "name": "Providence Classical Christian",
           "mascot": "Highlanders",
           "abbr": "PC",
@@ -1585,6 +1519,13 @@
           "isUs": true
         },
         {
+          "name": "Mount Vernon Christian",
+          "mascot": "Hurricanes",
+          "abbr": "MV",
+          "color": "#034CB2",
+          "isUs": false
+        },
+        {
           "name": "Providence Classical Christian",
           "mascot": "Highlanders",
           "abbr": "PC",
@@ -1605,13 +1546,6 @@
           "mascot": "Eagles",
           "abbr": "EL",
           "color": "#00824B",
-          "isUs": false
-        },
-        {
-          "name": "Mount Vernon Christian",
-          "mascot": "Hurricanes",
-          "abbr": "MV",
-          "color": "#034CB2",
           "isUs": false
         },
         {
