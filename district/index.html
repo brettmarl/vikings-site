@@ -28,7 +28,7 @@
         var n = navigator, ua = n.userAgent || '';
         var mm = function (q) { return window.matchMedia && window.matchMedia(q).matches; };
         // Preview: ?install=safari or ?install=chrome shows the install screen on any device.
-        if (/[?&]install=(safari|chrome)\b/.test(location.search)) { document.documentElement.classList.add('needs-install'); return; }
+        if (/[?&]install=(safari27|safari|chrome)\b/.test(location.search)) { document.documentElement.classList.add('needs-install'); return; }
         if (n.standalone === true || mm('(display-mode: standalone)') || mm('(display-mode: fullscreen)') || mm('(display-mode: minimal-ui)')) return;
         if (!(/iPhone|iPad|iPod|Android/.test(ua) || (/Macintosh/.test(ua) && n.maxTouchPoints > 1))) return;
         if (/\/admin\/?$/.test(location.pathname)) return; // the admin dashboard is never gated
@@ -45,7 +45,7 @@
         });
       })();
     </script>
-    <script type="module" crossorigin src="/assets/index-D-9AAbcL.js"></script>
+    <script type="module" crossorigin src="/assets/index-B2j0uym9.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-DuJxNvIv.css">
   </head>
   <body>
