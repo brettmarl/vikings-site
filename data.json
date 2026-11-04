@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T15:14:48.497Z",
+  "generatedAt": "2026-11-04T15:16:22.292Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -121,27 +121,27 @@
     },
     {
       "date": null,
-      "whenText": "Fri Nov 13 (expected)",
+      "whenText": "Fri Nov 13",
       "label": "State quarterfinal",
-      "venue": "Regional site set by WIAA",
-      "status": "expected",
-      "note": "We’re in — date expected"
+      "venue": null,
+      "status": "booked",
+      "note": "Date and site confirmed after districts"
     },
     {
       "date": null,
       "whenText": "Fri Nov 20",
       "label": "State semifinal",
       "venue": "Mount Tahoma Stadium, Tacoma",
-      "status": "expected",
-      "note": "We’re in — date expected"
+      "status": "possible",
+      "note": "If we win the quarterfinal"
     },
     {
       "date": null,
       "whenText": "Sat Nov 21",
       "label": "State championship",
       "venue": "Mount Tahoma Stadium, Tacoma",
-      "status": "expected",
-      "note": "We’re in — date expected"
+      "status": "possible",
+      "note": "If we win the semifinal"
     }
   ],
   "district": {
