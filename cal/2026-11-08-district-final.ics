@@ -4,10 +4,10 @@ PRODID:-//govikings.app//Vikings Soccer//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:2026-11-07-district-final@govikings.app
-DTSTAMP:20261104T041258Z
-DTSTART:20261107T190000Z
-DTEND:20261107T210000Z
+UID:2026-11-08-district-final@govikings.app
+DTSTAMP:20261104T041851Z
+DTSTART:20261108T030000Z
+DTEND:20261108T050000Z
 SUMMARY:Vikings · District final (if we win)
 LOCATION:Sammamish HS
 DESCRIPTION:Orcas Island Vikings boys soccer. Follow along: https://govikings.app

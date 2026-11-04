@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T04:12:49.636Z",
+  "generatedAt": "2026-11-04T04:18:48.376Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -61,7 +61,7 @@
   "nextGame": {
     "stage": "District",
     "label": "District semifinal",
-    "date": "2026-11-05T12:30:00.000Z",
+    "date": "2026-11-05T20:30:00.000Z",
     "timeKnown": true,
     "venue": "Anacortes HS",
     "mapUrl": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA",
@@ -76,14 +76,14 @@
         "isUs": false,
         "meetings": [
           {
-            "date": "2026-10-03T13:00:00.000Z",
+            "date": "2026-10-03T20:00:00.000Z",
             "result": "W",
             "gf": 3,
             "ga": 2,
             "home": true
           },
           {
-            "date": "2026-10-15T15:30:00.000Z",
+            "date": "2026-10-15T22:30:00.000Z",
             "result": "W",
             "gf": 4,
             "ga": 3,
@@ -100,7 +100,7 @@
   },
   "dates": [
     {
-      "date": "2026-11-05T12:30:00.000Z",
+      "date": "2026-11-05T20:30:00.000Z",
       "timeKnown": true,
       "label": "District semifinal",
       "venue": "Anacortes HS",
@@ -109,13 +109,13 @@
       "calId": "2026-11-05-district-semifinal"
     },
     {
-      "date": "2026-11-07T19:00:00.000Z",
+      "date": "2026-11-08T03:00:00.000Z",
       "timeKnown": true,
       "label": "District final",
       "venue": "Sammamish HS",
       "status": "possible",
       "note": "If we win",
-      "calId": "2026-11-07-district-final"
+      "calId": "2026-11-08-district-final"
     },
     {
       "date": null,
@@ -152,12 +152,12 @@
     "status": "in-progress",
     "rounds": [
       {
-        "date": "2026-11-03T12:30:00.000Z",
+        "date": "2026-11-03T20:30:00.000Z",
         "games": [
           {
             "no": "1",
             "label": "District first round",
-            "date": "2026-11-03T12:30:00.000Z",
+            "date": "2026-11-03T20:30:00.000Z",
             "timeKnown": true,
             "venue": "Anacortes HS",
             "siteNote": "@ Higher Seed",
@@ -199,7 +199,7 @@
           {
             "no": "4",
             "label": "District first round",
-            "date": "2026-11-03T14:00:00.000Z",
+            "date": "2026-11-03T22:00:00.000Z",
             "timeKnown": true,
             "venue": "Puyallup Valley Sports Co",
             "siteNote": "@ Higher Seed",
@@ -241,7 +241,7 @@
           {
             "no": "2",
             "label": "District first round",
-            "date": "2026-11-03T14:45:00.000Z",
+            "date": "2026-11-03T22:45:00.000Z",
             "timeKnown": true,
             "venue": "Puyallup Valley Sports Co",
             "siteNote": "@ Higher Seed",
@@ -283,7 +283,7 @@
           {
             "no": "3",
             "label": "District first round",
-            "date": "2026-11-03T18:15:00.000Z",
+            "date": "2026-11-04T02:15:00.000Z",
             "timeKnown": true,
             "venue": "Mt Vernon HS",
             "siteNote": "@ Higher Seed",
@@ -326,12 +326,12 @@
         "title": "District first round"
       },
       {
-        "date": "2026-11-05T12:30:00.000Z",
+        "date": "2026-11-05T20:30:00.000Z",
         "games": [
           {
             "no": "7",
             "label": "District semifinal",
-            "date": "2026-11-05T12:30:00.000Z",
+            "date": "2026-11-05T20:30:00.000Z",
             "timeKnown": true,
             "venue": "Anacortes HS",
             "siteNote": "@ Higher Seed",
@@ -373,7 +373,7 @@
           {
             "no": "8",
             "label": "District semifinal",
-            "date": "2026-11-05T13:00:00.000Z",
+            "date": "2026-11-05T21:00:00.000Z",
             "timeKnown": true,
             "venue": "Mt Vernon HS",
             "siteNote": "@ Higher Seed",
@@ -415,7 +415,7 @@
           {
             "no": "5",
             "label": "Last-chance game",
-            "date": "2026-11-05T13:30:00.000Z",
+            "date": "2026-11-05T21:30:00.000Z",
             "timeKnown": true,
             "venue": "Game Farm Park - Auburn",
             "siteNote": "@ Higher Seed",
@@ -457,7 +457,7 @@
           {
             "no": "6",
             "label": "Last-chance game",
-            "date": "2026-11-05T18:00:00.000Z",
+            "date": "2026-11-06T02:00:00.000Z",
             "timeKnown": true,
             "venue": "Peck Community Sports Par",
             "siteNote": "@ Higher Seed",
@@ -500,12 +500,12 @@
         "title": "District semifinal & Last-chance game"
       },
       {
-        "date": "2026-11-07T19:00:00.000Z",
+        "date": "2026-11-08T03:00:00.000Z",
         "games": [
           {
             "no": "9",
             "label": "District final",
-            "date": "2026-11-07T19:00:00.000Z",
+            "date": "2026-11-08T03:00:00.000Z",
             "timeKnown": true,
             "venue": "Sammamish HS",
             "siteNote": "Sammamish HS",
@@ -577,13 +577,13 @@
     "mainColumns": [
       {
         "title": "First rounds",
-        "date": "2026-11-03T14:45:00.000Z",
+        "date": "2026-11-03T22:45:00.000Z",
         "note": "Winners move on. Losers get one more chance.",
         "games": [
           {
             "no": "2",
             "label": "District first round",
-            "date": "2026-11-03T14:45:00.000Z",
+            "date": "2026-11-03T22:45:00.000Z",
             "timeKnown": true,
             "venue": "Puyallup Valley Sports Co",
             "siteNote": "@ Higher Seed",
@@ -625,7 +625,7 @@
           {
             "no": "1",
             "label": "District first round",
-            "date": "2026-11-03T12:30:00.000Z",
+            "date": "2026-11-03T20:30:00.000Z",
             "timeKnown": true,
             "venue": "Anacortes HS",
             "siteNote": "@ Higher Seed",
@@ -667,7 +667,7 @@
           {
             "no": "3",
             "label": "District first round",
-            "date": "2026-11-03T18:15:00.000Z",
+            "date": "2026-11-04T02:15:00.000Z",
             "timeKnown": true,
             "venue": "Mt Vernon HS",
             "siteNote": "@ Higher Seed",
@@ -709,7 +709,7 @@
           {
             "no": "4",
             "label": "District first round",
-            "date": "2026-11-03T14:00:00.000Z",
+            "date": "2026-11-03T22:00:00.000Z",
             "timeKnown": true,
             "venue": "Puyallup Valley Sports Co",
             "siteNote": "@ Higher Seed",
@@ -752,13 +752,13 @@
       },
       {
         "title": "Semifinals",
-        "date": "2026-11-05T12:30:00.000Z",
+        "date": "2026-11-05T20:30:00.000Z",
         "note": "Winners play in the final. Losers still go to State.",
         "games": [
           {
             "no": "7",
             "label": "District semifinal",
-            "date": "2026-11-05T12:30:00.000Z",
+            "date": "2026-11-05T20:30:00.000Z",
             "timeKnown": true,
             "venue": "Anacortes HS",
             "siteNote": "@ Higher Seed",
@@ -800,7 +800,7 @@
           {
             "no": "8",
             "label": "District semifinal",
-            "date": "2026-11-05T13:00:00.000Z",
+            "date": "2026-11-05T21:00:00.000Z",
             "timeKnown": true,
             "venue": "Mt Vernon HS",
             "siteNote": "@ Higher Seed",
@@ -843,13 +843,13 @@
       },
       {
         "title": "Final",
-        "date": "2026-11-07T19:00:00.000Z",
+        "date": "2026-11-08T03:00:00.000Z",
         "note": "Both teams go to State. This game decides 1st and 2nd.",
         "games": [
           {
             "no": "9",
             "label": "District final",
-            "date": "2026-11-07T19:00:00.000Z",
+            "date": "2026-11-08T03:00:00.000Z",
             "timeKnown": true,
             "venue": "Sammamish HS",
             "siteNote": "Sammamish HS",
@@ -921,7 +921,7 @@
       {
         "no": "5",
         "label": "Last-chance game",
-        "date": "2026-11-05T13:30:00.000Z",
+        "date": "2026-11-05T21:30:00.000Z",
         "timeKnown": true,
         "venue": "Game Farm Park - Auburn",
         "siteNote": "@ Higher Seed",
@@ -964,7 +964,7 @@
       {
         "no": "6",
         "label": "Last-chance game",
-        "date": "2026-11-05T18:00:00.000Z",
+        "date": "2026-11-06T02:00:00.000Z",
         "timeKnown": true,
         "venue": "Peck Community Sports Par",
         "siteNote": "@ Higher Seed",
@@ -1009,7 +1009,7 @@
       {
         "no": "A",
         "label": "Play-in",
-        "date": "2026-10-14T17:30:00.000Z",
+        "date": "2026-10-15T00:30:00.000Z",
         "timeKnown": true,
         "venue": "Concordia Christian Academy",
         "siteNote": "PLAY-IN",
@@ -1048,7 +1048,7 @@
       {
         "no": "B",
         "label": "Play-in",
-        "date": "2026-10-27T19:00:00.000Z",
+        "date": "2026-10-28T02:00:00.000Z",
         "timeKnown": true,
         "venue": "Tenino HS",
         "siteNote": "PLAY-IN",
@@ -1087,7 +1087,7 @@
       {
         "no": "C",
         "label": "Play-in",
-        "date": "2026-10-29T15:30:00.000Z",
+        "date": "2026-10-29T22:30:00.000Z",
         "timeKnown": true,
         "venue": "Puget Sound Adventist Academy",
         "siteNote": "PLAY-IN",
@@ -1126,7 +1126,7 @@
       {
         "no": "D",
         "label": "Play-in",
-        "date": "2026-10-30T14:00:00.000Z",
+        "date": "2026-10-30T21:00:00.000Z",
         "timeKnown": true,
         "venue": "Oak Harbor HS",
         "siteNote": null,
@@ -1168,7 +1168,7 @@
       {
         "no": "E",
         "label": "Play-in",
-        "date": "2026-11-02T19:30:00.000Z",
+        "date": "2026-11-03T03:30:00.000Z",
         "timeKnown": true,
         "venue": "Tenino HS",
         "siteNote": null,
@@ -1213,7 +1213,7 @@
         "game": {
           "no": "1",
           "label": "District first round",
-          "date": "2026-11-03T12:30:00.000Z",
+          "date": "2026-11-03T20:30:00.000Z",
           "timeKnown": true,
           "venue": "Anacortes HS",
           "siteNote": "@ Higher Seed",
@@ -1267,7 +1267,7 @@
         "game": {
           "no": "7",
           "label": "District semifinal",
-          "date": "2026-11-05T12:30:00.000Z",
+          "date": "2026-11-05T20:30:00.000Z",
           "timeKnown": true,
           "venue": "Anacortes HS",
           "siteNote": "@ Higher Seed",
@@ -1322,7 +1322,7 @@
       "game": {
         "no": "7",
         "label": "District semifinal",
-        "date": "2026-11-05T12:30:00.000Z",
+        "date": "2026-11-05T20:30:00.000Z",
         "timeKnown": true,
         "venue": "Anacortes HS",
         "siteNote": "@ Higher Seed",
@@ -1365,7 +1365,7 @@
         "game": {
           "no": "9",
           "label": "District final",
-          "date": "2026-11-07T19:00:00.000Z",
+          "date": "2026-11-08T03:00:00.000Z",
           "timeKnown": true,
           "venue": "Sammamish HS",
           "siteNote": "Sammamish HS",
@@ -1610,7 +1610,7 @@
       "champion": true,
       "games": [
         {
-          "date": "2025-11-14T12:00:00.000Z",
+          "date": "2025-11-14T20:00:00.000Z",
           "opponent": {
             "name": "Upper Columbia Academy",
             "mascot": "Lions",
@@ -1623,7 +1623,7 @@
           "ga": 0
         },
         {
-          "date": "2025-11-21T19:00:00.000Z",
+          "date": "2025-11-22T03:00:00.000Z",
           "opponent": {
             "name": "Evergreen Lutheran",
             "mascot": "Eagles",
@@ -1636,7 +1636,7 @@
           "ga": 1
         },
         {
-          "date": "2025-11-22T15:30:00.000Z",
+          "date": "2025-11-22T23:30:00.000Z",
           "opponent": {
             "name": "St. George's",
             "mascot": "Dragons",
@@ -1827,7 +1827,7 @@
   },
   "results": [
     {
-      "date": "2026-09-11T16:00:00.000Z",
+      "date": "2026-09-11T23:00:00.000Z",
       "opponent": {
         "name": "Lopez",
         "mascot": "Lobos",
@@ -1843,7 +1843,7 @@
       "venue": "Orcas Island High School"
     },
     {
-      "date": "2026-09-12T13:00:00.000Z",
+      "date": "2026-09-12T20:00:00.000Z",
       "opponent": {
         "name": "Evergreen Lutheran",
         "mascot": "Eagles",
@@ -1859,7 +1859,7 @@
       "venue": "Orcas Island High School"
     },
     {
-      "date": "2026-09-18T14:30:00.000Z",
+      "date": "2026-09-18T21:30:00.000Z",
       "opponent": {
         "name": "St. George's",
         "mascot": "Dragons",
@@ -1875,7 +1875,7 @@
       "venue": "Saint Georges High School"
     },
     {
-      "date": "2026-09-19T10:00:00.000Z",
+      "date": "2026-09-19T17:00:00.000Z",
       "opponent": {
         "name": "Chesterton Academy of Notre Dame",
         "mascot": "Knights",
@@ -1891,7 +1891,7 @@
       "venue": "Saint George's high school"
     },
     {
-      "date": "2026-09-23T15:00:00.000Z",
+      "date": "2026-09-23T22:00:00.000Z",
       "opponent": {
         "name": "Mount Vernon Christian",
         "mascot": "Hurricanes",
@@ -1907,7 +1907,7 @@
       "venue": "Mount Vernon Christian"
     },
     {
-      "date": "2026-09-25T15:30:00.000Z",
+      "date": "2026-09-25T22:30:00.000Z",
       "opponent": {
         "name": "Friday Harbor",
         "mascot": "Wolverines",
@@ -1923,7 +1923,7 @@
       "venue": "Linde Community Fields"
     },
     {
-      "date": "2026-09-29T15:15:00.000Z",
+      "date": "2026-09-29T22:15:00.000Z",
       "opponent": {
         "name": "Cedar Park Christian",
         "mascot": "Eagles",
@@ -1939,7 +1939,7 @@
       "venue": "Evergreen Playfields"
     },
     {
-      "date": "2026-10-01T16:00:00.000Z",
+      "date": "2026-10-01T23:00:00.000Z",
       "opponent": {
         "name": "Grace Academy",
         "mascot": "Eagles",
@@ -1955,7 +1955,7 @@
       "venue": "Orcas Island High School"
     },
     {
-      "date": "2026-10-03T13:00:00.000Z",
+      "date": "2026-10-03T20:00:00.000Z",
       "opponent": {
         "name": "Providence Classical Christian",
         "mascot": "Highlanders",
@@ -1971,7 +1971,7 @@
       "venue": "Orcas Island High School"
     },
     {
-      "date": "2026-10-07T16:00:00.000Z",
+      "date": "2026-10-07T23:00:00.000Z",
       "opponent": {
         "name": "Mount Vernon Christian",
         "mascot": "Hurricanes",
@@ -1987,7 +1987,7 @@
       "venue": "Orcas Island High School"
     },
     {
-      "date": "2026-10-09T16:00:00.000Z",
+      "date": "2026-10-09T23:00:00.000Z",
       "opponent": {
         "name": "Lopez",
         "mascot": "Lobos",
@@ -2003,7 +2003,7 @@
       "venue": "Lopez High School"
     },
     {
-      "date": "2026-10-13T16:00:00.000Z",
+      "date": "2026-10-13T23:00:00.000Z",
       "opponent": {
         "name": "Friday Harbor",
         "mascot": "Wolverines",
@@ -2019,7 +2019,7 @@
       "venue": "Orcas Island High School"
     },
     {
-      "date": "2026-10-15T15:30:00.000Z",
+      "date": "2026-10-15T22:30:00.000Z",
       "opponent": {
         "name": "Providence Classical Christian",
         "mascot": "Highlanders",
@@ -2035,7 +2035,7 @@
       "venue": "North Creek Fields"
     },
     {
-      "date": "2026-10-21T14:00:00.000Z",
+      "date": "2026-10-21T21:00:00.000Z",
       "opponent": {
         "name": "La Conner",
         "mascot": "Braves",
@@ -2051,7 +2051,7 @@
       "venue": "Orcas Island High School"
     },
     {
-      "date": "2026-10-24T13:00:00.000Z",
+      "date": "2026-10-24T20:00:00.000Z",
       "opponent": {
         "name": "Evangel Classical",
         "mascot": null,
@@ -2067,7 +2067,7 @@
       "venue": "Orcas Island High School"
     },
     {
-      "date": "2026-10-27T16:00:00.000Z",
+      "date": "2026-10-27T23:00:00.000Z",
       "opponent": {
         "name": "Coupeville",
         "mascot": "Wolves",
@@ -2083,7 +2083,7 @@
       "venue": "COUPEVILLE ELEMENTARY SCHOOL"
     },
     {
-      "date": "2026-11-03T12:30:00.000Z",
+      "date": "2026-11-03T20:30:00.000Z",
       "opponent": {
         "name": "Coupeville",
         "mascot": "Wolves",
@@ -2099,7 +2099,7 @@
       "venue": "Anacortes HS"
     },
     {
-      "date": "2026-11-05T12:30:00.000Z",
+      "date": "2026-11-05T20:30:00.000Z",
       "opponent": {
         "name": "Providence Classical Christian",
         "mascot": "Highlanders",
@@ -2242,162 +2242,162 @@
   ],
   "knownGameTimes": [
     {
-      "start": "2026-09-11T16:00:00.000Z",
+      "start": "2026-09-11T23:00:00.000Z",
       "timeKnown": true,
       "what": "Lopez"
     },
     {
-      "start": "2026-09-12T13:00:00.000Z",
+      "start": "2026-09-12T20:00:00.000Z",
       "timeKnown": true,
       "what": "Evergreen Lutheran"
     },
     {
-      "start": "2026-09-18T14:30:00.000Z",
+      "start": "2026-09-18T21:30:00.000Z",
       "timeKnown": true,
       "what": "St. George's"
     },
     {
-      "start": "2026-09-19T10:00:00.000Z",
+      "start": "2026-09-19T17:00:00.000Z",
       "timeKnown": true,
       "what": "Chesterton Academy of Notre Dame"
     },
     {
-      "start": "2026-09-23T15:00:00.000Z",
+      "start": "2026-09-23T22:00:00.000Z",
       "timeKnown": true,
       "what": "Mount Vernon Christian"
     },
     {
-      "start": "2026-09-25T15:30:00.000Z",
+      "start": "2026-09-25T22:30:00.000Z",
       "timeKnown": true,
       "what": "Friday Harbor"
     },
     {
-      "start": "2026-09-29T15:15:00.000Z",
+      "start": "2026-09-29T22:15:00.000Z",
       "timeKnown": true,
       "what": "Cedar Park Christian"
     },
     {
-      "start": "2026-10-01T16:00:00.000Z",
+      "start": "2026-10-01T23:00:00.000Z",
       "timeKnown": true,
       "what": "Grace Academy"
     },
     {
-      "start": "2026-10-03T13:00:00.000Z",
+      "start": "2026-10-03T20:00:00.000Z",
       "timeKnown": true,
       "what": "Providence Classical Christian"
     },
     {
-      "start": "2026-10-07T16:00:00.000Z",
+      "start": "2026-10-07T23:00:00.000Z",
       "timeKnown": true,
       "what": "Mount Vernon Christian"
     },
     {
-      "start": "2026-10-09T16:00:00.000Z",
+      "start": "2026-10-09T23:00:00.000Z",
       "timeKnown": true,
       "what": "Lopez"
     },
     {
-      "start": "2026-10-13T16:00:00.000Z",
+      "start": "2026-10-13T23:00:00.000Z",
       "timeKnown": true,
       "what": "Friday Harbor"
     },
     {
-      "start": "2026-10-15T15:30:00.000Z",
+      "start": "2026-10-15T22:30:00.000Z",
       "timeKnown": true,
       "what": "Providence Classical Christian"
     },
     {
-      "start": "2026-10-21T14:00:00.000Z",
+      "start": "2026-10-21T21:00:00.000Z",
       "timeKnown": true,
       "what": "La Conner"
     },
     {
-      "start": "2026-10-24T13:00:00.000Z",
+      "start": "2026-10-24T20:00:00.000Z",
       "timeKnown": true,
       "what": "Evangel Classical"
     },
     {
-      "start": "2026-10-27T16:00:00.000Z",
+      "start": "2026-10-27T23:00:00.000Z",
       "timeKnown": true,
       "what": "Coupeville"
     },
     {
-      "start": "2026-11-03T12:30:00.000Z",
+      "start": "2026-11-03T20:30:00.000Z",
       "timeKnown": true,
       "what": "Coupeville"
     },
     {
-      "start": "2026-11-05T12:30:00.000Z",
+      "start": "2026-11-05T20:30:00.000Z",
       "timeKnown": true,
       "what": "Providence Classical Christian"
     },
     {
-      "start": "2026-10-14T17:30:00.000Z",
+      "start": "2026-10-15T00:30:00.000Z",
       "timeKnown": true,
       "what": "District game A"
     },
     {
-      "start": "2026-10-27T19:00:00.000Z",
+      "start": "2026-10-28T02:00:00.000Z",
       "timeKnown": true,
       "what": "District game B"
     },
     {
-      "start": "2026-10-29T15:30:00.000Z",
+      "start": "2026-10-29T22:30:00.000Z",
       "timeKnown": true,
       "what": "District game C"
     },
     {
-      "start": "2026-10-30T14:00:00.000Z",
+      "start": "2026-10-30T21:00:00.000Z",
       "timeKnown": true,
       "what": "District game D"
     },
     {
-      "start": "2026-11-02T19:30:00.000Z",
+      "start": "2026-11-03T03:30:00.000Z",
       "timeKnown": true,
       "what": "District game E"
     },
     {
-      "start": "2026-11-03T12:30:00.000Z",
+      "start": "2026-11-03T20:30:00.000Z",
       "timeKnown": true,
       "what": "District game 1"
     },
     {
-      "start": "2026-11-03T14:00:00.000Z",
+      "start": "2026-11-03T22:00:00.000Z",
       "timeKnown": true,
       "what": "District game 4"
     },
     {
-      "start": "2026-11-03T14:45:00.000Z",
+      "start": "2026-11-03T22:45:00.000Z",
       "timeKnown": true,
       "what": "District game 2"
     },
     {
-      "start": "2026-11-03T18:15:00.000Z",
+      "start": "2026-11-04T02:15:00.000Z",
       "timeKnown": true,
       "what": "District game 3"
     },
     {
-      "start": "2026-11-05T12:30:00.000Z",
+      "start": "2026-11-05T20:30:00.000Z",
       "timeKnown": true,
       "what": "District game 7"
     },
     {
-      "start": "2026-11-05T13:00:00.000Z",
+      "start": "2026-11-05T21:00:00.000Z",
       "timeKnown": true,
       "what": "District game 8"
     },
     {
-      "start": "2026-11-05T13:30:00.000Z",
+      "start": "2026-11-05T21:30:00.000Z",
       "timeKnown": true,
       "what": "District game 5"
     },
     {
-      "start": "2026-11-05T18:00:00.000Z",
+      "start": "2026-11-06T02:00:00.000Z",
       "timeKnown": true,
       "what": "District game 6"
     },
     {
-      "start": "2026-11-07T19:00:00.000Z",
+      "start": "2026-11-08T03:00:00.000Z",
       "timeKnown": true,
       "what": "District game 9"
     }
@@ -2414,7 +2414,7 @@
       "meetings": [
         {
           "season": "2026",
-          "date": "2026-10-09T16:00:00.000Z",
+          "date": "2026-10-09T23:00:00.000Z",
           "result": "W",
           "gf": 3,
           "ga": 1,
@@ -2427,7 +2427,7 @@
         },
         {
           "season": "2026",
-          "date": "2026-09-11T16:00:00.000Z",
+          "date": "2026-09-11T23:00:00.000Z",
           "result": "W",
           "gf": 8,
           "ga": 0,
@@ -2440,7 +2440,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-10-14T16:00:00.000Z",
+          "date": "2025-10-14T23:00:00.000Z",
           "result": "W",
           "gf": 3,
           "ga": 0,
@@ -2453,7 +2453,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-11-23T13:00:00.000Z",
+          "date": "2024-11-23T21:00:00.000Z",
           "result": "W",
           "gf": 2,
           "ga": 0,
@@ -2466,7 +2466,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-11-23T13:00:00.000Z",
+          "date": "2024-11-23T21:00:00.000Z",
           "result": "W",
           "gf": 2,
           "ga": 0,
@@ -2479,7 +2479,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-11-09T14:00:00.000Z",
+          "date": "2024-11-09T22:00:00.000Z",
           "result": "L",
           "gf": 0,
           "ga": 1,
@@ -2492,7 +2492,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-10-18T15:30:00.000Z",
+          "date": "2024-10-18T22:30:00.000Z",
           "result": "W",
           "gf": 1,
           "ga": 0,
@@ -2505,7 +2505,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-10-03T16:30:00.000Z",
+          "date": "2023-10-03T23:30:00.000Z",
           "result": "W",
           "gf": 5,
           "ga": 1,
@@ -2518,7 +2518,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-09-15T16:00:00.000Z",
+          "date": "2023-09-15T23:00:00.000Z",
           "result": "W",
           "gf": 6,
           "ga": 0,
@@ -2531,7 +2531,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-10-08T13:00:00.000Z",
+          "date": "2022-10-08T20:00:00.000Z",
           "result": "W",
           "gf": 6,
           "ga": 0,
@@ -2561,7 +2561,7 @@
       "meetings": [
         {
           "season": "2026",
-          "date": "2026-09-12T13:00:00.000Z",
+          "date": "2026-09-12T20:00:00.000Z",
           "result": "W",
           "gf": 7,
           "ga": 1,
@@ -2574,7 +2574,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-11-21T19:00:00.000Z",
+          "date": "2025-11-22T03:00:00.000Z",
           "result": "W",
           "gf": 6,
           "ga": 1,
@@ -2587,7 +2587,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-10-25T13:00:00.000Z",
+          "date": "2025-10-25T20:00:00.000Z",
           "result": "D",
           "gf": 2,
           "ga": 2,
@@ -2600,7 +2600,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-10-26T13:30:00.000Z",
+          "date": "2024-10-26T20:30:00.000Z",
           "result": "W",
           "gf": 6,
           "ga": 0,
@@ -2613,7 +2613,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-11-10T13:00:00.000Z",
+          "date": "2023-11-10T21:00:00.000Z",
           "result": "W",
           "gf": 2,
           "ga": 1,
@@ -2626,7 +2626,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-11-11T14:00:00.000Z",
+          "date": "2022-11-11T22:00:00.000Z",
           "result": "W",
           "gf": 6,
           "ga": 1,
@@ -2656,7 +2656,7 @@
       "meetings": [
         {
           "season": "2026",
-          "date": "2026-09-18T14:30:00.000Z",
+          "date": "2026-09-18T21:30:00.000Z",
           "result": "W",
           "gf": 7,
           "ga": 1,
@@ -2669,7 +2669,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-11-22T15:30:00.000Z",
+          "date": "2025-11-22T23:30:00.000Z",
           "result": "W",
           "gf": 1,
           "ga": 0,
@@ -2682,7 +2682,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-09-12T15:30:00.000Z",
+          "date": "2025-09-12T22:30:00.000Z",
           "result": "W",
           "gf": 2,
           "ga": 1,
@@ -2695,7 +2695,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-09-13T14:30:00.000Z",
+          "date": "2024-09-13T21:30:00.000Z",
           "result": "L",
           "gf": 1,
           "ga": 4,
@@ -2708,7 +2708,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-09-22T15:30:00.000Z",
+          "date": "2023-09-22T22:30:00.000Z",
           "result": "W",
           "gf": 2,
           "ga": 1,
@@ -2738,7 +2738,7 @@
       "meetings": [
         {
           "season": "2026",
-          "date": "2026-09-19T10:00:00.000Z",
+          "date": "2026-09-19T17:00:00.000Z",
           "result": "W",
           "gf": 6,
           "ga": 0,
@@ -2768,7 +2768,7 @@
       "meetings": [
         {
           "season": "2026",
-          "date": "2026-10-07T16:00:00.000Z",
+          "date": "2026-10-07T23:00:00.000Z",
           "result": "W",
           "gf": 1,
           "ga": 0,
@@ -2781,7 +2781,7 @@
         },
         {
           "season": "2026",
-          "date": "2026-09-23T15:00:00.000Z",
+          "date": "2026-09-23T22:00:00.000Z",
           "result": "D",
           "gf": 0,
           "ga": 0,
@@ -2794,7 +2794,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-11-08T14:00:00.000Z",
+          "date": "2025-11-08T22:00:00.000Z",
           "result": "L",
           "gf": 1,
           "ga": 2,
@@ -2807,7 +2807,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-10-10T16:00:00.000Z",
+          "date": "2025-10-10T23:00:00.000Z",
           "result": "W",
           "gf": 6,
           "ga": 0,
@@ -2820,7 +2820,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-09-23T16:00:00.000Z",
+          "date": "2025-09-23T23:00:00.000Z",
           "result": "D",
           "gf": 1,
           "ga": 1,
@@ -2833,7 +2833,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-10-11T15:00:00.000Z",
+          "date": "2024-10-11T22:00:00.000Z",
           "result": "W",
           "gf": 4,
           "ga": 1,
@@ -2846,7 +2846,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-09-27T16:00:00.000Z",
+          "date": "2024-09-27T23:00:00.000Z",
           "result": "W",
           "gf": 1,
           "ga": 0,
@@ -2859,7 +2859,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-10-28T12:00:00.000Z",
+          "date": "2023-10-28T19:00:00.000Z",
           "result": "L",
           "gf": 0,
           "ga": 0,
@@ -2872,7 +2872,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-09-28T15:15:00.000Z",
+          "date": "2023-09-28T22:15:00.000Z",
           "result": "W",
           "gf": 1,
           "ga": 0,
@@ -2885,7 +2885,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-09-12T15:00:00.000Z",
+          "date": "2023-09-12T22:00:00.000Z",
           "result": "L",
           "gf": 0,
           "ga": 1,
@@ -2898,7 +2898,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-11-18T13:00:00.000Z",
+          "date": "2022-11-18T21:00:00.000Z",
           "result": "W",
           "gf": 1,
           "ga": 0,
@@ -2911,7 +2911,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-10-04T15:30:00.000Z",
+          "date": "2022-10-04T22:30:00.000Z",
           "result": "W",
           "gf": 1,
           "ga": 1,
@@ -2924,7 +2924,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-09-16T16:00:00.000Z",
+          "date": "2022-09-16T23:00:00.000Z",
           "result": "W",
           "gf": 1,
           "ga": 0,
@@ -2954,7 +2954,7 @@
       "meetings": [
         {
           "season": "2026",
-          "date": "2026-10-13T16:00:00.000Z",
+          "date": "2026-10-13T23:00:00.000Z",
           "result": "W",
           "gf": 2,
           "ga": 0,
@@ -2967,7 +2967,7 @@
         },
         {
           "season": "2026",
-          "date": "2026-09-25T15:30:00.000Z",
+          "date": "2026-09-25T22:30:00.000Z",
           "result": "W",
           "gf": 4,
           "ga": 1,
@@ -2980,7 +2980,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-11-06T12:30:00.000Z",
+          "date": "2025-11-06T20:30:00.000Z",
           "result": "W",
           "gf": 0,
           "ga": 0,
@@ -2993,7 +2993,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-10-18T12:30:00.000Z",
+          "date": "2025-10-18T19:30:00.000Z",
           "result": "W",
           "gf": 3,
           "ga": 0,
@@ -3006,7 +3006,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-10-01T15:15:00.000Z",
+          "date": "2025-10-01T22:15:00.000Z",
           "result": "W",
           "gf": 2,
           "ga": 1,
@@ -3019,7 +3019,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-10-15T15:30:00.000Z",
+          "date": "2024-10-15T22:30:00.000Z",
           "result": "W",
           "gf": 1,
           "ga": 0,
@@ -3032,7 +3032,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-10-04T16:00:00.000Z",
+          "date": "2024-10-04T23:00:00.000Z",
           "result": "W",
           "gf": 4,
           "ga": 0,
@@ -3045,7 +3045,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-10-06T15:30:00.000Z",
+          "date": "2023-10-06T22:30:00.000Z",
           "result": "L",
           "gf": 0,
           "ga": 4,
@@ -3058,7 +3058,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-09-19T15:00:00.000Z",
+          "date": "2023-09-19T22:00:00.000Z",
           "result": "L",
           "gf": 0,
           "ga": 1,
@@ -3071,7 +3071,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-11-19T00:00:00.000Z",
+          "date": "2022-11-19T08:00:00.000Z",
           "result": "L",
           "gf": 1,
           "ga": 2,
@@ -3084,7 +3084,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-11-05T12:00:00.000Z",
+          "date": "2022-11-05T19:00:00.000Z",
           "result": "L",
           "gf": 1,
           "ga": 1,
@@ -3097,7 +3097,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-10-11T15:00:00.000Z",
+          "date": "2022-10-11T22:00:00.000Z",
           "result": "W",
           "gf": 3,
           "ga": 2,
@@ -3110,7 +3110,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-09-20T16:00:00.000Z",
+          "date": "2022-09-20T23:00:00.000Z",
           "result": "L",
           "gf": 0,
           "ga": 1,
@@ -3140,7 +3140,7 @@
       "meetings": [
         {
           "season": "2026",
-          "date": "2026-09-29T15:15:00.000Z",
+          "date": "2026-09-29T22:15:00.000Z",
           "result": "W",
           "gf": 9,
           "ga": 1,
@@ -3153,7 +3153,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-10-30T16:00:00.000Z",
+          "date": "2025-10-30T23:00:00.000Z",
           "result": "W",
           "gf": 7,
           "ga": 0,
@@ -3166,7 +3166,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-09-16T15:45:00.000Z",
+          "date": "2025-09-16T22:45:00.000Z",
           "result": "W",
           "gf": 8,
           "ga": 0,
@@ -3179,7 +3179,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-11-01T15:45:00.000Z",
+          "date": "2024-11-01T22:45:00.000Z",
           "result": "W",
           "gf": 4,
           "ga": 1,
@@ -3192,7 +3192,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-09-20T15:00:00.000Z",
+          "date": "2024-09-20T22:00:00.000Z",
           "result": "W",
           "gf": 6,
           "ga": 0,
@@ -3205,7 +3205,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-10-20T14:30:00.000Z",
+          "date": "2023-10-20T21:30:00.000Z",
           "result": "W",
           "gf": 8,
           "ga": 0,
@@ -3218,7 +3218,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-10-25T15:30:00.000Z",
+          "date": "2022-10-25T22:30:00.000Z",
           "result": "W",
           "gf": 11,
           "ga": 0,
@@ -3248,7 +3248,7 @@
       "meetings": [
         {
           "season": "2026",
-          "date": "2026-10-01T16:00:00.000Z",
+          "date": "2026-10-01T23:00:00.000Z",
           "result": "W",
           "gf": 12,
           "ga": 0,
@@ -3261,7 +3261,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-10-08T15:30:00.000Z",
+          "date": "2025-10-08T22:30:00.000Z",
           "result": "W",
           "gf": 9,
           "ga": 0,
@@ -3274,7 +3274,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-10-08T15:00:00.000Z",
+          "date": "2024-10-08T22:00:00.000Z",
           "result": "W",
           "gf": 11,
           "ga": 1,
@@ -3287,7 +3287,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-10-26T15:45:00.000Z",
+          "date": "2023-10-26T22:45:00.000Z",
           "result": "W",
           "gf": 5,
           "ga": 0,
@@ -3300,7 +3300,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-09-30T15:00:00.000Z",
+          "date": "2022-09-30T22:00:00.000Z",
           "result": "W",
           "gf": 3,
           "ga": 1,
@@ -3330,7 +3330,7 @@
       "meetings": [
         {
           "season": "2026",
-          "date": "2026-11-05T12:30:00.000Z",
+          "date": "2026-11-05T20:30:00.000Z",
           "result": null,
           "gf": null,
           "ga": null,
@@ -3343,7 +3343,7 @@
         },
         {
           "season": "2026",
-          "date": "2026-10-15T15:30:00.000Z",
+          "date": "2026-10-15T22:30:00.000Z",
           "result": "W",
           "gf": 4,
           "ga": 3,
@@ -3356,7 +3356,7 @@
         },
         {
           "season": "2026",
-          "date": "2026-10-03T13:00:00.000Z",
+          "date": "2026-10-03T20:00:00.000Z",
           "result": "W",
           "gf": 3,
           "ga": 2,
@@ -3369,7 +3369,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-11-04T12:30:00.000Z",
+          "date": "2025-11-04T20:30:00.000Z",
           "result": "W",
           "gf": 2,
           "ga": 0,
@@ -3382,7 +3382,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-10-22T16:00:00.000Z",
+          "date": "2025-10-22T23:00:00.000Z",
           "result": "W",
           "gf": 3,
           "ga": 0,
@@ -3395,7 +3395,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-11-22T15:00:00.000Z",
+          "date": "2024-11-22T23:00:00.000Z",
           "result": "W",
           "gf": 4,
           "ga": 1,
@@ -3408,7 +3408,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-11-07T19:00:00.000Z",
+          "date": "2024-11-08T03:00:00.000Z",
           "result": "W",
           "gf": 2,
           "ga": 1,
@@ -3421,7 +3421,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-10-22T16:00:00.000Z",
+          "date": "2024-10-22T23:00:00.000Z",
           "result": "W",
           "gf": 3,
           "ga": 2,
@@ -3434,7 +3434,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-11-17T19:00:00.000Z",
+          "date": "2023-11-18T03:00:00.000Z",
           "result": "W",
           "gf": 3,
           "ga": 1,
@@ -3447,7 +3447,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-10-14T14:00:00.000Z",
+          "date": "2023-10-14T21:00:00.000Z",
           "result": "L",
           "gf": 1,
           "ga": 2,
@@ -3460,7 +3460,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-10-14T16:15:00.000Z",
+          "date": "2022-10-14T23:15:00.000Z",
           "result": "W",
           "gf": 5,
           "ga": 0,
@@ -3490,7 +3490,7 @@
       "meetings": [
         {
           "season": "2026",
-          "date": "2026-10-21T14:00:00.000Z",
+          "date": "2026-10-21T21:00:00.000Z",
           "result": "W",
           "gf": 12,
           "ga": 0,
@@ -3503,7 +3503,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-10-24T16:00:00.000Z",
+          "date": "2025-10-24T23:00:00.000Z",
           "result": "W",
           "gf": 3,
           "ga": 1,
@@ -3516,7 +3516,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-09-26T15:30:00.000Z",
+          "date": "2025-09-26T22:30:00.000Z",
           "result": "W",
           "gf": 8,
           "ga": 0,
@@ -3529,7 +3529,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-10-29T15:00:00.000Z",
+          "date": "2024-10-29T22:00:00.000Z",
           "result": "W",
           "gf": 6,
           "ga": 1,
@@ -3542,7 +3542,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-10-01T16:00:00.000Z",
+          "date": "2024-10-01T23:00:00.000Z",
           "result": "W",
           "gf": 6,
           "ga": 0,
@@ -3555,7 +3555,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-10-12T15:15:00.000Z",
+          "date": "2023-10-12T22:15:00.000Z",
           "result": "W",
           "gf": 4,
           "ga": 2,
@@ -3568,7 +3568,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-10-22T13:00:00.000Z",
+          "date": "2022-10-22T20:00:00.000Z",
           "result": "W",
           "gf": 12,
           "ga": 1,
@@ -3581,7 +3581,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-10-18T15:00:00.000Z",
+          "date": "2022-10-18T22:00:00.000Z",
           "result": "W",
           "gf": 1,
           "ga": 0,
@@ -3594,7 +3594,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-09-13T16:00:00.000Z",
+          "date": "2022-09-13T23:00:00.000Z",
           "result": "W",
           "gf": 4,
           "ga": 1,
@@ -3624,7 +3624,7 @@
       "meetings": [
         {
           "season": "2026",
-          "date": "2026-10-24T13:00:00.000Z",
+          "date": "2026-10-24T20:00:00.000Z",
           "result": "W",
           "gf": 10,
           "ga": 1,
@@ -3637,7 +3637,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-09-19T16:00:00.000Z",
+          "date": "2025-09-19T23:00:00.000Z",
           "result": "W",
           "gf": 11,
           "ga": 0,
@@ -3667,7 +3667,7 @@
       "meetings": [
         {
           "season": "2026",
-          "date": "2026-11-03T12:30:00.000Z",
+          "date": "2026-11-03T20:30:00.000Z",
           "result": "W",
           "gf": 3,
           "ga": 1,
@@ -3680,7 +3680,7 @@
         },
         {
           "season": "2026",
-          "date": "2026-10-27T16:00:00.000Z",
+          "date": "2026-10-27T23:00:00.000Z",
           "result": "W",
           "gf": 3,
           "ga": 1,
@@ -3693,7 +3693,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-10-04T13:00:00.000Z",
+          "date": "2025-10-04T20:00:00.000Z",
           "result": "W",
           "gf": 8,
           "ga": 0,
@@ -3706,7 +3706,7 @@
         },
         {
           "season": "2025",
-          "date": "2025-09-13T12:30:00.000Z",
+          "date": "2025-09-13T19:30:00.000Z",
           "result": "W",
           "gf": 9,
           "ga": 0,
@@ -3719,7 +3719,7 @@
         },
         {
           "season": "2024",
-          "date": "2024-11-02T12:30:00.000Z",
+          "date": "2024-11-02T19:30:00.000Z",
           "result": "W",
           "gf": 5,
           "ga": 0,
@@ -3732,7 +3732,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-10-24T15:00:00.000Z",
+          "date": "2023-10-24T22:00:00.000Z",
           "result": "W",
           "gf": 10,
           "ga": 1,
@@ -3745,7 +3745,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-09-23T12:00:00.000Z",
+          "date": "2023-09-23T19:00:00.000Z",
           "result": "L",
           "gf": 3,
           "ga": 4,
@@ -3758,7 +3758,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-10-27T15:00:00.000Z",
+          "date": "2022-10-27T22:00:00.000Z",
           "result": "W",
           "gf": 8,
           "ga": 1,
@@ -3771,7 +3771,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-09-27T16:00:00.000Z",
+          "date": "2022-09-27T23:00:00.000Z",
           "result": "W",
           "gf": 5,
           "ga": 2,
@@ -3801,7 +3801,7 @@
       "meetings": [
         {
           "season": "2025",
-          "date": "2025-11-14T12:00:00.000Z",
+          "date": "2025-11-14T20:00:00.000Z",
           "result": "W",
           "gf": 5,
           "ga": 0,
@@ -3814,7 +3814,7 @@
         },
         {
           "season": "2023",
-          "date": "2023-11-18T18:00:00.000Z",
+          "date": "2023-11-19T02:00:00.000Z",
           "result": "L",
           "gf": 0,
           "ga": 2,
@@ -3844,7 +3844,7 @@
       "meetings": [
         {
           "season": "2024",
-          "date": "2024-09-14T10:00:00.000Z",
+          "date": "2024-09-14T17:00:00.000Z",
           "result": "W",
           "gf": 5,
           "ga": 0,
@@ -3874,7 +3874,7 @@
       "meetings": [
         {
           "season": "2024",
-          "date": "2024-11-05T14:30:00.000Z",
+          "date": "2024-11-05T22:30:00.000Z",
           "result": "W",
           "gf": 7,
           "ga": 0,
@@ -3904,7 +3904,7 @@
       "meetings": [
         {
           "season": "2024",
-          "date": "2024-11-16T18:30:00.000Z",
+          "date": "2024-11-17T02:30:00.000Z",
           "result": "W",
           "gf": 3,
           "ga": 1,
@@ -3917,7 +3917,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-10-20T15:00:00.000Z",
+          "date": "2022-10-20T22:00:00.000Z",
           "result": "W",
           "gf": 7,
           "ga": 0,
@@ -3947,7 +3947,7 @@
       "meetings": [
         {
           "season": "2023",
-          "date": "2023-09-16T13:30:00.000Z",
+          "date": "2023-09-16T20:30:00.000Z",
           "result": "W",
           "gf": 4,
           "ga": 0,
@@ -3960,7 +3960,7 @@
         },
         {
           "season": "2022",
-          "date": "2022-09-10T13:30:00.000Z",
+          "date": "2022-09-10T20:30:00.000Z",
           "result": "W",
           "gf": 12,
           "ga": 0,
@@ -3990,7 +3990,7 @@
       "meetings": [
         {
           "season": "2022",
-          "date": "2022-11-01T17:30:00.000Z",
+          "date": "2022-11-02T00:30:00.000Z",
           "result": "W",
           "gf": 1,
           "ga": 0,
@@ -4015,15 +4015,15 @@
     {
       "id": "2026-11-05-district-semifinal",
       "title": "Vikings vs Providence Classical · District semifinal",
-      "start": "2026-11-05T12:30:00.000Z",
+      "start": "2026-11-05T20:30:00.000Z",
       "timeKnown": true,
       "location": "Anacortes HS",
       "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
     },
     {
-      "id": "2026-11-07-district-final",
+      "id": "2026-11-08-district-final",
       "title": "Vikings · District final (if we win)",
-      "start": "2026-11-07T19:00:00.000Z",
+      "start": "2026-11-08T03:00:00.000Z",
       "timeKnown": true,
       "location": "Sammamish HS",
       "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
