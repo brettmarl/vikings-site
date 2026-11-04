@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T00:12:23.204Z",
+  "generatedAt": "2026-11-04T01:38:15.613Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -63,8 +63,8 @@
     "label": "District semifinal",
     "date": "2026-11-05T20:30:00.000Z",
     "timeKnown": true,
-    "venue": "Anacortes High School",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Anacortes%20High%20School%2C%20WA",
+    "venue": "Anacortes HS",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA",
     "home": true,
     "hostNote": "As the top seed, Orcas is the home team.",
     "opponents": [
@@ -90,40 +90,11 @@
             "home": false
           }
         ]
-      },
-      {
-        "name": "Auburn Adventist",
-        "mascot": null,
-        "abbr": "AA",
-        "color": "#8C3B4A",
-        "isUs": false,
-        "meetings": []
       }
     ],
-    "feeder": {
-      "teams": [
-        {
-          "name": "Providence Classical Christian",
-          "mascot": "Highlanders",
-          "abbr": "PCC",
-          "color": "#022C66",
-          "isUs": false
-        },
-        {
-          "name": "Auburn Adventist",
-          "mascot": null,
-          "abbr": "AA",
-          "color": "#8C3B4A",
-          "isUs": false
-        }
-      ],
-      "date": "2026-11-03T22:45:00.000Z",
-      "timeKnown": true,
-      "venue": "Puyallup Valley Sports Co",
-      "played": false
-    },
+    "feeder": null,
     "links": {
-      "map": "https://www.google.com/maps/search/?api=1&query=Anacortes%20High%20School%2C%20WA"
+      "map": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA"
     }
   },
   "dates": [
@@ -131,7 +102,7 @@
       "date": "2026-11-05T20:30:00.000Z",
       "timeKnown": true,
       "label": "District semifinal",
-      "venue": "Anacortes High School",
+      "venue": "Anacortes HS",
       "status": "confirmed",
       "note": "Next game"
     },
@@ -271,8 +242,8 @@
             "timeKnown": true,
             "venue": "Puyallup Valley Sports Co",
             "siteNote": "@ Higher Seed",
-            "played": false,
-            "scoreSource": null,
+            "played": true,
+            "scoreSource": "bracket",
             "teams": [
               {
                 "name": "Providence Classical Christian",
@@ -280,8 +251,8 @@
                 "abbr": "PCC",
                 "color": "#022C66",
                 "isUs": false,
-                "score": null,
-                "winner": false,
+                "score": 5,
+                "winner": true,
                 "seed": null
               },
               {
@@ -290,7 +261,7 @@
                 "abbr": "AA",
                 "color": "#8C3B4A",
                 "isUs": false,
-                "score": null,
+                "score": 0,
                 "winner": false,
                 "seed": null
               }
@@ -375,24 +346,11 @@
                 "seed": null
               },
               {
-                "name": "Loser of Game 2",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Providence Classical Christian",
-                    "mascot": "Highlanders",
-                    "abbr": "PCC",
-                    "color": "#022C66",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Auburn Adventist",
-                    "mascot": null,
-                    "abbr": "AA",
-                    "color": "#8C3B4A",
-                    "isUs": false
-                  }
-                ],
+                "name": "Auburn Adventist",
+                "mascot": null,
+                "abbr": "AA",
+                "color": "#8C3B4A",
+                "isUs": false,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -414,40 +372,27 @@
             "label": "District semifinal",
             "date": "2026-11-05T20:30:00.000Z",
             "timeKnown": true,
-            "venue": "Anacortes High School",
+            "venue": "Anacortes HS",
             "siteNote": "@ Higher Seed",
             "played": false,
             "scoreSource": null,
             "teams": [
+              {
+                "name": "Providence Classical Christian",
+                "mascot": "Highlanders",
+                "abbr": "PCC",
+                "color": "#022C66",
+                "isUs": false,
+                "score": null,
+                "winner": false,
+                "seed": null
+              },
               {
                 "name": "Orcas Island",
                 "mascot": "Vikings",
                 "abbr": "OI",
                 "color": "#034CB2",
                 "isUs": true,
-                "score": null,
-                "winner": false,
-                "seed": null
-              },
-              {
-                "name": "Winner of Game 2",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Providence Classical Christian",
-                    "mascot": "Highlanders",
-                    "abbr": "PCC",
-                    "color": "#022C66",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Auburn Adventist",
-                    "mascot": null,
-                    "abbr": "AA",
-                    "color": "#8C3B4A",
-                    "isUs": false
-                  }
-                ],
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -595,13 +540,6 @@
                 "placeholder": true,
                 "candidates": [
                   {
-                    "name": "Orcas Island",
-                    "mascot": "Vikings",
-                    "abbr": "OI",
-                    "color": "#034CB2",
-                    "isUs": true
-                  },
-                  {
                     "name": "Providence Classical Christian",
                     "mascot": "Highlanders",
                     "abbr": "PCC",
@@ -609,11 +547,11 @@
                     "isUs": false
                   },
                   {
-                    "name": "Auburn Adventist",
-                    "mascot": null,
-                    "abbr": "AA",
-                    "color": "#8C3B4A",
-                    "isUs": false
+                    "name": "Orcas Island",
+                    "mascot": "Vikings",
+                    "abbr": "OI",
+                    "color": "#034CB2",
+                    "isUs": true
                   }
                 ],
                 "score": null,
@@ -669,9 +607,51 @@
     "mainColumns": [
       {
         "title": "First rounds",
-        "date": "2026-11-03T20:30:00.000Z",
+        "date": "2026-11-03T22:45:00.000Z",
         "note": "Winners move on. Losers get one more chance.",
         "games": [
+          {
+            "no": "2",
+            "label": "District first round",
+            "date": "2026-11-03T22:45:00.000Z",
+            "timeKnown": true,
+            "venue": "Puyallup Valley Sports Co",
+            "siteNote": "@ Higher Seed",
+            "played": true,
+            "scoreSource": "bracket",
+            "teams": [
+              {
+                "name": "Providence Classical Christian",
+                "mascot": "Highlanders",
+                "abbr": "PCC",
+                "color": "#022C66",
+                "isUs": false,
+                "score": 5,
+                "winner": true,
+                "seed": null
+              },
+              {
+                "name": "Auburn Adventist",
+                "mascot": null,
+                "abbr": "AA",
+                "color": "#8C3B4A",
+                "isUs": false,
+                "score": 0,
+                "winner": false,
+                "seed": null
+              }
+            ],
+            "winner": {
+              "text": "District semifinal",
+              "state": false
+            },
+            "loser": {
+              "text": "Last-chance game",
+              "state": false
+            },
+            "ours": false,
+            "maybeOurs": false
+          },
           {
             "no": "1",
             "label": "District first round",
@@ -712,48 +692,6 @@
               "state": false
             },
             "ours": true,
-            "maybeOurs": false
-          },
-          {
-            "no": "2",
-            "label": "District first round",
-            "date": "2026-11-03T22:45:00.000Z",
-            "timeKnown": true,
-            "venue": "Puyallup Valley Sports Co",
-            "siteNote": "@ Higher Seed",
-            "played": false,
-            "scoreSource": null,
-            "teams": [
-              {
-                "name": "Providence Classical Christian",
-                "mascot": "Highlanders",
-                "abbr": "PCC",
-                "color": "#022C66",
-                "isUs": false,
-                "score": null,
-                "winner": false,
-                "seed": null
-              },
-              {
-                "name": "Auburn Adventist",
-                "mascot": null,
-                "abbr": "AA",
-                "color": "#8C3B4A",
-                "isUs": false,
-                "score": null,
-                "winner": false,
-                "seed": null
-              }
-            ],
-            "winner": {
-              "text": "District semifinal",
-              "state": false
-            },
-            "loser": {
-              "text": "Last-chance game",
-              "state": false
-            },
-            "ours": false,
             "maybeOurs": false
           },
           {
@@ -852,40 +790,27 @@
             "label": "District semifinal",
             "date": "2026-11-05T20:30:00.000Z",
             "timeKnown": true,
-            "venue": "Anacortes High School",
+            "venue": "Anacortes HS",
             "siteNote": "@ Higher Seed",
             "played": false,
             "scoreSource": null,
             "teams": [
+              {
+                "name": "Providence Classical Christian",
+                "mascot": "Highlanders",
+                "abbr": "PCC",
+                "color": "#022C66",
+                "isUs": false,
+                "score": null,
+                "winner": false,
+                "seed": null
+              },
               {
                 "name": "Orcas Island",
                 "mascot": "Vikings",
                 "abbr": "OI",
                 "color": "#034CB2",
                 "isUs": true,
-                "score": null,
-                "winner": false,
-                "seed": null
-              },
-              {
-                "name": "Winner of Game 2",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Providence Classical Christian",
-                    "mascot": "Highlanders",
-                    "abbr": "PCC",
-                    "color": "#022C66",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Auburn Adventist",
-                    "mascot": null,
-                    "abbr": "AA",
-                    "color": "#8C3B4A",
-                    "isUs": false
-                  }
-                ],
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -979,13 +904,6 @@
                 "placeholder": true,
                 "candidates": [
                   {
-                    "name": "Orcas Island",
-                    "mascot": "Vikings",
-                    "abbr": "OI",
-                    "color": "#034CB2",
-                    "isUs": true
-                  },
-                  {
                     "name": "Providence Classical Christian",
                     "mascot": "Highlanders",
                     "abbr": "PCC",
@@ -993,11 +911,11 @@
                     "isUs": false
                   },
                   {
-                    "name": "Auburn Adventist",
-                    "mascot": null,
-                    "abbr": "AA",
-                    "color": "#8C3B4A",
-                    "isUs": false
+                    "name": "Orcas Island",
+                    "mascot": "Vikings",
+                    "abbr": "OI",
+                    "color": "#034CB2",
+                    "isUs": true
                   }
                 ],
                 "score": null,
@@ -1071,24 +989,11 @@
             "seed": null
           },
           {
-            "name": "Loser of Game 2",
-            "placeholder": true,
-            "candidates": [
-              {
-                "name": "Providence Classical Christian",
-                "mascot": "Highlanders",
-                "abbr": "PCC",
-                "color": "#022C66",
-                "isUs": false
-              },
-              {
-                "name": "Auburn Adventist",
-                "mascot": null,
-                "abbr": "AA",
-                "color": "#8C3B4A",
-                "isUs": false
-              }
-            ],
+            "name": "Auburn Adventist",
+            "mascot": null,
+            "abbr": "AA",
+            "color": "#8C3B4A",
+            "isUs": false,
             "score": null,
             "winner": false,
             "seed": null
@@ -1427,40 +1332,27 @@
           "label": "District semifinal",
           "date": "2026-11-05T20:30:00.000Z",
           "timeKnown": true,
-          "venue": "Anacortes High School",
+          "venue": "Anacortes HS",
           "siteNote": "@ Higher Seed",
           "played": false,
           "scoreSource": null,
           "teams": [
+            {
+              "name": "Providence Classical Christian",
+              "mascot": "Highlanders",
+              "abbr": "PCC",
+              "color": "#022C66",
+              "isUs": false,
+              "score": null,
+              "winner": false,
+              "seed": null
+            },
             {
               "name": "Orcas Island",
               "mascot": "Vikings",
               "abbr": "OI",
               "color": "#034CB2",
               "isUs": true,
-              "score": null,
-              "winner": false,
-              "seed": null
-            },
-            {
-              "name": "Winner of Game 2",
-              "placeholder": true,
-              "candidates": [
-                {
-                  "name": "Providence Classical Christian",
-                  "mascot": "Highlanders",
-                  "abbr": "PCC",
-                  "color": "#022C66",
-                  "isUs": false
-                },
-                {
-                  "name": "Auburn Adventist",
-                  "mascot": null,
-                  "abbr": "AA",
-                  "color": "#8C3B4A",
-                  "isUs": false
-                }
-              ],
               "score": null,
               "winner": false,
               "seed": null
@@ -1481,24 +1373,11 @@
         "gf": null,
         "ga": null,
         "opponent": {
-          "name": "Winner of Game 2",
-          "placeholder": true,
-          "candidates": [
-            {
-              "name": "Providence Classical Christian",
-              "mascot": "Highlanders",
-              "abbr": "PCC",
-              "color": "#022C66",
-              "isUs": false
-            },
-            {
-              "name": "Auburn Adventist",
-              "mascot": null,
-              "abbr": "AA",
-              "color": "#8C3B4A",
-              "isUs": false
-            }
-          ]
+          "name": "Providence Classical Christian",
+          "mascot": "Highlanders",
+          "abbr": "PCC",
+          "color": "#022C66",
+          "isUs": false
         }
       }
     ],
@@ -1508,40 +1387,27 @@
         "label": "District semifinal",
         "date": "2026-11-05T20:30:00.000Z",
         "timeKnown": true,
-        "venue": "Anacortes High School",
+        "venue": "Anacortes HS",
         "siteNote": "@ Higher Seed",
         "played": false,
         "scoreSource": null,
         "teams": [
+          {
+            "name": "Providence Classical Christian",
+            "mascot": "Highlanders",
+            "abbr": "PCC",
+            "color": "#022C66",
+            "isUs": false,
+            "score": null,
+            "winner": false,
+            "seed": null
+          },
           {
             "name": "Orcas Island",
             "mascot": "Vikings",
             "abbr": "OI",
             "color": "#034CB2",
             "isUs": true,
-            "score": null,
-            "winner": false,
-            "seed": null
-          },
-          {
-            "name": "Winner of Game 2",
-            "placeholder": true,
-            "candidates": [
-              {
-                "name": "Providence Classical Christian",
-                "mascot": "Highlanders",
-                "abbr": "PCC",
-                "color": "#022C66",
-                "isUs": false
-              },
-              {
-                "name": "Auburn Adventist",
-                "mascot": null,
-                "abbr": "AA",
-                "color": "#8C3B4A",
-                "isUs": false
-              }
-            ],
             "score": null,
             "winner": false,
             "seed": null
@@ -1574,13 +1440,6 @@
               "placeholder": true,
               "candidates": [
                 {
-                  "name": "Orcas Island",
-                  "mascot": "Vikings",
-                  "abbr": "OI",
-                  "color": "#034CB2",
-                  "isUs": true
-                },
-                {
                   "name": "Providence Classical Christian",
                   "mascot": "Highlanders",
                   "abbr": "PCC",
@@ -1588,11 +1447,11 @@
                   "isUs": false
                 },
                 {
-                  "name": "Auburn Adventist",
-                  "mascot": null,
-                  "abbr": "AA",
-                  "color": "#8C3B4A",
-                  "isUs": false
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
+                  "color": "#034CB2",
+                  "isUs": true
                 }
               ],
               "score": null,
@@ -1677,6 +1536,13 @@
           "isUs": true
         },
         {
+          "name": "Providence Classical Christian",
+          "mascot": "Highlanders",
+          "abbr": "PCC",
+          "color": "#022C66",
+          "isUs": false
+        },
+        {
           "name": "Friday Harbor",
           "mascot": "Wolverines",
           "abbr": "FH",
@@ -1719,6 +1585,13 @@
           "isUs": true
         },
         {
+          "name": "Providence Classical Christian",
+          "mascot": "Highlanders",
+          "abbr": "PCC",
+          "color": "#022C66",
+          "isUs": false
+        },
+        {
           "name": "Friday Harbor",
           "mascot": "Wolverines",
           "abbr": "FH",
@@ -1746,13 +1619,6 @@
           "mascot": null,
           "abbr": "AA",
           "color": "#8C3B4A",
-          "isUs": false
-        },
-        {
-          "name": "Providence Classical Christian",
-          "mascot": "Highlanders",
-          "abbr": "PCC",
-          "color": "#022C66",
           "isUs": false
         },
         {
@@ -2298,41 +2164,11 @@
     {
       "date": "2026-11-05T20:30:00.000Z",
       "opponent": {
-        "name": "Providence Classical Christian or Auburn Adventist",
-        "placeholder": true,
-        "candidates": [
-          {
-            "name": "Providence Classical Christian",
-            "mascot": "Highlanders",
-            "abbr": "PCC",
-            "color": "#022C66",
-            "isUs": false,
-            "meetings": [
-              {
-                "date": "2026-10-03T20:00:00.000Z",
-                "result": "W",
-                "gf": 3,
-                "ga": 2,
-                "home": true
-              },
-              {
-                "date": "2026-10-15T22:30:00.000Z",
-                "result": "W",
-                "gf": 4,
-                "ga": 3,
-                "home": false
-              }
-            ]
-          },
-          {
-            "name": "Auburn Adventist",
-            "mascot": null,
-            "abbr": "AA",
-            "color": "#8C3B4A",
-            "isUs": false,
-            "meetings": []
-          }
-        ]
+        "name": "Providence Classical Christian",
+        "mascot": "Highlanders",
+        "abbr": "PCC",
+        "color": "#022C66",
+        "isUs": false
       },
       "home": true,
       "result": null,
@@ -2556,7 +2392,7 @@
     {
       "start": "2026-11-05T20:30:00.000Z",
       "timeKnown": true,
-      "what": "Winner #2 (Providence Classical Christian / Auburn Adventist)"
+      "what": "Providence Classical Christian"
     },
     {
       "start": "2026-10-15T00:30:00.000Z",
