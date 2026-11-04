@@ -1,6 +1,6 @@
 // Service worker: pages are network-first (so new scores show up right away),
 // with a cached fallback for patchy island coverage. Hashed assets are cache-first.
-const CACHE = 'vikings-v2';
+const CACHE = 'vikings-v3';
 
 self.addEventListener('install', (e) => self.skipWaiting());
 self.addEventListener('activate', (e) => {
@@ -15,7 +15,9 @@ self.addEventListener('fetch', (e) => {
   const isPage = req.mode === 'navigate' || req.headers.get('accept')?.includes('text/html');
   if (isPage) {
     e.respondWith(
-      fetch(req)
+      // cache: 'no-cache' revalidates with the server, so a fresh deploy shows up
+      // right away instead of after GitHub Pages' 10-minute browser cache.
+      fetch(req, { cache: 'no-cache' })
         .then((res) => {
           caches.open(CACHE).then((c) => c.put(req, res.clone()));
           return res;
