@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T23:31:06.348Z",
+  "generatedAt": "2026-11-05T23:46:07.077Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -56,7 +56,7 @@
   ],
   "connectors": [
     "League title earned the top seed for districts",
-    "Top 4 from districts go to State"
+    "Top 3 from districts go to State"
   ],
   "nextGame": {
     "stage": "District",
@@ -423,8 +423,8 @@
             "timeKnown": true,
             "venue": "Game Farm Park - Auburn",
             "siteNote": "@ Higher Seed",
-            "played": false,
-            "scoreSource": null,
+            "played": true,
+            "scoreSource": "bracket",
             "teams": [
               {
                 "name": "Coupeville",
@@ -432,7 +432,7 @@
                 "abbr": "CO",
                 "color": "#CC0022",
                 "isUs": false,
-                "score": null,
+                "score": 0,
                 "winner": false,
                 "seed": null
               },
@@ -442,15 +442,14 @@
                 "abbr": "AA",
                 "color": "#8C3B4A",
                 "isUs": false,
-                "score": null,
-                "winner": false,
+                "score": 1,
+                "winner": true,
                 "seed": null
               }
             ],
             "winner": {
-              "text": "5th place · to State",
-              "short": "5th place",
-              "state": true
+              "text": "5th place",
+              "state": false
             },
             "loser": {
               "text": "Season over",
@@ -893,8 +892,8 @@
         "timeKnown": true,
         "venue": "Game Farm Park - Auburn",
         "siteNote": "@ Higher Seed",
-        "played": false,
-        "scoreSource": null,
+        "played": true,
+        "scoreSource": "bracket",
         "teams": [
           {
             "name": "Coupeville",
@@ -902,7 +901,7 @@
             "abbr": "CO",
             "color": "#CC0022",
             "isUs": false,
-            "score": null,
+            "score": 0,
             "winner": false,
             "seed": null
           },
@@ -912,15 +911,14 @@
             "abbr": "AA",
             "color": "#8C3B4A",
             "isUs": false,
-            "score": null,
-            "winner": false,
+            "score": 1,
+            "winner": true,
             "seed": null
           }
         ],
         "winner": {
-          "text": "5th place · to State",
-          "short": "5th place",
-          "state": true
+          "text": "5th place",
+          "state": false
         },
         "loser": {
           "text": "Season over",
@@ -928,7 +926,7 @@
         },
         "ours": false,
         "maybeOurs": false,
-        "note": "Winner goes to State. Loser’s season ends."
+        "note": null
       },
       {
         "no": "6",
@@ -1414,11 +1412,11 @@
     },
     "guaranteedState": true,
     "final": null,
-    "berths": 4,
+    "berths": 3,
     "teamCount": null,
     "bracketLagging": false,
     "stateSpots": {
-      "total": 4,
+      "total": 3,
       "teams": [
         {
           "name": "Orcas Island",
@@ -1489,20 +1487,6 @@
           "isUs": false
         },
         {
-          "name": "Auburn Adventist",
-          "mascot": null,
-          "abbr": "AA",
-          "color": "#8C3B4A",
-          "isUs": false
-        },
-        {
-          "name": "Coupeville",
-          "mascot": "Wolves",
-          "abbr": "CO",
-          "color": "#CC0022",
-          "isUs": false
-        },
-        {
           "name": "Columbia Adventist",
           "mascot": null,
           "abbr": "CA",
@@ -1511,6 +1495,13 @@
         }
       ],
       "out": [
+        {
+          "name": "Auburn Adventist",
+          "mascot": null,
+          "abbr": "AA",
+          "color": "#8C3B4A",
+          "isUs": false
+        },
         {
           "name": "Providence Classical Christian",
           "mascot": "Highlanders",
@@ -1530,6 +1521,13 @@
           "mascot": null,
           "abbr": "PS",
           "color": "#2E7D6B",
+          "isUs": false
+        },
+        {
+          "name": "Coupeville",
+          "mascot": "Wolves",
+          "abbr": "CO",
+          "color": "#CC0022",
           "isUs": false
         },
         {
@@ -1554,8 +1552,8 @@
           "isUs": false
         }
       ],
-      "fromDistrict": 4,
-      "fromElsewhere": 4
+      "fromDistrict": 3,
+      "fromElsewhere": 5
     },
     "lastYear": {
       "champion": true,
@@ -2191,7 +2189,7 @@
     {
       "stage": "District",
       "teams": null,
-      "text": "A separate tournament with teams from several leagues. The top 4 earn a trip to State.",
+      "text": "A separate tournament with teams from several leagues. The top 3 earn a trip to State.",
       "us": "2 wins so far"
     },
     {
@@ -4026,7 +4024,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-05T23:31:06.348Z",
+    "generatedAt": "2026-11-05T23:46:07.077Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -4083,7 +4081,7 @@
     ],
     "connectors": [
       "Ganar la liga nos dio el primer lugar en el sembrado del distrito",
-      "Los 4 mejores del distrito van al Estatal"
+      "Los 3 mejores del distrito van al Estatal"
     ],
     "nextGame": {
       "stage": "District",
@@ -4450,8 +4448,8 @@
               "timeKnown": true,
               "venue": "Game Farm Park - Auburn",
               "siteNote": "@ Higher Seed",
-              "played": false,
-              "scoreSource": null,
+              "played": true,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Coupeville",
@@ -4459,7 +4457,7 @@
                   "abbr": "CO",
                   "color": "#CC0022",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
                   "winner": false,
                   "seed": null
                 },
@@ -4469,15 +4467,14 @@
                   "abbr": "AA",
                   "color": "#8C3B4A",
                   "isUs": false,
-                  "score": null,
-                  "winner": false,
+                  "score": 1,
+                  "winner": true,
                   "seed": null
                 }
               ],
               "winner": {
-                "text": "5.º lugar · al Estatal",
-                "short": "5.º lugar",
-                "state": true
+                "text": "5.º lugar",
+                "state": false
               },
               "loser": {
                 "text": "Fin de temporada",
@@ -4920,8 +4917,8 @@
           "timeKnown": true,
           "venue": "Game Farm Park - Auburn",
           "siteNote": "@ Higher Seed",
-          "played": false,
-          "scoreSource": null,
+          "played": true,
+          "scoreSource": "bracket",
           "teams": [
             {
               "name": "Coupeville",
@@ -4929,7 +4926,7 @@
               "abbr": "CO",
               "color": "#CC0022",
               "isUs": false,
-              "score": null,
+              "score": 0,
               "winner": false,
               "seed": null
             },
@@ -4939,15 +4936,14 @@
               "abbr": "AA",
               "color": "#8C3B4A",
               "isUs": false,
-              "score": null,
-              "winner": false,
+              "score": 1,
+              "winner": true,
               "seed": null
             }
           ],
           "winner": {
-            "text": "5.º lugar · al Estatal",
-            "short": "5.º lugar",
-            "state": true
+            "text": "5.º lugar",
+            "state": false
           },
           "loser": {
             "text": "Fin de temporada",
@@ -4955,7 +4951,7 @@
           },
           "ours": false,
           "maybeOurs": false,
-          "note": "El ganador va al Estatal. Para el perdedor, se acaba la temporada."
+          "note": null
         },
         {
           "no": "6",
@@ -5441,11 +5437,11 @@
       },
       "guaranteedState": true,
       "final": null,
-      "berths": 4,
+      "berths": 3,
       "teamCount": null,
       "bracketLagging": false,
       "stateSpots": {
-        "total": 4,
+        "total": 3,
         "teams": [
           {
             "name": "Orcas Island",
@@ -5516,20 +5512,6 @@
             "isUs": false
           },
           {
-            "name": "Auburn Adventist",
-            "mascot": null,
-            "abbr": "AA",
-            "color": "#8C3B4A",
-            "isUs": false
-          },
-          {
-            "name": "Coupeville",
-            "mascot": "Wolves",
-            "abbr": "CO",
-            "color": "#CC0022",
-            "isUs": false
-          },
-          {
             "name": "Columbia Adventist",
             "mascot": null,
             "abbr": "CA",
@@ -5538,6 +5520,13 @@
           }
         ],
         "out": [
+          {
+            "name": "Auburn Adventist",
+            "mascot": null,
+            "abbr": "AA",
+            "color": "#8C3B4A",
+            "isUs": false
+          },
           {
             "name": "Providence Classical Christian",
             "mascot": "Highlanders",
@@ -5557,6 +5546,13 @@
             "mascot": null,
             "abbr": "PS",
             "color": "#2E7D6B",
+            "isUs": false
+          },
+          {
+            "name": "Coupeville",
+            "mascot": "Wolves",
+            "abbr": "CO",
+            "color": "#CC0022",
             "isUs": false
           },
           {
@@ -5581,8 +5577,8 @@
             "isUs": false
           }
         ],
-        "fromDistrict": 4,
-        "fromElsewhere": 4
+        "fromDistrict": 3,
+        "fromElsewhere": 5
       },
       "lastYear": {
         "champion": true,
@@ -6218,7 +6214,7 @@
       {
         "stage": "Distrito",
         "teams": null,
-        "text": "Un torneo aparte con equipos de varias ligas. Los 4 mejores se ganan un lugar en el Estatal.",
+        "text": "Un torneo aparte con equipos de varias ligas. Los 3 mejores se ganan un lugar en el Estatal.",
         "us": "2 victorias hasta ahora"
       },
       {
