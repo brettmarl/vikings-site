@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T22:45:46.155Z",
+  "generatedAt": "2026-11-05T22:49:32.709Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -40,7 +40,7 @@
       "name": "District",
       "sub": "District tournament",
       "status": "active",
-      "badge": "1 win so far",
+      "badge": "2 wins so far",
       "good": true,
       "detail": "Top seed · league champs"
     },
@@ -347,7 +347,7 @@
                 "color": "#022C66",
                 "isUs": false,
                 "score": 0,
-                "winner": true,
+                "winner": false,
                 "seed": null
               },
               {
@@ -357,7 +357,7 @@
                 "color": "#034CB2",
                 "isUs": true,
                 "score": 1,
-                "winner": false,
+                "winner": true,
                 "seed": null
               }
             ],
@@ -390,7 +390,7 @@
                 "color": "#754ACC",
                 "isUs": false,
                 "score": 0,
-                "winner": true,
+                "winner": false,
                 "seed": null
               },
               {
@@ -400,7 +400,7 @@
                 "color": "#034CB2",
                 "isUs": false,
                 "score": 2,
-                "winner": false,
+                "winner": true,
                 "seed": null
               }
             ],
@@ -761,7 +761,7 @@
                 "color": "#022C66",
                 "isUs": false,
                 "score": 0,
-                "winner": true,
+                "winner": false,
                 "seed": null
               },
               {
@@ -771,7 +771,7 @@
                 "color": "#034CB2",
                 "isUs": true,
                 "score": 1,
-                "winner": false,
+                "winner": true,
                 "seed": null
               }
             ],
@@ -804,7 +804,7 @@
                 "color": "#754ACC",
                 "isUs": false,
                 "score": 0,
-                "winner": true,
+                "winner": false,
                 "seed": null
               },
               {
@@ -814,7 +814,7 @@
                 "color": "#034CB2",
                 "isUs": false,
                 "score": 2,
-                "winner": false,
+                "winner": true,
                 "seed": null
               }
             ],
@@ -1259,7 +1259,7 @@
               "color": "#022C66",
               "isUs": false,
               "score": 0,
-              "winner": true,
+              "winner": false,
               "seed": null
             },
             {
@@ -1269,7 +1269,7 @@
               "color": "#034CB2",
               "isUs": true,
               "score": 1,
-              "winner": false,
+              "winner": true,
               "seed": null
             }
           ],
@@ -1284,7 +1284,7 @@
           "ours": true,
           "maybeOurs": false
         },
-        "result": "L",
+        "result": "W",
         "gf": 1,
         "ga": 0,
         "opponent": {
@@ -2176,7 +2176,7 @@
       "stage": "District",
       "teams": null,
       "text": "A separate tournament with teams from several leagues. The top 4 earn a trip to State.",
-      "us": "1 win so far"
+      "us": "2 wins so far"
     },
     {
       "stage": "State",
@@ -3992,7 +3992,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-05T22:45:46.155Z",
+    "generatedAt": "2026-11-05T22:49:32.709Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -4033,7 +4033,7 @@
         "name": "Distrito",
         "sub": "Torneo distrital",
         "status": "active",
-        "badge": "1 victoria hasta ahora",
+        "badge": "2 victorias hasta ahora",
         "good": true,
         "detail": "Primer sembrado · campeones de liga"
       },
@@ -4340,7 +4340,7 @@
                   "color": "#022C66",
                   "isUs": false,
                   "score": 0,
-                  "winner": true,
+                  "winner": false,
                   "seed": null
                 },
                 {
@@ -4350,7 +4350,7 @@
                   "color": "#034CB2",
                   "isUs": true,
                   "score": 1,
-                  "winner": false,
+                  "winner": true,
                   "seed": null
                 }
               ],
@@ -4383,7 +4383,7 @@
                   "color": "#754ACC",
                   "isUs": false,
                   "score": 0,
-                  "winner": true,
+                  "winner": false,
                   "seed": null
                 },
                 {
@@ -4393,7 +4393,7 @@
                   "color": "#034CB2",
                   "isUs": false,
                   "score": 2,
-                  "winner": false,
+                  "winner": true,
                   "seed": null
                 }
               ],
@@ -4754,7 +4754,7 @@
                   "color": "#022C66",
                   "isUs": false,
                   "score": 0,
-                  "winner": true,
+                  "winner": false,
                   "seed": null
                 },
                 {
@@ -4764,7 +4764,7 @@
                   "color": "#034CB2",
                   "isUs": true,
                   "score": 1,
-                  "winner": false,
+                  "winner": true,
                   "seed": null
                 }
               ],
@@ -4797,7 +4797,7 @@
                   "color": "#754ACC",
                   "isUs": false,
                   "score": 0,
-                  "winner": true,
+                  "winner": false,
                   "seed": null
                 },
                 {
@@ -4807,7 +4807,7 @@
                   "color": "#034CB2",
                   "isUs": false,
                   "score": 2,
-                  "winner": false,
+                  "winner": true,
                   "seed": null
                 }
               ],
@@ -5252,7 +5252,7 @@
                 "color": "#022C66",
                 "isUs": false,
                 "score": 0,
-                "winner": true,
+                "winner": false,
                 "seed": null
               },
               {
@@ -5262,7 +5262,7 @@
                 "color": "#034CB2",
                 "isUs": true,
                 "score": 1,
-                "winner": false,
+                "winner": true,
                 "seed": null
               }
             ],
@@ -5277,7 +5277,7 @@
             "ours": true,
             "maybeOurs": false
           },
-          "result": "L",
+          "result": "W",
           "gf": 1,
           "ga": 0,
           "opponent": {
@@ -6169,7 +6169,7 @@
         "stage": "Distrito",
         "teams": null,
         "text": "Un torneo aparte con equipos de varias ligas. Los 4 mejores se ganan un lugar en el Estatal.",
-        "us": "1 victoria hasta ahora"
+        "us": "2 victorias hasta ahora"
       },
       {
         "stage": "Estatal",
