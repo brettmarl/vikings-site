@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T22:49:32.709Z",
+  "generatedAt": "2026-11-05T23:06:57.894Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -2064,6 +2064,22 @@
       "ga": null,
       "stage": "District",
       "venue": "Anacortes High School"
+    },
+    {
+      "date": "2026-11-07T23:00:00.000Z",
+      "opponent": {
+        "name": "Mount Vernon Christian",
+        "mascot": "Hurricanes",
+        "abbr": "MV",
+        "color": "#034CB2",
+        "isUs": false
+      },
+      "home": true,
+      "result": null,
+      "gf": null,
+      "ga": null,
+      "stage": "District",
+      "venue": "Sammamish HS"
     }
   ],
   "history": [
@@ -2281,6 +2297,11 @@
       "start": "2026-11-05T20:30:00.000Z",
       "timeKnown": true,
       "what": "Providence Classical Christian"
+    },
+    {
+      "start": "2026-11-07T23:00:00.000Z",
+      "timeKnown": true,
+      "what": "Mount Vernon Christian"
     },
     {
       "start": "2026-10-15T00:30:00.000Z",
@@ -2717,6 +2738,19 @@
         "isUs": false
       },
       "meetings": [
+        {
+          "season": "2026",
+          "date": "2026-11-07T23:00:00.000Z",
+          "result": null,
+          "gf": null,
+          "ga": null,
+          "home": true,
+          "stage": "District",
+          "venue": "Sammamish HS",
+          "pens": false,
+          "close": false,
+          "upcoming": true
+        },
         {
           "season": "2026",
           "date": "2026-10-07T23:00:00.000Z",
@@ -3992,7 +4026,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-05T22:49:32.709Z",
+    "generatedAt": "2026-11-05T23:06:57.894Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -6057,6 +6091,22 @@
         "ga": null,
         "stage": "District",
         "venue": "Anacortes High School"
+      },
+      {
+        "date": "2026-11-07T23:00:00.000Z",
+        "opponent": {
+          "name": "Mount Vernon Christian",
+          "mascot": "Hurricanes",
+          "abbr": "MV",
+          "color": "#034CB2",
+          "isUs": false
+        },
+        "home": true,
+        "result": null,
+        "gf": null,
+        "ga": null,
+        "stage": "District",
+        "venue": "Sammamish HS"
       }
     ],
     "history": [
@@ -6274,6 +6324,11 @@
         "start": "2026-11-05T20:30:00.000Z",
         "timeKnown": true,
         "what": "Providence Classical Christian"
+      },
+      {
+        "start": "2026-11-07T23:00:00.000Z",
+        "timeKnown": true,
+        "what": "Mount Vernon Christian"
       },
       {
         "start": "2026-10-15T00:30:00.000Z",
@@ -6710,6 +6765,19 @@
           "isUs": false
         },
         "meetings": [
+          {
+            "season": "2026",
+            "date": "2026-11-07T23:00:00.000Z",
+            "result": null,
+            "gf": null,
+            "ga": null,
+            "home": true,
+            "stage": "District",
+            "venue": "Sammamish HS",
+            "pens": false,
+            "close": false,
+            "upcoming": true
+          },
           {
             "season": "2026",
             "date": "2026-10-07T23:00:00.000Z",
