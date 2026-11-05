@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2026-11-07-g9@govikings.app
-DTSTAMP:20261105T054533Z
+DTSTAMP:20261105T224555Z
 DTSTART:20261107T230000Z
 DTEND:20261108T010000Z
-SUMMARY:Vikings vs Mount Vernon o Friday Harbor · Final del distrito (si avanzamos)
+SUMMARY:Vikings vs Mount Vernon · Final del distrito
 LOCATION:Sammamish HS
 DESCRIPTION:Fútbol varonil de los Orcas Island Vikings. Síguelos en: https://govikings.app
 URL:https://govikings.app/

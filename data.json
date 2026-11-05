@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T05:45:21.851Z",
+  "generatedAt": "2026-11-05T22:45:46.155Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -56,70 +56,59 @@
   ],
   "connectors": [
     "League title earned the top seed for districts",
-    "Top 6 from districts go to State"
+    "Top 4 from districts go to State"
   ],
   "nextGame": {
     "stage": "District",
-    "round": "semifinal",
-    "label": "District semifinal",
-    "date": "2026-11-05T20:30:00.000Z",
+    "round": "final",
+    "label": "District final",
+    "date": "2026-11-07T23:00:00.000Z",
     "timeKnown": true,
-    "venue": "Anacortes HS",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA",
-    "home": true,
-    "hostNote": "As the top seed, we’re the home team.",
+    "venue": "Sammamish HS",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sammamish%20HS%2C%20WA",
+    "home": null,
+    "hostNote": null,
     "opponents": [
       {
-        "name": "Providence Classical Christian",
-        "mascot": "Highlanders",
-        "abbr": "PC",
-        "color": "#022C66",
+        "name": "Mount Vernon Christian",
+        "mascot": "Hurricanes",
+        "abbr": "MV",
+        "color": "#034CB2",
         "isUs": false,
         "meetings": [
           {
-            "date": "2026-10-03T20:00:00.000Z",
-            "result": "W",
-            "gf": 3,
-            "ga": 2,
-            "home": true
+            "date": "2026-09-23T22:00:00.000Z",
+            "result": "D",
+            "gf": 0,
+            "ga": 0,
+            "home": false
           },
           {
-            "date": "2026-10-15T22:30:00.000Z",
+            "date": "2026-10-07T23:00:00.000Z",
             "result": "W",
-            "gf": 4,
-            "ga": 3,
-            "home": false
+            "gf": 1,
+            "ga": 0,
+            "home": true
           }
         ]
       }
     ],
     "feeder": null,
     "links": {
-      "map": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA"
+      "map": "https://www.google.com/maps/search/?api=1&query=Sammamish%20HS%2C%20WA"
     },
-    "calId": "2026-11-05-g7"
+    "calId": "2026-11-07-g9"
   },
   "dates": [
-    {
-      "key": "g7",
-      "date": "2026-11-05T20:30:00.000Z",
-      "timeKnown": true,
-      "label": "District semifinal",
-      "venue": "Anacortes HS",
-      "status": "confirmed",
-      "note": "Next game",
-      "vs": "Providence",
-      "calId": "2026-11-05-g7"
-    },
     {
       "key": "g9",
       "date": "2026-11-07T23:00:00.000Z",
       "timeKnown": true,
       "label": "District final",
       "venue": "Sammamish HS",
-      "status": "possible",
-      "note": "If we beat Providence on Thursday",
-      "vs": "Mount Vernon or Friday Harbor",
+      "status": "confirmed",
+      "note": "Next game",
+      "vs": "Mount Vernon",
       "calId": "2026-11-07-g9"
     },
     {
@@ -348,8 +337,8 @@
             "timeKnown": true,
             "venue": "Anacortes HS",
             "siteNote": "@ Higher Seed",
-            "played": false,
-            "scoreSource": null,
+            "played": true,
+            "scoreSource": "bracket",
             "teams": [
               {
                 "name": "Providence Classical Christian",
@@ -357,8 +346,8 @@
                 "abbr": "PC",
                 "color": "#022C66",
                 "isUs": false,
-                "score": null,
-                "winner": false,
+                "score": 0,
+                "winner": true,
                 "seed": null
               },
               {
@@ -367,7 +356,7 @@
                 "abbr": "OI",
                 "color": "#034CB2",
                 "isUs": true,
-                "score": null,
+                "score": 1,
                 "winner": false,
                 "seed": null
               }
@@ -377,9 +366,8 @@
               "state": false
             },
             "loser": {
-              "text": "3rd place · to State",
-              "short": "3rd place",
-              "state": true
+              "text": "3rd place",
+              "state": false
             },
             "ours": true,
             "maybeOurs": false
@@ -392,26 +380,26 @@
             "timeKnown": true,
             "venue": "Mt Vernon HS",
             "siteNote": "@ Higher Seed",
-            "played": false,
-            "scoreSource": null,
+            "played": true,
+            "scoreSource": "bracket",
             "teams": [
-              {
-                "name": "Mount Vernon Christian",
-                "mascot": "Hurricanes",
-                "abbr": "MV",
-                "color": "#034CB2",
-                "isUs": false,
-                "score": null,
-                "winner": false,
-                "seed": null
-              },
               {
                 "name": "Friday Harbor",
                 "mascot": "Wolverines",
                 "abbr": "FH",
                 "color": "#754ACC",
                 "isUs": false,
-                "score": null,
+                "score": 0,
+                "winner": true,
+                "seed": null
+              },
+              {
+                "name": "Mount Vernon Christian",
+                "mascot": "Hurricanes",
+                "abbr": "MV",
+                "color": "#034CB2",
+                "isUs": false,
+                "score": 2,
                 "winner": false,
                 "seed": null
               }
@@ -421,9 +409,8 @@
               "state": false
             },
             "loser": {
-              "text": "3rd place · to State",
-              "short": "3rd place",
-              "state": true
+              "text": "3rd place",
+              "state": false
             },
             "ours": false,
             "maybeOurs": false
@@ -534,47 +521,21 @@
             "scoreSource": null,
             "teams": [
               {
-                "name": "Winner of Game 7",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Providence Classical Christian",
-                    "mascot": "Highlanders",
-                    "abbr": "PC",
-                    "color": "#022C66",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Orcas Island",
-                    "mascot": "Vikings",
-                    "abbr": "OI",
-                    "color": "#034CB2",
-                    "isUs": true
-                  }
-                ],
+                "name": "Orcas Island",
+                "mascot": "Vikings",
+                "abbr": "OI",
+                "color": "#034CB2",
+                "isUs": true,
                 "score": null,
                 "winner": false,
                 "seed": null
               },
               {
-                "name": "Winner of Game 8",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Mount Vernon Christian",
-                    "mascot": "Hurricanes",
-                    "abbr": "MV",
-                    "color": "#034CB2",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Friday Harbor",
-                    "mascot": "Wolverines",
-                    "abbr": "FH",
-                    "color": "#754ACC",
-                    "isUs": false
-                  }
-                ],
+                "name": "Mount Vernon Christian",
+                "mascot": "Hurricanes",
+                "abbr": "MV",
+                "color": "#034CB2",
+                "isUs": false,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -590,8 +551,8 @@
               "short": "Runner-up",
               "state": true
             },
-            "ours": false,
-            "maybeOurs": true
+            "ours": true,
+            "maybeOurs": false
           }
         ],
         "title": "District final"
@@ -690,49 +651,6 @@
             "maybeOurs": false
           },
           {
-            "no": "3",
-            "round": "firstRound",
-            "label": "District first round",
-            "date": "2026-11-04T02:15:00.000Z",
-            "timeKnown": true,
-            "venue": "Mt Vernon HS",
-            "siteNote": "@ Higher Seed",
-            "played": true,
-            "scoreSource": "bracket",
-            "teams": [
-              {
-                "name": "Columbia Adventist",
-                "mascot": null,
-                "abbr": "CA",
-                "color": "#3D5A99",
-                "isUs": false,
-                "score": 0,
-                "winner": false,
-                "seed": null
-              },
-              {
-                "name": "Mount Vernon Christian",
-                "mascot": "Hurricanes",
-                "abbr": "MV",
-                "color": "#034CB2",
-                "isUs": false,
-                "score": 9,
-                "winner": true,
-                "seed": null
-              }
-            ],
-            "winner": {
-              "text": "District semifinal",
-              "state": false
-            },
-            "loser": {
-              "text": "Last-chance game",
-              "state": false
-            },
-            "ours": false,
-            "maybeOurs": false
-          },
-          {
             "no": "4",
             "round": "firstRound",
             "label": "District first round",
@@ -774,13 +692,56 @@
             },
             "ours": false,
             "maybeOurs": false
+          },
+          {
+            "no": "3",
+            "round": "firstRound",
+            "label": "District first round",
+            "date": "2026-11-04T02:15:00.000Z",
+            "timeKnown": true,
+            "venue": "Mt Vernon HS",
+            "siteNote": "@ Higher Seed",
+            "played": true,
+            "scoreSource": "bracket",
+            "teams": [
+              {
+                "name": "Columbia Adventist",
+                "mascot": null,
+                "abbr": "CA",
+                "color": "#3D5A99",
+                "isUs": false,
+                "score": 0,
+                "winner": false,
+                "seed": null
+              },
+              {
+                "name": "Mount Vernon Christian",
+                "mascot": "Hurricanes",
+                "abbr": "MV",
+                "color": "#034CB2",
+                "isUs": false,
+                "score": 9,
+                "winner": true,
+                "seed": null
+              }
+            ],
+            "winner": {
+              "text": "District semifinal",
+              "state": false
+            },
+            "loser": {
+              "text": "Last-chance game",
+              "state": false
+            },
+            "ours": false,
+            "maybeOurs": false
           }
         ]
       },
       {
         "title": "Semifinals",
         "date": "2026-11-05T20:30:00.000Z",
-        "note": "Winners play in the final. Losers still go to State.",
+        "note": null,
         "games": [
           {
             "no": "7",
@@ -790,8 +751,8 @@
             "timeKnown": true,
             "venue": "Anacortes HS",
             "siteNote": "@ Higher Seed",
-            "played": false,
-            "scoreSource": null,
+            "played": true,
+            "scoreSource": "bracket",
             "teams": [
               {
                 "name": "Providence Classical Christian",
@@ -799,8 +760,8 @@
                 "abbr": "PC",
                 "color": "#022C66",
                 "isUs": false,
-                "score": null,
-                "winner": false,
+                "score": 0,
+                "winner": true,
                 "seed": null
               },
               {
@@ -809,7 +770,7 @@
                 "abbr": "OI",
                 "color": "#034CB2",
                 "isUs": true,
-                "score": null,
+                "score": 1,
                 "winner": false,
                 "seed": null
               }
@@ -819,9 +780,8 @@
               "state": false
             },
             "loser": {
-              "text": "3rd place · to State",
-              "short": "3rd place",
-              "state": true
+              "text": "3rd place",
+              "state": false
             },
             "ours": true,
             "maybeOurs": false
@@ -834,26 +794,26 @@
             "timeKnown": true,
             "venue": "Mt Vernon HS",
             "siteNote": "@ Higher Seed",
-            "played": false,
-            "scoreSource": null,
+            "played": true,
+            "scoreSource": "bracket",
             "teams": [
-              {
-                "name": "Mount Vernon Christian",
-                "mascot": "Hurricanes",
-                "abbr": "MV",
-                "color": "#034CB2",
-                "isUs": false,
-                "score": null,
-                "winner": false,
-                "seed": null
-              },
               {
                 "name": "Friday Harbor",
                 "mascot": "Wolverines",
                 "abbr": "FH",
                 "color": "#754ACC",
                 "isUs": false,
-                "score": null,
+                "score": 0,
+                "winner": true,
+                "seed": null
+              },
+              {
+                "name": "Mount Vernon Christian",
+                "mascot": "Hurricanes",
+                "abbr": "MV",
+                "color": "#034CB2",
+                "isUs": false,
+                "score": 2,
                 "winner": false,
                 "seed": null
               }
@@ -863,9 +823,8 @@
               "state": false
             },
             "loser": {
-              "text": "3rd place · to State",
-              "short": "3rd place",
-              "state": true
+              "text": "3rd place",
+              "state": false
             },
             "ours": false,
             "maybeOurs": false
@@ -889,47 +848,21 @@
             "scoreSource": null,
             "teams": [
               {
-                "name": "Winner of Game 7",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Providence Classical Christian",
-                    "mascot": "Highlanders",
-                    "abbr": "PC",
-                    "color": "#022C66",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Orcas Island",
-                    "mascot": "Vikings",
-                    "abbr": "OI",
-                    "color": "#034CB2",
-                    "isUs": true
-                  }
-                ],
+                "name": "Orcas Island",
+                "mascot": "Vikings",
+                "abbr": "OI",
+                "color": "#034CB2",
+                "isUs": true,
                 "score": null,
                 "winner": false,
                 "seed": null
               },
               {
-                "name": "Winner of Game 8",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Mount Vernon Christian",
-                    "mascot": "Hurricanes",
-                    "abbr": "MV",
-                    "color": "#034CB2",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Friday Harbor",
-                    "mascot": "Wolverines",
-                    "abbr": "FH",
-                    "color": "#754ACC",
-                    "isUs": false
-                  }
-                ],
+                "name": "Mount Vernon Christian",
+                "mascot": "Hurricanes",
+                "abbr": "MV",
+                "color": "#034CB2",
+                "isUs": false,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -945,8 +878,8 @@
               "short": "Runner-up",
               "state": true
             },
-            "ours": false,
-            "maybeOurs": true
+            "ours": true,
+            "maybeOurs": false
           }
         ]
       }
@@ -1316,8 +1249,8 @@
           "timeKnown": true,
           "venue": "Anacortes HS",
           "siteNote": "@ Higher Seed",
-          "played": false,
-          "scoreSource": null,
+          "played": true,
+          "scoreSource": "bracket",
           "teams": [
             {
               "name": "Providence Classical Christian",
@@ -1325,8 +1258,8 @@
               "abbr": "PC",
               "color": "#022C66",
               "isUs": false,
-              "score": null,
-              "winner": false,
+              "score": 0,
+              "winner": true,
               "seed": null
             },
             {
@@ -1335,7 +1268,7 @@
               "abbr": "OI",
               "color": "#034CB2",
               "isUs": true,
-              "score": null,
+              "score": 1,
               "winner": false,
               "seed": null
             }
@@ -1345,16 +1278,15 @@
             "state": false
           },
           "loser": {
-            "text": "3rd place · to State",
-            "short": "3rd place",
-            "state": true
+            "text": "3rd place",
+            "state": false
           },
           "ours": true,
           "maybeOurs": false
         },
-        "result": null,
-        "gf": null,
-        "ga": null,
+        "result": "L",
+        "gf": 1,
+        "ga": 0,
         "opponent": {
           "name": "Providence Classical Christian",
           "mascot": "Highlanders",
@@ -1362,54 +1294,8 @@
           "color": "#022C66",
           "isUs": false
         }
-      }
-    ],
-    "scenarios": {
-      "game": {
-        "no": "7",
-        "round": "semifinal",
-        "label": "District semifinal",
-        "date": "2026-11-05T20:30:00.000Z",
-        "timeKnown": true,
-        "venue": "Anacortes HS",
-        "siteNote": "@ Higher Seed",
-        "played": false,
-        "scoreSource": null,
-        "teams": [
-          {
-            "name": "Providence Classical Christian",
-            "mascot": "Highlanders",
-            "abbr": "PC",
-            "color": "#022C66",
-            "isUs": false,
-            "score": null,
-            "winner": false,
-            "seed": null
-          },
-          {
-            "name": "Orcas Island",
-            "mascot": "Vikings",
-            "abbr": "OI",
-            "color": "#034CB2",
-            "isUs": true,
-            "score": null,
-            "winner": false,
-            "seed": null
-          }
-        ],
-        "winner": {
-          "text": "District final",
-          "state": false
-        },
-        "loser": {
-          "text": "3rd place · to State",
-          "short": "3rd place",
-          "state": true
-        },
-        "ours": true,
-        "maybeOurs": false
       },
-      "win": {
+      {
         "game": {
           "no": "9",
           "round": "final",
@@ -1422,47 +1308,21 @@
           "scoreSource": null,
           "teams": [
             {
-              "name": "Winner of Game 7",
-              "placeholder": true,
-              "candidates": [
-                {
-                  "name": "Providence Classical Christian",
-                  "mascot": "Highlanders",
-                  "abbr": "PC",
-                  "color": "#022C66",
-                  "isUs": false
-                },
-                {
-                  "name": "Orcas Island",
-                  "mascot": "Vikings",
-                  "abbr": "OI",
-                  "color": "#034CB2",
-                  "isUs": true
-                }
-              ],
+              "name": "Orcas Island",
+              "mascot": "Vikings",
+              "abbr": "OI",
+              "color": "#034CB2",
+              "isUs": true,
               "score": null,
               "winner": false,
               "seed": null
             },
             {
-              "name": "Winner of Game 8",
-              "placeholder": true,
-              "candidates": [
-                {
-                  "name": "Mount Vernon Christian",
-                  "mascot": "Hurricanes",
-                  "abbr": "MV",
-                  "color": "#034CB2",
-                  "isUs": false
-                },
-                {
-                  "name": "Friday Harbor",
-                  "mascot": "Wolverines",
-                  "abbr": "FH",
-                  "color": "#754ACC",
-                  "isUs": false
-                }
-              ],
+              "name": "Mount Vernon Christian",
+              "mascot": "Hurricanes",
+              "abbr": "MV",
+              "color": "#034CB2",
+              "isUs": false,
               "score": null,
               "winner": false,
               "seed": null
@@ -1478,36 +1338,87 @@
             "short": "Runner-up",
             "state": true
           },
-          "ours": false,
-          "maybeOurs": true
+          "ours": true,
+          "maybeOurs": false
         },
-        "win": {
-          "outcome": "District champions",
-          "short": "Champions",
-          "state": true,
-          "over": false
-        },
-        "lose": {
-          "outcome": "District runner-up",
-          "short": "Runner-up",
-          "state": true,
-          "over": false
+        "result": null,
+        "gf": null,
+        "ga": null,
+        "opponent": {
+          "name": "Mount Vernon Christian",
+          "mascot": "Hurricanes",
+          "abbr": "MV",
+          "color": "#034CB2",
+          "isUs": false
         }
+      }
+    ],
+    "scenarios": {
+      "game": {
+        "no": "9",
+        "round": "final",
+        "label": "District final",
+        "date": "2026-11-07T23:00:00.000Z",
+        "timeKnown": true,
+        "venue": "Sammamish HS",
+        "siteNote": "Sammamish HS",
+        "played": false,
+        "scoreSource": null,
+        "teams": [
+          {
+            "name": "Orcas Island",
+            "mascot": "Vikings",
+            "abbr": "OI",
+            "color": "#034CB2",
+            "isUs": true,
+            "score": null,
+            "winner": false,
+            "seed": null
+          },
+          {
+            "name": "Mount Vernon Christian",
+            "mascot": "Hurricanes",
+            "abbr": "MV",
+            "color": "#034CB2",
+            "isUs": false,
+            "score": null,
+            "winner": false,
+            "seed": null
+          }
+        ],
+        "winner": {
+          "text": "Champions · to State",
+          "short": "Champions",
+          "state": true
+        },
+        "loser": {
+          "text": "Runner-up · to State",
+          "short": "Runner-up",
+          "state": true
+        },
+        "ours": true,
+        "maybeOurs": false
+      },
+      "win": {
+        "outcome": "District champions",
+        "short": "Champions",
+        "state": true,
+        "over": false
       },
       "lose": {
-        "outcome": "Finish 3rd in district",
-        "short": "3rd place",
+        "outcome": "District runner-up",
+        "short": "Runner-up",
         "state": true,
         "over": false
       }
     },
     "guaranteedState": true,
     "final": null,
-    "berths": 6,
+    "berths": 4,
     "teamCount": null,
     "bracketLagging": false,
     "stateSpots": {
-      "total": 6,
+      "total": 4,
       "teams": [
         {
           "name": "Orcas Island",
@@ -1521,20 +1432,6 @@
           "mascot": "Hurricanes",
           "abbr": "MV",
           "color": "#034CB2",
-          "isUs": false
-        },
-        {
-          "name": "Providence Classical Christian",
-          "mascot": "Highlanders",
-          "abbr": "PC",
-          "color": "#022C66",
-          "isUs": false
-        },
-        {
-          "name": "Friday Harbor",
-          "mascot": "Wolverines",
-          "abbr": "FH",
-          "color": "#754ACC",
           "isUs": false
         }
       ]
@@ -1581,20 +1478,6 @@
           "abbr": "MV",
           "color": "#034CB2",
           "isUs": false
-        },
-        {
-          "name": "Providence Classical Christian",
-          "mascot": "Highlanders",
-          "abbr": "PC",
-          "color": "#022C66",
-          "isUs": false
-        },
-        {
-          "name": "Friday Harbor",
-          "mascot": "Wolverines",
-          "abbr": "FH",
-          "color": "#754ACC",
-          "isUs": false
         }
       ],
       "alive": [
@@ -1629,6 +1512,20 @@
       ],
       "out": [
         {
+          "name": "Providence Classical Christian",
+          "mascot": "Highlanders",
+          "abbr": "PC",
+          "color": "#022C66",
+          "isUs": false
+        },
+        {
+          "name": "Friday Harbor",
+          "mascot": "Wolverines",
+          "abbr": "FH",
+          "color": "#754ACC",
+          "isUs": false
+        },
+        {
           "name": "Puget Sound Adventist",
           "mascot": null,
           "abbr": "PS",
@@ -1657,8 +1554,8 @@
           "isUs": false
         }
       ],
-      "fromDistrict": 6,
-      "fromElsewhere": 2
+      "fromDistrict": 4,
+      "fromElsewhere": 4
     },
     "lastYear": {
       "champion": true,
@@ -2244,8 +2141,8 @@
   "insights": [
     {
       "icon": "🔒",
-      "title": "Thursday decides our State ranking",
-      "text": "With our State spot secured, Thursday’s semifinal decides how we’re ranked going in. A higher ranking usually means a lower-ranked opponent in our first State game."
+      "title": "Saturday decides our State ranking",
+      "text": "With our State spot secured, Saturday’s final decides how we’re ranked going in. A higher ranking usually means a lower-ranked opponent in our first State game."
     },
     {
       "icon": "🏆",
@@ -2254,8 +2151,8 @@
     },
     {
       "icon": "⚠️",
-      "title": "Providence plays us close",
-      "text": "We won both games, but only by one goal each time (3-2 and 4-3). They’re our next opponent: Thu Nov 5."
+      "title": "Mount Vernon plays us close",
+      "text": "Every game has been close: one win and one draw (0-0 and 1-0). They’re our next opponent: Sat Nov 7."
     },
     {
       "icon": "💪",
@@ -2278,7 +2175,7 @@
     {
       "stage": "District",
       "teams": null,
-      "text": "A separate tournament with teams from several leagues. The top 6 earn a trip to State.",
+      "text": "A separate tournament with teams from several leagues. The top 4 earn a trip to State.",
       "us": "1 win so far"
     },
     {
@@ -4067,16 +3964,8 @@
   "historySince": "2022",
   "calendar": [
     {
-      "id": "2026-11-05-g7",
-      "title": "Vikings vs Providence · District semifinal",
-      "start": "2026-11-05T20:30:00.000Z",
-      "timeKnown": true,
-      "location": "Anacortes HS",
-      "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
-    },
-    {
       "id": "2026-11-07-g9",
-      "title": "Vikings vs Mount Vernon or Friday Harbor · District final (if we advance)",
+      "title": "Vikings vs Mount Vernon · District final",
       "start": "2026-11-07T23:00:00.000Z",
       "timeKnown": true,
       "location": "Sammamish HS",
@@ -4103,7 +3992,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-05T05:45:21.851Z",
+    "generatedAt": "2026-11-05T22:45:46.155Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -4160,70 +4049,59 @@
     ],
     "connectors": [
       "Ganar la liga nos dio el primer lugar en el sembrado del distrito",
-      "Los 6 mejores del distrito van al Estatal"
+      "Los 4 mejores del distrito van al Estatal"
     ],
     "nextGame": {
       "stage": "District",
-      "round": "semifinal",
-      "label": "Semifinal del distrito",
-      "date": "2026-11-05T20:30:00.000Z",
+      "round": "final",
+      "label": "Final del distrito",
+      "date": "2026-11-07T23:00:00.000Z",
       "timeKnown": true,
-      "venue": "Anacortes HS",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA",
-      "home": true,
-      "hostNote": "Como primer sembrado, somos el equipo local.",
+      "venue": "Sammamish HS",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sammamish%20HS%2C%20WA",
+      "home": null,
+      "hostNote": null,
       "opponents": [
         {
-          "name": "Providence Classical Christian",
-          "mascot": "Highlanders",
-          "abbr": "PC",
-          "color": "#022C66",
+          "name": "Mount Vernon Christian",
+          "mascot": "Hurricanes",
+          "abbr": "MV",
+          "color": "#034CB2",
           "isUs": false,
           "meetings": [
             {
-              "date": "2026-10-03T20:00:00.000Z",
-              "result": "W",
-              "gf": 3,
-              "ga": 2,
-              "home": true
+              "date": "2026-09-23T22:00:00.000Z",
+              "result": "D",
+              "gf": 0,
+              "ga": 0,
+              "home": false
             },
             {
-              "date": "2026-10-15T22:30:00.000Z",
+              "date": "2026-10-07T23:00:00.000Z",
               "result": "W",
-              "gf": 4,
-              "ga": 3,
-              "home": false
+              "gf": 1,
+              "ga": 0,
+              "home": true
             }
           ]
         }
       ],
       "feeder": null,
       "links": {
-        "map": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA"
+        "map": "https://www.google.com/maps/search/?api=1&query=Sammamish%20HS%2C%20WA"
       },
-      "calId": "2026-11-05-g7"
+      "calId": "2026-11-07-g9"
     },
     "dates": [
-      {
-        "key": "g7",
-        "date": "2026-11-05T20:30:00.000Z",
-        "timeKnown": true,
-        "label": "Semifinal del distrito",
-        "venue": "Anacortes HS",
-        "status": "confirmed",
-        "note": "Próximo partido",
-        "vs": "Providence",
-        "calId": "2026-11-05-g7"
-      },
       {
         "key": "g9",
         "date": "2026-11-07T23:00:00.000Z",
         "timeKnown": true,
         "label": "Final del distrito",
         "venue": "Sammamish HS",
-        "status": "possible",
-        "note": "Si le ganamos a Providence el jueves",
-        "vs": "Mount Vernon o Friday Harbor",
+        "status": "confirmed",
+        "note": "Próximo partido",
+        "vs": "Mount Vernon",
         "calId": "2026-11-07-g9"
       },
       {
@@ -4452,8 +4330,8 @@
               "timeKnown": true,
               "venue": "Anacortes HS",
               "siteNote": "@ Higher Seed",
-              "played": false,
-              "scoreSource": null,
+              "played": true,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Providence Classical Christian",
@@ -4461,8 +4339,8 @@
                   "abbr": "PC",
                   "color": "#022C66",
                   "isUs": false,
-                  "score": null,
-                  "winner": false,
+                  "score": 0,
+                  "winner": true,
                   "seed": null
                 },
                 {
@@ -4471,7 +4349,7 @@
                   "abbr": "OI",
                   "color": "#034CB2",
                   "isUs": true,
-                  "score": null,
+                  "score": 1,
                   "winner": false,
                   "seed": null
                 }
@@ -4481,9 +4359,8 @@
                 "state": false
               },
               "loser": {
-                "text": "3.er lugar · al Estatal",
-                "short": "3.er lugar",
-                "state": true
+                "text": "3.er lugar",
+                "state": false
               },
               "ours": true,
               "maybeOurs": false
@@ -4496,26 +4373,26 @@
               "timeKnown": true,
               "venue": "Mt Vernon HS",
               "siteNote": "@ Higher Seed",
-              "played": false,
-              "scoreSource": null,
+              "played": true,
+              "scoreSource": "bracket",
               "teams": [
-                {
-                  "name": "Mount Vernon Christian",
-                  "mascot": "Hurricanes",
-                  "abbr": "MV",
-                  "color": "#034CB2",
-                  "isUs": false,
-                  "score": null,
-                  "winner": false,
-                  "seed": null
-                },
                 {
                   "name": "Friday Harbor",
                   "mascot": "Wolverines",
                   "abbr": "FH",
                   "color": "#754ACC",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
+                  "winner": true,
+                  "seed": null
+                },
+                {
+                  "name": "Mount Vernon Christian",
+                  "mascot": "Hurricanes",
+                  "abbr": "MV",
+                  "color": "#034CB2",
+                  "isUs": false,
+                  "score": 2,
                   "winner": false,
                   "seed": null
                 }
@@ -4525,9 +4402,8 @@
                 "state": false
               },
               "loser": {
-                "text": "3.er lugar · al Estatal",
-                "short": "3.er lugar",
-                "state": true
+                "text": "3.er lugar",
+                "state": false
               },
               "ours": false,
               "maybeOurs": false
@@ -4638,47 +4514,21 @@
               "scoreSource": null,
               "teams": [
                 {
-                  "name": "Ganador del partido 7",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Providence Classical Christian",
-                      "mascot": "Highlanders",
-                      "abbr": "PC",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Orcas Island",
-                      "mascot": "Vikings",
-                      "abbr": "OI",
-                      "color": "#034CB2",
-                      "isUs": true
-                    }
-                  ],
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
+                  "color": "#034CB2",
+                  "isUs": true,
                   "score": null,
                   "winner": false,
                   "seed": null
                 },
                 {
-                  "name": "Ganador del partido 8",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Mount Vernon Christian",
-                      "mascot": "Hurricanes",
-                      "abbr": "MV",
-                      "color": "#034CB2",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Friday Harbor",
-                      "mascot": "Wolverines",
-                      "abbr": "FH",
-                      "color": "#754ACC",
-                      "isUs": false
-                    }
-                  ],
+                  "name": "Mount Vernon Christian",
+                  "mascot": "Hurricanes",
+                  "abbr": "MV",
+                  "color": "#034CB2",
+                  "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -4694,8 +4544,8 @@
                 "short": "Subcampeones",
                 "state": true
               },
-              "ours": false,
-              "maybeOurs": true
+              "ours": true,
+              "maybeOurs": false
             }
           ],
           "title": "Final del distrito"
@@ -4794,49 +4644,6 @@
               "maybeOurs": false
             },
             {
-              "no": "3",
-              "round": "firstRound",
-              "label": "Primera ronda del distrito",
-              "date": "2026-11-04T02:15:00.000Z",
-              "timeKnown": true,
-              "venue": "Mt Vernon HS",
-              "siteNote": "@ Higher Seed",
-              "played": true,
-              "scoreSource": "bracket",
-              "teams": [
-                {
-                  "name": "Columbia Adventist",
-                  "mascot": null,
-                  "abbr": "CA",
-                  "color": "#3D5A99",
-                  "isUs": false,
-                  "score": 0,
-                  "winner": false,
-                  "seed": null
-                },
-                {
-                  "name": "Mount Vernon Christian",
-                  "mascot": "Hurricanes",
-                  "abbr": "MV",
-                  "color": "#034CB2",
-                  "isUs": false,
-                  "score": 9,
-                  "winner": true,
-                  "seed": null
-                }
-              ],
-              "winner": {
-                "text": "Semifinal del distrito",
-                "state": false
-              },
-              "loser": {
-                "text": "Partido de última oportunidad",
-                "state": false
-              },
-              "ours": false,
-              "maybeOurs": false
-            },
-            {
               "no": "4",
               "round": "firstRound",
               "label": "Primera ronda del distrito",
@@ -4878,13 +4685,56 @@
               },
               "ours": false,
               "maybeOurs": false
+            },
+            {
+              "no": "3",
+              "round": "firstRound",
+              "label": "Primera ronda del distrito",
+              "date": "2026-11-04T02:15:00.000Z",
+              "timeKnown": true,
+              "venue": "Mt Vernon HS",
+              "siteNote": "@ Higher Seed",
+              "played": true,
+              "scoreSource": "bracket",
+              "teams": [
+                {
+                  "name": "Columbia Adventist",
+                  "mascot": null,
+                  "abbr": "CA",
+                  "color": "#3D5A99",
+                  "isUs": false,
+                  "score": 0,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Mount Vernon Christian",
+                  "mascot": "Hurricanes",
+                  "abbr": "MV",
+                  "color": "#034CB2",
+                  "isUs": false,
+                  "score": 9,
+                  "winner": true,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Semifinal del distrito",
+                "state": false
+              },
+              "loser": {
+                "text": "Partido de última oportunidad",
+                "state": false
+              },
+              "ours": false,
+              "maybeOurs": false
             }
           ]
         },
         {
           "title": "Semifinales",
           "date": "2026-11-05T20:30:00.000Z",
-          "note": "Los ganadores juegan la final. Los perdedores también van al Estatal.",
+          "note": null,
           "games": [
             {
               "no": "7",
@@ -4894,8 +4744,8 @@
               "timeKnown": true,
               "venue": "Anacortes HS",
               "siteNote": "@ Higher Seed",
-              "played": false,
-              "scoreSource": null,
+              "played": true,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Providence Classical Christian",
@@ -4903,8 +4753,8 @@
                   "abbr": "PC",
                   "color": "#022C66",
                   "isUs": false,
-                  "score": null,
-                  "winner": false,
+                  "score": 0,
+                  "winner": true,
                   "seed": null
                 },
                 {
@@ -4913,7 +4763,7 @@
                   "abbr": "OI",
                   "color": "#034CB2",
                   "isUs": true,
-                  "score": null,
+                  "score": 1,
                   "winner": false,
                   "seed": null
                 }
@@ -4923,9 +4773,8 @@
                 "state": false
               },
               "loser": {
-                "text": "3.er lugar · al Estatal",
-                "short": "3.er lugar",
-                "state": true
+                "text": "3.er lugar",
+                "state": false
               },
               "ours": true,
               "maybeOurs": false
@@ -4938,26 +4787,26 @@
               "timeKnown": true,
               "venue": "Mt Vernon HS",
               "siteNote": "@ Higher Seed",
-              "played": false,
-              "scoreSource": null,
+              "played": true,
+              "scoreSource": "bracket",
               "teams": [
-                {
-                  "name": "Mount Vernon Christian",
-                  "mascot": "Hurricanes",
-                  "abbr": "MV",
-                  "color": "#034CB2",
-                  "isUs": false,
-                  "score": null,
-                  "winner": false,
-                  "seed": null
-                },
                 {
                   "name": "Friday Harbor",
                   "mascot": "Wolverines",
                   "abbr": "FH",
                   "color": "#754ACC",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
+                  "winner": true,
+                  "seed": null
+                },
+                {
+                  "name": "Mount Vernon Christian",
+                  "mascot": "Hurricanes",
+                  "abbr": "MV",
+                  "color": "#034CB2",
+                  "isUs": false,
+                  "score": 2,
                   "winner": false,
                   "seed": null
                 }
@@ -4967,9 +4816,8 @@
                 "state": false
               },
               "loser": {
-                "text": "3.er lugar · al Estatal",
-                "short": "3.er lugar",
-                "state": true
+                "text": "3.er lugar",
+                "state": false
               },
               "ours": false,
               "maybeOurs": false
@@ -4993,47 +4841,21 @@
               "scoreSource": null,
               "teams": [
                 {
-                  "name": "Ganador del partido 7",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Providence Classical Christian",
-                      "mascot": "Highlanders",
-                      "abbr": "PC",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Orcas Island",
-                      "mascot": "Vikings",
-                      "abbr": "OI",
-                      "color": "#034CB2",
-                      "isUs": true
-                    }
-                  ],
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
+                  "color": "#034CB2",
+                  "isUs": true,
                   "score": null,
                   "winner": false,
                   "seed": null
                 },
                 {
-                  "name": "Ganador del partido 8",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Mount Vernon Christian",
-                      "mascot": "Hurricanes",
-                      "abbr": "MV",
-                      "color": "#034CB2",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Friday Harbor",
-                      "mascot": "Wolverines",
-                      "abbr": "FH",
-                      "color": "#754ACC",
-                      "isUs": false
-                    }
-                  ],
+                  "name": "Mount Vernon Christian",
+                  "mascot": "Hurricanes",
+                  "abbr": "MV",
+                  "color": "#034CB2",
+                  "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -5049,8 +4871,8 @@
                 "short": "Subcampeones",
                 "state": true
               },
-              "ours": false,
-              "maybeOurs": true
+              "ours": true,
+              "maybeOurs": false
             }
           ]
         }
@@ -5420,8 +5242,8 @@
             "timeKnown": true,
             "venue": "Anacortes HS",
             "siteNote": "@ Higher Seed",
-            "played": false,
-            "scoreSource": null,
+            "played": true,
+            "scoreSource": "bracket",
             "teams": [
               {
                 "name": "Providence Classical Christian",
@@ -5429,8 +5251,8 @@
                 "abbr": "PC",
                 "color": "#022C66",
                 "isUs": false,
-                "score": null,
-                "winner": false,
+                "score": 0,
+                "winner": true,
                 "seed": null
               },
               {
@@ -5439,7 +5261,7 @@
                 "abbr": "OI",
                 "color": "#034CB2",
                 "isUs": true,
-                "score": null,
+                "score": 1,
                 "winner": false,
                 "seed": null
               }
@@ -5449,16 +5271,15 @@
               "state": false
             },
             "loser": {
-              "text": "3.er lugar · al Estatal",
-              "short": "3.er lugar",
-              "state": true
+              "text": "3.er lugar",
+              "state": false
             },
             "ours": true,
             "maybeOurs": false
           },
-          "result": null,
-          "gf": null,
-          "ga": null,
+          "result": "L",
+          "gf": 1,
+          "ga": 0,
           "opponent": {
             "name": "Providence Classical Christian",
             "mascot": "Highlanders",
@@ -5466,54 +5287,8 @@
             "color": "#022C66",
             "isUs": false
           }
-        }
-      ],
-      "scenarios": {
-        "game": {
-          "no": "7",
-          "round": "semifinal",
-          "label": "Semifinal del distrito",
-          "date": "2026-11-05T20:30:00.000Z",
-          "timeKnown": true,
-          "venue": "Anacortes HS",
-          "siteNote": "@ Higher Seed",
-          "played": false,
-          "scoreSource": null,
-          "teams": [
-            {
-              "name": "Providence Classical Christian",
-              "mascot": "Highlanders",
-              "abbr": "PC",
-              "color": "#022C66",
-              "isUs": false,
-              "score": null,
-              "winner": false,
-              "seed": null
-            },
-            {
-              "name": "Orcas Island",
-              "mascot": "Vikings",
-              "abbr": "OI",
-              "color": "#034CB2",
-              "isUs": true,
-              "score": null,
-              "winner": false,
-              "seed": null
-            }
-          ],
-          "winner": {
-            "text": "Final del distrito",
-            "state": false
-          },
-          "loser": {
-            "text": "3.er lugar · al Estatal",
-            "short": "3.er lugar",
-            "state": true
-          },
-          "ours": true,
-          "maybeOurs": false
         },
-        "win": {
+        {
           "game": {
             "no": "9",
             "round": "final",
@@ -5526,47 +5301,21 @@
             "scoreSource": null,
             "teams": [
               {
-                "name": "Ganador del partido 7",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Providence Classical Christian",
-                    "mascot": "Highlanders",
-                    "abbr": "PC",
-                    "color": "#022C66",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Orcas Island",
-                    "mascot": "Vikings",
-                    "abbr": "OI",
-                    "color": "#034CB2",
-                    "isUs": true
-                  }
-                ],
+                "name": "Orcas Island",
+                "mascot": "Vikings",
+                "abbr": "OI",
+                "color": "#034CB2",
+                "isUs": true,
                 "score": null,
                 "winner": false,
                 "seed": null
               },
               {
-                "name": "Ganador del partido 8",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Mount Vernon Christian",
-                    "mascot": "Hurricanes",
-                    "abbr": "MV",
-                    "color": "#034CB2",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Friday Harbor",
-                    "mascot": "Wolverines",
-                    "abbr": "FH",
-                    "color": "#754ACC",
-                    "isUs": false
-                  }
-                ],
+                "name": "Mount Vernon Christian",
+                "mascot": "Hurricanes",
+                "abbr": "MV",
+                "color": "#034CB2",
+                "isUs": false,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -5582,36 +5331,87 @@
               "short": "Subcampeones",
               "state": true
             },
-            "ours": false,
-            "maybeOurs": true
+            "ours": true,
+            "maybeOurs": false
           },
-          "win": {
-            "outcome": "Campeones del distrito",
-            "short": "Campeones",
-            "state": true,
-            "over": false
-          },
-          "lose": {
-            "outcome": "Subcampeones del distrito",
-            "short": "Subcampeones",
-            "state": true,
-            "over": false
+          "result": null,
+          "gf": null,
+          "ga": null,
+          "opponent": {
+            "name": "Mount Vernon Christian",
+            "mascot": "Hurricanes",
+            "abbr": "MV",
+            "color": "#034CB2",
+            "isUs": false
           }
+        }
+      ],
+      "scenarios": {
+        "game": {
+          "no": "9",
+          "round": "final",
+          "label": "Final del distrito",
+          "date": "2026-11-07T23:00:00.000Z",
+          "timeKnown": true,
+          "venue": "Sammamish HS",
+          "siteNote": "Sammamish HS",
+          "played": false,
+          "scoreSource": null,
+          "teams": [
+            {
+              "name": "Orcas Island",
+              "mascot": "Vikings",
+              "abbr": "OI",
+              "color": "#034CB2",
+              "isUs": true,
+              "score": null,
+              "winner": false,
+              "seed": null
+            },
+            {
+              "name": "Mount Vernon Christian",
+              "mascot": "Hurricanes",
+              "abbr": "MV",
+              "color": "#034CB2",
+              "isUs": false,
+              "score": null,
+              "winner": false,
+              "seed": null
+            }
+          ],
+          "winner": {
+            "text": "Campeones · al Estatal",
+            "short": "Campeones",
+            "state": true
+          },
+          "loser": {
+            "text": "Subcampeones · al Estatal",
+            "short": "Subcampeones",
+            "state": true
+          },
+          "ours": true,
+          "maybeOurs": false
+        },
+        "win": {
+          "outcome": "Campeones del distrito",
+          "short": "Campeones",
+          "state": true,
+          "over": false
         },
         "lose": {
-          "outcome": "Terminar 3.º en el distrito",
-          "short": "3.er lugar",
+          "outcome": "Subcampeones del distrito",
+          "short": "Subcampeones",
           "state": true,
           "over": false
         }
       },
       "guaranteedState": true,
       "final": null,
-      "berths": 6,
+      "berths": 4,
       "teamCount": null,
       "bracketLagging": false,
       "stateSpots": {
-        "total": 6,
+        "total": 4,
         "teams": [
           {
             "name": "Orcas Island",
@@ -5625,20 +5425,6 @@
             "mascot": "Hurricanes",
             "abbr": "MV",
             "color": "#034CB2",
-            "isUs": false
-          },
-          {
-            "name": "Providence Classical Christian",
-            "mascot": "Highlanders",
-            "abbr": "PC",
-            "color": "#022C66",
-            "isUs": false
-          },
-          {
-            "name": "Friday Harbor",
-            "mascot": "Wolverines",
-            "abbr": "FH",
-            "color": "#754ACC",
             "isUs": false
           }
         ]
@@ -5685,20 +5471,6 @@
             "abbr": "MV",
             "color": "#034CB2",
             "isUs": false
-          },
-          {
-            "name": "Providence Classical Christian",
-            "mascot": "Highlanders",
-            "abbr": "PC",
-            "color": "#022C66",
-            "isUs": false
-          },
-          {
-            "name": "Friday Harbor",
-            "mascot": "Wolverines",
-            "abbr": "FH",
-            "color": "#754ACC",
-            "isUs": false
           }
         ],
         "alive": [
@@ -5733,6 +5505,20 @@
         ],
         "out": [
           {
+            "name": "Providence Classical Christian",
+            "mascot": "Highlanders",
+            "abbr": "PC",
+            "color": "#022C66",
+            "isUs": false
+          },
+          {
+            "name": "Friday Harbor",
+            "mascot": "Wolverines",
+            "abbr": "FH",
+            "color": "#754ACC",
+            "isUs": false
+          },
+          {
             "name": "Puget Sound Adventist",
             "mascot": null,
             "abbr": "PS",
@@ -5761,8 +5547,8 @@
             "isUs": false
           }
         ],
-        "fromDistrict": 6,
-        "fromElsewhere": 2
+        "fromDistrict": 4,
+        "fromElsewhere": 4
       },
       "lastYear": {
         "champion": true,
@@ -6348,8 +6134,8 @@
     "insights": [
       {
         "icon": "🔒",
-        "title": "El jueves se decide nuestra posición para el Estatal",
-        "text": "Con nuestro lugar en el Estatal asegurado, la semifinal del jueves decide en qué posición llegamos. Una mejor posición normalmente significa un rival más débil en nuestro primer partido del Estatal."
+        "title": "El sábado se decide nuestra posición para el Estatal",
+        "text": "Con nuestro lugar en el Estatal asegurado, la final del sábado decide en qué posición llegamos. Una mejor posición normalmente significa un rival más débil en nuestro primer partido del Estatal."
       },
       {
         "icon": "🏆",
@@ -6358,8 +6144,8 @@
       },
       {
         "icon": "⚠️",
-        "title": "Providence nos pone las cosas difíciles",
-        "text": "Les ganamos los dos partidos, pero cada vez por solo un gol (3-2 y 4-3). Son nuestro próximo rival: jueves 5 de noviembre."
+        "title": "Mount Vernon nos pone las cosas difíciles",
+        "text": "Todos los partidos han sido parejos: una victoria y un empate (0-0 y 1-0). Son nuestro próximo rival: sábado 7 de noviembre."
       },
       {
         "icon": "💪",
@@ -6382,7 +6168,7 @@
       {
         "stage": "Distrito",
         "teams": null,
-        "text": "Un torneo aparte con equipos de varias ligas. Los 6 mejores se ganan un lugar en el Estatal.",
+        "text": "Un torneo aparte con equipos de varias ligas. Los 4 mejores se ganan un lugar en el Estatal.",
         "us": "1 victoria hasta ahora"
       },
       {
@@ -8171,16 +7957,8 @@
     "historySince": "2022",
     "calendar": [
       {
-        "id": "2026-11-05-g7",
-        "title": "Vikings vs Providence · Semifinal del distrito",
-        "start": "2026-11-05T20:30:00.000Z",
-        "timeKnown": true,
-        "location": "Anacortes HS",
-        "details": "Fútbol varonil de los Orcas Island Vikings. Síguelos en: https://govikings.app"
-      },
-      {
         "id": "2026-11-07-g9",
-        "title": "Vikings vs Mount Vernon o Friday Harbor · Final del distrito (si avanzamos)",
+        "title": "Vikings vs Mount Vernon · Final del distrito",
         "start": "2026-11-07T23:00:00.000Z",
         "timeKnown": true,
         "location": "Sammamish HS",
