@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T23:10:27.819Z",
+  "generatedAt": "2026-11-05T23:16:06.914Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -2074,12 +2074,12 @@
         "color": "#034CB2",
         "isUs": false
       },
-      "home": true,
+      "home": false,
       "result": null,
       "gf": null,
       "ga": null,
       "stage": "District",
-      "venue": "Sammamish HS"
+      "venue": "at Sammamish HS - Bellevue"
     }
   ],
   "history": [
@@ -2744,9 +2744,9 @@
           "result": null,
           "gf": null,
           "ga": null,
-          "home": true,
+          "home": false,
           "stage": "District",
-          "venue": "Sammamish HS",
+          "venue": "at Sammamish HS - Bellevue",
           "pens": false,
           "close": false,
           "upcoming": true
@@ -4026,7 +4026,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-05T23:10:27.819Z",
+    "generatedAt": "2026-11-05T23:16:06.914Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -6101,12 +6101,12 @@
           "color": "#034CB2",
           "isUs": false
         },
-        "home": true,
+        "home": false,
         "result": null,
         "gf": null,
         "ga": null,
         "stage": "District",
-        "venue": "Sammamish HS"
+        "venue": "at Sammamish HS - Bellevue"
       }
     ],
     "history": [
@@ -6771,9 +6771,9 @@
             "result": null,
             "gf": null,
             "ga": null,
-            "home": true,
+            "home": false,
             "stage": "District",
-            "venue": "Sammamish HS",
+            "venue": "at Sammamish HS - Bellevue",
             "pens": false,
             "close": false,
             "upcoming": true
