@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T00:46:06.786Z",
+  "generatedAt": "2026-11-06T01:01:06.951Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -9,10 +9,10 @@
     "full": "Orcas Island Vikings",
     "sport": "Boys Soccer",
     "season": "2026",
-    "record": "16-0-1",
-    "streak": "W12",
+    "record": "17-0-1",
+    "streak": "W13",
     "goals": {
-      "for": 94,
+      "for": 95,
       "against": 13
     },
     "rank": {
@@ -2057,9 +2057,9 @@
         "isUs": false
       },
       "home": true,
-      "result": null,
-      "gf": null,
-      "ga": null,
+      "result": "W",
+      "gf": 1,
+      "ga": 0,
       "stage": "District",
       "venue": "Anacortes High School"
     },
@@ -2171,7 +2171,7 @@
     {
       "icon": "💪",
       "title": "Unbeaten all season",
-      "text": "16 wins and 1 draw. We’ve scored 94 goals and allowed just 13."
+      "text": "17 wins and 1 draw. We’ve scored 95 goals and allowed just 13."
     },
     {
       "icon": "⭐",
@@ -3314,15 +3314,15 @@
         {
           "season": "2026",
           "date": "2026-11-05T20:30:00.000Z",
-          "result": null,
-          "gf": null,
-          "ga": null,
+          "result": "W",
+          "gf": 1,
+          "ga": 0,
           "home": true,
           "stage": "District",
           "venue": "Anacortes High School",
           "pens": false,
-          "close": false,
-          "upcoming": true
+          "close": true,
+          "upcoming": false
         },
         {
           "season": "2026",
@@ -3456,7 +3456,7 @@
         }
       ],
       "record": {
-        "w": 9,
+        "w": 10,
         "l": 1,
         "d": 0
       },
@@ -4024,7 +4024,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-06T00:46:06.786Z",
+    "generatedAt": "2026-11-06T01:01:06.951Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -4034,10 +4034,10 @@
       "full": "Orcas Island Vikings",
       "sport": "Fútbol varonil",
       "season": "2026",
-      "record": "16-0-1",
-      "streak": "W12",
+      "record": "17-0-1",
+      "streak": "W13",
       "goals": {
-        "for": 94,
+        "for": 95,
         "against": 13
       },
       "rank": {
@@ -6082,9 +6082,9 @@
           "isUs": false
         },
         "home": true,
-        "result": null,
-        "gf": null,
-        "ga": null,
+        "result": "W",
+        "gf": 1,
+        "ga": 0,
         "stage": "District",
         "venue": "Anacortes High School"
       },
@@ -6196,7 +6196,7 @@
       {
         "icon": "💪",
         "title": "Invictos toda la temporada",
-        "text": "16 victorias y 1 empate. Hemos anotado 94 goles y solo hemos recibido 13."
+        "text": "17 victorias y 1 empate. Hemos anotado 95 goles y solo hemos recibido 13."
       },
       {
         "icon": "⭐",
@@ -7339,15 +7339,15 @@
           {
             "season": "2026",
             "date": "2026-11-05T20:30:00.000Z",
-            "result": null,
-            "gf": null,
-            "ga": null,
+            "result": "W",
+            "gf": 1,
+            "ga": 0,
             "home": true,
             "stage": "District",
             "venue": "Anacortes High School",
             "pens": false,
-            "close": false,
-            "upcoming": true
+            "close": true,
+            "upcoming": false
           },
           {
             "season": "2026",
@@ -7481,7 +7481,7 @@
           }
         ],
         "record": {
-          "w": 9,
+          "w": 10,
           "l": 1,
           "d": 0
         },
