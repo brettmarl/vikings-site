@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T02:01:07.600Z",
+  "generatedAt": "2026-11-06T05:03:18.266Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -97,6 +97,7 @@
     "links": {
       "map": "https://www.google.com/maps/search/?api=1&query=Sammamish%20HS%2C%20WA"
     },
+    "watch": null,
     "calId": "2026-11-07-g9"
   },
   "dates": [
@@ -192,6 +193,7 @@
               "state": false
             },
             "ours": true,
+            "watch": null,
             "maybeOurs": false
           },
           {
@@ -235,6 +237,7 @@
               "state": false
             },
             "ours": false,
+            "watch": null,
             "maybeOurs": false
           },
           {
@@ -278,6 +281,7 @@
               "state": false
             },
             "ours": false,
+            "watch": null,
             "maybeOurs": false
           },
           {
@@ -321,6 +325,7 @@
               "state": false
             },
             "ours": false,
+            "watch": null,
             "maybeOurs": false
           }
         ],
@@ -370,6 +375,7 @@
               "state": false
             },
             "ours": true,
+            "watch": "https://www.nfhsnetwork.com/events/twin-city-sports-network/gam74e3da4e16",
             "maybeOurs": false
           },
           {
@@ -413,6 +419,7 @@
               "state": false
             },
             "ours": false,
+            "watch": null,
             "maybeOurs": false
           },
           {
@@ -456,6 +463,7 @@
               "out": true
             },
             "ours": false,
+            "watch": null,
             "maybeOurs": false
           },
           {
@@ -499,6 +507,7 @@
               "out": true
             },
             "ours": false,
+            "watch": null,
             "maybeOurs": false
           }
         ],
@@ -550,6 +559,7 @@
               "state": true
             },
             "ours": true,
+            "watch": null,
             "maybeOurs": false
           }
         ],
@@ -603,6 +613,7 @@
               "state": false
             },
             "ours": false,
+            "watch": null,
             "maybeOurs": false
           },
           {
@@ -646,6 +657,7 @@
               "state": false
             },
             "ours": true,
+            "watch": null,
             "maybeOurs": false
           },
           {
@@ -689,6 +701,7 @@
               "state": false
             },
             "ours": false,
+            "watch": null,
             "maybeOurs": false
           },
           {
@@ -732,6 +745,7 @@
               "state": false
             },
             "ours": false,
+            "watch": null,
             "maybeOurs": false
           }
         ]
@@ -782,6 +796,7 @@
               "state": false
             },
             "ours": true,
+            "watch": "https://www.nfhsnetwork.com/events/twin-city-sports-network/gam74e3da4e16",
             "maybeOurs": false
           },
           {
@@ -825,6 +840,7 @@
               "state": false
             },
             "ours": false,
+            "watch": null,
             "maybeOurs": false
           }
         ]
@@ -877,6 +893,7 @@
               "state": true
             },
             "ours": true,
+            "watch": null,
             "maybeOurs": false
           }
         ]
@@ -924,6 +941,7 @@
           "out": true
         },
         "ours": false,
+        "watch": null,
         "maybeOurs": false,
         "note": null
       },
@@ -968,6 +986,7 @@
           "out": true
         },
         "ours": false,
+        "watch": null,
         "maybeOurs": false,
         "note": null
       }
@@ -1011,6 +1030,7 @@
           "out": true
         },
         "ours": false,
+        "watch": null,
         "maybeOurs": false
       },
       {
@@ -1051,6 +1071,7 @@
           "out": true
         },
         "ours": false,
+        "watch": null,
         "maybeOurs": false
       },
       {
@@ -1091,6 +1112,7 @@
           "out": true
         },
         "ours": false,
+        "watch": null,
         "maybeOurs": false
       },
       {
@@ -1134,6 +1156,7 @@
           "out": true
         },
         "ours": false,
+        "watch": null,
         "maybeOurs": false
       },
       {
@@ -1177,6 +1200,7 @@
           "out": true
         },
         "ours": false,
+        "watch": null,
         "maybeOurs": false
       }
     ],
@@ -1223,11 +1247,13 @@
             "state": false
           },
           "ours": true,
+          "watch": null,
           "maybeOurs": false
         },
         "result": "W",
         "gf": 3,
         "ga": 1,
+        "watch": null,
         "opponent": {
           "name": "Coupeville",
           "mascot": "Wolves",
@@ -1278,11 +1304,13 @@
             "state": false
           },
           "ours": true,
+          "watch": "https://www.nfhsnetwork.com/events/twin-city-sports-network/gam74e3da4e16",
           "maybeOurs": false
         },
         "result": "W",
         "gf": 1,
         "ga": 0,
+        "watch": "https://www.nfhsnetwork.com/events/twin-city-sports-network/gam74e3da4e16",
         "opponent": {
           "name": "Providence Classical Christian",
           "mascot": "Highlanders",
@@ -1335,11 +1363,13 @@
             "state": true
           },
           "ours": true,
+          "watch": null,
           "maybeOurs": false
         },
         "result": null,
         "gf": null,
         "ga": null,
+        "watch": null,
         "opponent": {
           "name": "Mount Vernon Christian",
           "mascot": "Hurricanes",
@@ -1393,6 +1423,7 @@
           "state": true
         },
         "ours": true,
+        "watch": null,
         "maybeOurs": false
       },
       "win": {
@@ -1566,7 +1597,8 @@
           },
           "result": "W",
           "gf": 5,
-          "ga": 0
+          "ga": 0,
+          "watch": null
         },
         {
           "date": "2025-11-22T03:00:00.000Z",
@@ -1579,7 +1611,8 @@
           },
           "result": "W",
           "gf": 6,
-          "ga": 1
+          "ga": 1,
+          "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gamde19468f15"
         },
         {
           "date": "2025-11-22T23:30:00.000Z",
@@ -1592,7 +1625,8 @@
           },
           "result": "W",
           "gf": 1,
-          "ga": 0
+          "ga": 0,
+          "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam6f5d44aead"
         }
       ],
       "districtLoss": {
@@ -1786,7 +1820,8 @@
       "gf": 8,
       "ga": 0,
       "stage": "Non-league",
-      "venue": "Orcas Island High School"
+      "venue": "Orcas Island High School",
+      "watch": null
     },
     {
       "date": "2026-09-12T20:00:00.000Z",
@@ -1802,7 +1837,8 @@
       "gf": 7,
       "ga": 1,
       "stage": "Non-league",
-      "venue": "Orcas Island High School"
+      "venue": "Orcas Island High School",
+      "watch": null
     },
     {
       "date": "2026-09-18T21:30:00.000Z",
@@ -1818,7 +1854,8 @@
       "gf": 7,
       "ga": 1,
       "stage": "Non-league",
-      "venue": "Saint Georges High School"
+      "venue": "Saint Georges High School",
+      "watch": "https://www.nfhsnetwork.com/events/st-georges-school-spokane-wa/gam7b9bc33f19"
     },
     {
       "date": "2026-09-19T17:00:00.000Z",
@@ -1834,7 +1871,8 @@
       "gf": 6,
       "ga": 0,
       "stage": "Non-league",
-      "venue": "Saint George's high school"
+      "venue": "Saint George's high school",
+      "watch": "https://www.nfhsnetwork.com/events/st-georges-school-spokane-wa/gam14c643f358"
     },
     {
       "date": "2026-09-23T22:00:00.000Z",
@@ -1850,7 +1888,8 @@
       "gf": 0,
       "ga": 0,
       "stage": "Non-league",
-      "venue": "Mount Vernon Christian"
+      "venue": "Mount Vernon Christian",
+      "watch": null
     },
     {
       "date": "2026-09-25T22:30:00.000Z",
@@ -1866,7 +1905,8 @@
       "gf": 4,
       "ga": 1,
       "stage": "League",
-      "venue": "Linde Community Fields"
+      "venue": "Linde Community Fields",
+      "watch": null
     },
     {
       "date": "2026-09-29T22:15:00.000Z",
@@ -1882,7 +1922,8 @@
       "gf": 9,
       "ga": 1,
       "stage": "League",
-      "venue": "Evergreen Playfields"
+      "venue": "Evergreen Playfields",
+      "watch": null
     },
     {
       "date": "2026-10-01T23:00:00.000Z",
@@ -1898,7 +1939,8 @@
       "gf": 12,
       "ga": 0,
       "stage": "League",
-      "venue": "Orcas Island High School"
+      "venue": "Orcas Island High School",
+      "watch": null
     },
     {
       "date": "2026-10-03T20:00:00.000Z",
@@ -1914,7 +1956,8 @@
       "gf": 3,
       "ga": 2,
       "stage": "Non-league",
-      "venue": "Orcas Island High School"
+      "venue": "Orcas Island High School",
+      "watch": null
     },
     {
       "date": "2026-10-07T23:00:00.000Z",
@@ -1930,7 +1973,8 @@
       "gf": 1,
       "ga": 0,
       "stage": "League",
-      "venue": "Orcas Island High School"
+      "venue": "Orcas Island High School",
+      "watch": null
     },
     {
       "date": "2026-10-09T23:00:00.000Z",
@@ -1946,7 +1990,8 @@
       "gf": 3,
       "ga": 1,
       "stage": "League",
-      "venue": "Lopez High School"
+      "venue": "Lopez High School",
+      "watch": "https://www.nfhsnetwork.com/events/lopez-island-high-school-lopez-wa/gam8fc25f4107"
     },
     {
       "date": "2026-10-13T23:00:00.000Z",
@@ -1962,7 +2007,8 @@
       "gf": 2,
       "ga": 0,
       "stage": "Non-league",
-      "venue": "Orcas Island High School"
+      "venue": "Orcas Island High School",
+      "watch": null
     },
     {
       "date": "2026-10-15T22:30:00.000Z",
@@ -1978,7 +2024,8 @@
       "gf": 4,
       "ga": 3,
       "stage": "League",
-      "venue": "North Creek Fields"
+      "venue": "North Creek Fields",
+      "watch": null
     },
     {
       "date": "2026-10-21T21:00:00.000Z",
@@ -1994,7 +2041,8 @@
       "gf": 12,
       "ga": 0,
       "stage": "League",
-      "venue": "Orcas Island High School"
+      "venue": "Orcas Island High School",
+      "watch": null
     },
     {
       "date": "2026-10-24T20:00:00.000Z",
@@ -2010,7 +2058,8 @@
       "gf": 10,
       "ga": 1,
       "stage": "League",
-      "venue": "Orcas Island High School"
+      "venue": "Orcas Island High School",
+      "watch": null
     },
     {
       "date": "2026-10-27T23:00:00.000Z",
@@ -2026,7 +2075,8 @@
       "gf": 3,
       "ga": 1,
       "stage": "League",
-      "venue": "COUPEVILLE ELEMENTARY SCHOOL"
+      "venue": "COUPEVILLE ELEMENTARY SCHOOL",
+      "watch": "https://www.nfhsnetwork.com/events/coupeville-high-school-coupeville-wa/gamfcc2949b4e"
     },
     {
       "date": "2026-11-03T20:30:00.000Z",
@@ -2042,7 +2092,8 @@
       "gf": 3,
       "ga": 1,
       "stage": "District",
-      "venue": "Anacortes HS"
+      "venue": "Anacortes HS",
+      "watch": null
     },
     {
       "date": "2026-11-05T20:30:00.000Z",
@@ -2058,7 +2109,8 @@
       "gf": 1,
       "ga": 0,
       "stage": "District",
-      "venue": "Anacortes High School"
+      "venue": "Anacortes High School",
+      "watch": "https://www.nfhsnetwork.com/events/twin-city-sports-network/gam74e3da4e16"
     },
     {
       "date": "2026-11-07T23:00:00.000Z",
@@ -2074,7 +2126,8 @@
       "gf": null,
       "ga": null,
       "stage": "District",
-      "venue": "Sammamish HS"
+      "venue": "Sammamish HS",
+      "watch": null
     }
   ],
   "history": [
@@ -2206,97 +2259,116 @@
     {
       "start": "2026-09-11T23:00:00.000Z",
       "timeKnown": true,
-      "what": "Lopez"
+      "what": "Lopez",
+      "ours": true
     },
     {
       "start": "2026-09-12T20:00:00.000Z",
       "timeKnown": true,
-      "what": "Evergreen Lutheran"
+      "what": "Evergreen Lutheran",
+      "ours": true
     },
     {
       "start": "2026-09-18T21:30:00.000Z",
       "timeKnown": true,
-      "what": "St. George's"
+      "what": "St. George's",
+      "ours": true
     },
     {
       "start": "2026-09-19T17:00:00.000Z",
       "timeKnown": true,
-      "what": "Chesterton Academy of Notre Dame"
+      "what": "Chesterton Academy of Notre Dame",
+      "ours": true
     },
     {
       "start": "2026-09-23T22:00:00.000Z",
       "timeKnown": true,
-      "what": "Mount Vernon Christian"
+      "what": "Mount Vernon Christian",
+      "ours": true
     },
     {
       "start": "2026-09-25T22:30:00.000Z",
       "timeKnown": true,
-      "what": "Friday Harbor"
+      "what": "Friday Harbor",
+      "ours": true
     },
     {
       "start": "2026-09-29T22:15:00.000Z",
       "timeKnown": true,
-      "what": "Cedar Park Christian"
+      "what": "Cedar Park Christian",
+      "ours": true
     },
     {
       "start": "2026-10-01T23:00:00.000Z",
       "timeKnown": true,
-      "what": "Grace Academy"
+      "what": "Grace Academy",
+      "ours": true
     },
     {
       "start": "2026-10-03T20:00:00.000Z",
       "timeKnown": true,
-      "what": "Providence Classical Christian"
+      "what": "Providence Classical Christian",
+      "ours": true
     },
     {
       "start": "2026-10-07T23:00:00.000Z",
       "timeKnown": true,
-      "what": "Mount Vernon Christian"
+      "what": "Mount Vernon Christian",
+      "ours": true
     },
     {
       "start": "2026-10-09T23:00:00.000Z",
       "timeKnown": true,
-      "what": "Lopez"
+      "what": "Lopez",
+      "ours": true
     },
     {
       "start": "2026-10-13T23:00:00.000Z",
       "timeKnown": true,
-      "what": "Friday Harbor"
+      "what": "Friday Harbor",
+      "ours": true
     },
     {
       "start": "2026-10-15T22:30:00.000Z",
       "timeKnown": true,
-      "what": "Providence Classical Christian"
+      "what": "Providence Classical Christian",
+      "ours": true
     },
     {
       "start": "2026-10-21T21:00:00.000Z",
       "timeKnown": true,
-      "what": "La Conner"
+      "what": "La Conner",
+      "ours": true
     },
     {
       "start": "2026-10-24T20:00:00.000Z",
       "timeKnown": true,
-      "what": "Evangel Classical"
+      "what": "Evangel Classical",
+      "ours": true
     },
     {
       "start": "2026-10-27T23:00:00.000Z",
       "timeKnown": true,
-      "what": "Coupeville"
+      "what": "Coupeville",
+      "ours": true
     },
     {
       "start": "2026-11-03T20:30:00.000Z",
       "timeKnown": true,
-      "what": "Coupeville"
+      "what": "Coupeville",
+      "ours": true
     },
     {
       "start": "2026-11-05T20:30:00.000Z",
       "timeKnown": true,
-      "what": "Providence Classical Christian"
+      "what": "Providence Classical Christian",
+      "ours": true
     },
     {
       "start": "2026-11-07T23:00:00.000Z",
       "timeKnown": true,
-      "what": "Mount Vernon Christian"
+      "what": "Mount Vernon Christian",
+      "ours": true
     },
     {
       "start": "2026-10-15T00:30:00.000Z",
@@ -4015,13 +4087,17 @@
       "url": "https://www.wpanetwork.com/wiaa/brackets/tournament.php?act=view&tournament_id=5242"
     },
     {
+      "name": "Live streams (NFHS Network)",
+      "url": "https://www.nfhsnetwork.com/schools/orcas-island-high-school-eastsound-wa/soccer/boys/varsity"
+    },
+    {
       "name": "State info (WIAA)",
       "url": "https://www.wiaa.com/tournament/?sportid=9"
     }
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-06T02:01:07.600Z",
+    "generatedAt": "2026-11-06T05:03:18.266Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -4119,6 +4195,7 @@
       "links": {
         "map": "https://www.google.com/maps/search/?api=1&query=Sammamish%20HS%2C%20WA"
       },
+      "watch": null,
       "calId": "2026-11-07-g9"
     },
     "dates": [
@@ -4214,6 +4291,7 @@
                 "state": false
               },
               "ours": true,
+              "watch": null,
               "maybeOurs": false
             },
             {
@@ -4257,6 +4335,7 @@
                 "state": false
               },
               "ours": false,
+              "watch": null,
               "maybeOurs": false
             },
             {
@@ -4300,6 +4379,7 @@
                 "state": false
               },
               "ours": false,
+              "watch": null,
               "maybeOurs": false
             },
             {
@@ -4343,6 +4423,7 @@
                 "state": false
               },
               "ours": false,
+              "watch": null,
               "maybeOurs": false
             }
           ],
@@ -4392,6 +4473,7 @@
                 "state": false
               },
               "ours": true,
+              "watch": "https://www.nfhsnetwork.com/events/twin-city-sports-network/gam74e3da4e16",
               "maybeOurs": false
             },
             {
@@ -4435,6 +4517,7 @@
                 "state": false
               },
               "ours": false,
+              "watch": null,
               "maybeOurs": false
             },
             {
@@ -4478,6 +4561,7 @@
                 "out": true
               },
               "ours": false,
+              "watch": null,
               "maybeOurs": false
             },
             {
@@ -4521,6 +4605,7 @@
                 "out": true
               },
               "ours": false,
+              "watch": null,
               "maybeOurs": false
             }
           ],
@@ -4572,6 +4657,7 @@
                 "state": true
               },
               "ours": true,
+              "watch": null,
               "maybeOurs": false
             }
           ],
@@ -4625,6 +4711,7 @@
                 "state": false
               },
               "ours": false,
+              "watch": null,
               "maybeOurs": false
             },
             {
@@ -4668,6 +4755,7 @@
                 "state": false
               },
               "ours": true,
+              "watch": null,
               "maybeOurs": false
             },
             {
@@ -4711,6 +4799,7 @@
                 "state": false
               },
               "ours": false,
+              "watch": null,
               "maybeOurs": false
             },
             {
@@ -4754,6 +4843,7 @@
                 "state": false
               },
               "ours": false,
+              "watch": null,
               "maybeOurs": false
             }
           ]
@@ -4804,6 +4894,7 @@
                 "state": false
               },
               "ours": true,
+              "watch": "https://www.nfhsnetwork.com/events/twin-city-sports-network/gam74e3da4e16",
               "maybeOurs": false
             },
             {
@@ -4847,6 +4938,7 @@
                 "state": false
               },
               "ours": false,
+              "watch": null,
               "maybeOurs": false
             }
           ]
@@ -4899,6 +4991,7 @@
                 "state": true
               },
               "ours": true,
+              "watch": null,
               "maybeOurs": false
             }
           ]
@@ -4946,6 +5039,7 @@
             "out": true
           },
           "ours": false,
+          "watch": null,
           "maybeOurs": false,
           "note": null
         },
@@ -4990,6 +5084,7 @@
             "out": true
           },
           "ours": false,
+          "watch": null,
           "maybeOurs": false,
           "note": null
         }
@@ -5033,6 +5128,7 @@
             "out": true
           },
           "ours": false,
+          "watch": null,
           "maybeOurs": false
         },
         {
@@ -5073,6 +5169,7 @@
             "out": true
           },
           "ours": false,
+          "watch": null,
           "maybeOurs": false
         },
         {
@@ -5113,6 +5210,7 @@
             "out": true
           },
           "ours": false,
+          "watch": null,
           "maybeOurs": false
         },
         {
@@ -5156,6 +5254,7 @@
             "out": true
           },
           "ours": false,
+          "watch": null,
           "maybeOurs": false
         },
         {
@@ -5199,6 +5298,7 @@
             "out": true
           },
           "ours": false,
+          "watch": null,
           "maybeOurs": false
         }
       ],
@@ -5245,11 +5345,13 @@
               "state": false
             },
             "ours": true,
+            "watch": null,
             "maybeOurs": false
           },
           "result": "W",
           "gf": 3,
           "ga": 1,
+          "watch": null,
           "opponent": {
             "name": "Coupeville",
             "mascot": "Wolves",
@@ -5300,11 +5402,13 @@
               "state": false
             },
             "ours": true,
+            "watch": "https://www.nfhsnetwork.com/events/twin-city-sports-network/gam74e3da4e16",
             "maybeOurs": false
           },
           "result": "W",
           "gf": 1,
           "ga": 0,
+          "watch": "https://www.nfhsnetwork.com/events/twin-city-sports-network/gam74e3da4e16",
           "opponent": {
             "name": "Providence Classical Christian",
             "mascot": "Highlanders",
@@ -5357,11 +5461,13 @@
               "state": true
             },
             "ours": true,
+            "watch": null,
             "maybeOurs": false
           },
           "result": null,
           "gf": null,
           "ga": null,
+          "watch": null,
           "opponent": {
             "name": "Mount Vernon Christian",
             "mascot": "Hurricanes",
@@ -5415,6 +5521,7 @@
             "state": true
           },
           "ours": true,
+          "watch": null,
           "maybeOurs": false
         },
         "win": {
@@ -5588,7 +5695,8 @@
             },
             "result": "W",
             "gf": 5,
-            "ga": 0
+            "ga": 0,
+            "watch": null
           },
           {
             "date": "2025-11-22T03:00:00.000Z",
@@ -5601,7 +5709,8 @@
             },
             "result": "W",
             "gf": 6,
-            "ga": 1
+            "ga": 1,
+            "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gamde19468f15"
           },
           {
             "date": "2025-11-22T23:30:00.000Z",
@@ -5614,7 +5723,8 @@
             },
             "result": "W",
             "gf": 1,
-            "ga": 0
+            "ga": 0,
+            "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam6f5d44aead"
           }
         ],
         "districtLoss": {
@@ -5808,7 +5918,8 @@
         "gf": 8,
         "ga": 0,
         "stage": "Non-league",
-        "venue": "Orcas Island High School"
+        "venue": "Orcas Island High School",
+        "watch": null
       },
       {
         "date": "2026-09-12T20:00:00.000Z",
@@ -5824,7 +5935,8 @@
         "gf": 7,
         "ga": 1,
         "stage": "Non-league",
-        "venue": "Orcas Island High School"
+        "venue": "Orcas Island High School",
+        "watch": null
       },
       {
         "date": "2026-09-18T21:30:00.000Z",
@@ -5840,7 +5952,8 @@
         "gf": 7,
         "ga": 1,
         "stage": "Non-league",
-        "venue": "Saint Georges High School"
+        "venue": "Saint Georges High School",
+        "watch": "https://www.nfhsnetwork.com/events/st-georges-school-spokane-wa/gam7b9bc33f19"
       },
       {
         "date": "2026-09-19T17:00:00.000Z",
@@ -5856,7 +5969,8 @@
         "gf": 6,
         "ga": 0,
         "stage": "Non-league",
-        "venue": "Saint George's high school"
+        "venue": "Saint George's high school",
+        "watch": "https://www.nfhsnetwork.com/events/st-georges-school-spokane-wa/gam14c643f358"
       },
       {
         "date": "2026-09-23T22:00:00.000Z",
@@ -5872,7 +5986,8 @@
         "gf": 0,
         "ga": 0,
         "stage": "Non-league",
-        "venue": "Mount Vernon Christian"
+        "venue": "Mount Vernon Christian",
+        "watch": null
       },
       {
         "date": "2026-09-25T22:30:00.000Z",
@@ -5888,7 +6003,8 @@
         "gf": 4,
         "ga": 1,
         "stage": "League",
-        "venue": "Linde Community Fields"
+        "venue": "Linde Community Fields",
+        "watch": null
       },
       {
         "date": "2026-09-29T22:15:00.000Z",
@@ -5904,7 +6020,8 @@
         "gf": 9,
         "ga": 1,
         "stage": "League",
-        "venue": "Evergreen Playfields"
+        "venue": "Evergreen Playfields",
+        "watch": null
       },
       {
         "date": "2026-10-01T23:00:00.000Z",
@@ -5920,7 +6037,8 @@
         "gf": 12,
         "ga": 0,
         "stage": "League",
-        "venue": "Orcas Island High School"
+        "venue": "Orcas Island High School",
+        "watch": null
       },
       {
         "date": "2026-10-03T20:00:00.000Z",
@@ -5936,7 +6054,8 @@
         "gf": 3,
         "ga": 2,
         "stage": "Non-league",
-        "venue": "Orcas Island High School"
+        "venue": "Orcas Island High School",
+        "watch": null
       },
       {
         "date": "2026-10-07T23:00:00.000Z",
@@ -5952,7 +6071,8 @@
         "gf": 1,
         "ga": 0,
         "stage": "League",
-        "venue": "Orcas Island High School"
+        "venue": "Orcas Island High School",
+        "watch": null
       },
       {
         "date": "2026-10-09T23:00:00.000Z",
@@ -5968,7 +6088,8 @@
         "gf": 3,
         "ga": 1,
         "stage": "League",
-        "venue": "Lopez High School"
+        "venue": "Lopez High School",
+        "watch": "https://www.nfhsnetwork.com/events/lopez-island-high-school-lopez-wa/gam8fc25f4107"
       },
       {
         "date": "2026-10-13T23:00:00.000Z",
@@ -5984,7 +6105,8 @@
         "gf": 2,
         "ga": 0,
         "stage": "Non-league",
-        "venue": "Orcas Island High School"
+        "venue": "Orcas Island High School",
+        "watch": null
       },
       {
         "date": "2026-10-15T22:30:00.000Z",
@@ -6000,7 +6122,8 @@
         "gf": 4,
         "ga": 3,
         "stage": "League",
-        "venue": "North Creek Fields"
+        "venue": "North Creek Fields",
+        "watch": null
       },
       {
         "date": "2026-10-21T21:00:00.000Z",
@@ -6016,7 +6139,8 @@
         "gf": 12,
         "ga": 0,
         "stage": "League",
-        "venue": "Orcas Island High School"
+        "venue": "Orcas Island High School",
+        "watch": null
       },
       {
         "date": "2026-10-24T20:00:00.000Z",
@@ -6032,7 +6156,8 @@
         "gf": 10,
         "ga": 1,
         "stage": "League",
-        "venue": "Orcas Island High School"
+        "venue": "Orcas Island High School",
+        "watch": null
       },
       {
         "date": "2026-10-27T23:00:00.000Z",
@@ -6048,7 +6173,8 @@
         "gf": 3,
         "ga": 1,
         "stage": "League",
-        "venue": "COUPEVILLE ELEMENTARY SCHOOL"
+        "venue": "COUPEVILLE ELEMENTARY SCHOOL",
+        "watch": "https://www.nfhsnetwork.com/events/coupeville-high-school-coupeville-wa/gamfcc2949b4e"
       },
       {
         "date": "2026-11-03T20:30:00.000Z",
@@ -6064,7 +6190,8 @@
         "gf": 3,
         "ga": 1,
         "stage": "District",
-        "venue": "Anacortes HS"
+        "venue": "Anacortes HS",
+        "watch": null
       },
       {
         "date": "2026-11-05T20:30:00.000Z",
@@ -6080,7 +6207,8 @@
         "gf": 1,
         "ga": 0,
         "stage": "District",
-        "venue": "Anacortes High School"
+        "venue": "Anacortes High School",
+        "watch": "https://www.nfhsnetwork.com/events/twin-city-sports-network/gam74e3da4e16"
       },
       {
         "date": "2026-11-07T23:00:00.000Z",
@@ -6096,7 +6224,8 @@
         "gf": null,
         "ga": null,
         "stage": "District",
-        "venue": "Sammamish HS"
+        "venue": "Sammamish HS",
+        "watch": null
       }
     ],
     "history": [
@@ -6228,97 +6357,116 @@
       {
         "start": "2026-09-11T23:00:00.000Z",
         "timeKnown": true,
-        "what": "Lopez"
+        "what": "Lopez",
+        "ours": true
       },
       {
         "start": "2026-09-12T20:00:00.000Z",
         "timeKnown": true,
-        "what": "Evergreen Lutheran"
+        "what": "Evergreen Lutheran",
+        "ours": true
       },
       {
         "start": "2026-09-18T21:30:00.000Z",
         "timeKnown": true,
-        "what": "St. George's"
+        "what": "St. George's",
+        "ours": true
       },
       {
         "start": "2026-09-19T17:00:00.000Z",
         "timeKnown": true,
-        "what": "Chesterton Academy of Notre Dame"
+        "what": "Chesterton Academy of Notre Dame",
+        "ours": true
       },
       {
         "start": "2026-09-23T22:00:00.000Z",
         "timeKnown": true,
-        "what": "Mount Vernon Christian"
+        "what": "Mount Vernon Christian",
+        "ours": true
       },
       {
         "start": "2026-09-25T22:30:00.000Z",
         "timeKnown": true,
-        "what": "Friday Harbor"
+        "what": "Friday Harbor",
+        "ours": true
       },
       {
         "start": "2026-09-29T22:15:00.000Z",
         "timeKnown": true,
-        "what": "Cedar Park Christian"
+        "what": "Cedar Park Christian",
+        "ours": true
       },
       {
         "start": "2026-10-01T23:00:00.000Z",
         "timeKnown": true,
-        "what": "Grace Academy"
+        "what": "Grace Academy",
+        "ours": true
       },
       {
         "start": "2026-10-03T20:00:00.000Z",
         "timeKnown": true,
-        "what": "Providence Classical Christian"
+        "what": "Providence Classical Christian",
+        "ours": true
       },
       {
         "start": "2026-10-07T23:00:00.000Z",
         "timeKnown": true,
-        "what": "Mount Vernon Christian"
+        "what": "Mount Vernon Christian",
+        "ours": true
       },
       {
         "start": "2026-10-09T23:00:00.000Z",
         "timeKnown": true,
-        "what": "Lopez"
+        "what": "Lopez",
+        "ours": true
       },
       {
         "start": "2026-10-13T23:00:00.000Z",
         "timeKnown": true,
-        "what": "Friday Harbor"
+        "what": "Friday Harbor",
+        "ours": true
       },
       {
         "start": "2026-10-15T22:30:00.000Z",
         "timeKnown": true,
-        "what": "Providence Classical Christian"
+        "what": "Providence Classical Christian",
+        "ours": true
       },
       {
         "start": "2026-10-21T21:00:00.000Z",
         "timeKnown": true,
-        "what": "La Conner"
+        "what": "La Conner",
+        "ours": true
       },
       {
         "start": "2026-10-24T20:00:00.000Z",
         "timeKnown": true,
-        "what": "Evangel Classical"
+        "what": "Evangel Classical",
+        "ours": true
       },
       {
         "start": "2026-10-27T23:00:00.000Z",
         "timeKnown": true,
-        "what": "Coupeville"
+        "what": "Coupeville",
+        "ours": true
       },
       {
         "start": "2026-11-03T20:30:00.000Z",
         "timeKnown": true,
-        "what": "Coupeville"
+        "what": "Coupeville",
+        "ours": true
       },
       {
         "start": "2026-11-05T20:30:00.000Z",
         "timeKnown": true,
-        "what": "Providence Classical Christian"
+        "what": "Providence Classical Christian",
+        "ours": true
       },
       {
         "start": "2026-11-07T23:00:00.000Z",
         "timeKnown": true,
-        "what": "Mount Vernon Christian"
+        "what": "Mount Vernon Christian",
+        "ours": true
       },
       {
         "start": "2026-10-15T00:30:00.000Z",
@@ -8035,6 +8183,10 @@
       {
         "name": "District bracket",
         "url": "https://www.wpanetwork.com/wiaa/brackets/tournament.php?act=view&tournament_id=5242"
+      },
+      {
+        "name": "Live streams (NFHS Network)",
+        "url": "https://www.nfhsnetwork.com/schools/orcas-island-high-school-eastsound-wa/soccer/boys/varsity"
       },
       {
         "name": "State info (WIAA)",
