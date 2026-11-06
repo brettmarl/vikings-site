@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T01:39:35.938Z",
+  "generatedAt": "2026-11-06T02:01:07.600Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -56,7 +56,7 @@
   ],
   "connectors": [
     "League title earned the top seed for districts",
-    "Top 3 from districts go to State"
+    "Top 2 from districts go to State"
   ],
   "nextGame": {
     "stage": "District",
@@ -466,8 +466,8 @@
             "timeKnown": true,
             "venue": "Peck Community Sports Par",
             "siteNote": "@ Higher Seed",
-            "played": false,
-            "scoreSource": null,
+            "played": true,
+            "scoreSource": "bracket",
             "teams": [
               {
                 "name": "Columbia Adventist",
@@ -475,7 +475,7 @@
                 "abbr": "CA",
                 "color": "#3D5A99",
                 "isUs": false,
-                "score": null,
+                "score": 0,
                 "winner": false,
                 "seed": null
               },
@@ -485,15 +485,14 @@
                 "abbr": "EL",
                 "color": "#00824B",
                 "isUs": false,
-                "score": null,
-                "winner": false,
+                "score": 6,
+                "winner": true,
                 "seed": null
               }
             ],
             "winner": {
-              "text": "5th place · to State",
-              "short": "5th place",
-              "state": true
+              "text": "5th place",
+              "state": false
             },
             "loser": {
               "text": "Season over",
@@ -936,8 +935,8 @@
         "timeKnown": true,
         "venue": "Peck Community Sports Par",
         "siteNote": "@ Higher Seed",
-        "played": false,
-        "scoreSource": null,
+        "played": true,
+        "scoreSource": "bracket",
         "teams": [
           {
             "name": "Columbia Adventist",
@@ -945,7 +944,7 @@
             "abbr": "CA",
             "color": "#3D5A99",
             "isUs": false,
-            "score": null,
+            "score": 0,
             "winner": false,
             "seed": null
           },
@@ -955,15 +954,14 @@
             "abbr": "EL",
             "color": "#00824B",
             "isUs": false,
-            "score": null,
-            "winner": false,
+            "score": 6,
+            "winner": true,
             "seed": null
           }
         ],
         "winner": {
-          "text": "5th place · to State",
-          "short": "5th place",
-          "state": true
+          "text": "5th place",
+          "state": false
         },
         "loser": {
           "text": "Season over",
@@ -971,7 +969,7 @@
         },
         "ours": false,
         "maybeOurs": false,
-        "note": "Winner goes to State. Loser’s season ends."
+        "note": null
       }
     ],
     "playIns": [
@@ -1412,11 +1410,11 @@
     },
     "guaranteedState": true,
     "final": null,
-    "berths": 3,
+    "berths": 2,
     "teamCount": null,
     "bracketLagging": false,
     "stateSpots": {
-      "total": 3,
+      "total": 2,
       "teams": [
         {
           "name": "Orcas Island",
@@ -1478,7 +1476,8 @@
           "isUs": false
         }
       ],
-      "alive": [
+      "alive": [],
+      "out": [
         {
           "name": "Evergreen Lutheran",
           "mascot": "Eagles",
@@ -1486,15 +1485,6 @@
           "color": "#00824B",
           "isUs": false
         },
-        {
-          "name": "Columbia Adventist",
-          "mascot": null,
-          "abbr": "CA",
-          "color": "#3D5A99",
-          "isUs": false
-        }
-      ],
-      "out": [
         {
           "name": "Auburn Adventist",
           "mascot": null,
@@ -1538,6 +1528,13 @@
           "isUs": false
         },
         {
+          "name": "Columbia Adventist",
+          "mascot": null,
+          "abbr": "CA",
+          "color": "#3D5A99",
+          "isUs": false
+        },
+        {
           "name": "Cristo Rey Jesuit",
           "mascot": null,
           "abbr": "CR",
@@ -1552,8 +1549,8 @@
           "isUs": false
         }
       ],
-      "fromDistrict": 3,
-      "fromElsewhere": 5
+      "fromDistrict": 2,
+      "fromElsewhere": 6
     },
     "lastYear": {
       "champion": true,
@@ -2072,12 +2069,12 @@
         "color": "#034CB2",
         "isUs": false
       },
-      "home": false,
+      "home": true,
       "result": null,
       "gf": null,
       "ga": null,
       "stage": "District",
-      "venue": "at Sammamish HS - Bellevue"
+      "venue": "Sammamish HS"
     }
   ],
   "history": [
@@ -2189,7 +2186,7 @@
     {
       "stage": "District",
       "teams": null,
-      "text": "A separate tournament with teams from several leagues. The top 3 earn a trip to State.",
+      "text": "A separate tournament with teams from several leagues. The top 2 earn a trip to State.",
       "us": "2 wins so far"
     },
     {
@@ -2742,9 +2739,9 @@
           "result": null,
           "gf": null,
           "ga": null,
-          "home": false,
+          "home": true,
           "stage": "District",
-          "venue": "at Sammamish HS - Bellevue",
+          "venue": "Sammamish HS",
           "pens": false,
           "close": false,
           "upcoming": true
@@ -4024,7 +4021,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-06T01:39:35.938Z",
+    "generatedAt": "2026-11-06T02:01:07.600Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -4081,7 +4078,7 @@
     ],
     "connectors": [
       "Ganar la liga nos dio el primer lugar en el sembrado del distrito",
-      "Los 3 mejores del distrito van al Estatal"
+      "Los 2 mejores del distrito van al Estatal"
     ],
     "nextGame": {
       "stage": "District",
@@ -4491,8 +4488,8 @@
               "timeKnown": true,
               "venue": "Peck Community Sports Par",
               "siteNote": "@ Higher Seed",
-              "played": false,
-              "scoreSource": null,
+              "played": true,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Columbia Adventist",
@@ -4500,7 +4497,7 @@
                   "abbr": "CA",
                   "color": "#3D5A99",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
                   "winner": false,
                   "seed": null
                 },
@@ -4510,15 +4507,14 @@
                   "abbr": "EL",
                   "color": "#00824B",
                   "isUs": false,
-                  "score": null,
-                  "winner": false,
+                  "score": 6,
+                  "winner": true,
                   "seed": null
                 }
               ],
               "winner": {
-                "text": "5.º lugar · al Estatal",
-                "short": "5.º lugar",
-                "state": true
+                "text": "5.º lugar",
+                "state": false
               },
               "loser": {
                 "text": "Fin de temporada",
@@ -4961,8 +4957,8 @@
           "timeKnown": true,
           "venue": "Peck Community Sports Par",
           "siteNote": "@ Higher Seed",
-          "played": false,
-          "scoreSource": null,
+          "played": true,
+          "scoreSource": "bracket",
           "teams": [
             {
               "name": "Columbia Adventist",
@@ -4970,7 +4966,7 @@
               "abbr": "CA",
               "color": "#3D5A99",
               "isUs": false,
-              "score": null,
+              "score": 0,
               "winner": false,
               "seed": null
             },
@@ -4980,15 +4976,14 @@
               "abbr": "EL",
               "color": "#00824B",
               "isUs": false,
-              "score": null,
-              "winner": false,
+              "score": 6,
+              "winner": true,
               "seed": null
             }
           ],
           "winner": {
-            "text": "5.º lugar · al Estatal",
-            "short": "5.º lugar",
-            "state": true
+            "text": "5.º lugar",
+            "state": false
           },
           "loser": {
             "text": "Fin de temporada",
@@ -4996,7 +4991,7 @@
           },
           "ours": false,
           "maybeOurs": false,
-          "note": "El ganador va al Estatal. Para el perdedor, se acaba la temporada."
+          "note": null
         }
       ],
       "playIns": [
@@ -5437,11 +5432,11 @@
       },
       "guaranteedState": true,
       "final": null,
-      "berths": 3,
+      "berths": 2,
       "teamCount": null,
       "bracketLagging": false,
       "stateSpots": {
-        "total": 3,
+        "total": 2,
         "teams": [
           {
             "name": "Orcas Island",
@@ -5503,7 +5498,8 @@
             "isUs": false
           }
         ],
-        "alive": [
+        "alive": [],
+        "out": [
           {
             "name": "Evergreen Lutheran",
             "mascot": "Eagles",
@@ -5511,15 +5507,6 @@
             "color": "#00824B",
             "isUs": false
           },
-          {
-            "name": "Columbia Adventist",
-            "mascot": null,
-            "abbr": "CA",
-            "color": "#3D5A99",
-            "isUs": false
-          }
-        ],
-        "out": [
           {
             "name": "Auburn Adventist",
             "mascot": null,
@@ -5563,6 +5550,13 @@
             "isUs": false
           },
           {
+            "name": "Columbia Adventist",
+            "mascot": null,
+            "abbr": "CA",
+            "color": "#3D5A99",
+            "isUs": false
+          },
+          {
             "name": "Cristo Rey Jesuit",
             "mascot": null,
             "abbr": "CR",
@@ -5577,8 +5571,8 @@
             "isUs": false
           }
         ],
-        "fromDistrict": 3,
-        "fromElsewhere": 5
+        "fromDistrict": 2,
+        "fromElsewhere": 6
       },
       "lastYear": {
         "champion": true,
@@ -6097,12 +6091,12 @@
           "color": "#034CB2",
           "isUs": false
         },
-        "home": false,
+        "home": true,
         "result": null,
         "gf": null,
         "ga": null,
         "stage": "District",
-        "venue": "at Sammamish HS - Bellevue"
+        "venue": "Sammamish HS"
       }
     ],
     "history": [
@@ -6214,7 +6208,7 @@
       {
         "stage": "Distrito",
         "teams": null,
-        "text": "Un torneo aparte con equipos de varias ligas. Los 3 mejores se ganan un lugar en el Estatal.",
+        "text": "Un torneo aparte con equipos de varias ligas. Los 2 mejores se ganan un lugar en el Estatal.",
         "us": "2 victorias hasta ahora"
       },
       {
@@ -6767,9 +6761,9 @@
             "result": null,
             "gf": null,
             "ga": null,
-            "home": false,
+            "home": true,
             "stage": "District",
-            "venue": "at Sammamish HS - Bellevue",
+            "venue": "Sammamish HS",
             "pens": false,
             "close": false,
             "upcoming": true
