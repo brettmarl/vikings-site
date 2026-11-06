@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T18:13:04.038Z",
+  "generatedAt": "2026-11-06T19:01:06.704Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -2126,7 +2126,7 @@
       "gf": null,
       "ga": null,
       "stage": "District",
-      "venue": "Sammamish HS",
+      "venue": "Sammamish HS Bi-District Championship",
       "watch": null
     }
   ],
@@ -2813,7 +2813,7 @@
           "ga": null,
           "home": true,
           "stage": "District",
-          "venue": "Sammamish HS",
+          "venue": "Sammamish HS Bi-District Championship",
           "pens": false,
           "close": false,
           "upcoming": true
@@ -4097,7 +4097,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-06T18:13:04.038Z",
+    "generatedAt": "2026-11-06T19:01:06.704Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -6224,7 +6224,7 @@
         "gf": null,
         "ga": null,
         "stage": "District",
-        "venue": "Sammamish HS",
+        "venue": "Sammamish HS Bi-District Championship",
         "watch": null
       }
     ],
@@ -6911,7 +6911,7 @@
             "ga": null,
             "home": true,
             "stage": "District",
-            "venue": "Sammamish HS",
+            "venue": "Sammamish HS Bi-District Championship",
             "pens": false,
             "close": false,
             "upcoming": true
