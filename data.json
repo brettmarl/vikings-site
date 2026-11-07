@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T15:01:06.727Z",
+  "generatedAt": "2026-11-07T23:01:06.616Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -528,21 +528,21 @@
             "scoreSource": null,
             "teams": [
               {
-                "name": "Orcas Island",
-                "mascot": "Vikings",
-                "abbr": "OI",
-                "color": "#034CB2",
-                "isUs": true,
-                "score": null,
-                "winner": false,
-                "seed": null
-              },
-              {
                 "name": "Mount Vernon Christian",
                 "mascot": "Hurricanes",
                 "abbr": "MV",
                 "color": "#034CB2",
                 "isUs": false,
+                "score": null,
+                "winner": false,
+                "seed": null
+              },
+              {
+                "name": "Orcas Island",
+                "mascot": "Vikings",
+                "abbr": "OI",
+                "color": "#034CB2",
+                "isUs": true,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -569,97 +569,9 @@
     "mainColumns": [
       {
         "title": "First rounds",
-        "date": "2026-11-03T22:45:00.000Z",
+        "date": "2026-11-03T22:00:00.000Z",
         "note": "Winners move on. Losers get one more chance.",
         "games": [
-          {
-            "no": "2",
-            "round": "firstRound",
-            "label": "District first round",
-            "date": "2026-11-03T22:45:00.000Z",
-            "timeKnown": true,
-            "venue": "Puyallup Valley Sports Co",
-            "siteNote": "@ Higher Seed",
-            "played": true,
-            "scoreSource": "bracket",
-            "teams": [
-              {
-                "name": "Providence Classical Christian",
-                "mascot": "Highlanders",
-                "abbr": "PC",
-                "color": "#022C66",
-                "isUs": false,
-                "score": 5,
-                "winner": true,
-                "seed": null
-              },
-              {
-                "name": "Auburn Adventist",
-                "mascot": null,
-                "abbr": "AA",
-                "color": "#8C3B4A",
-                "isUs": false,
-                "score": 0,
-                "winner": false,
-                "seed": null
-              }
-            ],
-            "winner": {
-              "text": "District semifinal",
-              "state": false
-            },
-            "loser": {
-              "text": "Last-chance game",
-              "state": false
-            },
-            "ours": false,
-            "watch": null,
-            "maybeOurs": false
-          },
-          {
-            "no": "1",
-            "round": "firstRound",
-            "label": "District first round",
-            "date": "2026-11-03T20:30:00.000Z",
-            "timeKnown": true,
-            "venue": "Anacortes HS",
-            "siteNote": "@ Higher Seed",
-            "played": true,
-            "scoreSource": "bracket",
-            "teams": [
-              {
-                "name": "Coupeville",
-                "mascot": "Wolves",
-                "abbr": "CO",
-                "color": "#CC0022",
-                "isUs": false,
-                "score": 1,
-                "winner": false,
-                "seed": null
-              },
-              {
-                "name": "Orcas Island",
-                "mascot": "Vikings",
-                "abbr": "OI",
-                "color": "#034CB2",
-                "isUs": true,
-                "score": 3,
-                "winner": true,
-                "seed": null
-              }
-            ],
-            "winner": {
-              "text": "District semifinal",
-              "state": false
-            },
-            "loser": {
-              "text": "Last-chance game",
-              "state": false
-            },
-            "ours": true,
-            "watch": null,
-            "maybeOurs": false
-          },
           {
             "no": "4",
             "round": "firstRound",
@@ -747,21 +659,14 @@
             "ours": false,
             "watch": null,
             "maybeOurs": false
-          }
-        ]
-      },
-      {
-        "title": "Semifinals",
-        "date": "2026-11-05T20:30:00.000Z",
-        "note": null,
-        "games": [
+          },
           {
-            "no": "7",
-            "round": "semifinal",
-            "label": "District semifinal",
-            "date": "2026-11-05T20:30:00.000Z",
+            "no": "2",
+            "round": "firstRound",
+            "label": "District first round",
+            "date": "2026-11-03T22:45:00.000Z",
             "timeKnown": true,
-            "venue": "Anacortes HS",
+            "venue": "Puyallup Valley Sports Co",
             "siteNote": "@ Higher Seed",
             "played": true,
             "scoreSource": "bracket",
@@ -772,7 +677,51 @@
                 "abbr": "PC",
                 "color": "#022C66",
                 "isUs": false,
+                "score": 5,
+                "winner": true,
+                "seed": null
+              },
+              {
+                "name": "Auburn Adventist",
+                "mascot": null,
+                "abbr": "AA",
+                "color": "#8C3B4A",
+                "isUs": false,
                 "score": 0,
+                "winner": false,
+                "seed": null
+              }
+            ],
+            "winner": {
+              "text": "District semifinal",
+              "state": false
+            },
+            "loser": {
+              "text": "Last-chance game",
+              "state": false
+            },
+            "ours": false,
+            "watch": null,
+            "maybeOurs": false
+          },
+          {
+            "no": "1",
+            "round": "firstRound",
+            "label": "District first round",
+            "date": "2026-11-03T20:30:00.000Z",
+            "timeKnown": true,
+            "venue": "Anacortes HS",
+            "siteNote": "@ Higher Seed",
+            "played": true,
+            "scoreSource": "bracket",
+            "teams": [
+              {
+                "name": "Coupeville",
+                "mascot": "Wolves",
+                "abbr": "CO",
+                "color": "#CC0022",
+                "isUs": false,
+                "score": 1,
                 "winner": false,
                 "seed": null
               },
@@ -782,23 +731,30 @@
                 "abbr": "OI",
                 "color": "#034CB2",
                 "isUs": true,
-                "score": 1,
+                "score": 3,
                 "winner": true,
                 "seed": null
               }
             ],
             "winner": {
-              "text": "District final",
+              "text": "District semifinal",
               "state": false
             },
             "loser": {
-              "text": "3rd place",
+              "text": "Last-chance game",
               "state": false
             },
             "ours": true,
-            "watch": "https://www.nfhsnetwork.com/events/twin-city-sports-network/gam74e3da4e16",
+            "watch": null,
             "maybeOurs": false
-          },
+          }
+        ]
+      },
+      {
+        "title": "Semifinals",
+        "date": "2026-11-05T21:00:00.000Z",
+        "note": null,
+        "games": [
           {
             "no": "8",
             "round": "semifinal",
@@ -842,6 +798,50 @@
             "ours": false,
             "watch": null,
             "maybeOurs": false
+          },
+          {
+            "no": "7",
+            "round": "semifinal",
+            "label": "District semifinal",
+            "date": "2026-11-05T20:30:00.000Z",
+            "timeKnown": true,
+            "venue": "Anacortes HS",
+            "siteNote": "@ Higher Seed",
+            "played": true,
+            "scoreSource": "bracket",
+            "teams": [
+              {
+                "name": "Providence Classical Christian",
+                "mascot": "Highlanders",
+                "abbr": "PC",
+                "color": "#022C66",
+                "isUs": false,
+                "score": 0,
+                "winner": false,
+                "seed": null
+              },
+              {
+                "name": "Orcas Island",
+                "mascot": "Vikings",
+                "abbr": "OI",
+                "color": "#034CB2",
+                "isUs": true,
+                "score": 1,
+                "winner": true,
+                "seed": null
+              }
+            ],
+            "winner": {
+              "text": "District final",
+              "state": false
+            },
+            "loser": {
+              "text": "3rd place",
+              "state": false
+            },
+            "ours": true,
+            "watch": "https://www.nfhsnetwork.com/events/twin-city-sports-network/gam74e3da4e16",
+            "maybeOurs": false
           }
         ]
       },
@@ -862,21 +862,21 @@
             "scoreSource": null,
             "teams": [
               {
-                "name": "Orcas Island",
-                "mascot": "Vikings",
-                "abbr": "OI",
-                "color": "#034CB2",
-                "isUs": true,
-                "score": null,
-                "winner": false,
-                "seed": null
-              },
-              {
                 "name": "Mount Vernon Christian",
                 "mascot": "Hurricanes",
                 "abbr": "MV",
                 "color": "#034CB2",
                 "isUs": false,
+                "score": null,
+                "winner": false,
+                "seed": null
+              },
+              {
+                "name": "Orcas Island",
+                "mascot": "Vikings",
+                "abbr": "OI",
+                "color": "#034CB2",
+                "isUs": true,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -1332,21 +1332,21 @@
           "scoreSource": null,
           "teams": [
             {
-              "name": "Orcas Island",
-              "mascot": "Vikings",
-              "abbr": "OI",
-              "color": "#034CB2",
-              "isUs": true,
-              "score": null,
-              "winner": false,
-              "seed": null
-            },
-            {
               "name": "Mount Vernon Christian",
               "mascot": "Hurricanes",
               "abbr": "MV",
               "color": "#034CB2",
               "isUs": false,
+              "score": null,
+              "winner": false,
+              "seed": null
+            },
+            {
+              "name": "Orcas Island",
+              "mascot": "Vikings",
+              "abbr": "OI",
+              "color": "#034CB2",
+              "isUs": true,
               "score": null,
               "winner": false,
               "seed": null
@@ -1392,21 +1392,21 @@
         "scoreSource": null,
         "teams": [
           {
-            "name": "Orcas Island",
-            "mascot": "Vikings",
-            "abbr": "OI",
-            "color": "#034CB2",
-            "isUs": true,
-            "score": null,
-            "winner": false,
-            "seed": null
-          },
-          {
             "name": "Mount Vernon Christian",
             "mascot": "Hurricanes",
             "abbr": "MV",
             "color": "#034CB2",
             "isUs": false,
+            "score": null,
+            "winner": false,
+            "seed": null
+          },
+          {
+            "name": "Orcas Island",
+            "mascot": "Vikings",
+            "abbr": "OI",
+            "color": "#034CB2",
+            "isUs": true,
             "score": null,
             "winner": false,
             "seed": null
@@ -4097,7 +4097,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-07T15:01:06.727Z",
+    "generatedAt": "2026-11-07T23:01:06.616Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -4626,21 +4626,21 @@
               "scoreSource": null,
               "teams": [
                 {
-                  "name": "Orcas Island",
-                  "mascot": "Vikings",
-                  "abbr": "OI",
-                  "color": "#034CB2",
-                  "isUs": true,
-                  "score": null,
-                  "winner": false,
-                  "seed": null
-                },
-                {
                   "name": "Mount Vernon Christian",
                   "mascot": "Hurricanes",
                   "abbr": "MV",
                   "color": "#034CB2",
                   "isUs": false,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
+                  "color": "#034CB2",
+                  "isUs": true,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -4667,97 +4667,9 @@
       "mainColumns": [
         {
           "title": "Primera ronda",
-          "date": "2026-11-03T22:45:00.000Z",
+          "date": "2026-11-03T22:00:00.000Z",
           "note": "Los ganadores avanzan. Los perdedores tienen otra oportunidad.",
           "games": [
-            {
-              "no": "2",
-              "round": "firstRound",
-              "label": "Primera ronda del distrito",
-              "date": "2026-11-03T22:45:00.000Z",
-              "timeKnown": true,
-              "venue": "Puyallup Valley Sports Co",
-              "siteNote": "@ Higher Seed",
-              "played": true,
-              "scoreSource": "bracket",
-              "teams": [
-                {
-                  "name": "Providence Classical Christian",
-                  "mascot": "Highlanders",
-                  "abbr": "PC",
-                  "color": "#022C66",
-                  "isUs": false,
-                  "score": 5,
-                  "winner": true,
-                  "seed": null
-                },
-                {
-                  "name": "Auburn Adventist",
-                  "mascot": null,
-                  "abbr": "AA",
-                  "color": "#8C3B4A",
-                  "isUs": false,
-                  "score": 0,
-                  "winner": false,
-                  "seed": null
-                }
-              ],
-              "winner": {
-                "text": "Semifinal del distrito",
-                "state": false
-              },
-              "loser": {
-                "text": "Partido de última oportunidad",
-                "state": false
-              },
-              "ours": false,
-              "watch": null,
-              "maybeOurs": false
-            },
-            {
-              "no": "1",
-              "round": "firstRound",
-              "label": "Primera ronda del distrito",
-              "date": "2026-11-03T20:30:00.000Z",
-              "timeKnown": true,
-              "venue": "Anacortes HS",
-              "siteNote": "@ Higher Seed",
-              "played": true,
-              "scoreSource": "bracket",
-              "teams": [
-                {
-                  "name": "Coupeville",
-                  "mascot": "Wolves",
-                  "abbr": "CO",
-                  "color": "#CC0022",
-                  "isUs": false,
-                  "score": 1,
-                  "winner": false,
-                  "seed": null
-                },
-                {
-                  "name": "Orcas Island",
-                  "mascot": "Vikings",
-                  "abbr": "OI",
-                  "color": "#034CB2",
-                  "isUs": true,
-                  "score": 3,
-                  "winner": true,
-                  "seed": null
-                }
-              ],
-              "winner": {
-                "text": "Semifinal del distrito",
-                "state": false
-              },
-              "loser": {
-                "text": "Partido de última oportunidad",
-                "state": false
-              },
-              "ours": true,
-              "watch": null,
-              "maybeOurs": false
-            },
             {
               "no": "4",
               "round": "firstRound",
@@ -4845,21 +4757,14 @@
               "ours": false,
               "watch": null,
               "maybeOurs": false
-            }
-          ]
-        },
-        {
-          "title": "Semifinales",
-          "date": "2026-11-05T20:30:00.000Z",
-          "note": null,
-          "games": [
+            },
             {
-              "no": "7",
-              "round": "semifinal",
-              "label": "Semifinal del distrito",
-              "date": "2026-11-05T20:30:00.000Z",
+              "no": "2",
+              "round": "firstRound",
+              "label": "Primera ronda del distrito",
+              "date": "2026-11-03T22:45:00.000Z",
               "timeKnown": true,
-              "venue": "Anacortes HS",
+              "venue": "Puyallup Valley Sports Co",
               "siteNote": "@ Higher Seed",
               "played": true,
               "scoreSource": "bracket",
@@ -4870,7 +4775,51 @@
                   "abbr": "PC",
                   "color": "#022C66",
                   "isUs": false,
+                  "score": 5,
+                  "winner": true,
+                  "seed": null
+                },
+                {
+                  "name": "Auburn Adventist",
+                  "mascot": null,
+                  "abbr": "AA",
+                  "color": "#8C3B4A",
+                  "isUs": false,
                   "score": 0,
+                  "winner": false,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Semifinal del distrito",
+                "state": false
+              },
+              "loser": {
+                "text": "Partido de última oportunidad",
+                "state": false
+              },
+              "ours": false,
+              "watch": null,
+              "maybeOurs": false
+            },
+            {
+              "no": "1",
+              "round": "firstRound",
+              "label": "Primera ronda del distrito",
+              "date": "2026-11-03T20:30:00.000Z",
+              "timeKnown": true,
+              "venue": "Anacortes HS",
+              "siteNote": "@ Higher Seed",
+              "played": true,
+              "scoreSource": "bracket",
+              "teams": [
+                {
+                  "name": "Coupeville",
+                  "mascot": "Wolves",
+                  "abbr": "CO",
+                  "color": "#CC0022",
+                  "isUs": false,
+                  "score": 1,
                   "winner": false,
                   "seed": null
                 },
@@ -4880,23 +4829,30 @@
                   "abbr": "OI",
                   "color": "#034CB2",
                   "isUs": true,
-                  "score": 1,
+                  "score": 3,
                   "winner": true,
                   "seed": null
                 }
               ],
               "winner": {
-                "text": "Final del distrito",
+                "text": "Semifinal del distrito",
                 "state": false
               },
               "loser": {
-                "text": "3.er lugar",
+                "text": "Partido de última oportunidad",
                 "state": false
               },
               "ours": true,
-              "watch": "https://www.nfhsnetwork.com/events/twin-city-sports-network/gam74e3da4e16",
+              "watch": null,
               "maybeOurs": false
-            },
+            }
+          ]
+        },
+        {
+          "title": "Semifinales",
+          "date": "2026-11-05T21:00:00.000Z",
+          "note": null,
+          "games": [
             {
               "no": "8",
               "round": "semifinal",
@@ -4940,6 +4896,50 @@
               "ours": false,
               "watch": null,
               "maybeOurs": false
+            },
+            {
+              "no": "7",
+              "round": "semifinal",
+              "label": "Semifinal del distrito",
+              "date": "2026-11-05T20:30:00.000Z",
+              "timeKnown": true,
+              "venue": "Anacortes HS",
+              "siteNote": "@ Higher Seed",
+              "played": true,
+              "scoreSource": "bracket",
+              "teams": [
+                {
+                  "name": "Providence Classical Christian",
+                  "mascot": "Highlanders",
+                  "abbr": "PC",
+                  "color": "#022C66",
+                  "isUs": false,
+                  "score": 0,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
+                  "color": "#034CB2",
+                  "isUs": true,
+                  "score": 1,
+                  "winner": true,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Final del distrito",
+                "state": false
+              },
+              "loser": {
+                "text": "3.er lugar",
+                "state": false
+              },
+              "ours": true,
+              "watch": "https://www.nfhsnetwork.com/events/twin-city-sports-network/gam74e3da4e16",
+              "maybeOurs": false
             }
           ]
         },
@@ -4960,21 +4960,21 @@
               "scoreSource": null,
               "teams": [
                 {
-                  "name": "Orcas Island",
-                  "mascot": "Vikings",
-                  "abbr": "OI",
-                  "color": "#034CB2",
-                  "isUs": true,
-                  "score": null,
-                  "winner": false,
-                  "seed": null
-                },
-                {
                   "name": "Mount Vernon Christian",
                   "mascot": "Hurricanes",
                   "abbr": "MV",
                   "color": "#034CB2",
                   "isUs": false,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
+                  "color": "#034CB2",
+                  "isUs": true,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -5430,21 +5430,21 @@
             "scoreSource": null,
             "teams": [
               {
-                "name": "Orcas Island",
-                "mascot": "Vikings",
-                "abbr": "OI",
-                "color": "#034CB2",
-                "isUs": true,
-                "score": null,
-                "winner": false,
-                "seed": null
-              },
-              {
                 "name": "Mount Vernon Christian",
                 "mascot": "Hurricanes",
                 "abbr": "MV",
                 "color": "#034CB2",
                 "isUs": false,
+                "score": null,
+                "winner": false,
+                "seed": null
+              },
+              {
+                "name": "Orcas Island",
+                "mascot": "Vikings",
+                "abbr": "OI",
+                "color": "#034CB2",
+                "isUs": true,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -5490,21 +5490,21 @@
           "scoreSource": null,
           "teams": [
             {
-              "name": "Orcas Island",
-              "mascot": "Vikings",
-              "abbr": "OI",
-              "color": "#034CB2",
-              "isUs": true,
-              "score": null,
-              "winner": false,
-              "seed": null
-            },
-            {
               "name": "Mount Vernon Christian",
               "mascot": "Hurricanes",
               "abbr": "MV",
               "color": "#034CB2",
               "isUs": false,
+              "score": null,
+              "winner": false,
+              "seed": null
+            },
+            {
+              "name": "Orcas Island",
+              "mascot": "Vikings",
+              "abbr": "OI",
+              "color": "#034CB2",
+              "isUs": true,
               "score": null,
               "winner": false,
               "seed": null
