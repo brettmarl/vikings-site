@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T03:47:18.968Z",
+  "generatedAt": "2026-11-08T05:59:22.061Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -1436,6 +1436,317 @@
     }
   },
   "state": {
+    "qualifiers": [
+      {
+        "name": "District 1/2/3/4 1B/2B Bi-District Tournament",
+        "region": "West",
+        "url": "https://www.wpanetwork.com/wiaa/brackets/tournament.php?act=view&tournament_id=5242",
+        "complete": true,
+        "teams": [
+          {
+            "name": "Orcas Island",
+            "mascot": "Vikings",
+            "abbr": "OI",
+            "color": "#034CB2",
+            "isUs": true,
+            "place": "Champions",
+            "h2h": null
+          },
+          {
+            "name": "Mount Vernon Christian",
+            "mascot": "Hurricanes",
+            "abbr": "MV",
+            "color": "#034CB2",
+            "isUs": false,
+            "place": "Runner-up",
+            "h2h": {
+              "record": {
+                "w": 9,
+                "l": 3,
+                "d": 2
+              },
+              "since": "2022",
+              "season": [
+                {
+                  "date": "2026-09-23T22:00:00.000Z",
+                  "result": "D",
+                  "gf": 0,
+                  "ga": 0,
+                  "pens": false
+                },
+                {
+                  "date": "2026-10-07T23:00:00.000Z",
+                  "result": "W",
+                  "gf": 1,
+                  "ga": 0,
+                  "pens": false
+                },
+                {
+                  "date": "2026-11-07T23:00:00.000Z",
+                  "result": "W",
+                  "gf": 0,
+                  "ga": 0,
+                  "pens": true
+                }
+              ],
+              "last": {
+                "date": "2026-11-07T23:00:00.000Z",
+                "result": "W",
+                "gf": 0,
+                "ga": 0,
+                "pens": true
+              }
+            }
+          },
+          {
+            "name": "Providence Classical Christian",
+            "mascot": "Highlanders",
+            "abbr": "PC",
+            "color": "#022C66",
+            "isUs": false,
+            "place": "3rd place",
+            "h2h": {
+              "record": {
+                "w": 10,
+                "l": 1,
+                "d": 0
+              },
+              "since": "2022",
+              "season": [
+                {
+                  "date": "2026-10-03T20:00:00.000Z",
+                  "result": "W",
+                  "gf": 3,
+                  "ga": 2,
+                  "pens": false
+                },
+                {
+                  "date": "2026-10-15T22:30:00.000Z",
+                  "result": "W",
+                  "gf": 4,
+                  "ga": 3,
+                  "pens": false
+                },
+                {
+                  "date": "2026-11-05T20:30:00.000Z",
+                  "result": "W",
+                  "gf": 1,
+                  "ga": 0,
+                  "pens": false
+                }
+              ],
+              "last": {
+                "date": "2026-11-05T20:30:00.000Z",
+                "result": "W",
+                "gf": 1,
+                "ga": 0,
+                "pens": false
+              }
+            }
+          },
+          {
+            "name": "Friday Harbor",
+            "mascot": "Wolverines",
+            "abbr": "FH",
+            "color": "#754ACC",
+            "isUs": false,
+            "place": "3rd place",
+            "h2h": {
+              "record": {
+                "w": 8,
+                "l": 5,
+                "d": 0
+              },
+              "since": "2022",
+              "season": [
+                {
+                  "date": "2026-09-25T22:30:00.000Z",
+                  "result": "W",
+                  "gf": 4,
+                  "ga": 1,
+                  "pens": false
+                },
+                {
+                  "date": "2026-10-13T23:00:00.000Z",
+                  "result": "W",
+                  "gf": 2,
+                  "ga": 0,
+                  "pens": false
+                }
+              ],
+              "last": {
+                "date": "2026-10-13T23:00:00.000Z",
+                "result": "W",
+                "gf": 2,
+                "ga": 0,
+                "pens": false
+              }
+            }
+          },
+          {
+            "name": "Auburn Adventist",
+            "mascot": null,
+            "abbr": "AA",
+            "color": "#8C3B4A",
+            "isUs": false,
+            "place": "5th place",
+            "h2h": {
+              "record": {
+                "w": 1,
+                "l": 0,
+                "d": 0
+              },
+              "since": "2022",
+              "season": [],
+              "last": {
+                "date": "2022-11-02T00:30:00.000Z",
+                "result": "W",
+                "gf": 1,
+                "ga": 0,
+                "pens": false
+              }
+            }
+          },
+          {
+            "name": "Evergreen Lutheran",
+            "mascot": "Eagles",
+            "abbr": "EL",
+            "color": "#00824B",
+            "isUs": false,
+            "place": "5th place",
+            "h2h": {
+              "record": {
+                "w": 5,
+                "l": 0,
+                "d": 1
+              },
+              "since": "2022",
+              "season": [
+                {
+                  "date": "2026-09-12T20:00:00.000Z",
+                  "result": "W",
+                  "gf": 7,
+                  "ga": 1,
+                  "pens": false
+                }
+              ],
+              "last": {
+                "date": "2026-09-12T20:00:00.000Z",
+                "result": "W",
+                "gf": 7,
+                "ga": 1,
+                "pens": false
+              }
+            }
+          }
+        ],
+        "final": {
+          "date": "2026-11-07T23:00:00.000Z",
+          "winner": {
+            "name": "Orcas Island",
+            "mascot": "Vikings",
+            "abbr": "OI",
+            "color": "#034CB2",
+            "isUs": true
+          },
+          "loser": {
+            "name": "Mount Vernon Christian",
+            "mascot": "Hurricanes",
+            "abbr": "MV",
+            "color": "#034CB2",
+            "isUs": false
+          },
+          "score": "0-0",
+          "pens": {
+            "winner": 4,
+            "loser": 2
+          }
+        }
+      },
+      {
+        "name": "District 5/6 1B/2B Tournament",
+        "region": "East",
+        "url": "https://www.wpanetwork.com/wiaa/brackets/tournament.php?act=view&tournament_id=5237",
+        "complete": true,
+        "teams": [
+          {
+            "name": "Chesterton Academy of Notre Dame",
+            "mascot": "Knights",
+            "abbr": "CA",
+            "color": "#022C66",
+            "isUs": false,
+            "place": "Champions",
+            "h2h": {
+              "record": {
+                "w": 1,
+                "l": 0,
+                "d": 0
+              },
+              "since": "2026",
+              "season": [
+                {
+                  "date": "2026-09-19T17:00:00.000Z",
+                  "result": "W",
+                  "gf": 6,
+                  "ga": 0,
+                  "pens": false
+                }
+              ],
+              "last": {
+                "date": "2026-09-19T17:00:00.000Z",
+                "result": "W",
+                "gf": 6,
+                "ga": 0,
+                "pens": false
+              }
+            }
+          },
+          {
+            "name": "Mabton",
+            "mascot": null,
+            "abbr": "MA",
+            "color": "#8C3B4A",
+            "isUs": false,
+            "place": "Runner-up",
+            "h2h": {
+              "record": {
+                "w": 1,
+                "l": 0,
+                "d": 0
+              },
+              "since": "2024",
+              "season": [],
+              "last": {
+                "date": "2024-09-14T17:00:00.000Z",
+                "result": "W",
+                "gf": 5,
+                "ga": 0,
+                "pens": false
+              }
+            }
+          }
+        ],
+        "final": {
+          "date": "2026-11-06T00:30:00.000Z",
+          "winner": {
+            "name": "Chesterton Academy of Notre Dame",
+            "mascot": "Knights",
+            "abbr": "CA",
+            "color": "#022C66",
+            "isUs": false
+          },
+          "loser": {
+            "name": "Mabton",
+            "mascot": null,
+            "abbr": "MA",
+            "color": "#8C3B4A",
+            "isUs": false
+          },
+          "score": "3-1",
+          "pens": null
+        }
+      }
+    ],
     "name": "WIAA 1B/2B Boys Soccer State Championships",
     "status": "qualified",
     "size": 8,
@@ -4076,7 +4387,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-08T03:47:18.968Z",
+    "generatedAt": "2026-11-08T05:59:22.061Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -5513,6 +5824,317 @@
       }
     },
     "state": {
+      "qualifiers": [
+        {
+          "name": "District 1/2/3/4 1B/2B Bi-District Tournament",
+          "region": "West",
+          "url": "https://www.wpanetwork.com/wiaa/brackets/tournament.php?act=view&tournament_id=5242",
+          "complete": true,
+          "teams": [
+            {
+              "name": "Orcas Island",
+              "mascot": "Vikings",
+              "abbr": "OI",
+              "color": "#034CB2",
+              "isUs": true,
+              "place": "Campeones",
+              "h2h": null
+            },
+            {
+              "name": "Mount Vernon Christian",
+              "mascot": "Hurricanes",
+              "abbr": "MV",
+              "color": "#034CB2",
+              "isUs": false,
+              "place": "Subcampeones",
+              "h2h": {
+                "record": {
+                  "w": 9,
+                  "l": 3,
+                  "d": 2
+                },
+                "since": "2022",
+                "season": [
+                  {
+                    "date": "2026-09-23T22:00:00.000Z",
+                    "result": "D",
+                    "gf": 0,
+                    "ga": 0,
+                    "pens": false
+                  },
+                  {
+                    "date": "2026-10-07T23:00:00.000Z",
+                    "result": "W",
+                    "gf": 1,
+                    "ga": 0,
+                    "pens": false
+                  },
+                  {
+                    "date": "2026-11-07T23:00:00.000Z",
+                    "result": "W",
+                    "gf": 0,
+                    "ga": 0,
+                    "pens": true
+                  }
+                ],
+                "last": {
+                  "date": "2026-11-07T23:00:00.000Z",
+                  "result": "W",
+                  "gf": 0,
+                  "ga": 0,
+                  "pens": true
+                }
+              }
+            },
+            {
+              "name": "Providence Classical Christian",
+              "mascot": "Highlanders",
+              "abbr": "PC",
+              "color": "#022C66",
+              "isUs": false,
+              "place": "3.er lugar",
+              "h2h": {
+                "record": {
+                  "w": 10,
+                  "l": 1,
+                  "d": 0
+                },
+                "since": "2022",
+                "season": [
+                  {
+                    "date": "2026-10-03T20:00:00.000Z",
+                    "result": "W",
+                    "gf": 3,
+                    "ga": 2,
+                    "pens": false
+                  },
+                  {
+                    "date": "2026-10-15T22:30:00.000Z",
+                    "result": "W",
+                    "gf": 4,
+                    "ga": 3,
+                    "pens": false
+                  },
+                  {
+                    "date": "2026-11-05T20:30:00.000Z",
+                    "result": "W",
+                    "gf": 1,
+                    "ga": 0,
+                    "pens": false
+                  }
+                ],
+                "last": {
+                  "date": "2026-11-05T20:30:00.000Z",
+                  "result": "W",
+                  "gf": 1,
+                  "ga": 0,
+                  "pens": false
+                }
+              }
+            },
+            {
+              "name": "Friday Harbor",
+              "mascot": "Wolverines",
+              "abbr": "FH",
+              "color": "#754ACC",
+              "isUs": false,
+              "place": "3.er lugar",
+              "h2h": {
+                "record": {
+                  "w": 8,
+                  "l": 5,
+                  "d": 0
+                },
+                "since": "2022",
+                "season": [
+                  {
+                    "date": "2026-09-25T22:30:00.000Z",
+                    "result": "W",
+                    "gf": 4,
+                    "ga": 1,
+                    "pens": false
+                  },
+                  {
+                    "date": "2026-10-13T23:00:00.000Z",
+                    "result": "W",
+                    "gf": 2,
+                    "ga": 0,
+                    "pens": false
+                  }
+                ],
+                "last": {
+                  "date": "2026-10-13T23:00:00.000Z",
+                  "result": "W",
+                  "gf": 2,
+                  "ga": 0,
+                  "pens": false
+                }
+              }
+            },
+            {
+              "name": "Auburn Adventist",
+              "mascot": null,
+              "abbr": "AA",
+              "color": "#8C3B4A",
+              "isUs": false,
+              "place": "5.º lugar",
+              "h2h": {
+                "record": {
+                  "w": 1,
+                  "l": 0,
+                  "d": 0
+                },
+                "since": "2022",
+                "season": [],
+                "last": {
+                  "date": "2022-11-02T00:30:00.000Z",
+                  "result": "W",
+                  "gf": 1,
+                  "ga": 0,
+                  "pens": false
+                }
+              }
+            },
+            {
+              "name": "Evergreen Lutheran",
+              "mascot": "Eagles",
+              "abbr": "EL",
+              "color": "#00824B",
+              "isUs": false,
+              "place": "5.º lugar",
+              "h2h": {
+                "record": {
+                  "w": 5,
+                  "l": 0,
+                  "d": 1
+                },
+                "since": "2022",
+                "season": [
+                  {
+                    "date": "2026-09-12T20:00:00.000Z",
+                    "result": "W",
+                    "gf": 7,
+                    "ga": 1,
+                    "pens": false
+                  }
+                ],
+                "last": {
+                  "date": "2026-09-12T20:00:00.000Z",
+                  "result": "W",
+                  "gf": 7,
+                  "ga": 1,
+                  "pens": false
+                }
+              }
+            }
+          ],
+          "final": {
+            "date": "2026-11-07T23:00:00.000Z",
+            "winner": {
+              "name": "Orcas Island",
+              "mascot": "Vikings",
+              "abbr": "OI",
+              "color": "#034CB2",
+              "isUs": true
+            },
+            "loser": {
+              "name": "Mount Vernon Christian",
+              "mascot": "Hurricanes",
+              "abbr": "MV",
+              "color": "#034CB2",
+              "isUs": false
+            },
+            "score": "0-0",
+            "pens": {
+              "winner": 4,
+              "loser": 2
+            }
+          }
+        },
+        {
+          "name": "District 5/6 1B/2B Tournament",
+          "region": "East",
+          "url": "https://www.wpanetwork.com/wiaa/brackets/tournament.php?act=view&tournament_id=5237",
+          "complete": true,
+          "teams": [
+            {
+              "name": "Chesterton Academy of Notre Dame",
+              "mascot": "Knights",
+              "abbr": "CA",
+              "color": "#022C66",
+              "isUs": false,
+              "place": "Campeones",
+              "h2h": {
+                "record": {
+                  "w": 1,
+                  "l": 0,
+                  "d": 0
+                },
+                "since": "2026",
+                "season": [
+                  {
+                    "date": "2026-09-19T17:00:00.000Z",
+                    "result": "W",
+                    "gf": 6,
+                    "ga": 0,
+                    "pens": false
+                  }
+                ],
+                "last": {
+                  "date": "2026-09-19T17:00:00.000Z",
+                  "result": "W",
+                  "gf": 6,
+                  "ga": 0,
+                  "pens": false
+                }
+              }
+            },
+            {
+              "name": "Mabton",
+              "mascot": null,
+              "abbr": "MA",
+              "color": "#8C3B4A",
+              "isUs": false,
+              "place": "Subcampeones",
+              "h2h": {
+                "record": {
+                  "w": 1,
+                  "l": 0,
+                  "d": 0
+                },
+                "since": "2024",
+                "season": [],
+                "last": {
+                  "date": "2024-09-14T17:00:00.000Z",
+                  "result": "W",
+                  "gf": 5,
+                  "ga": 0,
+                  "pens": false
+                }
+              }
+            }
+          ],
+          "final": {
+            "date": "2026-11-06T00:30:00.000Z",
+            "winner": {
+              "name": "Chesterton Academy of Notre Dame",
+              "mascot": "Knights",
+              "abbr": "CA",
+              "color": "#022C66",
+              "isUs": false
+            },
+            "loser": {
+              "name": "Mabton",
+              "mascot": null,
+              "abbr": "MA",
+              "color": "#8C3B4A",
+              "isUs": false
+            },
+            "score": "3-1",
+            "pens": null
+          }
+        }
+      ],
       "name": "WIAA 1B/2B Boys Soccer State Championships",
       "status": "qualified",
       "size": 8,
