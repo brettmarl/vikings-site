@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T18:16:10.739Z",
+  "generatedAt": "2026-11-08T21:01:07.012Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -72,9 +72,9 @@
     "opponents": [
       {
         "name": "Auburn Adventist",
-        "mascot": null,
+        "mascot": "Falcons",
         "abbr": "AA",
-        "color": "#8C3B4A",
+        "color": "#022C66",
         "isUs": false,
         "meetings": []
       }
@@ -261,9 +261,9 @@
               },
               {
                 "name": "Auburn Adventist",
-                "mascot": null,
+                "mascot": "Falcons",
                 "abbr": "AA",
-                "color": "#8C3B4A",
+                "color": "#022C66",
                 "isUs": false,
                 "score": 0,
                 "winner": false,
@@ -453,9 +453,9 @@
               },
               {
                 "name": "Auburn Adventist",
-                "mascot": null,
+                "mascot": "Falcons",
                 "abbr": "AA",
-                "color": "#8C3B4A",
+                "color": "#022C66",
                 "isUs": false,
                 "score": 1,
                 "winner": true,
@@ -707,9 +707,9 @@
               },
               {
                 "name": "Auburn Adventist",
-                "mascot": null,
+                "mascot": "Falcons",
                 "abbr": "AA",
-                "color": "#8C3B4A",
+                "color": "#022C66",
                 "isUs": false,
                 "score": 0,
                 "winner": false,
@@ -964,9 +964,9 @@
           },
           {
             "name": "Auburn Adventist",
-            "mascot": null,
+            "mascot": "Falcons",
             "abbr": "AA",
-            "color": "#8C3B4A",
+            "color": "#022C66",
             "isUs": false,
             "score": 1,
             "winner": true,
@@ -1486,9 +1486,9 @@
         },
         {
           "name": "Auburn Adventist",
-          "mascot": null,
+          "mascot": "Falcons",
           "abbr": "AA",
-          "color": "#8C3B4A",
+          "color": "#022C66",
           "isUs": false
         },
         {
@@ -1658,9 +1658,9 @@
           },
           {
             "name": "Auburn Adventist",
-            "mascot": null,
+            "mascot": "Falcons",
             "abbr": "AA",
-            "color": "#8C3B4A",
+            "color": "#022C66",
             "isUs": false,
             "place": "5th place",
             "h2h": {
@@ -2030,9 +2030,9 @@
               "teams": [
                 {
                   "name": "Auburn Adventist",
-                  "mascot": null,
+                  "mascot": "Falcons",
                   "abbr": "AA",
-                  "color": "#8C3B4A",
+                  "color": "#022C66",
                   "isUs": false,
                   "score": null,
                   "winner": false,
@@ -2181,9 +2181,9 @@
                   "candidates": [
                     {
                       "name": "Auburn Adventist",
-                      "mascot": null,
+                      "mascot": "Falcons",
                       "abbr": "AA",
-                      "color": "#8C3B4A",
+                      "color": "#022C66",
                       "isUs": false
                     },
                     {
@@ -2287,9 +2287,9 @@
                     },
                     {
                       "name": "Auburn Adventist",
-                      "mascot": null,
+                      "mascot": "Falcons",
                       "abbr": "AA",
-                      "color": "#8C3B4A",
+                      "color": "#022C66",
                       "isUs": false
                     },
                     {
@@ -2387,9 +2387,9 @@
                     },
                     {
                       "name": "Auburn Adventist",
-                      "mascot": null,
+                      "mascot": "Falcons",
                       "abbr": "AA",
-                      "color": "#8C3B4A",
+                      "color": "#022C66",
                       "isUs": false
                     },
                     {
@@ -2596,9 +2596,9 @@
               "teams": [
                 {
                   "name": "Auburn Adventist",
-                  "mascot": null,
+                  "mascot": "Falcons",
                   "abbr": "AA",
-                  "color": "#8C3B4A",
+                  "color": "#022C66",
                   "isUs": false,
                   "score": null,
                   "winner": false,
@@ -2749,9 +2749,9 @@
                   "candidates": [
                     {
                       "name": "Auburn Adventist",
-                      "mascot": null,
+                      "mascot": "Falcons",
                       "abbr": "AA",
-                      "color": "#8C3B4A",
+                      "color": "#022C66",
                       "isUs": false
                     },
                     {
@@ -2857,9 +2857,9 @@
                     },
                     {
                       "name": "Auburn Adventist",
-                      "mascot": null,
+                      "mascot": "Falcons",
                       "abbr": "AA",
-                      "color": "#8C3B4A",
+                      "color": "#022C66",
                       "isUs": false
                     },
                     {
@@ -2961,9 +2961,9 @@
                 },
                 {
                   "name": "Auburn Adventist",
-                  "mascot": null,
+                  "mascot": "Falcons",
                   "abbr": "AA",
-                  "color": "#8C3B4A",
+                  "color": "#022C66",
                   "isUs": false
                 },
                 {
@@ -3011,9 +3011,9 @@
             "teams": [
               {
                 "name": "Auburn Adventist",
-                "mascot": null,
+                "mascot": "Falcons",
                 "abbr": "AA",
-                "color": "#8C3B4A",
+                "color": "#022C66",
                 "isUs": false,
                 "score": null,
                 "winner": false,
@@ -3049,9 +3049,9 @@
           "watch": null,
           "opponent": {
             "name": "Auburn Adventist",
-            "mascot": null,
+            "mascot": "Falcons",
             "abbr": "AA",
-            "color": "#8C3B4A",
+            "color": "#022C66",
             "isUs": false
           }
         }
@@ -3072,9 +3072,9 @@
           "teams": [
             {
               "name": "Auburn Adventist",
-              "mascot": null,
+              "mascot": "Falcons",
               "abbr": "AA",
-              "color": "#8C3B4A",
+              "color": "#022C66",
               "isUs": false,
               "score": null,
               "winner": false,
@@ -3146,9 +3146,9 @@
                 "candidates": [
                   {
                     "name": "Auburn Adventist",
-                    "mascot": null,
+                    "mascot": "Falcons",
                     "abbr": "AA",
-                    "color": "#8C3B4A",
+                    "color": "#022C66",
                     "isUs": false
                   },
                   {
@@ -3247,9 +3247,9 @@
                     },
                     {
                       "name": "Auburn Adventist",
-                      "mascot": null,
+                      "mascot": "Falcons",
                       "abbr": "AA",
-                      "color": "#8C3B4A",
+                      "color": "#022C66",
                       "isUs": false
                     },
                     {
@@ -3361,9 +3361,9 @@
                     },
                     {
                       "name": "Auburn Adventist",
-                      "mascot": null,
+                      "mascot": "Falcons",
                       "abbr": "AA",
-                      "color": "#8C3B4A",
+                      "color": "#022C66",
                       "isUs": false
                     },
                     {
@@ -3443,9 +3443,9 @@
         },
         {
           "name": "Auburn Adventist",
-          "mascot": null,
+          "mascot": "Falcons",
           "abbr": "AA",
-          "color": "#8C3B4A",
+          "color": "#022C66",
           "isUs": false
         },
         {
@@ -4078,6 +4078,24 @@
         "winner": 4,
         "loser": 2
       }
+    },
+    {
+      "date": "2026-11-14T08:00:00.000Z",
+      "opponent": {
+        "name": "Auburn Adventist",
+        "mascot": "Falcons",
+        "abbr": "AA",
+        "color": "#022C66",
+        "isUs": false
+      },
+      "home": true,
+      "result": null,
+      "gf": null,
+      "ga": null,
+      "stage": "Non-league",
+      "venue": "TBA",
+      "watch": null,
+      "pens": null
     }
   ],
   "history": [
@@ -4318,6 +4336,12 @@
       "start": "2026-11-07T23:00:00.000Z",
       "timeKnown": true,
       "what": "Mount Vernon Christian",
+      "ours": true
+    },
+    {
+      "start": "2026-11-14T08:00:00.000Z",
+      "timeKnown": false,
+      "what": "Auburn Adventist",
       "ours": true
     },
     {
@@ -5792,6 +5816,49 @@
       },
       "since": "2022"
     },
+    "Auburn Adventist": {
+      "team": {
+        "name": "Auburn Adventist",
+        "mascot": "Falcons",
+        "abbr": "AA",
+        "color": "#022C66",
+        "isUs": false
+      },
+      "meetings": [
+        {
+          "season": "2026",
+          "date": "2026-11-14T08:00:00.000Z",
+          "result": null,
+          "gf": null,
+          "ga": null,
+          "home": true,
+          "stage": "Non-league",
+          "venue": "TBA",
+          "pens": false,
+          "close": false,
+          "upcoming": true
+        },
+        {
+          "season": "2022",
+          "date": "2022-11-02T00:30:00.000Z",
+          "result": "W",
+          "gf": 1,
+          "ga": 0,
+          "home": true,
+          "stage": "State",
+          "venue": null,
+          "pens": false,
+          "close": true,
+          "upcoming": false
+        }
+      ],
+      "record": {
+        "w": 1,
+        "l": 0,
+        "d": 0
+      },
+      "since": "2022"
+    },
     "Upper Columbia Academy": {
       "team": {
         "name": "Upper Columbia Academy",
@@ -5980,36 +6047,6 @@
         "d": 0
       },
       "since": "2022"
-    },
-    "Auburn Adventist": {
-      "team": {
-        "name": "Auburn Adventist",
-        "mascot": null,
-        "abbr": "AA",
-        "color": "#8C3B4A",
-        "isUs": false
-      },
-      "meetings": [
-        {
-          "season": "2022",
-          "date": "2022-11-02T00:30:00.000Z",
-          "result": "W",
-          "gf": 1,
-          "ga": 0,
-          "home": true,
-          "stage": "State",
-          "venue": null,
-          "pens": false,
-          "close": true,
-          "upcoming": false
-        }
-      ],
-      "record": {
-        "w": 1,
-        "l": 0,
-        "d": 0
-      },
-      "since": "2022"
     }
   },
   "historySince": "2022",
@@ -6075,7 +6112,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-08T18:16:10.739Z",
+    "generatedAt": "2026-11-08T21:01:07.012Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -6148,9 +6185,9 @@
       "opponents": [
         {
           "name": "Auburn Adventist",
-          "mascot": null,
+          "mascot": "Falcons",
           "abbr": "AA",
-          "color": "#8C3B4A",
+          "color": "#022C66",
           "isUs": false,
           "meetings": []
         }
@@ -6337,9 +6374,9 @@
                 },
                 {
                   "name": "Auburn Adventist",
-                  "mascot": null,
+                  "mascot": "Falcons",
                   "abbr": "AA",
-                  "color": "#8C3B4A",
+                  "color": "#022C66",
                   "isUs": false,
                   "score": 0,
                   "winner": false,
@@ -6529,9 +6566,9 @@
                 },
                 {
                   "name": "Auburn Adventist",
-                  "mascot": null,
+                  "mascot": "Falcons",
                   "abbr": "AA",
-                  "color": "#8C3B4A",
+                  "color": "#022C66",
                   "isUs": false,
                   "score": 1,
                   "winner": true,
@@ -6783,9 +6820,9 @@
                 },
                 {
                   "name": "Auburn Adventist",
-                  "mascot": null,
+                  "mascot": "Falcons",
                   "abbr": "AA",
-                  "color": "#8C3B4A",
+                  "color": "#022C66",
                   "isUs": false,
                   "score": 0,
                   "winner": false,
@@ -7040,9 +7077,9 @@
             },
             {
               "name": "Auburn Adventist",
-              "mascot": null,
+              "mascot": "Falcons",
               "abbr": "AA",
-              "color": "#8C3B4A",
+              "color": "#022C66",
               "isUs": false,
               "score": 1,
               "winner": true,
@@ -7562,9 +7599,9 @@
           },
           {
             "name": "Auburn Adventist",
-            "mascot": null,
+            "mascot": "Falcons",
             "abbr": "AA",
-            "color": "#8C3B4A",
+            "color": "#022C66",
             "isUs": false
           },
           {
@@ -7734,9 +7771,9 @@
             },
             {
               "name": "Auburn Adventist",
-              "mascot": null,
+              "mascot": "Falcons",
               "abbr": "AA",
-              "color": "#8C3B4A",
+              "color": "#022C66",
               "isUs": false,
               "place": "5.º lugar",
               "h2h": {
@@ -8106,9 +8143,9 @@
                 "teams": [
                   {
                     "name": "Auburn Adventist",
-                    "mascot": null,
+                    "mascot": "Falcons",
                     "abbr": "AA",
-                    "color": "#8C3B4A",
+                    "color": "#022C66",
                     "isUs": false,
                     "score": null,
                     "winner": false,
@@ -8257,9 +8294,9 @@
                     "candidates": [
                       {
                         "name": "Auburn Adventist",
-                        "mascot": null,
+                        "mascot": "Falcons",
                         "abbr": "AA",
-                        "color": "#8C3B4A",
+                        "color": "#022C66",
                         "isUs": false
                       },
                       {
@@ -8363,9 +8400,9 @@
                       },
                       {
                         "name": "Auburn Adventist",
-                        "mascot": null,
+                        "mascot": "Falcons",
                         "abbr": "AA",
-                        "color": "#8C3B4A",
+                        "color": "#022C66",
                         "isUs": false
                       },
                       {
@@ -8463,9 +8500,9 @@
                       },
                       {
                         "name": "Auburn Adventist",
-                        "mascot": null,
+                        "mascot": "Falcons",
                         "abbr": "AA",
-                        "color": "#8C3B4A",
+                        "color": "#022C66",
                         "isUs": false
                       },
                       {
@@ -8672,9 +8709,9 @@
                 "teams": [
                   {
                     "name": "Auburn Adventist",
-                    "mascot": null,
+                    "mascot": "Falcons",
                     "abbr": "AA",
-                    "color": "#8C3B4A",
+                    "color": "#022C66",
                     "isUs": false,
                     "score": null,
                     "winner": false,
@@ -8825,9 +8862,9 @@
                     "candidates": [
                       {
                         "name": "Auburn Adventist",
-                        "mascot": null,
+                        "mascot": "Falcons",
                         "abbr": "AA",
-                        "color": "#8C3B4A",
+                        "color": "#022C66",
                         "isUs": false
                       },
                       {
@@ -8933,9 +8970,9 @@
                       },
                       {
                         "name": "Auburn Adventist",
-                        "mascot": null,
+                        "mascot": "Falcons",
                         "abbr": "AA",
-                        "color": "#8C3B4A",
+                        "color": "#022C66",
                         "isUs": false
                       },
                       {
@@ -9037,9 +9074,9 @@
                   },
                   {
                     "name": "Auburn Adventist",
-                    "mascot": null,
+                    "mascot": "Falcons",
                     "abbr": "AA",
-                    "color": "#8C3B4A",
+                    "color": "#022C66",
                     "isUs": false
                   },
                   {
@@ -9087,9 +9124,9 @@
               "teams": [
                 {
                   "name": "Auburn Adventist",
-                  "mascot": null,
+                  "mascot": "Falcons",
                   "abbr": "AA",
-                  "color": "#8C3B4A",
+                  "color": "#022C66",
                   "isUs": false,
                   "score": null,
                   "winner": false,
@@ -9125,9 +9162,9 @@
             "watch": null,
             "opponent": {
               "name": "Auburn Adventist",
-              "mascot": null,
+              "mascot": "Falcons",
               "abbr": "AA",
-              "color": "#8C3B4A",
+              "color": "#022C66",
               "isUs": false
             }
           }
@@ -9148,9 +9185,9 @@
             "teams": [
               {
                 "name": "Auburn Adventist",
-                "mascot": null,
+                "mascot": "Falcons",
                 "abbr": "AA",
-                "color": "#8C3B4A",
+                "color": "#022C66",
                 "isUs": false,
                 "score": null,
                 "winner": false,
@@ -9222,9 +9259,9 @@
                   "candidates": [
                     {
                       "name": "Auburn Adventist",
-                      "mascot": null,
+                      "mascot": "Falcons",
                       "abbr": "AA",
-                      "color": "#8C3B4A",
+                      "color": "#022C66",
                       "isUs": false
                     },
                     {
@@ -9323,9 +9360,9 @@
                       },
                       {
                         "name": "Auburn Adventist",
-                        "mascot": null,
+                        "mascot": "Falcons",
                         "abbr": "AA",
-                        "color": "#8C3B4A",
+                        "color": "#022C66",
                         "isUs": false
                       },
                       {
@@ -9437,9 +9474,9 @@
                       },
                       {
                         "name": "Auburn Adventist",
-                        "mascot": null,
+                        "mascot": "Falcons",
                         "abbr": "AA",
-                        "color": "#8C3B4A",
+                        "color": "#022C66",
                         "isUs": false
                       },
                       {
@@ -9519,9 +9556,9 @@
           },
           {
             "name": "Auburn Adventist",
-            "mascot": null,
+            "mascot": "Falcons",
             "abbr": "AA",
-            "color": "#8C3B4A",
+            "color": "#022C66",
             "isUs": false
           },
           {
@@ -10154,6 +10191,24 @@
           "winner": 4,
           "loser": 2
         }
+      },
+      {
+        "date": "2026-11-14T08:00:00.000Z",
+        "opponent": {
+          "name": "Auburn Adventist",
+          "mascot": "Falcons",
+          "abbr": "AA",
+          "color": "#022C66",
+          "isUs": false
+        },
+        "home": true,
+        "result": null,
+        "gf": null,
+        "ga": null,
+        "stage": "Non-league",
+        "venue": "TBA",
+        "watch": null,
+        "pens": null
       }
     ],
     "history": [
@@ -10394,6 +10449,12 @@
         "start": "2026-11-07T23:00:00.000Z",
         "timeKnown": true,
         "what": "Mount Vernon Christian",
+        "ours": true
+      },
+      {
+        "start": "2026-11-14T08:00:00.000Z",
+        "timeKnown": false,
+        "what": "Auburn Adventist",
         "ours": true
       },
       {
@@ -11868,6 +11929,49 @@
         },
         "since": "2022"
       },
+      "Auburn Adventist": {
+        "team": {
+          "name": "Auburn Adventist",
+          "mascot": "Falcons",
+          "abbr": "AA",
+          "color": "#022C66",
+          "isUs": false
+        },
+        "meetings": [
+          {
+            "season": "2026",
+            "date": "2026-11-14T08:00:00.000Z",
+            "result": null,
+            "gf": null,
+            "ga": null,
+            "home": true,
+            "stage": "Non-league",
+            "venue": "TBA",
+            "pens": false,
+            "close": false,
+            "upcoming": true
+          },
+          {
+            "season": "2022",
+            "date": "2022-11-02T00:30:00.000Z",
+            "result": "W",
+            "gf": 1,
+            "ga": 0,
+            "home": true,
+            "stage": "State",
+            "venue": null,
+            "pens": false,
+            "close": true,
+            "upcoming": false
+          }
+        ],
+        "record": {
+          "w": 1,
+          "l": 0,
+          "d": 0
+        },
+        "since": "2022"
+      },
       "Upper Columbia Academy": {
         "team": {
           "name": "Upper Columbia Academy",
@@ -12052,36 +12156,6 @@
         ],
         "record": {
           "w": 2,
-          "l": 0,
-          "d": 0
-        },
-        "since": "2022"
-      },
-      "Auburn Adventist": {
-        "team": {
-          "name": "Auburn Adventist",
-          "mascot": null,
-          "abbr": "AA",
-          "color": "#8C3B4A",
-          "isUs": false
-        },
-        "meetings": [
-          {
-            "season": "2022",
-            "date": "2022-11-02T00:30:00.000Z",
-            "result": "W",
-            "gf": 1,
-            "ga": 0,
-            "home": true,
-            "stage": "State",
-            "venue": null,
-            "pens": false,
-            "close": true,
-            "upcoming": false
-          }
-        ],
-        "record": {
-          "w": 1,
           "l": 0,
           "d": 0
         },
