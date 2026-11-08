@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T02:01:06.372Z",
+  "generatedAt": "2026-11-08T02:31:06.386Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -12,7 +12,7 @@
     "record": "18-0-1",
     "streak": "W14",
     "goals": {
-      "for": 96,
+      "for": 95,
       "against": 13
     },
     "rank": {
@@ -1994,7 +1994,7 @@
       },
       "home": true,
       "result": "W",
-      "gf": 1,
+      "gf": 0,
       "ga": 0,
       "stage": "District",
       "venue": "Sammamish HS",
@@ -2082,7 +2082,7 @@
     {
       "icon": "💪",
       "title": "Unbeaten all season",
-      "text": "18 wins and 1 draw. We’ve scored 96 goals and allowed just 13."
+      "text": "18 wins and 1 draw. We’ve scored 95 goals and allowed just 13."
     },
     {
       "icon": "⭐",
@@ -2670,13 +2670,13 @@
           "season": "2026",
           "date": "2026-11-07T23:00:00.000Z",
           "result": "W",
-          "gf": 1,
+          "gf": 0,
           "ga": 0,
           "home": true,
           "stage": "District",
           "venue": "Sammamish HS",
-          "pens": false,
-          "close": true,
+          "pens": true,
+          "close": false,
           "upcoming": false
         },
         {
@@ -3949,7 +3949,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-08T02:01:06.372Z",
+    "generatedAt": "2026-11-08T02:31:06.386Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -3962,7 +3962,7 @@
       "record": "18-0-1",
       "streak": "W14",
       "goals": {
-        "for": 96,
+        "for": 95,
         "against": 13
       },
       "rank": {
@@ -5944,7 +5944,7 @@
         },
         "home": true,
         "result": "W",
-        "gf": 1,
+        "gf": 0,
         "ga": 0,
         "stage": "District",
         "venue": "Sammamish HS",
@@ -6032,7 +6032,7 @@
       {
         "icon": "💪",
         "title": "Invictos toda la temporada",
-        "text": "18 victorias y 1 empate. Hemos anotado 96 goles y solo hemos recibido 13."
+        "text": "18 victorias y 1 empate. Hemos anotado 95 goles y solo hemos recibido 13."
       },
       {
         "icon": "⭐",
@@ -6620,13 +6620,13 @@
             "season": "2026",
             "date": "2026-11-07T23:00:00.000Z",
             "result": "W",
-            "gf": 1,
+            "gf": 0,
             "ga": 0,
             "home": true,
             "stage": "District",
             "venue": "Sammamish HS",
-            "pens": false,
-            "close": true,
+            "pens": true,
+            "close": false,
             "upcoming": false
           },
           {
