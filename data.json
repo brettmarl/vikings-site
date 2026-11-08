@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T03:42:41.521Z",
+  "generatedAt": "2026-11-08T03:47:18.968Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -2198,8 +2198,13 @@
   "insights": [
     {
       "icon": "🏆",
-      "title": "Perfect league season (9-0)",
-      "text": "That earned us the top seed in districts, which means a home game and the lowest-seeded opponent first."
+      "title": "District AND league champions!",
+      "text": "We won the district final against Mount Vernon Christian on Saturday, 0-0 and 4-2 on penalties, after a perfect 9-0 league season. Next stop: State, starting Fri Nov 13."
+    },
+    {
+      "icon": "🎯",
+      "title": "Going for all three titles",
+      "text": "We’ve won the league and districts. Win State too and we take all three titles this season. Last year we won State but lost in districts."
     },
     {
       "icon": "💪",
@@ -4071,7 +4076,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-08T03:42:41.521Z",
+    "generatedAt": "2026-11-08T03:47:18.968Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -6270,8 +6275,13 @@
     "insights": [
       {
         "icon": "🏆",
-        "title": "Temporada de liga perfecta (9-0)",
-        "text": "Eso nos dio el primer lugar en el sembrado del distrito: jugamos de local y contra el rival peor clasificado primero."
+        "title": "¡Campeones del distrito Y de la liga!",
+        "text": "Ganamos la final del distrito contra Mount Vernon Christian el sábado, 0-0 y 4-2 en penales, después de una temporada de liga perfecta (9-0). Próxima parada: el Estatal, que empieza el vie 13 nov."
+      },
+      {
+        "icon": "🎯",
+        "title": "Vamos por los tres títulos",
+        "text": "Ya ganamos la liga y el distrito. Si ganamos también el Estatal, nos llevamos los tres títulos esta temporada. El año pasado ganamos el Estatal pero perdimos en el distrito."
       },
       {
         "icon": "💪",
