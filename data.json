@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T23:01:06.616Z",
+  "generatedAt": "2026-11-08T01:31:07.004Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -9,10 +9,10 @@
     "full": "Orcas Island Vikings",
     "sport": "Boys Soccer",
     "season": "2026",
-    "record": "17-0-1",
-    "streak": "W13",
+    "record": "18-0-1",
+    "streak": "W14",
     "goals": {
-      "for": 95,
+      "for": 96,
       "against": 13
     },
     "rank": {
@@ -21,9 +21,9 @@
     }
   },
   "headline": {
-    "tone": "great",
-    "title": "We’re going to State!",
-    "sub": "Our spot is locked in. The next games decide how we’re ranked going in."
+    "tone": "neutral",
+    "title": "Season over",
+    "sub": "Thanks for a great season, Vikings!"
   },
   "journey": [
     {
@@ -39,87 +39,35 @@
       "key": "district",
       "name": "District",
       "sub": "District tournament",
-      "status": "active",
-      "badge": "2 wins so far",
-      "good": true,
+      "status": "done",
+      "badge": "Champions",
+      "good": false,
       "detail": "Top seed · league champs"
     },
     {
       "key": "state",
       "name": "State",
       "sub": "State tournament",
-      "status": "qualified",
-      "badge": "Qualified!",
-      "good": true,
+      "status": "upcoming",
+      "badge": "Missed out",
+      "good": false,
       "detail": "Starts Fri Nov 13"
     }
   ],
   "connectors": [
     "League title earned the top seed for districts",
-    "Top 2 from districts go to State"
+    "Top 0 from districts go to State"
   ],
-  "nextGame": {
-    "stage": "District",
-    "round": "final",
-    "label": "District final",
-    "date": "2026-11-07T23:00:00.000Z",
-    "timeKnown": true,
-    "venue": "Sammamish HS",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sammamish%20HS%2C%20WA",
-    "home": null,
-    "hostNote": null,
-    "opponents": [
-      {
-        "name": "Mount Vernon Christian",
-        "mascot": "Hurricanes",
-        "abbr": "MV",
-        "color": "#034CB2",
-        "isUs": false,
-        "meetings": [
-          {
-            "date": "2026-09-23T22:00:00.000Z",
-            "result": "D",
-            "gf": 0,
-            "ga": 0,
-            "home": false
-          },
-          {
-            "date": "2026-10-07T23:00:00.000Z",
-            "result": "W",
-            "gf": 1,
-            "ga": 0,
-            "home": true
-          }
-        ]
-      }
-    ],
-    "feeder": null,
-    "links": {
-      "map": "https://www.google.com/maps/search/?api=1&query=Sammamish%20HS%2C%20WA"
-    },
-    "watch": null,
-    "calId": "2026-11-07-g9"
-  },
+  "nextGame": null,
   "dates": [
-    {
-      "key": "g9",
-      "date": "2026-11-07T23:00:00.000Z",
-      "timeKnown": true,
-      "label": "District final",
-      "venue": "Sammamish HS",
-      "status": "confirmed",
-      "note": "Next game",
-      "vs": "Mount Vernon",
-      "calId": "2026-11-07-g9"
-    },
     {
       "key": "state-0",
       "date": null,
       "whenText": "Fri Nov 13",
       "label": "State quarterfinal",
       "venue": null,
-      "status": "booked",
-      "note": "Date and site confirmed after districts"
+      "status": "possible",
+      "note": "If we make State"
     },
     {
       "key": "state-1",
@@ -128,7 +76,7 @@
       "label": "State semifinal",
       "venue": "Mount Tahoma Stadium, Tacoma",
       "status": "possible",
-      "note": "If we win the quarterfinal"
+      "note": "If we make State"
     },
     {
       "key": "state-2",
@@ -137,7 +85,7 @@
       "label": "State championship",
       "venue": "Mount Tahoma Stadium, Tacoma",
       "status": "possible",
-      "note": "If we win the semifinal"
+      "note": "If we make State"
     }
   ],
   "district": {
@@ -147,7 +95,7 @@
       "number": 1,
       "of": 12
     },
-    "status": "in-progress",
+    "status": "complete",
     "rounds": [
       {
         "date": "2026-11-03T20:30:00.000Z",
@@ -524,8 +472,8 @@
             "timeKnown": true,
             "venue": "Sammamish HS",
             "siteNote": "Sammamish HS",
-            "played": false,
-            "scoreSource": null,
+            "played": true,
+            "scoreSource": "bracket",
             "teams": [
               {
                 "name": "Mount Vernon Christian",
@@ -533,7 +481,7 @@
                 "abbr": "MV",
                 "color": "#034CB2",
                 "isUs": false,
-                "score": null,
+                "score": 0,
                 "winner": false,
                 "seed": null
               },
@@ -543,20 +491,18 @@
                 "abbr": "OI",
                 "color": "#034CB2",
                 "isUs": true,
-                "score": null,
-                "winner": false,
+                "score": 1,
+                "winner": true,
                 "seed": null
               }
             ],
             "winner": {
-              "text": "Champions · to State",
-              "short": "Champions",
-              "state": true
+              "text": "Champions",
+              "state": false
             },
             "loser": {
-              "text": "Runner-up · to State",
-              "short": "Runner-up",
-              "state": true
+              "text": "Runner-up",
+              "state": false
             },
             "ours": true,
             "watch": null,
@@ -848,7 +794,7 @@
       {
         "title": "Final",
         "date": "2026-11-07T23:00:00.000Z",
-        "note": "Both teams go to State. This game decides 1st and 2nd.",
+        "note": null,
         "games": [
           {
             "no": "9",
@@ -858,8 +804,8 @@
             "timeKnown": true,
             "venue": "Sammamish HS",
             "siteNote": "Sammamish HS",
-            "played": false,
-            "scoreSource": null,
+            "played": true,
+            "scoreSource": "bracket",
             "teams": [
               {
                 "name": "Mount Vernon Christian",
@@ -867,7 +813,7 @@
                 "abbr": "MV",
                 "color": "#034CB2",
                 "isUs": false,
-                "score": null,
+                "score": 0,
                 "winner": false,
                 "seed": null
               },
@@ -877,20 +823,18 @@
                 "abbr": "OI",
                 "color": "#034CB2",
                 "isUs": true,
-                "score": null,
-                "winner": false,
+                "score": 1,
+                "winner": true,
                 "seed": null
               }
             ],
             "winner": {
-              "text": "Champions · to State",
-              "short": "Champions",
-              "state": true
+              "text": "Champions",
+              "state": false
             },
             "loser": {
-              "text": "Runner-up · to State",
-              "short": "Runner-up",
-              "state": true
+              "text": "Runner-up",
+              "state": false
             },
             "ours": true,
             "watch": null,
@@ -1328,8 +1272,8 @@
           "timeKnown": true,
           "venue": "Sammamish HS",
           "siteNote": "Sammamish HS",
-          "played": false,
-          "scoreSource": null,
+          "played": true,
+          "scoreSource": "bracket",
           "teams": [
             {
               "name": "Mount Vernon Christian",
@@ -1337,7 +1281,7 @@
               "abbr": "MV",
               "color": "#034CB2",
               "isUs": false,
-              "score": null,
+              "score": 0,
               "winner": false,
               "seed": null
             },
@@ -1347,28 +1291,26 @@
               "abbr": "OI",
               "color": "#034CB2",
               "isUs": true,
-              "score": null,
-              "winner": false,
+              "score": 1,
+              "winner": true,
               "seed": null
             }
           ],
           "winner": {
-            "text": "Champions · to State",
-            "short": "Champions",
-            "state": true
+            "text": "Champions",
+            "state": false
           },
           "loser": {
-            "text": "Runner-up · to State",
-            "short": "Runner-up",
-            "state": true
+            "text": "Runner-up",
+            "state": false
           },
           "ours": true,
           "watch": null,
           "maybeOurs": false
         },
-        "result": null,
-        "gf": null,
-        "ga": null,
+        "result": "W",
+        "gf": 1,
+        "ga": 0,
         "watch": null,
         "opponent": {
           "name": "Mount Vernon Christian",
@@ -1379,94 +1321,24 @@
         }
       }
     ],
-    "scenarios": {
-      "game": {
-        "no": "9",
-        "round": "final",
-        "label": "District final",
-        "date": "2026-11-07T23:00:00.000Z",
-        "timeKnown": true,
-        "venue": "Sammamish HS",
-        "siteNote": "Sammamish HS",
-        "played": false,
-        "scoreSource": null,
-        "teams": [
-          {
-            "name": "Mount Vernon Christian",
-            "mascot": "Hurricanes",
-            "abbr": "MV",
-            "color": "#034CB2",
-            "isUs": false,
-            "score": null,
-            "winner": false,
-            "seed": null
-          },
-          {
-            "name": "Orcas Island",
-            "mascot": "Vikings",
-            "abbr": "OI",
-            "color": "#034CB2",
-            "isUs": true,
-            "score": null,
-            "winner": false,
-            "seed": null
-          }
-        ],
-        "winner": {
-          "text": "Champions · to State",
-          "short": "Champions",
-          "state": true
-        },
-        "loser": {
-          "text": "Runner-up · to State",
-          "short": "Runner-up",
-          "state": true
-        },
-        "ours": true,
-        "watch": null,
-        "maybeOurs": false
-      },
-      "win": {
-        "outcome": "District champions",
-        "short": "Champions",
-        "state": true,
-        "over": false
-      },
-      "lose": {
-        "outcome": "District runner-up",
-        "short": "Runner-up",
-        "state": true,
-        "over": false
-      }
+    "scenarios": null,
+    "guaranteedState": null,
+    "final": {
+      "place": "First Place",
+      "state": false,
+      "text": "District champions"
     },
-    "guaranteedState": true,
-    "final": null,
-    "berths": 2,
+    "berths": 0,
     "teamCount": null,
     "bracketLagging": false,
     "stateSpots": {
-      "total": 2,
-      "teams": [
-        {
-          "name": "Orcas Island",
-          "mascot": "Vikings",
-          "abbr": "OI",
-          "color": "#034CB2",
-          "isUs": true
-        },
-        {
-          "name": "Mount Vernon Christian",
-          "mascot": "Hurricanes",
-          "abbr": "MV",
-          "color": "#034CB2",
-          "isUs": false
-        }
-      ]
+      "total": 0,
+      "teams": []
     }
   },
   "state": {
     "name": "WIAA 1B/2B Boys Soccer State Championships",
-    "status": "qualified",
+    "status": "did-not-qualify",
     "size": 8,
     "seedingAfter": "Sat Nov 7",
     "rounds": [
@@ -1491,7 +1363,9 @@
     ],
     "bracket": null,
     "field": {
-      "clinched": [
+      "clinched": [],
+      "alive": [],
+      "out": [
         {
           "name": "Orcas Island",
           "mascot": "Vikings",
@@ -1500,20 +1374,17 @@
           "isUs": true
         },
         {
-          "name": "Mount Vernon Christian",
-          "mascot": "Hurricanes",
-          "abbr": "MV",
-          "color": "#034CB2",
-          "isUs": false
-        }
-      ],
-      "alive": [],
-      "out": [
-        {
           "name": "Evergreen Lutheran",
           "mascot": "Eagles",
           "abbr": "EL",
           "color": "#00824B",
+          "isUs": false
+        },
+        {
+          "name": "Mount Vernon Christian",
+          "mascot": "Hurricanes",
+          "abbr": "MV",
+          "color": "#034CB2",
           "isUs": false
         },
         {
@@ -1580,8 +1451,8 @@
           "isUs": false
         }
       ],
-      "fromDistrict": 2,
-      "fromElsewhere": 6
+      "fromDistrict": 0,
+      "fromElsewhere": 8
     },
     "lastYear": {
       "champion": true,
@@ -2122,9 +1993,9 @@
         "isUs": false
       },
       "home": true,
-      "result": null,
-      "gf": null,
-      "ga": null,
+      "result": "W",
+      "gf": 1,
+      "ga": 0,
       "stage": "District",
       "venue": "Sammamish HS Bi-District Championship",
       "watch": null
@@ -2204,24 +2075,14 @@
   ],
   "insights": [
     {
-      "icon": "🔒",
-      "title": "Saturday decides our State ranking",
-      "text": "With our State spot secured, Saturday’s final decides how we’re ranked going in. A higher ranking usually means a lower-ranked opponent in our first State game."
-    },
-    {
       "icon": "🏆",
       "title": "Perfect league season (9-0)",
       "text": "That earned us the top seed in districts, which means a home game and the lowest-seeded opponent first."
     },
     {
-      "icon": "⚠️",
-      "title": "Mount Vernon plays us close",
-      "text": "Every game has been close: one win and one draw (0-0 and 1-0). They’re our next opponent: Sat Nov 7."
-    },
-    {
       "icon": "💪",
       "title": "Unbeaten all season",
-      "text": "17 wins and 1 draw. We’ve scored 95 goals and allowed just 13."
+      "text": "18 wins and 1 draw. We’ve scored 96 goals and allowed just 13."
     },
     {
       "icon": "⭐",
@@ -2239,14 +2100,14 @@
     {
       "stage": "District",
       "teams": null,
-      "text": "A separate tournament with teams from several leagues. The top 2 earn a trip to State.",
-      "us": "2 wins so far"
+      "text": "A separate tournament with teams from several leagues. The top 0 earn a trip to State.",
+      "us": "Champions"
     },
     {
       "stage": "State",
       "teams": 8,
       "text": "The best 8 small schools in Washington. Lose once and you're out.",
-      "us": "Qualified!"
+      "us": "Missed out"
     },
     {
       "stage": "Champion",
@@ -2808,15 +2669,15 @@
         {
           "season": "2026",
           "date": "2026-11-07T23:00:00.000Z",
-          "result": null,
-          "gf": null,
-          "ga": null,
+          "result": "W",
+          "gf": 1,
+          "ga": 0,
           "home": true,
           "stage": "District",
           "venue": "Sammamish HS Bi-District Championship",
           "pens": false,
-          "close": false,
-          "upcoming": true
+          "close": true,
+          "upcoming": false
         },
         {
           "season": "2026",
@@ -2989,7 +2850,7 @@
         }
       ],
       "record": {
-        "w": 8,
+        "w": 9,
         "l": 3,
         "d": 2
       },
@@ -4063,16 +3924,7 @@
     }
   },
   "historySince": "2022",
-  "calendar": [
-    {
-      "id": "2026-11-07-g9",
-      "title": "Vikings vs Mount Vernon · District final",
-      "start": "2026-11-07T23:00:00.000Z",
-      "timeKnown": true,
-      "location": "Sammamish HS",
-      "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
-    }
-  ],
+  "calendar": [],
   "sources": [
     {
       "name": "Schedule/results",
@@ -4097,7 +3949,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-07T23:01:06.616Z",
+    "generatedAt": "2026-11-08T01:31:07.004Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -4107,10 +3959,10 @@
       "full": "Orcas Island Vikings",
       "sport": "Fútbol varonil",
       "season": "2026",
-      "record": "17-0-1",
-      "streak": "W13",
+      "record": "18-0-1",
+      "streak": "W14",
       "goals": {
-        "for": 95,
+        "for": 96,
         "against": 13
       },
       "rank": {
@@ -4119,9 +3971,9 @@
       }
     },
     "headline": {
-      "tone": "great",
-      "title": "¡Vamos al Estatal!",
-      "sub": "Nuestro lugar está asegurado. Los próximos partidos deciden en qué posición llegamos."
+      "tone": "neutral",
+      "title": "Fin de temporada",
+      "sub": "¡Gracias por una gran temporada, Vikings!"
     },
     "journey": [
       {
@@ -4137,87 +3989,35 @@
         "key": "district",
         "name": "Distrito",
         "sub": "Torneo distrital",
-        "status": "active",
-        "badge": "2 victorias hasta ahora",
-        "good": true,
+        "status": "done",
+        "badge": "Campeones",
+        "good": false,
         "detail": "Primer sembrado · campeones de liga"
       },
       {
         "key": "state",
         "name": "Estatal",
         "sub": "Torneo estatal",
-        "status": "qualified",
-        "badge": "¡Clasificados!",
-        "good": true,
+        "status": "upcoming",
+        "badge": "No clasificamos",
+        "good": false,
         "detail": "Empieza el vie 13 nov"
       }
     ],
     "connectors": [
       "Ganar la liga nos dio el primer lugar en el sembrado del distrito",
-      "Los 2 mejores del distrito van al Estatal"
+      "Los 0 mejores del distrito van al Estatal"
     ],
-    "nextGame": {
-      "stage": "District",
-      "round": "final",
-      "label": "Final del distrito",
-      "date": "2026-11-07T23:00:00.000Z",
-      "timeKnown": true,
-      "venue": "Sammamish HS",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Sammamish%20HS%2C%20WA",
-      "home": null,
-      "hostNote": null,
-      "opponents": [
-        {
-          "name": "Mount Vernon Christian",
-          "mascot": "Hurricanes",
-          "abbr": "MV",
-          "color": "#034CB2",
-          "isUs": false,
-          "meetings": [
-            {
-              "date": "2026-09-23T22:00:00.000Z",
-              "result": "D",
-              "gf": 0,
-              "ga": 0,
-              "home": false
-            },
-            {
-              "date": "2026-10-07T23:00:00.000Z",
-              "result": "W",
-              "gf": 1,
-              "ga": 0,
-              "home": true
-            }
-          ]
-        }
-      ],
-      "feeder": null,
-      "links": {
-        "map": "https://www.google.com/maps/search/?api=1&query=Sammamish%20HS%2C%20WA"
-      },
-      "watch": null,
-      "calId": "2026-11-07-g9"
-    },
+    "nextGame": null,
     "dates": [
-      {
-        "key": "g9",
-        "date": "2026-11-07T23:00:00.000Z",
-        "timeKnown": true,
-        "label": "Final del distrito",
-        "venue": "Sammamish HS",
-        "status": "confirmed",
-        "note": "Próximo partido",
-        "vs": "Mount Vernon",
-        "calId": "2026-11-07-g9"
-      },
       {
         "key": "state-0",
         "date": null,
         "whenText": "vie 13 nov",
         "label": "Cuartos de final del Estatal",
         "venue": null,
-        "status": "booked",
-        "note": "Fecha y sede se confirman después del distrito"
+        "status": "possible",
+        "note": "Si clasificamos al Estatal"
       },
       {
         "key": "state-1",
@@ -4226,7 +4026,7 @@
         "label": "Semifinal del Estatal",
         "venue": "Mount Tahoma Stadium, Tacoma",
         "status": "possible",
-        "note": "Si ganamos los cuartos de final"
+        "note": "Si clasificamos al Estatal"
       },
       {
         "key": "state-2",
@@ -4235,7 +4035,7 @@
         "label": "Final del Estatal",
         "venue": "Mount Tahoma Stadium, Tacoma",
         "status": "possible",
-        "note": "Si ganamos la semifinal"
+        "note": "Si clasificamos al Estatal"
       }
     ],
     "district": {
@@ -4245,7 +4045,7 @@
         "number": 1,
         "of": 12
       },
-      "status": "in-progress",
+      "status": "complete",
       "rounds": [
         {
           "date": "2026-11-03T20:30:00.000Z",
@@ -4622,8 +4422,8 @@
               "timeKnown": true,
               "venue": "Sammamish HS",
               "siteNote": "Sammamish HS",
-              "played": false,
-              "scoreSource": null,
+              "played": true,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Mount Vernon Christian",
@@ -4631,7 +4431,7 @@
                   "abbr": "MV",
                   "color": "#034CB2",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
                   "winner": false,
                   "seed": null
                 },
@@ -4641,20 +4441,18 @@
                   "abbr": "OI",
                   "color": "#034CB2",
                   "isUs": true,
-                  "score": null,
-                  "winner": false,
+                  "score": 1,
+                  "winner": true,
                   "seed": null
                 }
               ],
               "winner": {
-                "text": "Campeones · al Estatal",
-                "short": "Campeones",
-                "state": true
+                "text": "Campeones",
+                "state": false
               },
               "loser": {
-                "text": "Subcampeones · al Estatal",
-                "short": "Subcampeones",
-                "state": true
+                "text": "Subcampeones",
+                "state": false
               },
               "ours": true,
               "watch": null,
@@ -4946,7 +4744,7 @@
         {
           "title": "Final",
           "date": "2026-11-07T23:00:00.000Z",
-          "note": "Los dos equipos van al Estatal. Este partido decide el 1.º y el 2.º lugar.",
+          "note": null,
           "games": [
             {
               "no": "9",
@@ -4956,8 +4754,8 @@
               "timeKnown": true,
               "venue": "Sammamish HS",
               "siteNote": "Sammamish HS",
-              "played": false,
-              "scoreSource": null,
+              "played": true,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Mount Vernon Christian",
@@ -4965,7 +4763,7 @@
                   "abbr": "MV",
                   "color": "#034CB2",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
                   "winner": false,
                   "seed": null
                 },
@@ -4975,20 +4773,18 @@
                   "abbr": "OI",
                   "color": "#034CB2",
                   "isUs": true,
-                  "score": null,
-                  "winner": false,
+                  "score": 1,
+                  "winner": true,
                   "seed": null
                 }
               ],
               "winner": {
-                "text": "Campeones · al Estatal",
-                "short": "Campeones",
-                "state": true
+                "text": "Campeones",
+                "state": false
               },
               "loser": {
-                "text": "Subcampeones · al Estatal",
-                "short": "Subcampeones",
-                "state": true
+                "text": "Subcampeones",
+                "state": false
               },
               "ours": true,
               "watch": null,
@@ -5426,8 +5222,8 @@
             "timeKnown": true,
             "venue": "Sammamish HS",
             "siteNote": "Sammamish HS",
-            "played": false,
-            "scoreSource": null,
+            "played": true,
+            "scoreSource": "bracket",
             "teams": [
               {
                 "name": "Mount Vernon Christian",
@@ -5435,7 +5231,7 @@
                 "abbr": "MV",
                 "color": "#034CB2",
                 "isUs": false,
-                "score": null,
+                "score": 0,
                 "winner": false,
                 "seed": null
               },
@@ -5445,28 +5241,26 @@
                 "abbr": "OI",
                 "color": "#034CB2",
                 "isUs": true,
-                "score": null,
-                "winner": false,
+                "score": 1,
+                "winner": true,
                 "seed": null
               }
             ],
             "winner": {
-              "text": "Campeones · al Estatal",
-              "short": "Campeones",
-              "state": true
+              "text": "Campeones",
+              "state": false
             },
             "loser": {
-              "text": "Subcampeones · al Estatal",
-              "short": "Subcampeones",
-              "state": true
+              "text": "Subcampeones",
+              "state": false
             },
             "ours": true,
             "watch": null,
             "maybeOurs": false
           },
-          "result": null,
-          "gf": null,
-          "ga": null,
+          "result": "W",
+          "gf": 1,
+          "ga": 0,
           "watch": null,
           "opponent": {
             "name": "Mount Vernon Christian",
@@ -5477,94 +5271,24 @@
           }
         }
       ],
-      "scenarios": {
-        "game": {
-          "no": "9",
-          "round": "final",
-          "label": "Final del distrito",
-          "date": "2026-11-07T23:00:00.000Z",
-          "timeKnown": true,
-          "venue": "Sammamish HS",
-          "siteNote": "Sammamish HS",
-          "played": false,
-          "scoreSource": null,
-          "teams": [
-            {
-              "name": "Mount Vernon Christian",
-              "mascot": "Hurricanes",
-              "abbr": "MV",
-              "color": "#034CB2",
-              "isUs": false,
-              "score": null,
-              "winner": false,
-              "seed": null
-            },
-            {
-              "name": "Orcas Island",
-              "mascot": "Vikings",
-              "abbr": "OI",
-              "color": "#034CB2",
-              "isUs": true,
-              "score": null,
-              "winner": false,
-              "seed": null
-            }
-          ],
-          "winner": {
-            "text": "Campeones · al Estatal",
-            "short": "Campeones",
-            "state": true
-          },
-          "loser": {
-            "text": "Subcampeones · al Estatal",
-            "short": "Subcampeones",
-            "state": true
-          },
-          "ours": true,
-          "watch": null,
-          "maybeOurs": false
-        },
-        "win": {
-          "outcome": "Campeones del distrito",
-          "short": "Campeones",
-          "state": true,
-          "over": false
-        },
-        "lose": {
-          "outcome": "Subcampeones del distrito",
-          "short": "Subcampeones",
-          "state": true,
-          "over": false
-        }
+      "scenarios": null,
+      "guaranteedState": null,
+      "final": {
+        "place": "First Place",
+        "state": false,
+        "text": "Campeones del distrito"
       },
-      "guaranteedState": true,
-      "final": null,
-      "berths": 2,
+      "berths": 0,
       "teamCount": null,
       "bracketLagging": false,
       "stateSpots": {
-        "total": 2,
-        "teams": [
-          {
-            "name": "Orcas Island",
-            "mascot": "Vikings",
-            "abbr": "OI",
-            "color": "#034CB2",
-            "isUs": true
-          },
-          {
-            "name": "Mount Vernon Christian",
-            "mascot": "Hurricanes",
-            "abbr": "MV",
-            "color": "#034CB2",
-            "isUs": false
-          }
-        ]
+        "total": 0,
+        "teams": []
       }
     },
     "state": {
       "name": "WIAA 1B/2B Boys Soccer State Championships",
-      "status": "qualified",
+      "status": "did-not-qualify",
       "size": 8,
       "seedingAfter": "sáb 7 nov",
       "rounds": [
@@ -5589,7 +5313,9 @@
       ],
       "bracket": null,
       "field": {
-        "clinched": [
+        "clinched": [],
+        "alive": [],
+        "out": [
           {
             "name": "Orcas Island",
             "mascot": "Vikings",
@@ -5598,20 +5324,17 @@
             "isUs": true
           },
           {
-            "name": "Mount Vernon Christian",
-            "mascot": "Hurricanes",
-            "abbr": "MV",
-            "color": "#034CB2",
-            "isUs": false
-          }
-        ],
-        "alive": [],
-        "out": [
-          {
             "name": "Evergreen Lutheran",
             "mascot": "Eagles",
             "abbr": "EL",
             "color": "#00824B",
+            "isUs": false
+          },
+          {
+            "name": "Mount Vernon Christian",
+            "mascot": "Hurricanes",
+            "abbr": "MV",
+            "color": "#034CB2",
             "isUs": false
           },
           {
@@ -5678,8 +5401,8 @@
             "isUs": false
           }
         ],
-        "fromDistrict": 2,
-        "fromElsewhere": 6
+        "fromDistrict": 0,
+        "fromElsewhere": 8
       },
       "lastYear": {
         "champion": true,
@@ -6220,9 +5943,9 @@
           "isUs": false
         },
         "home": true,
-        "result": null,
-        "gf": null,
-        "ga": null,
+        "result": "W",
+        "gf": 1,
+        "ga": 0,
         "stage": "District",
         "venue": "Sammamish HS Bi-District Championship",
         "watch": null
@@ -6302,24 +6025,14 @@
     ],
     "insights": [
       {
-        "icon": "🔒",
-        "title": "El sábado se decide nuestra posición para el Estatal",
-        "text": "Con nuestro lugar en el Estatal asegurado, la final del sábado decide en qué posición llegamos. Una mejor posición normalmente significa un rival más débil en nuestro primer partido del Estatal."
-      },
-      {
         "icon": "🏆",
         "title": "Temporada de liga perfecta (9-0)",
         "text": "Eso nos dio el primer lugar en el sembrado del distrito: jugamos de local y contra el rival peor clasificado primero."
       },
       {
-        "icon": "⚠️",
-        "title": "Mount Vernon nos pone las cosas difíciles",
-        "text": "Todos los partidos han sido parejos: una victoria y un empate (0-0 y 1-0). Son nuestro próximo rival: sábado 7 de noviembre."
-      },
-      {
         "icon": "💪",
         "title": "Invictos toda la temporada",
-        "text": "17 victorias y 1 empate. Hemos anotado 95 goles y solo hemos recibido 13."
+        "text": "18 victorias y 1 empate. Hemos anotado 96 goles y solo hemos recibido 13."
       },
       {
         "icon": "⭐",
@@ -6337,14 +6050,14 @@
       {
         "stage": "Distrito",
         "teams": null,
-        "text": "Un torneo aparte con equipos de varias ligas. Los 2 mejores se ganan un lugar en el Estatal.",
-        "us": "2 victorias hasta ahora"
+        "text": "Un torneo aparte con equipos de varias ligas. Los 0 mejores se ganan un lugar en el Estatal.",
+        "us": "Campeones"
       },
       {
         "stage": "Estatal",
         "teams": 8,
         "text": "Las 8 mejores escuelas pequeñas de Washington. Si pierdes una vez, quedas eliminado.",
-        "us": "¡Clasificados!"
+        "us": "No clasificamos"
       },
       {
         "stage": "Campeón",
@@ -6906,15 +6619,15 @@
           {
             "season": "2026",
             "date": "2026-11-07T23:00:00.000Z",
-            "result": null,
-            "gf": null,
-            "ga": null,
+            "result": "W",
+            "gf": 1,
+            "ga": 0,
             "home": true,
             "stage": "District",
             "venue": "Sammamish HS Bi-District Championship",
             "pens": false,
-            "close": false,
-            "upcoming": true
+            "close": true,
+            "upcoming": false
           },
           {
             "season": "2026",
@@ -7087,7 +6800,7 @@
           }
         ],
         "record": {
-          "w": 8,
+          "w": 9,
           "l": 3,
           "d": 2
         },
@@ -8161,16 +7874,7 @@
       }
     },
     "historySince": "2022",
-    "calendar": [
-      {
-        "id": "2026-11-07-g9",
-        "title": "Vikings vs Mount Vernon · Final del distrito",
-        "start": "2026-11-07T23:00:00.000Z",
-        "timeKnown": true,
-        "location": "Sammamish HS",
-        "details": "Fútbol varonil de los Orcas Island Vikings. Síguelos en: https://govikings.app"
-      }
-    ],
+    "calendar": [],
     "sources": [
       {
         "name": "Schedule/results",
