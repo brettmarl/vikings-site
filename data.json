@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T18:01:06.225Z",
+  "generatedAt": "2026-11-08T18:16:10.739Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -62,7 +62,8 @@
     "stage": "State",
     "round": "firstRound",
     "label": "State first round",
-    "date": null,
+    "date": "2026-11-13T08:00:00.000Z",
+    "dateWindow": null,
     "timeKnown": false,
     "venue": null,
     "mapUrl": null,
@@ -83,18 +84,19 @@
       "map": null
     },
     "watch": null,
-    "calId": null
+    "calId": "2026-11-13-g4"
   },
   "dates": [
     {
       "key": "g4",
-      "date": null,
+      "date": "2026-11-13T08:00:00.000Z",
       "timeKnown": false,
       "label": "State first round",
       "venue": null,
       "status": "confirmed",
       "note": "Next game",
-      "vs": "Auburn"
+      "vs": "Auburn",
+      "calId": "2026-11-13-g4"
     },
     {
       "key": "g6",
@@ -103,8 +105,8 @@
       "label": "State semifinal",
       "venue": null,
       "status": "possible",
-      "note": "If we beat Auburn",
-      "vs": "Friday Harbor or Chesterton Acad of Notre Dame",
+      "note": "If we beat Auburn on Friday",
+      "vs": "Friday Harbor or Chesterton",
       "calId": "2026-11-20-g6"
     },
     {
@@ -114,7 +116,7 @@
       "label": "State final",
       "venue": null,
       "status": "possible",
-      "note": "If we beat Auburn, then win",
+      "note": "If we beat Auburn on Friday, then win",
       "vs": "TBD",
       "calId": "2026-11-21-g8"
     },
@@ -125,7 +127,7 @@
       "label": "Last-chance game",
       "venue": null,
       "status": "possible",
-      "note": "If we beat Auburn, then lose",
+      "note": "If we beat Auburn on Friday, then lose",
       "vs": "TBD",
       "calId": "2026-11-21-g7"
     }
@@ -147,6 +149,7 @@
             "round": "firstRound",
             "label": "District first round",
             "date": "2026-11-03T20:30:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Anacortes HS",
             "siteNote": "@ Higher Seed",
@@ -192,6 +195,7 @@
             "round": "firstRound",
             "label": "District first round",
             "date": "2026-11-03T22:00:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Puyallup Valley Sports Co",
             "siteNote": "@ Higher Seed",
@@ -237,6 +241,7 @@
             "round": "firstRound",
             "label": "District first round",
             "date": "2026-11-03T22:45:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Puyallup Valley Sports Co",
             "siteNote": "@ Higher Seed",
@@ -282,6 +287,7 @@
             "round": "firstRound",
             "label": "District first round",
             "date": "2026-11-04T02:15:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Mt Vernon HS",
             "siteNote": "@ Higher Seed",
@@ -333,6 +339,7 @@
             "round": "semifinal",
             "label": "District semifinal",
             "date": "2026-11-05T20:30:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Anacortes HS",
             "siteNote": "@ Higher Seed",
@@ -379,6 +386,7 @@
             "round": "semifinal",
             "label": "District semifinal",
             "date": "2026-11-05T21:00:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Mt Vernon HS",
             "siteNote": "@ Higher Seed",
@@ -425,6 +433,7 @@
             "round": "lastChance",
             "label": "Last-chance game",
             "date": "2026-11-05T21:30:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Game Farm Park - Auburn",
             "siteNote": "@ Higher Seed",
@@ -471,6 +480,7 @@
             "round": "lastChance",
             "label": "Last-chance game",
             "date": "2026-11-06T00:00:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Peck Community Sports Par",
             "siteNote": "@ Higher Seed",
@@ -523,6 +533,7 @@
             "round": "final",
             "label": "District final",
             "date": "2026-11-07T23:00:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Sammamish HS",
             "siteNote": "Sammamish HS",
@@ -576,6 +587,7 @@
       {
         "title": "First rounds",
         "date": "2026-11-03T22:00:00.000Z",
+        "when": null,
         "note": "Winners move on. Losers get one more chance.",
         "games": [
           {
@@ -583,6 +595,7 @@
             "round": "firstRound",
             "label": "District first round",
             "date": "2026-11-03T22:00:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Puyallup Valley Sports Co",
             "siteNote": "@ Higher Seed",
@@ -628,6 +641,7 @@
             "round": "firstRound",
             "label": "District first round",
             "date": "2026-11-04T02:15:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Mt Vernon HS",
             "siteNote": "@ Higher Seed",
@@ -673,6 +687,7 @@
             "round": "firstRound",
             "label": "District first round",
             "date": "2026-11-03T22:45:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Puyallup Valley Sports Co",
             "siteNote": "@ Higher Seed",
@@ -718,6 +733,7 @@
             "round": "firstRound",
             "label": "District first round",
             "date": "2026-11-03T20:30:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Anacortes HS",
             "siteNote": "@ Higher Seed",
@@ -763,6 +779,7 @@
       {
         "title": "Semifinals",
         "date": "2026-11-05T21:00:00.000Z",
+        "when": null,
         "note": "Winners play in the final. Losers still go to State.",
         "games": [
           {
@@ -770,6 +787,7 @@
             "round": "semifinal",
             "label": "District semifinal",
             "date": "2026-11-05T21:00:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Mt Vernon HS",
             "siteNote": "@ Higher Seed",
@@ -816,6 +834,7 @@
             "round": "semifinal",
             "label": "District semifinal",
             "date": "2026-11-05T20:30:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Anacortes HS",
             "siteNote": "@ Higher Seed",
@@ -862,6 +881,7 @@
       {
         "title": "Final",
         "date": "2026-11-07T23:00:00.000Z",
+        "when": null,
         "note": "Both teams go to State. This game decides 1st and 2nd.",
         "games": [
           {
@@ -869,6 +889,7 @@
             "round": "final",
             "label": "District final",
             "date": "2026-11-07T23:00:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Sammamish HS",
             "siteNote": "Sammamish HS",
@@ -923,6 +944,7 @@
         "round": "lastChance",
         "label": "Last-chance game",
         "date": "2026-11-05T21:30:00.000Z",
+        "dateWindow": null,
         "timeKnown": true,
         "venue": "Game Farm Park - Auburn",
         "siteNote": "@ Higher Seed",
@@ -970,6 +992,7 @@
         "round": "lastChance",
         "label": "Last-chance game",
         "date": "2026-11-06T00:00:00.000Z",
+        "dateWindow": null,
         "timeKnown": true,
         "venue": "Peck Community Sports Par",
         "siteNote": "@ Higher Seed",
@@ -1019,6 +1042,7 @@
         "round": "playIn",
         "label": "Play-in",
         "date": "2026-10-15T00:30:00.000Z",
+        "dateWindow": null,
         "timeKnown": true,
         "venue": "Concordia Christian Academy",
         "siteNote": "PLAY-IN",
@@ -1061,6 +1085,7 @@
         "round": "playIn",
         "label": "Play-in",
         "date": "2026-10-28T02:00:00.000Z",
+        "dateWindow": null,
         "timeKnown": true,
         "venue": "Tenino HS",
         "siteNote": "PLAY-IN",
@@ -1103,6 +1128,7 @@
         "round": "playIn",
         "label": "Play-in",
         "date": "2026-10-29T22:30:00.000Z",
+        "dateWindow": null,
         "timeKnown": true,
         "venue": "Puget Sound Adventist Academy",
         "siteNote": "PLAY-IN",
@@ -1145,6 +1171,7 @@
         "round": "playIn",
         "label": "Play-in",
         "date": "2026-10-30T21:00:00.000Z",
+        "dateWindow": null,
         "timeKnown": true,
         "venue": "Oak Harbor HS",
         "siteNote": null,
@@ -1190,6 +1217,7 @@
         "round": "playIn",
         "label": "Play-in",
         "date": "2026-11-03T03:30:00.000Z",
+        "dateWindow": null,
         "timeKnown": true,
         "venue": "Tenino HS",
         "siteNote": null,
@@ -1238,6 +1266,7 @@
           "round": "firstRound",
           "label": "District first round",
           "date": "2026-11-03T20:30:00.000Z",
+          "dateWindow": null,
           "timeKnown": true,
           "venue": "Anacortes HS",
           "siteNote": "@ Higher Seed",
@@ -1297,6 +1326,7 @@
           "round": "semifinal",
           "label": "District semifinal",
           "date": "2026-11-05T20:30:00.000Z",
+          "dateWindow": null,
           "timeKnown": true,
           "venue": "Anacortes HS",
           "siteNote": "@ Higher Seed",
@@ -1357,6 +1387,7 @@
           "round": "final",
           "label": "District final",
           "date": "2026-11-07T23:00:00.000Z",
+          "dateWindow": null,
           "timeKnown": true,
           "venue": "Sammamish HS",
           "siteNote": "Sammamish HS",
@@ -1830,6 +1861,12 @@
               "round": "firstRound",
               "label": "State first round",
               "date": null,
+              "dateWindow": {
+                "text": "Nov 13–14",
+                "mon": "Nov",
+                "days": "13–14",
+                "weekdays": "Fri or Sat"
+              },
               "timeKnown": false,
               "venue": null,
               "siteNote": null,
@@ -1875,6 +1912,12 @@
               "round": "firstRound",
               "label": "State first round",
               "date": null,
+              "dateWindow": {
+                "text": "Nov 13–14",
+                "mon": "Nov",
+                "days": "13–14",
+                "weekdays": "Fri or Sat"
+              },
               "timeKnown": false,
               "venue": null,
               "siteNote": null,
@@ -1920,6 +1963,12 @@
               "round": "firstRound",
               "label": "State first round",
               "date": null,
+              "dateWindow": {
+                "text": "Nov 13–14",
+                "mon": "Nov",
+                "days": "13–14",
+                "weekdays": "Fri or Sat"
+              },
               "timeKnown": false,
               "venue": null,
               "siteNote": null,
@@ -1938,10 +1987,10 @@
                   "seed": null
                 },
                 {
-                  "name": "Chesterton Acad of Notre Dame",
-                  "mascot": null,
+                  "name": "Chesterton Academy of Notre Dame",
+                  "mascot": "Knights",
                   "abbr": "CA",
-                  "color": "#5B6770",
+                  "color": "#022C66",
                   "isUs": false,
                   "score": null,
                   "winner": false,
@@ -1959,12 +2008,19 @@
               "ours": false,
               "watch": null,
               "maybeOurs": false
-            },
+            }
+          ],
+          "title": "State first round"
+        },
+        {
+          "date": "2026-11-13T08:00:00.000Z",
+          "games": [
             {
               "no": "4",
               "round": "firstRound",
               "label": "State first round",
-              "date": null,
+              "date": "2026-11-13T08:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": false,
               "venue": null,
               "siteNote": null,
@@ -2016,6 +2072,7 @@
               "round": "semifinal",
               "label": "State semifinal",
               "date": "2026-11-20T19:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": null,
               "siteNote": "",
@@ -2087,6 +2144,7 @@
               "round": "semifinal",
               "label": "State semifinal",
               "date": "2026-11-20T21:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": null,
               "siteNote": "",
@@ -2106,10 +2164,10 @@
                       "isUs": false
                     },
                     {
-                      "name": "Chesterton Acad of Notre Dame",
-                      "mascot": null,
+                      "name": "Chesterton Academy of Notre Dame",
+                      "mascot": "Knights",
                       "abbr": "CA",
-                      "color": "#5B6770",
+                      "color": "#022C66",
                       "isUs": false
                     }
                   ],
@@ -2164,6 +2222,7 @@
               "round": "lastChance",
               "label": "Last-chance game",
               "date": "2026-11-21T18:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": null,
               "siteNote": "",
@@ -2220,10 +2279,10 @@
                       "isUs": false
                     },
                     {
-                      "name": "Chesterton Acad of Notre Dame",
-                      "mascot": null,
+                      "name": "Chesterton Academy of Notre Dame",
+                      "mascot": "Knights",
                       "abbr": "CA",
-                      "color": "#5B6770",
+                      "color": "#022C66",
                       "isUs": false
                     },
                     {
@@ -2263,6 +2322,7 @@
               "round": "final",
               "label": "State final",
               "date": "2026-11-21T23:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": null,
               "siteNote": "",
@@ -2319,10 +2379,10 @@
                       "isUs": false
                     },
                     {
-                      "name": "Chesterton Acad of Notre Dame",
-                      "mascot": null,
+                      "name": "Chesterton Academy of Notre Dame",
+                      "mascot": "Knights",
                       "abbr": "CA",
-                      "color": "#5B6770",
+                      "color": "#022C66",
                       "isUs": false
                     },
                     {
@@ -2365,6 +2425,7 @@
         {
           "title": "First rounds",
           "date": null,
+          "when": "Nov 13–14",
           "note": "Winners move on. Losers are out.",
           "games": [
             {
@@ -2372,6 +2433,12 @@
               "round": "firstRound",
               "label": "State first round",
               "date": null,
+              "dateWindow": {
+                "text": "Nov 13–14",
+                "mon": "Nov",
+                "days": "13–14",
+                "weekdays": "Fri or Sat"
+              },
               "timeKnown": false,
               "venue": null,
               "siteNote": null,
@@ -2417,6 +2484,12 @@
               "round": "firstRound",
               "label": "State first round",
               "date": null,
+              "dateWindow": {
+                "text": "Nov 13–14",
+                "mon": "Nov",
+                "days": "13–14",
+                "weekdays": "Fri or Sat"
+              },
               "timeKnown": false,
               "venue": null,
               "siteNote": null,
@@ -2462,6 +2535,12 @@
               "round": "firstRound",
               "label": "State first round",
               "date": null,
+              "dateWindow": {
+                "text": "Nov 13–14",
+                "mon": "Nov",
+                "days": "13–14",
+                "weekdays": "Fri or Sat"
+              },
               "timeKnown": false,
               "venue": null,
               "siteNote": null,
@@ -2480,10 +2559,10 @@
                   "seed": null
                 },
                 {
-                  "name": "Chesterton Acad of Notre Dame",
-                  "mascot": null,
+                  "name": "Chesterton Academy of Notre Dame",
+                  "mascot": "Knights",
                   "abbr": "CA",
-                  "color": "#5B6770",
+                  "color": "#022C66",
                   "isUs": false,
                   "score": null,
                   "winner": false,
@@ -2506,7 +2585,8 @@
               "no": "4",
               "round": "firstRound",
               "label": "State first round",
-              "date": null,
+              "date": "2026-11-13T08:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": false,
               "venue": null,
               "siteNote": null,
@@ -2552,6 +2632,7 @@
         {
           "title": "Semifinals",
           "date": "2026-11-20T19:00:00.000Z",
+          "when": null,
           "note": "Winners move on. Losers get one more chance.",
           "games": [
             {
@@ -2559,6 +2640,7 @@
               "round": "semifinal",
               "label": "State semifinal",
               "date": "2026-11-20T19:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": null,
               "siteNote": "",
@@ -2630,6 +2712,7 @@
               "round": "semifinal",
               "label": "State semifinal",
               "date": "2026-11-20T21:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": null,
               "siteNote": "",
@@ -2649,10 +2732,10 @@
                       "isUs": false
                     },
                     {
-                      "name": "Chesterton Acad of Notre Dame",
-                      "mascot": null,
+                      "name": "Chesterton Academy of Notre Dame",
+                      "mascot": "Knights",
                       "abbr": "CA",
-                      "color": "#5B6770",
+                      "color": "#022C66",
                       "isUs": false
                     }
                   ],
@@ -2701,6 +2784,7 @@
         {
           "title": "Final",
           "date": "2026-11-21T23:00:00.000Z",
+          "when": null,
           "note": null,
           "games": [
             {
@@ -2708,6 +2792,7 @@
               "round": "final",
               "label": "State final",
               "date": "2026-11-21T23:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": null,
               "siteNote": "",
@@ -2764,10 +2849,10 @@
                       "isUs": false
                     },
                     {
-                      "name": "Chesterton Acad of Notre Dame",
-                      "mascot": null,
+                      "name": "Chesterton Academy of Notre Dame",
+                      "mascot": "Knights",
                       "abbr": "CA",
-                      "color": "#5B6770",
+                      "color": "#022C66",
                       "isUs": false
                     },
                     {
@@ -2811,6 +2896,7 @@
           "round": "lastChance",
           "label": "Last-chance game",
           "date": "2026-11-21T18:00:00.000Z",
+          "dateWindow": null,
           "timeKnown": true,
           "venue": null,
           "siteNote": "",
@@ -2867,10 +2953,10 @@
                   "isUs": false
                 },
                 {
-                  "name": "Chesterton Acad of Notre Dame",
-                  "mascot": null,
+                  "name": "Chesterton Academy of Notre Dame",
+                  "mascot": "Knights",
                   "abbr": "CA",
-                  "color": "#5B6770",
+                  "color": "#022C66",
                   "isUs": false
                 },
                 {
@@ -2914,7 +3000,8 @@
             "no": "4",
             "round": "firstRound",
             "label": "State first round",
-            "date": null,
+            "date": "2026-11-13T08:00:00.000Z",
+            "dateWindow": null,
             "timeKnown": false,
             "venue": null,
             "siteNote": null,
@@ -2974,7 +3061,8 @@
           "no": "4",
           "round": "firstRound",
           "label": "State first round",
-          "date": null,
+          "date": "2026-11-13T08:00:00.000Z",
+          "dateWindow": null,
           "timeKnown": false,
           "venue": null,
           "siteNote": null,
@@ -3021,6 +3109,7 @@
             "round": "semifinal",
             "label": "State semifinal",
             "date": "2026-11-20T21:00:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": null,
             "siteNote": "",
@@ -3040,10 +3129,10 @@
                     "isUs": false
                   },
                   {
-                    "name": "Chesterton Acad of Notre Dame",
-                    "mascot": null,
+                    "name": "Chesterton Academy of Notre Dame",
+                    "mascot": "Knights",
                     "abbr": "CA",
-                    "color": "#5B6770",
+                    "color": "#022C66",
                     "isUs": false
                   }
                 ],
@@ -3093,6 +3182,7 @@
               "round": "final",
               "label": "State final",
               "date": "2026-11-21T23:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": null,
               "siteNote": "",
@@ -3149,10 +3239,10 @@
                       "isUs": false
                     },
                     {
-                      "name": "Chesterton Acad of Notre Dame",
-                      "mascot": null,
+                      "name": "Chesterton Academy of Notre Dame",
+                      "mascot": "Knights",
                       "abbr": "CA",
-                      "color": "#5B6770",
+                      "color": "#022C66",
                       "isUs": false
                     },
                     {
@@ -3206,6 +3296,7 @@
               "round": "lastChance",
               "label": "Last-chance game",
               "date": "2026-11-21T18:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": null,
               "siteNote": "",
@@ -3262,10 +3353,10 @@
                       "isUs": false
                     },
                     {
-                      "name": "Chesterton Acad of Notre Dame",
-                      "mascot": null,
+                      "name": "Chesterton Academy of Notre Dame",
+                      "mascot": "Knights",
                       "abbr": "CA",
-                      "color": "#5B6770",
+                      "color": "#022C66",
                       "isUs": false
                     },
                     {
@@ -4064,7 +4155,7 @@
   "insights": [
     {
       "icon": "🗓️",
-      "title": "State: we play Auburn Adventist Wed Dec 31",
+      "title": "State: we play Auburn Adventist Fri Nov 13",
       "text": "We’re 1-0 against them since 2022. Last time: won 1-0."
     },
     {
@@ -5924,8 +6015,16 @@
   "historySince": "2022",
   "calendar": [
     {
+      "id": "2026-11-13-g4",
+      "title": "Vikings vs Auburn · State first round",
+      "start": "2026-11-13T08:00:00.000Z",
+      "timeKnown": false,
+      "location": "",
+      "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
+    },
+    {
       "id": "2026-11-20-g6",
-      "title": "Vikings vs Friday Harbor or Chesterton Acad of Notre Dame · State semifinal (if we advance)",
+      "title": "Vikings vs Friday Harbor or Chesterton · State semifinal (if we advance)",
       "start": "2026-11-20T21:00:00.000Z",
       "timeKnown": true,
       "location": "",
@@ -5976,7 +6075,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-08T18:01:06.225Z",
+    "generatedAt": "2026-11-08T18:16:10.739Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -6039,7 +6138,8 @@
       "stage": "State",
       "round": "firstRound",
       "label": "Primera ronda del Estatal",
-      "date": null,
+      "date": "2026-11-13T08:00:00.000Z",
+      "dateWindow": null,
       "timeKnown": false,
       "venue": null,
       "mapUrl": null,
@@ -6060,18 +6160,19 @@
         "map": null
       },
       "watch": null,
-      "calId": null
+      "calId": "2026-11-13-g4"
     },
     "dates": [
       {
         "key": "g4",
-        "date": null,
+        "date": "2026-11-13T08:00:00.000Z",
         "timeKnown": false,
         "label": "Primera ronda del Estatal",
         "venue": null,
         "status": "confirmed",
         "note": "Próximo partido",
-        "vs": "Auburn"
+        "vs": "Auburn",
+        "calId": "2026-11-13-g4"
       },
       {
         "key": "g6",
@@ -6080,8 +6181,8 @@
         "label": "Semifinal del Estatal",
         "venue": null,
         "status": "possible",
-        "note": "Si le ganamos a Auburn",
-        "vs": "Friday Harbor o Chesterton Acad of Notre Dame",
+        "note": "Si le ganamos a Auburn el viernes",
+        "vs": "Friday Harbor o Chesterton",
         "calId": "2026-11-20-g6"
       },
       {
@@ -6091,7 +6192,7 @@
         "label": "Final del Estatal",
         "venue": null,
         "status": "possible",
-        "note": "Si le ganamos a Auburn, y luego ganamos",
+        "note": "Si le ganamos a Auburn el viernes, y luego ganamos",
         "vs": "Por definir",
         "calId": "2026-11-21-g8"
       },
@@ -6102,7 +6203,7 @@
         "label": "Partido de última oportunidad",
         "venue": null,
         "status": "possible",
-        "note": "Si le ganamos a Auburn, y luego perdemos",
+        "note": "Si le ganamos a Auburn el viernes, y luego perdemos",
         "vs": "Por definir",
         "calId": "2026-11-21-g7"
       }
@@ -6124,6 +6225,7 @@
               "round": "firstRound",
               "label": "Primera ronda del distrito",
               "date": "2026-11-03T20:30:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": "Anacortes HS",
               "siteNote": "@ Higher Seed",
@@ -6169,6 +6271,7 @@
               "round": "firstRound",
               "label": "Primera ronda del distrito",
               "date": "2026-11-03T22:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": "Puyallup Valley Sports Co",
               "siteNote": "@ Higher Seed",
@@ -6214,6 +6317,7 @@
               "round": "firstRound",
               "label": "Primera ronda del distrito",
               "date": "2026-11-03T22:45:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": "Puyallup Valley Sports Co",
               "siteNote": "@ Higher Seed",
@@ -6259,6 +6363,7 @@
               "round": "firstRound",
               "label": "Primera ronda del distrito",
               "date": "2026-11-04T02:15:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": "Mt Vernon HS",
               "siteNote": "@ Higher Seed",
@@ -6310,6 +6415,7 @@
               "round": "semifinal",
               "label": "Semifinal del distrito",
               "date": "2026-11-05T20:30:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": "Anacortes HS",
               "siteNote": "@ Higher Seed",
@@ -6356,6 +6462,7 @@
               "round": "semifinal",
               "label": "Semifinal del distrito",
               "date": "2026-11-05T21:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": "Mt Vernon HS",
               "siteNote": "@ Higher Seed",
@@ -6402,6 +6509,7 @@
               "round": "lastChance",
               "label": "Partido de última oportunidad",
               "date": "2026-11-05T21:30:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": "Game Farm Park - Auburn",
               "siteNote": "@ Higher Seed",
@@ -6448,6 +6556,7 @@
               "round": "lastChance",
               "label": "Partido de última oportunidad",
               "date": "2026-11-06T00:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": "Peck Community Sports Par",
               "siteNote": "@ Higher Seed",
@@ -6500,6 +6609,7 @@
               "round": "final",
               "label": "Final del distrito",
               "date": "2026-11-07T23:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": "Sammamish HS",
               "siteNote": "Sammamish HS",
@@ -6553,6 +6663,7 @@
         {
           "title": "Primera ronda",
           "date": "2026-11-03T22:00:00.000Z",
+          "when": null,
           "note": "Los ganadores avanzan. Los perdedores tienen otra oportunidad.",
           "games": [
             {
@@ -6560,6 +6671,7 @@
               "round": "firstRound",
               "label": "Primera ronda del distrito",
               "date": "2026-11-03T22:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": "Puyallup Valley Sports Co",
               "siteNote": "@ Higher Seed",
@@ -6605,6 +6717,7 @@
               "round": "firstRound",
               "label": "Primera ronda del distrito",
               "date": "2026-11-04T02:15:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": "Mt Vernon HS",
               "siteNote": "@ Higher Seed",
@@ -6650,6 +6763,7 @@
               "round": "firstRound",
               "label": "Primera ronda del distrito",
               "date": "2026-11-03T22:45:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": "Puyallup Valley Sports Co",
               "siteNote": "@ Higher Seed",
@@ -6695,6 +6809,7 @@
               "round": "firstRound",
               "label": "Primera ronda del distrito",
               "date": "2026-11-03T20:30:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": "Anacortes HS",
               "siteNote": "@ Higher Seed",
@@ -6740,6 +6855,7 @@
         {
           "title": "Semifinales",
           "date": "2026-11-05T21:00:00.000Z",
+          "when": null,
           "note": "Los ganadores juegan la final. Los perdedores también van al Estatal.",
           "games": [
             {
@@ -6747,6 +6863,7 @@
               "round": "semifinal",
               "label": "Semifinal del distrito",
               "date": "2026-11-05T21:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": "Mt Vernon HS",
               "siteNote": "@ Higher Seed",
@@ -6793,6 +6910,7 @@
               "round": "semifinal",
               "label": "Semifinal del distrito",
               "date": "2026-11-05T20:30:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": "Anacortes HS",
               "siteNote": "@ Higher Seed",
@@ -6839,6 +6957,7 @@
         {
           "title": "Final",
           "date": "2026-11-07T23:00:00.000Z",
+          "when": null,
           "note": "Los dos equipos van al Estatal. Este partido decide el 1.º y el 2.º lugar.",
           "games": [
             {
@@ -6846,6 +6965,7 @@
               "round": "final",
               "label": "Final del distrito",
               "date": "2026-11-07T23:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": "Sammamish HS",
               "siteNote": "Sammamish HS",
@@ -6900,6 +7020,7 @@
           "round": "lastChance",
           "label": "Partido de última oportunidad",
           "date": "2026-11-05T21:30:00.000Z",
+          "dateWindow": null,
           "timeKnown": true,
           "venue": "Game Farm Park - Auburn",
           "siteNote": "@ Higher Seed",
@@ -6947,6 +7068,7 @@
           "round": "lastChance",
           "label": "Partido de última oportunidad",
           "date": "2026-11-06T00:00:00.000Z",
+          "dateWindow": null,
           "timeKnown": true,
           "venue": "Peck Community Sports Par",
           "siteNote": "@ Higher Seed",
@@ -6996,6 +7118,7 @@
           "round": "playIn",
           "label": "Repechaje",
           "date": "2026-10-15T00:30:00.000Z",
+          "dateWindow": null,
           "timeKnown": true,
           "venue": "Concordia Christian Academy",
           "siteNote": "PLAY-IN",
@@ -7038,6 +7161,7 @@
           "round": "playIn",
           "label": "Repechaje",
           "date": "2026-10-28T02:00:00.000Z",
+          "dateWindow": null,
           "timeKnown": true,
           "venue": "Tenino HS",
           "siteNote": "PLAY-IN",
@@ -7080,6 +7204,7 @@
           "round": "playIn",
           "label": "Repechaje",
           "date": "2026-10-29T22:30:00.000Z",
+          "dateWindow": null,
           "timeKnown": true,
           "venue": "Puget Sound Adventist Academy",
           "siteNote": "PLAY-IN",
@@ -7122,6 +7247,7 @@
           "round": "playIn",
           "label": "Repechaje",
           "date": "2026-10-30T21:00:00.000Z",
+          "dateWindow": null,
           "timeKnown": true,
           "venue": "Oak Harbor HS",
           "siteNote": null,
@@ -7167,6 +7293,7 @@
           "round": "playIn",
           "label": "Repechaje",
           "date": "2026-11-03T03:30:00.000Z",
+          "dateWindow": null,
           "timeKnown": true,
           "venue": "Tenino HS",
           "siteNote": null,
@@ -7215,6 +7342,7 @@
             "round": "firstRound",
             "label": "Primera ronda del distrito",
             "date": "2026-11-03T20:30:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Anacortes HS",
             "siteNote": "@ Higher Seed",
@@ -7274,6 +7402,7 @@
             "round": "semifinal",
             "label": "Semifinal del distrito",
             "date": "2026-11-05T20:30:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Anacortes HS",
             "siteNote": "@ Higher Seed",
@@ -7334,6 +7463,7 @@
             "round": "final",
             "label": "Final del distrito",
             "date": "2026-11-07T23:00:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": "Sammamish HS",
             "siteNote": "Sammamish HS",
@@ -7807,6 +7937,12 @@
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
                 "date": null,
+                "dateWindow": {
+                  "text": "13–14 nov",
+                  "mon": "nov",
+                  "days": "13–14",
+                  "weekdays": "vie o sáb"
+                },
                 "timeKnown": false,
                 "venue": null,
                 "siteNote": null,
@@ -7852,6 +7988,12 @@
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
                 "date": null,
+                "dateWindow": {
+                  "text": "13–14 nov",
+                  "mon": "nov",
+                  "days": "13–14",
+                  "weekdays": "vie o sáb"
+                },
                 "timeKnown": false,
                 "venue": null,
                 "siteNote": null,
@@ -7897,6 +8039,12 @@
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
                 "date": null,
+                "dateWindow": {
+                  "text": "13–14 nov",
+                  "mon": "nov",
+                  "days": "13–14",
+                  "weekdays": "vie o sáb"
+                },
                 "timeKnown": false,
                 "venue": null,
                 "siteNote": null,
@@ -7915,10 +8063,10 @@
                     "seed": null
                   },
                   {
-                    "name": "Chesterton Acad of Notre Dame",
-                    "mascot": null,
+                    "name": "Chesterton Academy of Notre Dame",
+                    "mascot": "Knights",
                     "abbr": "CA",
-                    "color": "#5B6770",
+                    "color": "#022C66",
                     "isUs": false,
                     "score": null,
                     "winner": false,
@@ -7936,12 +8084,19 @@
                 "ours": false,
                 "watch": null,
                 "maybeOurs": false
-              },
+              }
+            ],
+            "title": "Primera ronda del Estatal"
+          },
+          {
+            "date": "2026-11-13T08:00:00.000Z",
+            "games": [
               {
                 "no": "4",
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
-                "date": null,
+                "date": "2026-11-13T08:00:00.000Z",
+                "dateWindow": null,
                 "timeKnown": false,
                 "venue": null,
                 "siteNote": null,
@@ -7993,6 +8148,7 @@
                 "round": "semifinal",
                 "label": "Semifinal del Estatal",
                 "date": "2026-11-20T19:00:00.000Z",
+                "dateWindow": null,
                 "timeKnown": true,
                 "venue": null,
                 "siteNote": "",
@@ -8064,6 +8220,7 @@
                 "round": "semifinal",
                 "label": "Semifinal del Estatal",
                 "date": "2026-11-20T21:00:00.000Z",
+                "dateWindow": null,
                 "timeKnown": true,
                 "venue": null,
                 "siteNote": "",
@@ -8083,10 +8240,10 @@
                         "isUs": false
                       },
                       {
-                        "name": "Chesterton Acad of Notre Dame",
-                        "mascot": null,
+                        "name": "Chesterton Academy of Notre Dame",
+                        "mascot": "Knights",
                         "abbr": "CA",
-                        "color": "#5B6770",
+                        "color": "#022C66",
                         "isUs": false
                       }
                     ],
@@ -8141,6 +8298,7 @@
                 "round": "lastChance",
                 "label": "Partido de última oportunidad",
                 "date": "2026-11-21T18:00:00.000Z",
+                "dateWindow": null,
                 "timeKnown": true,
                 "venue": null,
                 "siteNote": "",
@@ -8197,10 +8355,10 @@
                         "isUs": false
                       },
                       {
-                        "name": "Chesterton Acad of Notre Dame",
-                        "mascot": null,
+                        "name": "Chesterton Academy of Notre Dame",
+                        "mascot": "Knights",
                         "abbr": "CA",
-                        "color": "#5B6770",
+                        "color": "#022C66",
                         "isUs": false
                       },
                       {
@@ -8240,6 +8398,7 @@
                 "round": "final",
                 "label": "Final del Estatal",
                 "date": "2026-11-21T23:00:00.000Z",
+                "dateWindow": null,
                 "timeKnown": true,
                 "venue": null,
                 "siteNote": "",
@@ -8296,10 +8455,10 @@
                         "isUs": false
                       },
                       {
-                        "name": "Chesterton Acad of Notre Dame",
-                        "mascot": null,
+                        "name": "Chesterton Academy of Notre Dame",
+                        "mascot": "Knights",
                         "abbr": "CA",
-                        "color": "#5B6770",
+                        "color": "#022C66",
                         "isUs": false
                       },
                       {
@@ -8342,6 +8501,7 @@
           {
             "title": "Primera ronda",
             "date": null,
+            "when": "13–14 nov",
             "note": "Los ganadores avanzan. Los perdedores quedan eliminados.",
             "games": [
               {
@@ -8349,6 +8509,12 @@
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
                 "date": null,
+                "dateWindow": {
+                  "text": "13–14 nov",
+                  "mon": "nov",
+                  "days": "13–14",
+                  "weekdays": "vie o sáb"
+                },
                 "timeKnown": false,
                 "venue": null,
                 "siteNote": null,
@@ -8394,6 +8560,12 @@
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
                 "date": null,
+                "dateWindow": {
+                  "text": "13–14 nov",
+                  "mon": "nov",
+                  "days": "13–14",
+                  "weekdays": "vie o sáb"
+                },
                 "timeKnown": false,
                 "venue": null,
                 "siteNote": null,
@@ -8439,6 +8611,12 @@
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
                 "date": null,
+                "dateWindow": {
+                  "text": "13–14 nov",
+                  "mon": "nov",
+                  "days": "13–14",
+                  "weekdays": "vie o sáb"
+                },
                 "timeKnown": false,
                 "venue": null,
                 "siteNote": null,
@@ -8457,10 +8635,10 @@
                     "seed": null
                   },
                   {
-                    "name": "Chesterton Acad of Notre Dame",
-                    "mascot": null,
+                    "name": "Chesterton Academy of Notre Dame",
+                    "mascot": "Knights",
                     "abbr": "CA",
-                    "color": "#5B6770",
+                    "color": "#022C66",
                     "isUs": false,
                     "score": null,
                     "winner": false,
@@ -8483,7 +8661,8 @@
                 "no": "4",
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
-                "date": null,
+                "date": "2026-11-13T08:00:00.000Z",
+                "dateWindow": null,
                 "timeKnown": false,
                 "venue": null,
                 "siteNote": null,
@@ -8529,6 +8708,7 @@
           {
             "title": "Semifinales",
             "date": "2026-11-20T19:00:00.000Z",
+            "when": null,
             "note": "Los ganadores avanzan. Los perdedores tienen otra oportunidad.",
             "games": [
               {
@@ -8536,6 +8716,7 @@
                 "round": "semifinal",
                 "label": "Semifinal del Estatal",
                 "date": "2026-11-20T19:00:00.000Z",
+                "dateWindow": null,
                 "timeKnown": true,
                 "venue": null,
                 "siteNote": "",
@@ -8607,6 +8788,7 @@
                 "round": "semifinal",
                 "label": "Semifinal del Estatal",
                 "date": "2026-11-20T21:00:00.000Z",
+                "dateWindow": null,
                 "timeKnown": true,
                 "venue": null,
                 "siteNote": "",
@@ -8626,10 +8808,10 @@
                         "isUs": false
                       },
                       {
-                        "name": "Chesterton Acad of Notre Dame",
-                        "mascot": null,
+                        "name": "Chesterton Academy of Notre Dame",
+                        "mascot": "Knights",
                         "abbr": "CA",
-                        "color": "#5B6770",
+                        "color": "#022C66",
                         "isUs": false
                       }
                     ],
@@ -8678,6 +8860,7 @@
           {
             "title": "Final",
             "date": "2026-11-21T23:00:00.000Z",
+            "when": null,
             "note": null,
             "games": [
               {
@@ -8685,6 +8868,7 @@
                 "round": "final",
                 "label": "Final del Estatal",
                 "date": "2026-11-21T23:00:00.000Z",
+                "dateWindow": null,
                 "timeKnown": true,
                 "venue": null,
                 "siteNote": "",
@@ -8741,10 +8925,10 @@
                         "isUs": false
                       },
                       {
-                        "name": "Chesterton Acad of Notre Dame",
-                        "mascot": null,
+                        "name": "Chesterton Academy of Notre Dame",
+                        "mascot": "Knights",
                         "abbr": "CA",
-                        "color": "#5B6770",
+                        "color": "#022C66",
                         "isUs": false
                       },
                       {
@@ -8788,6 +8972,7 @@
             "round": "lastChance",
             "label": "Partido de última oportunidad",
             "date": "2026-11-21T18:00:00.000Z",
+            "dateWindow": null,
             "timeKnown": true,
             "venue": null,
             "siteNote": "",
@@ -8844,10 +9029,10 @@
                     "isUs": false
                   },
                   {
-                    "name": "Chesterton Acad of Notre Dame",
-                    "mascot": null,
+                    "name": "Chesterton Academy of Notre Dame",
+                    "mascot": "Knights",
                     "abbr": "CA",
-                    "color": "#5B6770",
+                    "color": "#022C66",
                     "isUs": false
                   },
                   {
@@ -8891,7 +9076,8 @@
               "no": "4",
               "round": "firstRound",
               "label": "Primera ronda del Estatal",
-              "date": null,
+              "date": "2026-11-13T08:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": false,
               "venue": null,
               "siteNote": null,
@@ -8951,7 +9137,8 @@
             "no": "4",
             "round": "firstRound",
             "label": "Primera ronda del Estatal",
-            "date": null,
+            "date": "2026-11-13T08:00:00.000Z",
+            "dateWindow": null,
             "timeKnown": false,
             "venue": null,
             "siteNote": null,
@@ -8998,6 +9185,7 @@
               "round": "semifinal",
               "label": "Semifinal del Estatal",
               "date": "2026-11-20T21:00:00.000Z",
+              "dateWindow": null,
               "timeKnown": true,
               "venue": null,
               "siteNote": "",
@@ -9017,10 +9205,10 @@
                       "isUs": false
                     },
                     {
-                      "name": "Chesterton Acad of Notre Dame",
-                      "mascot": null,
+                      "name": "Chesterton Academy of Notre Dame",
+                      "mascot": "Knights",
                       "abbr": "CA",
-                      "color": "#5B6770",
+                      "color": "#022C66",
                       "isUs": false
                     }
                   ],
@@ -9070,6 +9258,7 @@
                 "round": "final",
                 "label": "Final del Estatal",
                 "date": "2026-11-21T23:00:00.000Z",
+                "dateWindow": null,
                 "timeKnown": true,
                 "venue": null,
                 "siteNote": "",
@@ -9126,10 +9315,10 @@
                         "isUs": false
                       },
                       {
-                        "name": "Chesterton Acad of Notre Dame",
-                        "mascot": null,
+                        "name": "Chesterton Academy of Notre Dame",
+                        "mascot": "Knights",
                         "abbr": "CA",
-                        "color": "#5B6770",
+                        "color": "#022C66",
                         "isUs": false
                       },
                       {
@@ -9183,6 +9372,7 @@
                 "round": "lastChance",
                 "label": "Partido de última oportunidad",
                 "date": "2026-11-21T18:00:00.000Z",
+                "dateWindow": null,
                 "timeKnown": true,
                 "venue": null,
                 "siteNote": "",
@@ -9239,10 +9429,10 @@
                         "isUs": false
                       },
                       {
-                        "name": "Chesterton Acad of Notre Dame",
-                        "mascot": null,
+                        "name": "Chesterton Academy of Notre Dame",
+                        "mascot": "Knights",
                         "abbr": "CA",
-                        "color": "#5B6770",
+                        "color": "#022C66",
                         "isUs": false
                       },
                       {
@@ -10041,7 +10231,7 @@
     "insights": [
       {
         "icon": "🗓️",
-        "title": "Estatal: jugamos contra Auburn Adventist el miércoles 31 de diciembre",
+        "title": "Estatal: jugamos contra Auburn Adventist el viernes 13 de noviembre",
         "text": "Vamos 1-0 contra ellos desde 2022. La última vez: ganamos 1-0."
       },
       {
@@ -11901,8 +12091,16 @@
     "historySince": "2022",
     "calendar": [
       {
+        "id": "2026-11-13-g4",
+        "title": "Vikings vs Auburn · Primera ronda del Estatal",
+        "start": "2026-11-13T08:00:00.000Z",
+        "timeKnown": false,
+        "location": "",
+        "details": "Fútbol varonil de los Orcas Island Vikings. Síguelos en: https://govikings.app"
+      },
+      {
         "id": "2026-11-20-g6",
-        "title": "Vikings vs Friday Harbor o Chesterton Acad of Notre Dame · Semifinal del Estatal (si avanzamos)",
+        "title": "Vikings vs Friday Harbor o Chesterton · Semifinal del Estatal (si avanzamos)",
         "start": "2026-11-20T21:00:00.000Z",
         "timeKnown": true,
         "location": "",
