@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T15:01:07.144Z",
+  "generatedAt": "2026-11-10T15:01:06.349Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -62,11 +62,11 @@
     "stage": "State",
     "round": "firstRound",
     "label": "State first round",
-    "date": "2026-11-13T08:00:00.000Z",
+    "date": "2026-11-13T20:30:00.000Z",
     "dateWindow": null,
-    "timeKnown": false,
-    "venue": null,
-    "mapUrl": null,
+    "timeKnown": true,
+    "venue": "Anacortes HS",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA",
     "home": null,
     "hostNote": null,
     "opponents": [
@@ -81,7 +81,7 @@
     ],
     "feeder": null,
     "links": {
-      "map": null
+      "map": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA"
     },
     "watch": null,
     "calId": "2026-11-13-g4"
@@ -89,10 +89,10 @@
   "dates": [
     {
       "key": "g4",
-      "date": "2026-11-13T08:00:00.000Z",
-      "timeKnown": false,
+      "date": "2026-11-13T20:30:00.000Z",
+      "timeKnown": true,
       "label": "State first round",
-      "venue": null,
+      "venue": "Anacortes HS",
       "status": "confirmed",
       "note": "Next game",
       "vs": "Auburn",
@@ -1601,7 +1601,7 @@
                   "pens": false
                 },
                 {
-                  "date": "2026-11-05T20:30:00.000Z",
+                  "date": "2026-11-05T20:15:00.000Z",
                   "result": "W",
                   "gf": 1,
                   "ga": 0,
@@ -1609,7 +1609,7 @@
                 }
               ],
               "last": {
-                "date": "2026-11-05T20:30:00.000Z",
+                "date": "2026-11-05T20:15:00.000Z",
                 "result": "W",
                 "gf": 1,
                 "ga": 0,
@@ -1861,12 +1861,7 @@
               "round": "firstRound",
               "label": "State first round",
               "date": null,
-              "dateWindow": {
-                "text": "Nov 13–14",
-                "mon": "Nov",
-                "days": "13–14",
-                "weekdays": "Fri or Sat"
-              },
+              "dateWindow": null,
               "timeKnown": false,
               "venue": null,
               "siteNote": null,
@@ -1906,41 +1901,42 @@
               "ours": false,
               "watch": null,
               "maybeOurs": false
-            },
+            }
+          ],
+          "title": "State first round"
+        },
+        {
+          "date": "2026-11-13T20:30:00.000Z",
+          "games": [
             {
-              "no": "2",
+              "no": "4",
               "round": "firstRound",
               "label": "State first round",
-              "date": null,
-              "dateWindow": {
-                "text": "Nov 13–14",
-                "mon": "Nov",
-                "days": "13–14",
-                "weekdays": "Fri or Sat"
-              },
-              "timeKnown": false,
-              "venue": null,
+              "date": "2026-11-13T20:30:00.000Z",
+              "dateWindow": null,
+              "timeKnown": true,
+              "venue": "Anacortes HS",
               "siteNote": null,
               "played": false,
               "pens": null,
               "scoreSource": null,
               "teams": [
                 {
-                  "name": "Mabton",
-                  "mascot": null,
-                  "abbr": "MA",
-                  "color": "#8C3B4A",
+                  "name": "Auburn Adventist",
+                  "mascot": "Falcons",
+                  "abbr": "AA",
+                  "color": "#022C66",
                   "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
                 },
                 {
-                  "name": "Mount Vernon Christian",
-                  "mascot": "Hurricanes",
-                  "abbr": "MV",
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
                   "color": "#034CB2",
-                  "isUs": false,
+                  "isUs": true,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -1954,23 +1950,24 @@
                 "text": "Season over",
                 "out": true
               },
-              "ours": false,
+              "ours": true,
               "watch": null,
               "maybeOurs": false
-            },
+            }
+          ],
+          "title": "State first round"
+        },
+        {
+          "date": "2026-11-14T18:00:00.000Z",
+          "games": [
             {
               "no": "3",
               "round": "firstRound",
               "label": "State first round",
-              "date": null,
-              "dateWindow": {
-                "text": "Nov 13–14",
-                "mon": "Nov",
-                "days": "13–14",
-                "weekdays": "Fri or Sat"
-              },
-              "timeKnown": false,
-              "venue": null,
+              "date": "2026-11-14T18:00:00.000Z",
+              "dateWindow": null,
+              "timeKnown": true,
+              "venue": "Gonzaga Preparatory School",
               "siteNote": null,
               "played": false,
               "pens": null,
@@ -2008,42 +2005,36 @@
               "ours": false,
               "watch": null,
               "maybeOurs": false
-            }
-          ],
-          "title": "State first round"
-        },
-        {
-          "date": "2026-11-13T08:00:00.000Z",
-          "games": [
+            },
             {
-              "no": "4",
+              "no": "2",
               "round": "firstRound",
               "label": "State first round",
-              "date": "2026-11-13T08:00:00.000Z",
+              "date": "2026-11-14T22:00:00.000Z",
               "dateWindow": null,
-              "timeKnown": false,
-              "venue": null,
+              "timeKnown": true,
+              "venue": "Mt Vernon HS",
               "siteNote": null,
               "played": false,
               "pens": null,
               "scoreSource": null,
               "teams": [
                 {
-                  "name": "Auburn Adventist",
-                  "mascot": "Falcons",
-                  "abbr": "AA",
-                  "color": "#022C66",
+                  "name": "Mabton",
+                  "mascot": null,
+                  "abbr": "MA",
+                  "color": "#8C3B4A",
                   "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
                 },
                 {
-                  "name": "Orcas Island",
-                  "mascot": "Vikings",
-                  "abbr": "OI",
+                  "name": "Mount Vernon Christian",
+                  "mascot": "Hurricanes",
+                  "abbr": "MV",
                   "color": "#034CB2",
-                  "isUs": true,
+                  "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -2057,7 +2048,7 @@
                 "text": "Season over",
                 "out": true
               },
-              "ours": true,
+              "ours": false,
               "watch": null,
               "maybeOurs": false
             }
@@ -2425,7 +2416,7 @@
         {
           "title": "First rounds",
           "date": null,
-          "when": "Nov 13–14",
+          "when": null,
           "note": "Winners move on. Losers are out.",
           "games": [
             {
@@ -2433,12 +2424,7 @@
               "round": "firstRound",
               "label": "State first round",
               "date": null,
-              "dateWindow": {
-                "text": "Nov 13–14",
-                "mon": "Nov",
-                "days": "13–14",
-                "weekdays": "Fri or Sat"
-              },
+              "dateWindow": null,
               "timeKnown": false,
               "venue": null,
               "siteNote": null,
@@ -2483,15 +2469,10 @@
               "no": "2",
               "round": "firstRound",
               "label": "State first round",
-              "date": null,
-              "dateWindow": {
-                "text": "Nov 13–14",
-                "mon": "Nov",
-                "days": "13–14",
-                "weekdays": "Fri or Sat"
-              },
-              "timeKnown": false,
-              "venue": null,
+              "date": "2026-11-14T22:00:00.000Z",
+              "dateWindow": null,
+              "timeKnown": true,
+              "venue": "Mt Vernon HS",
               "siteNote": null,
               "played": false,
               "pens": null,
@@ -2534,15 +2515,10 @@
               "no": "3",
               "round": "firstRound",
               "label": "State first round",
-              "date": null,
-              "dateWindow": {
-                "text": "Nov 13–14",
-                "mon": "Nov",
-                "days": "13–14",
-                "weekdays": "Fri or Sat"
-              },
-              "timeKnown": false,
-              "venue": null,
+              "date": "2026-11-14T18:00:00.000Z",
+              "dateWindow": null,
+              "timeKnown": true,
+              "venue": "Gonzaga Preparatory School",
               "siteNote": null,
               "played": false,
               "pens": null,
@@ -2585,10 +2561,10 @@
               "no": "4",
               "round": "firstRound",
               "label": "State first round",
-              "date": "2026-11-13T08:00:00.000Z",
+              "date": "2026-11-13T20:30:00.000Z",
               "dateWindow": null,
-              "timeKnown": false,
-              "venue": null,
+              "timeKnown": true,
+              "venue": "Anacortes HS",
               "siteNote": null,
               "played": false,
               "pens": null,
@@ -3000,10 +2976,10 @@
             "no": "4",
             "round": "firstRound",
             "label": "State first round",
-            "date": "2026-11-13T08:00:00.000Z",
+            "date": "2026-11-13T20:30:00.000Z",
             "dateWindow": null,
-            "timeKnown": false,
-            "venue": null,
+            "timeKnown": true,
+            "venue": "Anacortes HS",
             "siteNote": null,
             "played": false,
             "pens": null,
@@ -3061,10 +3037,10 @@
           "no": "4",
           "round": "firstRound",
           "label": "State first round",
-          "date": "2026-11-13T08:00:00.000Z",
+          "date": "2026-11-13T20:30:00.000Z",
           "dateWindow": null,
-          "timeKnown": false,
-          "venue": null,
+          "timeKnown": true,
+          "venue": "Anacortes HS",
           "siteNote": null,
           "played": false,
           "pens": null,
@@ -4041,7 +4017,7 @@
       "pens": null
     },
     {
-      "date": "2026-11-05T20:30:00.000Z",
+      "date": "2026-11-05T20:15:00.000Z",
       "opponent": {
         "name": "Providence Classical Christian",
         "mascot": "Highlanders",
@@ -4080,7 +4056,7 @@
       }
     },
     {
-      "date": "2026-11-14T08:00:00.000Z",
+      "date": "2026-11-13T20:30:00.000Z",
       "opponent": {
         "name": "Auburn Adventist",
         "mascot": "Falcons",
@@ -4092,8 +4068,8 @@
       "result": null,
       "gf": null,
       "ga": null,
-      "stage": "Non-league",
-      "venue": "TBA",
+      "stage": "State",
+      "venue": "Anacortes HS",
       "watch": null,
       "pens": null
     }
@@ -4327,7 +4303,7 @@
       "ours": true
     },
     {
-      "start": "2026-11-05T20:30:00.000Z",
+      "start": "2026-11-05T20:15:00.000Z",
       "timeKnown": true,
       "what": "Providence Classical Christian",
       "ours": true
@@ -4339,8 +4315,8 @@
       "ours": true
     },
     {
-      "start": "2026-11-14T08:00:00.000Z",
-      "timeKnown": false,
+      "start": "2026-11-13T20:30:00.000Z",
+      "timeKnown": true,
       "what": "Auburn Adventist",
       "ours": true
     },
@@ -5356,7 +5332,7 @@
       "meetings": [
         {
           "season": "2026",
-          "date": "2026-11-05T20:30:00.000Z",
+          "date": "2026-11-05T20:15:00.000Z",
           "result": "W",
           "gf": 1,
           "ga": 0,
@@ -5827,13 +5803,13 @@
       "meetings": [
         {
           "season": "2026",
-          "date": "2026-11-14T08:00:00.000Z",
+          "date": "2026-11-13T20:30:00.000Z",
           "result": null,
           "gf": null,
           "ga": null,
           "home": true,
-          "stage": "Non-league",
-          "venue": "TBA",
+          "stage": "State",
+          "venue": "Anacortes HS",
           "pens": false,
           "close": false,
           "upcoming": true
@@ -6054,9 +6030,9 @@
     {
       "id": "2026-11-13-g4",
       "title": "Vikings vs Auburn · State first round",
-      "start": "2026-11-13T08:00:00.000Z",
-      "timeKnown": false,
-      "location": "",
+      "start": "2026-11-13T20:30:00.000Z",
+      "timeKnown": true,
+      "location": "Anacortes HS",
       "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
     },
     {
@@ -6112,7 +6088,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-09T15:01:07.144Z",
+    "generatedAt": "2026-11-10T15:01:06.349Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -6175,11 +6151,11 @@
       "stage": "State",
       "round": "firstRound",
       "label": "Primera ronda del Estatal",
-      "date": "2026-11-13T08:00:00.000Z",
+      "date": "2026-11-13T20:30:00.000Z",
       "dateWindow": null,
-      "timeKnown": false,
-      "venue": null,
-      "mapUrl": null,
+      "timeKnown": true,
+      "venue": "Anacortes HS",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA",
       "home": null,
       "hostNote": null,
       "opponents": [
@@ -6194,7 +6170,7 @@
       ],
       "feeder": null,
       "links": {
-        "map": null
+        "map": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA"
       },
       "watch": null,
       "calId": "2026-11-13-g4"
@@ -6202,10 +6178,10 @@
     "dates": [
       {
         "key": "g4",
-        "date": "2026-11-13T08:00:00.000Z",
-        "timeKnown": false,
+        "date": "2026-11-13T20:30:00.000Z",
+        "timeKnown": true,
         "label": "Primera ronda del Estatal",
-        "venue": null,
+        "venue": "Anacortes HS",
         "status": "confirmed",
         "note": "Próximo partido",
         "vs": "Auburn",
@@ -7714,7 +7690,7 @@
                     "pens": false
                   },
                   {
-                    "date": "2026-11-05T20:30:00.000Z",
+                    "date": "2026-11-05T20:15:00.000Z",
                     "result": "W",
                     "gf": 1,
                     "ga": 0,
@@ -7722,7 +7698,7 @@
                   }
                 ],
                 "last": {
-                  "date": "2026-11-05T20:30:00.000Z",
+                  "date": "2026-11-05T20:15:00.000Z",
                   "result": "W",
                   "gf": 1,
                   "ga": 0,
@@ -7974,12 +7950,7 @@
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
                 "date": null,
-                "dateWindow": {
-                  "text": "13–14 nov",
-                  "mon": "nov",
-                  "days": "13–14",
-                  "weekdays": "vie o sáb"
-                },
+                "dateWindow": null,
                 "timeKnown": false,
                 "venue": null,
                 "siteNote": null,
@@ -8019,41 +7990,42 @@
                 "ours": false,
                 "watch": null,
                 "maybeOurs": false
-              },
+              }
+            ],
+            "title": "Primera ronda del Estatal"
+          },
+          {
+            "date": "2026-11-13T20:30:00.000Z",
+            "games": [
               {
-                "no": "2",
+                "no": "4",
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
-                "date": null,
-                "dateWindow": {
-                  "text": "13–14 nov",
-                  "mon": "nov",
-                  "days": "13–14",
-                  "weekdays": "vie o sáb"
-                },
-                "timeKnown": false,
-                "venue": null,
+                "date": "2026-11-13T20:30:00.000Z",
+                "dateWindow": null,
+                "timeKnown": true,
+                "venue": "Anacortes HS",
                 "siteNote": null,
                 "played": false,
                 "pens": null,
                 "scoreSource": null,
                 "teams": [
                   {
-                    "name": "Mabton",
-                    "mascot": null,
-                    "abbr": "MA",
-                    "color": "#8C3B4A",
+                    "name": "Auburn Adventist",
+                    "mascot": "Falcons",
+                    "abbr": "AA",
+                    "color": "#022C66",
                     "isUs": false,
                     "score": null,
                     "winner": false,
                     "seed": null
                   },
                   {
-                    "name": "Mount Vernon Christian",
-                    "mascot": "Hurricanes",
-                    "abbr": "MV",
+                    "name": "Orcas Island",
+                    "mascot": "Vikings",
+                    "abbr": "OI",
                     "color": "#034CB2",
-                    "isUs": false,
+                    "isUs": true,
                     "score": null,
                     "winner": false,
                     "seed": null
@@ -8067,23 +8039,24 @@
                   "text": "Fin de temporada",
                   "out": true
                 },
-                "ours": false,
+                "ours": true,
                 "watch": null,
                 "maybeOurs": false
-              },
+              }
+            ],
+            "title": "Primera ronda del Estatal"
+          },
+          {
+            "date": "2026-11-14T18:00:00.000Z",
+            "games": [
               {
                 "no": "3",
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
-                "date": null,
-                "dateWindow": {
-                  "text": "13–14 nov",
-                  "mon": "nov",
-                  "days": "13–14",
-                  "weekdays": "vie o sáb"
-                },
-                "timeKnown": false,
-                "venue": null,
+                "date": "2026-11-14T18:00:00.000Z",
+                "dateWindow": null,
+                "timeKnown": true,
+                "venue": "Gonzaga Preparatory School",
                 "siteNote": null,
                 "played": false,
                 "pens": null,
@@ -8121,42 +8094,36 @@
                 "ours": false,
                 "watch": null,
                 "maybeOurs": false
-              }
-            ],
-            "title": "Primera ronda del Estatal"
-          },
-          {
-            "date": "2026-11-13T08:00:00.000Z",
-            "games": [
+              },
               {
-                "no": "4",
+                "no": "2",
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
-                "date": "2026-11-13T08:00:00.000Z",
+                "date": "2026-11-14T22:00:00.000Z",
                 "dateWindow": null,
-                "timeKnown": false,
-                "venue": null,
+                "timeKnown": true,
+                "venue": "Mt Vernon HS",
                 "siteNote": null,
                 "played": false,
                 "pens": null,
                 "scoreSource": null,
                 "teams": [
                   {
-                    "name": "Auburn Adventist",
-                    "mascot": "Falcons",
-                    "abbr": "AA",
-                    "color": "#022C66",
+                    "name": "Mabton",
+                    "mascot": null,
+                    "abbr": "MA",
+                    "color": "#8C3B4A",
                     "isUs": false,
                     "score": null,
                     "winner": false,
                     "seed": null
                   },
                   {
-                    "name": "Orcas Island",
-                    "mascot": "Vikings",
-                    "abbr": "OI",
+                    "name": "Mount Vernon Christian",
+                    "mascot": "Hurricanes",
+                    "abbr": "MV",
                     "color": "#034CB2",
-                    "isUs": true,
+                    "isUs": false,
                     "score": null,
                     "winner": false,
                     "seed": null
@@ -8170,7 +8137,7 @@
                   "text": "Fin de temporada",
                   "out": true
                 },
-                "ours": true,
+                "ours": false,
                 "watch": null,
                 "maybeOurs": false
               }
@@ -8538,7 +8505,7 @@
           {
             "title": "Primera ronda",
             "date": null,
-            "when": "13–14 nov",
+            "when": null,
             "note": "Los ganadores avanzan. Los perdedores quedan eliminados.",
             "games": [
               {
@@ -8546,12 +8513,7 @@
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
                 "date": null,
-                "dateWindow": {
-                  "text": "13–14 nov",
-                  "mon": "nov",
-                  "days": "13–14",
-                  "weekdays": "vie o sáb"
-                },
+                "dateWindow": null,
                 "timeKnown": false,
                 "venue": null,
                 "siteNote": null,
@@ -8596,15 +8558,10 @@
                 "no": "2",
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
-                "date": null,
-                "dateWindow": {
-                  "text": "13–14 nov",
-                  "mon": "nov",
-                  "days": "13–14",
-                  "weekdays": "vie o sáb"
-                },
-                "timeKnown": false,
-                "venue": null,
+                "date": "2026-11-14T22:00:00.000Z",
+                "dateWindow": null,
+                "timeKnown": true,
+                "venue": "Mt Vernon HS",
                 "siteNote": null,
                 "played": false,
                 "pens": null,
@@ -8647,15 +8604,10 @@
                 "no": "3",
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
-                "date": null,
-                "dateWindow": {
-                  "text": "13–14 nov",
-                  "mon": "nov",
-                  "days": "13–14",
-                  "weekdays": "vie o sáb"
-                },
-                "timeKnown": false,
-                "venue": null,
+                "date": "2026-11-14T18:00:00.000Z",
+                "dateWindow": null,
+                "timeKnown": true,
+                "venue": "Gonzaga Preparatory School",
                 "siteNote": null,
                 "played": false,
                 "pens": null,
@@ -8698,10 +8650,10 @@
                 "no": "4",
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
-                "date": "2026-11-13T08:00:00.000Z",
+                "date": "2026-11-13T20:30:00.000Z",
                 "dateWindow": null,
-                "timeKnown": false,
-                "venue": null,
+                "timeKnown": true,
+                "venue": "Anacortes HS",
                 "siteNote": null,
                 "played": false,
                 "pens": null,
@@ -9113,10 +9065,10 @@
               "no": "4",
               "round": "firstRound",
               "label": "Primera ronda del Estatal",
-              "date": "2026-11-13T08:00:00.000Z",
+              "date": "2026-11-13T20:30:00.000Z",
               "dateWindow": null,
-              "timeKnown": false,
-              "venue": null,
+              "timeKnown": true,
+              "venue": "Anacortes HS",
               "siteNote": null,
               "played": false,
               "pens": null,
@@ -9174,10 +9126,10 @@
             "no": "4",
             "round": "firstRound",
             "label": "Primera ronda del Estatal",
-            "date": "2026-11-13T08:00:00.000Z",
+            "date": "2026-11-13T20:30:00.000Z",
             "dateWindow": null,
-            "timeKnown": false,
-            "venue": null,
+            "timeKnown": true,
+            "venue": "Anacortes HS",
             "siteNote": null,
             "played": false,
             "pens": null,
@@ -10154,7 +10106,7 @@
         "pens": null
       },
       {
-        "date": "2026-11-05T20:30:00.000Z",
+        "date": "2026-11-05T20:15:00.000Z",
         "opponent": {
           "name": "Providence Classical Christian",
           "mascot": "Highlanders",
@@ -10193,7 +10145,7 @@
         }
       },
       {
-        "date": "2026-11-14T08:00:00.000Z",
+        "date": "2026-11-13T20:30:00.000Z",
         "opponent": {
           "name": "Auburn Adventist",
           "mascot": "Falcons",
@@ -10205,8 +10157,8 @@
         "result": null,
         "gf": null,
         "ga": null,
-        "stage": "Non-league",
-        "venue": "TBA",
+        "stage": "State",
+        "venue": "Anacortes HS",
         "watch": null,
         "pens": null
       }
@@ -10440,7 +10392,7 @@
         "ours": true
       },
       {
-        "start": "2026-11-05T20:30:00.000Z",
+        "start": "2026-11-05T20:15:00.000Z",
         "timeKnown": true,
         "what": "Providence Classical Christian",
         "ours": true
@@ -10452,8 +10404,8 @@
         "ours": true
       },
       {
-        "start": "2026-11-14T08:00:00.000Z",
-        "timeKnown": false,
+        "start": "2026-11-13T20:30:00.000Z",
+        "timeKnown": true,
         "what": "Auburn Adventist",
         "ours": true
       },
@@ -11469,7 +11421,7 @@
         "meetings": [
           {
             "season": "2026",
-            "date": "2026-11-05T20:30:00.000Z",
+            "date": "2026-11-05T20:15:00.000Z",
             "result": "W",
             "gf": 1,
             "ga": 0,
@@ -11940,13 +11892,13 @@
         "meetings": [
           {
             "season": "2026",
-            "date": "2026-11-14T08:00:00.000Z",
+            "date": "2026-11-13T20:30:00.000Z",
             "result": null,
             "gf": null,
             "ga": null,
             "home": true,
-            "stage": "Non-league",
-            "venue": "TBA",
+            "stage": "State",
+            "venue": "Anacortes HS",
             "pens": false,
             "close": false,
             "upcoming": true
@@ -12167,9 +12119,9 @@
       {
         "id": "2026-11-13-g4",
         "title": "Vikings vs Auburn · Primera ronda del Estatal",
-        "start": "2026-11-13T08:00:00.000Z",
-        "timeKnown": false,
-        "location": "",
+        "start": "2026-11-13T20:30:00.000Z",
+        "timeKnown": true,
+        "location": "Anacortes HS",
         "details": "Fútbol varonil de los Orcas Island Vikings. Síguelos en: https://govikings.app"
       },
       {
