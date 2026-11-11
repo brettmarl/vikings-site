@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T15:01:06.349Z",
+  "generatedAt": "2026-11-11T15:01:06.746Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -1854,58 +1854,6 @@
       "status": "in-progress",
       "rounds": [
         {
-          "date": null,
-          "games": [
-            {
-              "no": "1",
-              "round": "firstRound",
-              "label": "State first round",
-              "date": null,
-              "dateWindow": null,
-              "timeKnown": false,
-              "venue": null,
-              "siteNote": null,
-              "played": false,
-              "pens": null,
-              "scoreSource": null,
-              "teams": [
-                {
-                  "name": "Providence Classical Christian",
-                  "mascot": "Highlanders",
-                  "abbr": "PC",
-                  "color": "#022C66",
-                  "isUs": false,
-                  "score": null,
-                  "winner": false,
-                  "seed": null
-                },
-                {
-                  "name": "Evergreen Lutheran",
-                  "mascot": "Eagles",
-                  "abbr": "EL",
-                  "color": "#00824B",
-                  "isUs": false,
-                  "score": null,
-                  "winner": false,
-                  "seed": null
-                }
-              ],
-              "winner": {
-                "text": "State semifinal",
-                "state": false
-              },
-              "loser": {
-                "text": "Season over",
-                "out": true
-              },
-              "ours": false,
-              "watch": null,
-              "maybeOurs": false
-            }
-          ],
-          "title": "State first round"
-        },
-        {
           "date": "2026-11-13T20:30:00.000Z",
           "games": [
             {
@@ -1951,6 +1899,52 @@
                 "out": true
               },
               "ours": true,
+              "watch": null,
+              "maybeOurs": false
+            },
+            {
+              "no": "1",
+              "round": "firstRound",
+              "label": "State first round",
+              "date": "2026-11-14T03:00:00.000Z",
+              "dateWindow": null,
+              "timeKnown": true,
+              "venue": "Franklin Pierce HS",
+              "siteNote": null,
+              "played": false,
+              "pens": null,
+              "scoreSource": null,
+              "teams": [
+                {
+                  "name": "Providence Classical Christian",
+                  "mascot": "Highlanders",
+                  "abbr": "PC",
+                  "color": "#022C66",
+                  "isUs": false,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Evergreen Lutheran",
+                  "mascot": "Eagles",
+                  "abbr": "EL",
+                  "color": "#00824B",
+                  "isUs": false,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "State semifinal",
+                "state": false
+              },
+              "loser": {
+                "text": "Season over",
+                "out": true
+              },
+              "ours": false,
               "watch": null,
               "maybeOurs": false
             }
@@ -2415,7 +2409,7 @@
       "mainColumns": [
         {
           "title": "First rounds",
-          "date": null,
+          "date": "2026-11-14T03:00:00.000Z",
           "when": null,
           "note": "Winners move on. Losers are out.",
           "games": [
@@ -2423,10 +2417,10 @@
               "no": "1",
               "round": "firstRound",
               "label": "State first round",
-              "date": null,
+              "date": "2026-11-14T03:00:00.000Z",
               "dateWindow": null,
-              "timeKnown": false,
-              "venue": null,
+              "timeKnown": true,
+              "venue": "Franklin Pierce HS",
               "siteNote": null,
               "played": false,
               "pens": null,
@@ -6088,7 +6082,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-10T15:01:06.349Z",
+    "generatedAt": "2026-11-11T15:01:06.746Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -7943,58 +7937,6 @@
         "status": "in-progress",
         "rounds": [
           {
-            "date": null,
-            "games": [
-              {
-                "no": "1",
-                "round": "firstRound",
-                "label": "Primera ronda del Estatal",
-                "date": null,
-                "dateWindow": null,
-                "timeKnown": false,
-                "venue": null,
-                "siteNote": null,
-                "played": false,
-                "pens": null,
-                "scoreSource": null,
-                "teams": [
-                  {
-                    "name": "Providence Classical Christian",
-                    "mascot": "Highlanders",
-                    "abbr": "PC",
-                    "color": "#022C66",
-                    "isUs": false,
-                    "score": null,
-                    "winner": false,
-                    "seed": null
-                  },
-                  {
-                    "name": "Evergreen Lutheran",
-                    "mascot": "Eagles",
-                    "abbr": "EL",
-                    "color": "#00824B",
-                    "isUs": false,
-                    "score": null,
-                    "winner": false,
-                    "seed": null
-                  }
-                ],
-                "winner": {
-                  "text": "Semifinal del Estatal",
-                  "state": false
-                },
-                "loser": {
-                  "text": "Fin de temporada",
-                  "out": true
-                },
-                "ours": false,
-                "watch": null,
-                "maybeOurs": false
-              }
-            ],
-            "title": "Primera ronda del Estatal"
-          },
-          {
             "date": "2026-11-13T20:30:00.000Z",
             "games": [
               {
@@ -8040,6 +7982,52 @@
                   "out": true
                 },
                 "ours": true,
+                "watch": null,
+                "maybeOurs": false
+              },
+              {
+                "no": "1",
+                "round": "firstRound",
+                "label": "Primera ronda del Estatal",
+                "date": "2026-11-14T03:00:00.000Z",
+                "dateWindow": null,
+                "timeKnown": true,
+                "venue": "Franklin Pierce HS",
+                "siteNote": null,
+                "played": false,
+                "pens": null,
+                "scoreSource": null,
+                "teams": [
+                  {
+                    "name": "Providence Classical Christian",
+                    "mascot": "Highlanders",
+                    "abbr": "PC",
+                    "color": "#022C66",
+                    "isUs": false,
+                    "score": null,
+                    "winner": false,
+                    "seed": null
+                  },
+                  {
+                    "name": "Evergreen Lutheran",
+                    "mascot": "Eagles",
+                    "abbr": "EL",
+                    "color": "#00824B",
+                    "isUs": false,
+                    "score": null,
+                    "winner": false,
+                    "seed": null
+                  }
+                ],
+                "winner": {
+                  "text": "Semifinal del Estatal",
+                  "state": false
+                },
+                "loser": {
+                  "text": "Fin de temporada",
+                  "out": true
+                },
+                "ours": false,
                 "watch": null,
                 "maybeOurs": false
               }
@@ -8504,7 +8492,7 @@
         "mainColumns": [
           {
             "title": "Primera ronda",
-            "date": null,
+            "date": "2026-11-14T03:00:00.000Z",
             "when": null,
             "note": "Los ganadores avanzan. Los perdedores quedan eliminados.",
             "games": [
@@ -8512,10 +8500,10 @@
                 "no": "1",
                 "round": "firstRound",
                 "label": "Primera ronda del Estatal",
-                "date": null,
+                "date": "2026-11-14T03:00:00.000Z",
                 "dateWindow": null,
-                "timeKnown": false,
-                "venue": null,
+                "timeKnown": true,
+                "venue": "Franklin Pierce HS",
                 "siteNote": null,
                 "played": false,
                 "pens": null,
