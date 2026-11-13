@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:01:06.657Z",
+  "generatedAt": "2026-11-13T23:34:54.696Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -22,8 +22,8 @@
   },
   "headline": {
     "tone": "great",
-    "title": "At the State tournament",
-    "sub": "Every game from here is win-or-go-home."
+    "title": "Into the State semifinals!",
+    "sub": "Beat Auburn 2–0. Semifinal Fri Nov 20 in Tacoma, then another game Saturday either way."
   },
   "journey": [
     {
@@ -49,9 +49,9 @@
       "name": "State",
       "sub": "State tournament",
       "status": "active",
-      "badge": "Qualified!",
+      "badge": "Semifinals",
       "good": true,
-      "detail": "Starts Fri Nov 13"
+      "detail": "Beat Auburn 2–0"
     }
   ],
   "connectors": [
@@ -65,8 +65,8 @@
     "date": "2026-11-20T21:00:00.000Z",
     "dateWindow": null,
     "timeKnown": true,
-    "venue": null,
-    "mapUrl": null,
+    "venue": "Mount Tahoma Stadium, Tacoma",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mount%20Tahoma%20Stadium%2C%20Tacoma%2C%20WA",
     "home": null,
     "hostNote": null,
     "opponents": [
@@ -133,10 +133,44 @@
       "played": false
     },
     "links": {
-      "map": null
+      "map": "https://www.google.com/maps/search/?api=1&query=Mount%20Tahoma%20Stadium%2C%20Tacoma%2C%20WA"
     },
     "watch": null,
     "calId": "2026-11-20-g6"
+  },
+  "recentResult": {
+    "date": "2026-11-13T20:30:00.000Z",
+    "label": "State first round",
+    "opponent": {
+      "name": "Auburn Adventist",
+      "mascot": "Falcons",
+      "abbr": "AA",
+      "color": "#022C66",
+      "isUs": false
+    },
+    "result": "W",
+    "gf": 2,
+    "ga": 0,
+    "pens": null,
+    "watch": "https://fan.hudl.com/usa/wa/anacortes/organization/7825/anacortes-high-school/watch?b=QnJvYWRjYXN0NDgxNzIwNQ%3D%3D",
+    "chip": "On to the semifinals",
+    "next": {
+      "label": "State semifinal",
+      "date": "2026-11-20T21:00:00.000Z",
+      "timeKnown": true,
+      "opponents": [
+        "Friday Harbor",
+        "Chesterton"
+      ],
+      "decidedBy": {
+        "teams": [
+          "Friday Harbor",
+          "Chesterton"
+        ],
+        "date": "2026-11-14T18:00:00.000Z",
+        "timeKnown": true
+      }
+    }
   },
   "dates": [
     {
@@ -144,7 +178,7 @@
       "date": "2026-11-20T21:00:00.000Z",
       "timeKnown": true,
       "label": "State semifinal",
-      "venue": null,
+      "venue": "Mount Tahoma Stadium, Tacoma",
       "status": "confirmed",
       "note": "Next game",
       "vs": "Friday Harbor or Chesterton",
@@ -155,7 +189,7 @@
       "date": "2026-11-21T23:00:00.000Z",
       "timeKnown": true,
       "label": "State final",
-      "venue": null,
+      "venue": "Mount Tahoma Stadium, Tacoma",
       "status": "possible",
       "note": "If we win our next game",
       "vs": "TBD",
@@ -173,6 +207,10 @@
       "calId": "2026-11-21-g7"
     }
   ],
+  "datesIntro": {
+    "title": "State weekend in Tacoma",
+    "lead": "Two games either way: the semifinal Friday, then Saturday the final if we win or the last-chance game if not."
+  },
   "district": {
     "title": "2026 District 1/2/3/4 1B/2B Boys Soccer",
     "url": "https://www.wpanetwork.com/wiaa/brackets/tournament.php?act=view&tournament_id=5242",
@@ -2108,7 +2146,7 @@
               "date": "2026-11-20T19:00:00.000Z",
               "dateWindow": null,
               "timeKnown": true,
-              "venue": null,
+              "venue": "Mount Tahoma Stadium, Tacoma",
               "siteNote": "",
               "played": false,
               "pens": null,
@@ -2180,7 +2218,7 @@
               "date": "2026-11-20T21:00:00.000Z",
               "dateWindow": null,
               "timeKnown": true,
-              "venue": null,
+              "venue": "Mount Tahoma Stadium, Tacoma",
               "siteNote": "",
               "played": false,
               "pens": null,
@@ -2338,7 +2376,7 @@
               "date": "2026-11-21T23:00:00.000Z",
               "dateWindow": null,
               "timeKnown": true,
-              "venue": null,
+              "venue": "Mount Tahoma Stadium, Tacoma",
               "siteNote": "",
               "played": false,
               "pens": null,
@@ -2634,7 +2672,7 @@
               "date": "2026-11-20T19:00:00.000Z",
               "dateWindow": null,
               "timeKnown": true,
-              "venue": null,
+              "venue": "Mount Tahoma Stadium, Tacoma",
               "siteNote": "",
               "played": false,
               "pens": null,
@@ -2706,7 +2744,7 @@
               "date": "2026-11-20T21:00:00.000Z",
               "dateWindow": null,
               "timeKnown": true,
-              "venue": null,
+              "venue": "Mount Tahoma Stadium, Tacoma",
               "siteNote": "",
               "played": false,
               "pens": null,
@@ -2773,7 +2811,7 @@
               "date": "2026-11-21T23:00:00.000Z",
               "dateWindow": null,
               "timeKnown": true,
-              "venue": null,
+              "venue": "Mount Tahoma Stadium, Tacoma",
               "siteNote": "",
               "played": false,
               "pens": null,
@@ -3028,7 +3066,7 @@
             "date": "2026-11-20T21:00:00.000Z",
             "dateWindow": null,
             "timeKnown": true,
-            "venue": null,
+            "venue": "Mount Tahoma Stadium, Tacoma",
             "siteNote": "",
             "played": false,
             "pens": null,
@@ -3115,7 +3153,7 @@
           "date": "2026-11-20T21:00:00.000Z",
           "dateWindow": null,
           "timeKnown": true,
-          "venue": null,
+          "venue": "Mount Tahoma Stadium, Tacoma",
           "siteNote": "",
           "played": false,
           "pens": null,
@@ -3175,7 +3213,7 @@
             "date": "2026-11-21T23:00:00.000Z",
             "dateWindow": null,
             "timeKnown": true,
-            "venue": null,
+            "venue": "Mount Tahoma Stadium, Tacoma",
             "siteNote": "",
             "played": false,
             "pens": null,
@@ -4235,7 +4273,7 @@
       "stage": "State",
       "teams": 8,
       "text": "The best 8 small schools in Washington. Lose once and you're out.",
-      "us": "Qualified!"
+      "us": "Semifinals"
     },
     {
       "stage": "Champion",
@@ -6083,7 +6121,7 @@
       "title": "Vikings vs Friday Harbor or Chesterton · State semifinal",
       "start": "2026-11-20T21:00:00.000Z",
       "timeKnown": true,
-      "location": "",
+      "location": "Mount Tahoma Stadium, Tacoma",
       "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
     },
     {
@@ -6091,7 +6129,7 @@
       "title": "Vikings vs TBD · State final (if we advance)",
       "start": "2026-11-21T23:00:00.000Z",
       "timeKnown": true,
-      "location": "",
+      "location": "Mount Tahoma Stadium, Tacoma",
       "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
     },
     {
@@ -6131,7 +6169,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-13T23:01:06.657Z",
+    "generatedAt": "2026-11-13T23:34:54.696Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -6154,8 +6192,8 @@
     },
     "headline": {
       "tone": "great",
-      "title": "En el torneo estatal",
-      "sub": "Desde aquí, quien pierde queda eliminado."
+      "title": "¡A las semifinales del Estatal!",
+      "sub": "Ganamos a Auburn 2–0. Semifinal viernes 20 de noviembre en Tacoma, y otro partido el sábado pase lo que pase."
     },
     "journey": [
       {
@@ -6181,9 +6219,9 @@
         "name": "Estatal",
         "sub": "Torneo estatal",
         "status": "active",
-        "badge": "¡Clasificados!",
+        "badge": "Semifinales",
         "good": true,
-        "detail": "Empieza el vie 13 nov"
+        "detail": "Ganamos a Auburn 2–0"
       }
     ],
     "connectors": [
@@ -6197,8 +6235,8 @@
       "date": "2026-11-20T21:00:00.000Z",
       "dateWindow": null,
       "timeKnown": true,
-      "venue": null,
-      "mapUrl": null,
+      "venue": "Mount Tahoma Stadium, Tacoma",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mount%20Tahoma%20Stadium%2C%20Tacoma%2C%20WA",
       "home": null,
       "hostNote": null,
       "opponents": [
@@ -6265,10 +6303,44 @@
         "played": false
       },
       "links": {
-        "map": null
+        "map": "https://www.google.com/maps/search/?api=1&query=Mount%20Tahoma%20Stadium%2C%20Tacoma%2C%20WA"
       },
       "watch": null,
       "calId": "2026-11-20-g6"
+    },
+    "recentResult": {
+      "date": "2026-11-13T20:30:00.000Z",
+      "label": "Primera ronda del Estatal",
+      "opponent": {
+        "name": "Auburn Adventist",
+        "mascot": "Falcons",
+        "abbr": "AA",
+        "color": "#022C66",
+        "isUs": false
+      },
+      "result": "W",
+      "gf": 2,
+      "ga": 0,
+      "pens": null,
+      "watch": "https://fan.hudl.com/usa/wa/anacortes/organization/7825/anacortes-high-school/watch?b=QnJvYWRjYXN0NDgxNzIwNQ%3D%3D",
+      "chip": "A las semifinales",
+      "next": {
+        "label": "Semifinal del Estatal",
+        "date": "2026-11-20T21:00:00.000Z",
+        "timeKnown": true,
+        "opponents": [
+          "Friday Harbor",
+          "Chesterton"
+        ],
+        "decidedBy": {
+          "teams": [
+            "Friday Harbor",
+            "Chesterton"
+          ],
+          "date": "2026-11-14T18:00:00.000Z",
+          "timeKnown": true
+        }
+      }
     },
     "dates": [
       {
@@ -6276,7 +6348,7 @@
         "date": "2026-11-20T21:00:00.000Z",
         "timeKnown": true,
         "label": "Semifinal del Estatal",
-        "venue": null,
+        "venue": "Mount Tahoma Stadium, Tacoma",
         "status": "confirmed",
         "note": "Próximo partido",
         "vs": "Friday Harbor o Chesterton",
@@ -6287,7 +6359,7 @@
         "date": "2026-11-21T23:00:00.000Z",
         "timeKnown": true,
         "label": "Final del Estatal",
-        "venue": null,
+        "venue": "Mount Tahoma Stadium, Tacoma",
         "status": "possible",
         "note": "Si ganamos el próximo partido",
         "vs": "Por definir",
@@ -6305,6 +6377,10 @@
         "calId": "2026-11-21-g7"
       }
     ],
+    "datesIntro": {
+      "title": "Fin de semana del Estatal en Tacoma",
+      "lead": "Dos partidos pase lo que pase: la semifinal el viernes, y el sábado la final si ganamos o el partido de consolación si no."
+    },
     "district": {
       "title": "2026 District 1/2/3/4 1B/2B Boys Soccer",
       "url": "https://www.wpanetwork.com/wiaa/brackets/tournament.php?act=view&tournament_id=5242",
@@ -8240,7 +8316,7 @@
                 "date": "2026-11-20T19:00:00.000Z",
                 "dateWindow": null,
                 "timeKnown": true,
-                "venue": null,
+                "venue": "Mount Tahoma Stadium, Tacoma",
                 "siteNote": "",
                 "played": false,
                 "pens": null,
@@ -8312,7 +8388,7 @@
                 "date": "2026-11-20T21:00:00.000Z",
                 "dateWindow": null,
                 "timeKnown": true,
-                "venue": null,
+                "venue": "Mount Tahoma Stadium, Tacoma",
                 "siteNote": "",
                 "played": false,
                 "pens": null,
@@ -8470,7 +8546,7 @@
                 "date": "2026-11-21T23:00:00.000Z",
                 "dateWindow": null,
                 "timeKnown": true,
-                "venue": null,
+                "venue": "Mount Tahoma Stadium, Tacoma",
                 "siteNote": "",
                 "played": false,
                 "pens": null,
@@ -8766,7 +8842,7 @@
                 "date": "2026-11-20T19:00:00.000Z",
                 "dateWindow": null,
                 "timeKnown": true,
-                "venue": null,
+                "venue": "Mount Tahoma Stadium, Tacoma",
                 "siteNote": "",
                 "played": false,
                 "pens": null,
@@ -8838,7 +8914,7 @@
                 "date": "2026-11-20T21:00:00.000Z",
                 "dateWindow": null,
                 "timeKnown": true,
-                "venue": null,
+                "venue": "Mount Tahoma Stadium, Tacoma",
                 "siteNote": "",
                 "played": false,
                 "pens": null,
@@ -8905,7 +8981,7 @@
                 "date": "2026-11-21T23:00:00.000Z",
                 "dateWindow": null,
                 "timeKnown": true,
-                "venue": null,
+                "venue": "Mount Tahoma Stadium, Tacoma",
                 "siteNote": "",
                 "played": false,
                 "pens": null,
@@ -9160,7 +9236,7 @@
               "date": "2026-11-20T21:00:00.000Z",
               "dateWindow": null,
               "timeKnown": true,
-              "venue": null,
+              "venue": "Mount Tahoma Stadium, Tacoma",
               "siteNote": "",
               "played": false,
               "pens": null,
@@ -9247,7 +9323,7 @@
             "date": "2026-11-20T21:00:00.000Z",
             "dateWindow": null,
             "timeKnown": true,
-            "venue": null,
+            "venue": "Mount Tahoma Stadium, Tacoma",
             "siteNote": "",
             "played": false,
             "pens": null,
@@ -9307,7 +9383,7 @@
               "date": "2026-11-21T23:00:00.000Z",
               "dateWindow": null,
               "timeKnown": true,
-              "venue": null,
+              "venue": "Mount Tahoma Stadium, Tacoma",
               "siteNote": "",
               "played": false,
               "pens": null,
@@ -10367,7 +10443,7 @@
         "stage": "Estatal",
         "teams": 8,
         "text": "Las 8 mejores escuelas pequeñas de Washington. Si pierdes una vez, quedas eliminado.",
-        "us": "¡Clasificados!"
+        "us": "Semifinales"
       },
       {
         "stage": "Campeón",
@@ -12215,7 +12291,7 @@
         "title": "Vikings vs Friday Harbor o Chesterton · Semifinal del Estatal",
         "start": "2026-11-20T21:00:00.000Z",
         "timeKnown": true,
-        "location": "",
+        "location": "Mount Tahoma Stadium, Tacoma",
         "details": "Fútbol varonil de los Orcas Island Vikings. Síguelos en: https://govikings.app"
       },
       {
@@ -12223,7 +12299,7 @@
         "title": "Vikings vs Por definir · Final del Estatal (si avanzamos)",
         "start": "2026-11-21T23:00:00.000Z",
         "timeKnown": true,
-        "location": "",
+        "location": "Mount Tahoma Stadium, Tacoma",
         "details": "Fútbol varonil de los Orcas Island Vikings. Síguelos en: https://govikings.app"
       },
       {
