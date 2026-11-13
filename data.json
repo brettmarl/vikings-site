@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T22:16:06.231Z",
+  "generatedAt": "2026-11-13T22:46:06.710Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -1916,7 +1916,7 @@
               "siteNote": null,
               "played": true,
               "pens": null,
-              "scoreSource": "scorekeeper",
+              "scoreSource": "maxpreps",
               "teams": [
                 {
                   "name": "Auburn Adventist",
@@ -2584,7 +2584,7 @@
               "siteNote": null,
               "played": true,
               "pens": null,
-              "scoreSource": "scorekeeper",
+              "scoreSource": "maxpreps",
               "teams": [
                 {
                   "name": "Auburn Adventist",
@@ -2972,7 +2972,7 @@
             "siteNote": null,
             "played": true,
             "pens": null,
-            "scoreSource": "scorekeeper",
+            "scoreSource": "maxpreps",
             "teams": [
               {
                 "name": "Auburn Adventist",
@@ -3386,7 +3386,7 @@
       "final": null,
       "berths": 0,
       "teamCount": null,
-      "bracketLagging": false
+      "bracketLagging": true
     },
     "field": {
       "clinched": [
@@ -6069,7 +6069,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-13T22:16:06.231Z",
+    "generatedAt": "2026-11-13T22:46:06.710Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -7986,7 +7986,7 @@
                 "siteNote": null,
                 "played": true,
                 "pens": null,
-                "scoreSource": "scorekeeper",
+                "scoreSource": "maxpreps",
                 "teams": [
                   {
                     "name": "Auburn Adventist",
@@ -8654,7 +8654,7 @@
                 "siteNote": null,
                 "played": true,
                 "pens": null,
-                "scoreSource": "scorekeeper",
+                "scoreSource": "maxpreps",
                 "teams": [
                   {
                     "name": "Auburn Adventist",
@@ -9042,7 +9042,7 @@
               "siteNote": null,
               "played": true,
               "pens": null,
-              "scoreSource": "scorekeeper",
+              "scoreSource": "maxpreps",
               "teams": [
                 {
                   "name": "Auburn Adventist",
@@ -9456,7 +9456,7 @@
         "final": null,
         "berths": 0,
         "teamCount": null,
-        "bracketLagging": false
+        "bracketLagging": true
       },
       "field": {
         "clinched": [
