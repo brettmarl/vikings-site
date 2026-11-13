@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T18:07:48.593Z",
+  "generatedAt": "2026-11-13T22:16:06.231Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -9,10 +9,10 @@
     "full": "Orcas Island Vikings",
     "sport": "Boys Soccer",
     "season": "2026",
-    "record": "18-0-1",
-    "streak": "W14",
+    "record": "19-0-1",
+    "streak": "W15",
     "goals": {
-      "for": 95,
+      "for": 97,
       "against": 13
     },
     "rank": {
@@ -60,52 +60,93 @@
   ],
   "nextGame": {
     "stage": "State",
-    "round": "firstRound",
-    "label": "State first round",
-    "date": "2026-11-13T20:30:00.000Z",
+    "round": "semifinal",
+    "label": "State semifinal",
+    "date": "2026-11-20T21:00:00.000Z",
     "dateWindow": null,
     "timeKnown": true,
-    "venue": "Anacortes HS",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA",
+    "venue": null,
+    "mapUrl": null,
     "home": null,
     "hostNote": null,
     "opponents": [
       {
-        "name": "Auburn Adventist",
-        "mascot": "Falcons",
-        "abbr": "AA",
+        "name": "Friday Harbor",
+        "mascot": "Wolverines",
+        "abbr": "FH",
+        "color": "#754ACC",
+        "isUs": false,
+        "meetings": [
+          {
+            "date": "2026-09-25T22:30:00.000Z",
+            "result": "W",
+            "gf": 4,
+            "ga": 1,
+            "home": false
+          },
+          {
+            "date": "2026-10-13T23:00:00.000Z",
+            "result": "W",
+            "gf": 2,
+            "ga": 0,
+            "home": true
+          }
+        ]
+      },
+      {
+        "name": "Chesterton Academy of Notre Dame",
+        "mascot": "Knights",
+        "abbr": "CA",
         "color": "#022C66",
         "isUs": false,
-        "meetings": []
+        "meetings": [
+          {
+            "date": "2026-09-19T17:00:00.000Z",
+            "result": "W",
+            "gf": 6,
+            "ga": 0,
+            "home": false
+          }
+        ]
       }
     ],
-    "feeder": null,
-    "links": {
-      "map": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA"
+    "feeder": {
+      "teams": [
+        {
+          "name": "Friday Harbor",
+          "mascot": "Wolverines",
+          "abbr": "FH",
+          "color": "#754ACC",
+          "isUs": false
+        },
+        {
+          "name": "Chesterton Academy of Notre Dame",
+          "mascot": "Knights",
+          "abbr": "CA",
+          "color": "#022C66",
+          "isUs": false
+        }
+      ],
+      "date": "2026-11-14T18:00:00.000Z",
+      "timeKnown": true,
+      "venue": "Gonzaga Preparatory School",
+      "played": false
     },
-    "watch": "https://fan.hudl.com/usa/wa/anacortes/organization/7825/anacortes-high-school/watch?b=QnJvYWRjYXN0NDgxNzIwNQ%3D%3D",
-    "calId": "2026-11-13-g4"
+    "links": {
+      "map": null
+    },
+    "watch": null,
+    "calId": "2026-11-20-g6"
   },
   "dates": [
-    {
-      "key": "g4",
-      "date": "2026-11-13T20:30:00.000Z",
-      "timeKnown": true,
-      "label": "State first round",
-      "venue": "Anacortes HS",
-      "status": "confirmed",
-      "note": "Next game",
-      "vs": "Auburn",
-      "calId": "2026-11-13-g4"
-    },
     {
       "key": "g6",
       "date": "2026-11-20T21:00:00.000Z",
       "timeKnown": true,
       "label": "State semifinal",
       "venue": null,
-      "status": "possible",
-      "note": "If we beat Auburn on Friday",
+      "status": "confirmed",
+      "note": "Next game",
       "vs": "Friday Harbor or Chesterton",
       "calId": "2026-11-20-g6"
     },
@@ -116,7 +157,7 @@
       "label": "State final",
       "venue": null,
       "status": "possible",
-      "note": "If we beat Auburn on Friday, then win",
+      "note": "If we win our next game",
       "vs": "TBD",
       "calId": "2026-11-21-g8"
     },
@@ -127,7 +168,7 @@
       "label": "Last-chance game",
       "venue": null,
       "status": "possible",
-      "note": "If we beat Auburn on Friday, then lose",
+      "note": "If we lose our next game",
       "vs": "TBD",
       "calId": "2026-11-21-g7"
     }
@@ -1665,16 +1706,24 @@
             "place": "5th place",
             "h2h": {
               "record": {
-                "w": 1,
+                "w": 2,
                 "l": 0,
                 "d": 0
               },
               "since": "2022",
-              "season": [],
+              "season": [
+                {
+                  "date": "2026-11-13T20:30:00.000Z",
+                  "result": "W",
+                  "gf": 2,
+                  "ga": 0,
+                  "pens": false
+                }
+              ],
               "last": {
-                "date": "2022-11-02T00:30:00.000Z",
+                "date": "2026-11-13T20:30:00.000Z",
                 "result": "W",
-                "gf": 1,
+                "gf": 2,
                 "ga": 0,
                 "pens": false
               }
@@ -1865,9 +1914,9 @@
               "timeKnown": true,
               "venue": "Anacortes HS",
               "siteNote": null,
-              "played": false,
+              "played": true,
               "pens": null,
-              "scoreSource": null,
+              "scoreSource": "scorekeeper",
               "teams": [
                 {
                   "name": "Auburn Adventist",
@@ -1875,7 +1924,7 @@
                   "abbr": "AA",
                   "color": "#022C66",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
                   "winner": false,
                   "seed": null
                 },
@@ -1885,8 +1934,8 @@
                   "abbr": "OI",
                   "color": "#034CB2",
                   "isUs": true,
-                  "score": null,
-                  "winner": false,
+                  "score": 2,
+                  "winner": true,
                   "seed": null
                 }
               ],
@@ -2161,24 +2210,11 @@
                   "seed": null
                 },
                 {
-                  "name": "Winner of Game 4",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Auburn Adventist",
-                      "mascot": "Falcons",
-                      "abbr": "AA",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Orcas Island",
-                      "mascot": "Vikings",
-                      "abbr": "OI",
-                      "color": "#034CB2",
-                      "isUs": true
-                    }
-                  ],
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
+                  "color": "#034CB2",
+                  "isUs": true,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -2192,9 +2228,9 @@
                 "text": "Last-chance game",
                 "state": false
               },
-              "ours": false,
+              "ours": true,
               "watch": null,
-              "maybeOurs": true
+              "maybeOurs": false
             }
           ],
           "title": "State semifinal"
@@ -2267,13 +2303,6 @@
                       "name": "Chesterton Academy of Notre Dame",
                       "mascot": "Knights",
                       "abbr": "CA",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Auburn Adventist",
-                      "mascot": "Falcons",
-                      "abbr": "AA",
                       "color": "#022C66",
                       "isUs": false
                     },
@@ -2367,13 +2396,6 @@
                       "name": "Chesterton Academy of Notre Dame",
                       "mascot": "Knights",
                       "abbr": "CA",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Auburn Adventist",
-                      "mascot": "Falcons",
-                      "abbr": "AA",
                       "color": "#022C66",
                       "isUs": false
                     },
@@ -2560,9 +2582,9 @@
               "timeKnown": true,
               "venue": "Anacortes HS",
               "siteNote": null,
-              "played": false,
+              "played": true,
               "pens": null,
-              "scoreSource": null,
+              "scoreSource": "scorekeeper",
               "teams": [
                 {
                   "name": "Auburn Adventist",
@@ -2570,7 +2592,7 @@
                   "abbr": "AA",
                   "color": "#022C66",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
                   "winner": false,
                   "seed": null
                 },
@@ -2580,8 +2602,8 @@
                   "abbr": "OI",
                   "color": "#034CB2",
                   "isUs": true,
-                  "score": null,
-                  "winner": false,
+                  "score": 2,
+                  "winner": true,
                   "seed": null
                 }
               ],
@@ -2714,24 +2736,11 @@
                   "seed": null
                 },
                 {
-                  "name": "Winner of Game 4",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Auburn Adventist",
-                      "mascot": "Falcons",
-                      "abbr": "AA",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Orcas Island",
-                      "mascot": "Vikings",
-                      "abbr": "OI",
-                      "color": "#034CB2",
-                      "isUs": true
-                    }
-                  ],
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
+                  "color": "#034CB2",
+                  "isUs": true,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -2745,9 +2754,9 @@
                 "text": "Last-chance game",
                 "state": false
               },
-              "ours": false,
+              "ours": true,
               "watch": null,
-              "maybeOurs": true
+              "maybeOurs": false
             }
           ]
         },
@@ -2822,13 +2831,6 @@
                       "name": "Chesterton Academy of Notre Dame",
                       "mascot": "Knights",
                       "abbr": "CA",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Auburn Adventist",
-                      "mascot": "Falcons",
-                      "abbr": "AA",
                       "color": "#022C66",
                       "isUs": false
                     },
@@ -2930,13 +2932,6 @@
                   "isUs": false
                 },
                 {
-                  "name": "Auburn Adventist",
-                  "mascot": "Falcons",
-                  "abbr": "AA",
-                  "color": "#022C66",
-                  "isUs": false
-                },
-                {
                   "name": "Orcas Island",
                   "mascot": "Vikings",
                   "abbr": "OI",
@@ -2975,9 +2970,9 @@
             "timeKnown": true,
             "venue": "Anacortes HS",
             "siteNote": null,
-            "played": false,
+            "played": true,
             "pens": null,
-            "scoreSource": null,
+            "scoreSource": "scorekeeper",
             "teams": [
               {
                 "name": "Auburn Adventist",
@@ -2985,7 +2980,7 @@
                 "abbr": "AA",
                 "color": "#022C66",
                 "isUs": false,
-                "score": null,
+                "score": 0,
                 "winner": false,
                 "seed": null
               },
@@ -2995,8 +2990,8 @@
                 "abbr": "OI",
                 "color": "#034CB2",
                 "isUs": true,
-                "score": null,
-                "winner": false,
+                "score": 2,
+                "winner": true,
                 "seed": null
               }
             ],
@@ -3012,9 +3007,9 @@
             "watch": "https://fan.hudl.com/usa/wa/anacortes/organization/7825/anacortes-high-school/watch?b=QnJvYWRjYXN0NDgxNzIwNQ%3D%3D",
             "maybeOurs": false
           },
-          "result": null,
-          "gf": null,
-          "ga": null,
+          "result": "W",
+          "gf": 2,
+          "ga": 0,
           "pens": null,
           "watch": "https://fan.hudl.com/usa/wa/anacortes/organization/7825/anacortes-high-school/watch?b=QnJvYWRjYXN0NDgxNzIwNQ%3D%3D",
           "opponent": {
@@ -3024,56 +3019,8 @@
             "color": "#022C66",
             "isUs": false
           }
-        }
-      ],
-      "scenarios": {
-        "game": {
-          "no": "4",
-          "round": "firstRound",
-          "label": "State first round",
-          "date": "2026-11-13T20:30:00.000Z",
-          "dateWindow": null,
-          "timeKnown": true,
-          "venue": "Anacortes HS",
-          "siteNote": null,
-          "played": false,
-          "pens": null,
-          "scoreSource": null,
-          "teams": [
-            {
-              "name": "Auburn Adventist",
-              "mascot": "Falcons",
-              "abbr": "AA",
-              "color": "#022C66",
-              "isUs": false,
-              "score": null,
-              "winner": false,
-              "seed": null
-            },
-            {
-              "name": "Orcas Island",
-              "mascot": "Vikings",
-              "abbr": "OI",
-              "color": "#034CB2",
-              "isUs": true,
-              "score": null,
-              "winner": false,
-              "seed": null
-            }
-          ],
-          "winner": {
-            "text": "State semifinal",
-            "state": false
-          },
-          "loser": {
-            "text": "Season over",
-            "out": true
-          },
-          "ours": true,
-          "watch": "https://fan.hudl.com/usa/wa/anacortes/organization/7825/anacortes-high-school/watch?b=QnJvYWRjYXN0NDgxNzIwNQ%3D%3D",
-          "maybeOurs": false
         },
-        "win": {
+        {
           "game": {
             "no": "6",
             "round": "semifinal",
@@ -3111,13 +3058,181 @@
                 "seed": null
               },
               {
-                "name": "Winner of Game 4",
+                "name": "Orcas Island",
+                "mascot": "Vikings",
+                "abbr": "OI",
+                "color": "#034CB2",
+                "isUs": true,
+                "score": null,
+                "winner": false,
+                "seed": null
+              }
+            ],
+            "winner": {
+              "text": "State final",
+              "state": false
+            },
+            "loser": {
+              "text": "Last-chance game",
+              "state": false
+            },
+            "ours": true,
+            "watch": null,
+            "maybeOurs": false
+          },
+          "result": null,
+          "gf": null,
+          "ga": null,
+          "pens": null,
+          "watch": null,
+          "opponent": {
+            "name": "Winner of Game 3",
+            "placeholder": true,
+            "candidates": [
+              {
+                "name": "Friday Harbor",
+                "mascot": "Wolverines",
+                "abbr": "FH",
+                "color": "#754ACC",
+                "isUs": false
+              },
+              {
+                "name": "Chesterton Academy of Notre Dame",
+                "mascot": "Knights",
+                "abbr": "CA",
+                "color": "#022C66",
+                "isUs": false
+              }
+            ]
+          }
+        }
+      ],
+      "scenarios": {
+        "game": {
+          "no": "6",
+          "round": "semifinal",
+          "label": "State semifinal",
+          "date": "2026-11-20T21:00:00.000Z",
+          "dateWindow": null,
+          "timeKnown": true,
+          "venue": null,
+          "siteNote": "",
+          "played": false,
+          "pens": null,
+          "scoreSource": null,
+          "teams": [
+            {
+              "name": "Winner of Game 3",
+              "placeholder": true,
+              "candidates": [
+                {
+                  "name": "Friday Harbor",
+                  "mascot": "Wolverines",
+                  "abbr": "FH",
+                  "color": "#754ACC",
+                  "isUs": false
+                },
+                {
+                  "name": "Chesterton Academy of Notre Dame",
+                  "mascot": "Knights",
+                  "abbr": "CA",
+                  "color": "#022C66",
+                  "isUs": false
+                }
+              ],
+              "score": null,
+              "winner": false,
+              "seed": null
+            },
+            {
+              "name": "Orcas Island",
+              "mascot": "Vikings",
+              "abbr": "OI",
+              "color": "#034CB2",
+              "isUs": true,
+              "score": null,
+              "winner": false,
+              "seed": null
+            }
+          ],
+          "winner": {
+            "text": "State final",
+            "state": false
+          },
+          "loser": {
+            "text": "Last-chance game",
+            "state": false
+          },
+          "ours": true,
+          "watch": null,
+          "maybeOurs": false
+        },
+        "win": {
+          "game": {
+            "no": "8",
+            "round": "final",
+            "label": "State final",
+            "date": "2026-11-21T23:00:00.000Z",
+            "dateWindow": null,
+            "timeKnown": true,
+            "venue": null,
+            "siteNote": "",
+            "played": false,
+            "pens": null,
+            "scoreSource": null,
+            "teams": [
+              {
+                "name": "Winner of Game 5",
                 "placeholder": true,
                 "candidates": [
                   {
-                    "name": "Auburn Adventist",
-                    "mascot": "Falcons",
-                    "abbr": "AA",
+                    "name": "Providence Classical Christian",
+                    "mascot": "Highlanders",
+                    "abbr": "PC",
+                    "color": "#022C66",
+                    "isUs": false
+                  },
+                  {
+                    "name": "Evergreen Lutheran",
+                    "mascot": "Eagles",
+                    "abbr": "EL",
+                    "color": "#00824B",
+                    "isUs": false
+                  },
+                  {
+                    "name": "Mabton",
+                    "mascot": null,
+                    "abbr": "MA",
+                    "color": "#8C3B4A",
+                    "isUs": false
+                  },
+                  {
+                    "name": "Mount Vernon Christian",
+                    "mascot": "Hurricanes",
+                    "abbr": "MV",
+                    "color": "#034CB2",
+                    "isUs": false
+                  }
+                ],
+                "score": null,
+                "winner": false,
+                "seed": null
+              },
+              {
+                "name": "Winner of Game 6",
+                "placeholder": true,
+                "candidates": [
+                  {
+                    "name": "Friday Harbor",
+                    "mascot": "Wolverines",
+                    "abbr": "FH",
+                    "color": "#754ACC",
+                    "isUs": false
+                  },
+                  {
+                    "name": "Chesterton Academy of Notre Dame",
+                    "mascot": "Knights",
+                    "abbr": "CA",
                     "color": "#022C66",
                     "isUs": false
                   },
@@ -3135,11 +3250,11 @@
               }
             ],
             "winner": {
-              "text": "State final",
+              "text": "Champions",
               "state": false
             },
             "loser": {
-              "text": "Last-chance game",
+              "text": "Runner-up",
               "state": false
             },
             "ours": false,
@@ -3147,239 +3262,124 @@
             "maybeOurs": true
           },
           "win": {
-            "game": {
-              "no": "8",
-              "round": "final",
-              "label": "State final",
-              "date": "2026-11-21T23:00:00.000Z",
-              "dateWindow": null,
-              "timeKnown": true,
-              "venue": null,
-              "siteNote": "",
-              "played": false,
-              "pens": null,
-              "scoreSource": null,
-              "teams": [
-                {
-                  "name": "Winner of Game 5",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Providence Classical Christian",
-                      "mascot": "Highlanders",
-                      "abbr": "PC",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Evergreen Lutheran",
-                      "mascot": "Eagles",
-                      "abbr": "EL",
-                      "color": "#00824B",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Mabton",
-                      "mascot": null,
-                      "abbr": "MA",
-                      "color": "#8C3B4A",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Mount Vernon Christian",
-                      "mascot": "Hurricanes",
-                      "abbr": "MV",
-                      "color": "#034CB2",
-                      "isUs": false
-                    }
-                  ],
-                  "score": null,
-                  "winner": false,
-                  "seed": null
-                },
-                {
-                  "name": "Winner of Game 6",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Friday Harbor",
-                      "mascot": "Wolverines",
-                      "abbr": "FH",
-                      "color": "#754ACC",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Chesterton Academy of Notre Dame",
-                      "mascot": "Knights",
-                      "abbr": "CA",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Auburn Adventist",
-                      "mascot": "Falcons",
-                      "abbr": "AA",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Orcas Island",
-                      "mascot": "Vikings",
-                      "abbr": "OI",
-                      "color": "#034CB2",
-                      "isUs": true
-                    }
-                  ],
-                  "score": null,
-                  "winner": false,
-                  "seed": null
-                }
-              ],
-              "winner": {
-                "text": "Champions",
-                "state": false
-              },
-              "loser": {
-                "text": "Runner-up",
-                "state": false
-              },
-              "ours": false,
-              "watch": null,
-              "maybeOurs": true
-            },
-            "win": {
-              "outcome": "District champions",
-              "short": "Champions",
-              "state": false,
-              "over": false
-            },
-            "lose": {
-              "outcome": "District runner-up",
-              "short": "Runner-up",
-              "state": false,
-              "over": false
-            }
+            "outcome": "District champions",
+            "short": "Champions",
+            "state": false,
+            "over": false
           },
           "lose": {
-            "game": {
-              "no": "7",
-              "round": "lastChance",
-              "label": "Last-chance game",
-              "date": "2026-11-21T18:00:00.000Z",
-              "dateWindow": null,
-              "timeKnown": true,
-              "venue": null,
-              "siteNote": "",
-              "played": false,
-              "pens": null,
-              "scoreSource": null,
-              "teams": [
-                {
-                  "name": "Loser of Game 5",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Providence Classical Christian",
-                      "mascot": "Highlanders",
-                      "abbr": "PC",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Evergreen Lutheran",
-                      "mascot": "Eagles",
-                      "abbr": "EL",
-                      "color": "#00824B",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Mabton",
-                      "mascot": null,
-                      "abbr": "MA",
-                      "color": "#8C3B4A",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Mount Vernon Christian",
-                      "mascot": "Hurricanes",
-                      "abbr": "MV",
-                      "color": "#034CB2",
-                      "isUs": false
-                    }
-                  ],
-                  "score": null,
-                  "winner": false,
-                  "seed": null
-                },
-                {
-                  "name": "Loser of Game 6",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Friday Harbor",
-                      "mascot": "Wolverines",
-                      "abbr": "FH",
-                      "color": "#754ACC",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Chesterton Academy of Notre Dame",
-                      "mascot": "Knights",
-                      "abbr": "CA",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Auburn Adventist",
-                      "mascot": "Falcons",
-                      "abbr": "AA",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Orcas Island",
-                      "mascot": "Vikings",
-                      "abbr": "OI",
-                      "color": "#034CB2",
-                      "isUs": true
-                    }
-                  ],
-                  "score": null,
-                  "winner": false,
-                  "seed": null
-                }
-              ],
-              "winner": {
-                "text": "3rd place",
-                "state": false
-              },
-              "loser": {
-                "text": "4th place",
-                "state": false
-              },
-              "ours": false,
-              "watch": null,
-              "maybeOurs": true
-            },
-            "win": {
-              "outcome": "Finish 3rd in district",
-              "short": "3rd place",
-              "state": false,
-              "over": false
-            },
-            "lose": {
-              "outcome": "Finish 4th in district",
-              "short": "4th place",
-              "state": false,
-              "over": false
-            }
+            "outcome": "District runner-up",
+            "short": "Runner-up",
+            "state": false,
+            "over": false
           }
         },
         "lose": {
-          "outcome": "Season over",
-          "short": "Season over",
-          "state": false,
-          "over": true
+          "game": {
+            "no": "7",
+            "round": "lastChance",
+            "label": "Last-chance game",
+            "date": "2026-11-21T18:00:00.000Z",
+            "dateWindow": null,
+            "timeKnown": true,
+            "venue": null,
+            "siteNote": "",
+            "played": false,
+            "pens": null,
+            "scoreSource": null,
+            "teams": [
+              {
+                "name": "Loser of Game 5",
+                "placeholder": true,
+                "candidates": [
+                  {
+                    "name": "Providence Classical Christian",
+                    "mascot": "Highlanders",
+                    "abbr": "PC",
+                    "color": "#022C66",
+                    "isUs": false
+                  },
+                  {
+                    "name": "Evergreen Lutheran",
+                    "mascot": "Eagles",
+                    "abbr": "EL",
+                    "color": "#00824B",
+                    "isUs": false
+                  },
+                  {
+                    "name": "Mabton",
+                    "mascot": null,
+                    "abbr": "MA",
+                    "color": "#8C3B4A",
+                    "isUs": false
+                  },
+                  {
+                    "name": "Mount Vernon Christian",
+                    "mascot": "Hurricanes",
+                    "abbr": "MV",
+                    "color": "#034CB2",
+                    "isUs": false
+                  }
+                ],
+                "score": null,
+                "winner": false,
+                "seed": null
+              },
+              {
+                "name": "Loser of Game 6",
+                "placeholder": true,
+                "candidates": [
+                  {
+                    "name": "Friday Harbor",
+                    "mascot": "Wolverines",
+                    "abbr": "FH",
+                    "color": "#754ACC",
+                    "isUs": false
+                  },
+                  {
+                    "name": "Chesterton Academy of Notre Dame",
+                    "mascot": "Knights",
+                    "abbr": "CA",
+                    "color": "#022C66",
+                    "isUs": false
+                  },
+                  {
+                    "name": "Orcas Island",
+                    "mascot": "Vikings",
+                    "abbr": "OI",
+                    "color": "#034CB2",
+                    "isUs": true
+                  }
+                ],
+                "score": null,
+                "winner": false,
+                "seed": null
+              }
+            ],
+            "winner": {
+              "text": "3rd place",
+              "state": false
+            },
+            "loser": {
+              "text": "4th place",
+              "state": false
+            },
+            "ours": false,
+            "watch": null,
+            "maybeOurs": true
+          },
+          "win": {
+            "outcome": "Finish 3rd in district",
+            "short": "3rd place",
+            "state": false,
+            "over": false
+          },
+          "lose": {
+            "outcome": "Finish 4th in district",
+            "short": "4th place",
+            "state": false,
+            "over": false
+          }
         }
       },
       "guaranteedState": null,
@@ -4059,9 +4059,9 @@
         "isUs": false
       },
       "home": true,
-      "result": null,
-      "gf": null,
-      "ga": null,
+      "result": "W",
+      "gf": 2,
+      "ga": 0,
       "stage": "State",
       "venue": "Anacortes HS",
       "watch": "https://fan.hudl.com/usa/wa/anacortes/organization/7825/anacortes-high-school/watch?b=QnJvYWRjYXN0NDgxNzIwNQ%3D%3D",
@@ -4142,11 +4142,6 @@
   ],
   "insights": [
     {
-      "icon": "🗓️",
-      "title": "State: we play Auburn Adventist Fri Nov 13",
-      "text": "We’re 1-0 against them since 2022. Last time: won 1-0."
-    },
-    {
       "icon": "🏆",
       "title": "District AND league champions!",
       "text": "We won the district final against Mount Vernon Christian on Saturday, 0-0 and 4-2 on penalties, after a perfect 9-0 league season. Next stop: State, starting Fri Nov 13."
@@ -4159,7 +4154,7 @@
     {
       "icon": "💪",
       "title": "Unbeaten all season",
-      "text": "18 wins and 1 draw. We’ve scored 95 goals and allowed just 13."
+      "text": "19 wins and 1 draw. We’ve scored 97 goals and allowed just 13."
     },
     {
       "icon": "⭐",
@@ -5798,15 +5793,15 @@
         {
           "season": "2026",
           "date": "2026-11-13T20:30:00.000Z",
-          "result": null,
-          "gf": null,
-          "ga": null,
+          "result": "W",
+          "gf": 2,
+          "ga": 0,
           "home": true,
           "stage": "State",
           "venue": "Anacortes HS",
           "pens": false,
           "close": false,
-          "upcoming": true
+          "upcoming": false
         },
         {
           "season": "2022",
@@ -5823,7 +5818,7 @@
         }
       ],
       "record": {
-        "w": 1,
+        "w": 2,
         "l": 0,
         "d": 0
       },
@@ -6022,16 +6017,8 @@
   "historySince": "2022",
   "calendar": [
     {
-      "id": "2026-11-13-g4",
-      "title": "Vikings vs Auburn · State first round",
-      "start": "2026-11-13T20:30:00.000Z",
-      "timeKnown": true,
-      "location": "Anacortes HS",
-      "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
-    },
-    {
       "id": "2026-11-20-g6",
-      "title": "Vikings vs Friday Harbor or Chesterton · State semifinal (if we advance)",
+      "title": "Vikings vs Friday Harbor or Chesterton · State semifinal",
       "start": "2026-11-20T21:00:00.000Z",
       "timeKnown": true,
       "location": "",
@@ -6082,7 +6069,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-13T18:07:48.593Z",
+    "generatedAt": "2026-11-13T22:16:06.231Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -6092,10 +6079,10 @@
       "full": "Orcas Island Vikings",
       "sport": "Fútbol varonil",
       "season": "2026",
-      "record": "18-0-1",
-      "streak": "W14",
+      "record": "19-0-1",
+      "streak": "W15",
       "goals": {
-        "for": 95,
+        "for": 97,
         "against": 13
       },
       "rank": {
@@ -6143,52 +6130,93 @@
     ],
     "nextGame": {
       "stage": "State",
-      "round": "firstRound",
-      "label": "Primera ronda del Estatal",
-      "date": "2026-11-13T20:30:00.000Z",
+      "round": "semifinal",
+      "label": "Semifinal del Estatal",
+      "date": "2026-11-20T21:00:00.000Z",
       "dateWindow": null,
       "timeKnown": true,
-      "venue": "Anacortes HS",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA",
+      "venue": null,
+      "mapUrl": null,
       "home": null,
       "hostNote": null,
       "opponents": [
         {
-          "name": "Auburn Adventist",
-          "mascot": "Falcons",
-          "abbr": "AA",
+          "name": "Friday Harbor",
+          "mascot": "Wolverines",
+          "abbr": "FH",
+          "color": "#754ACC",
+          "isUs": false,
+          "meetings": [
+            {
+              "date": "2026-09-25T22:30:00.000Z",
+              "result": "W",
+              "gf": 4,
+              "ga": 1,
+              "home": false
+            },
+            {
+              "date": "2026-10-13T23:00:00.000Z",
+              "result": "W",
+              "gf": 2,
+              "ga": 0,
+              "home": true
+            }
+          ]
+        },
+        {
+          "name": "Chesterton Academy of Notre Dame",
+          "mascot": "Knights",
+          "abbr": "CA",
           "color": "#022C66",
           "isUs": false,
-          "meetings": []
+          "meetings": [
+            {
+              "date": "2026-09-19T17:00:00.000Z",
+              "result": "W",
+              "gf": 6,
+              "ga": 0,
+              "home": false
+            }
+          ]
         }
       ],
-      "feeder": null,
-      "links": {
-        "map": "https://www.google.com/maps/search/?api=1&query=Anacortes%20HS%2C%20WA"
+      "feeder": {
+        "teams": [
+          {
+            "name": "Friday Harbor",
+            "mascot": "Wolverines",
+            "abbr": "FH",
+            "color": "#754ACC",
+            "isUs": false
+          },
+          {
+            "name": "Chesterton Academy of Notre Dame",
+            "mascot": "Knights",
+            "abbr": "CA",
+            "color": "#022C66",
+            "isUs": false
+          }
+        ],
+        "date": "2026-11-14T18:00:00.000Z",
+        "timeKnown": true,
+        "venue": "Gonzaga Preparatory School",
+        "played": false
       },
-      "watch": "https://fan.hudl.com/usa/wa/anacortes/organization/7825/anacortes-high-school/watch?b=QnJvYWRjYXN0NDgxNzIwNQ%3D%3D",
-      "calId": "2026-11-13-g4"
+      "links": {
+        "map": null
+      },
+      "watch": null,
+      "calId": "2026-11-20-g6"
     },
     "dates": [
-      {
-        "key": "g4",
-        "date": "2026-11-13T20:30:00.000Z",
-        "timeKnown": true,
-        "label": "Primera ronda del Estatal",
-        "venue": "Anacortes HS",
-        "status": "confirmed",
-        "note": "Próximo partido",
-        "vs": "Auburn",
-        "calId": "2026-11-13-g4"
-      },
       {
         "key": "g6",
         "date": "2026-11-20T21:00:00.000Z",
         "timeKnown": true,
         "label": "Semifinal del Estatal",
         "venue": null,
-        "status": "possible",
-        "note": "Si le ganamos a Auburn el viernes",
+        "status": "confirmed",
+        "note": "Próximo partido",
         "vs": "Friday Harbor o Chesterton",
         "calId": "2026-11-20-g6"
       },
@@ -6199,7 +6227,7 @@
         "label": "Final del Estatal",
         "venue": null,
         "status": "possible",
-        "note": "Si le ganamos a Auburn el viernes, y luego ganamos",
+        "note": "Si ganamos el próximo partido",
         "vs": "Por definir",
         "calId": "2026-11-21-g8"
       },
@@ -6210,7 +6238,7 @@
         "label": "Partido de última oportunidad",
         "venue": null,
         "status": "possible",
-        "note": "Si le ganamos a Auburn el viernes, y luego perdemos",
+        "note": "Si perdemos el próximo partido",
         "vs": "Por definir",
         "calId": "2026-11-21-g7"
       }
@@ -7748,16 +7776,24 @@
               "place": "5.º lugar",
               "h2h": {
                 "record": {
-                  "w": 1,
+                  "w": 2,
                   "l": 0,
                   "d": 0
                 },
                 "since": "2022",
-                "season": [],
+                "season": [
+                  {
+                    "date": "2026-11-13T20:30:00.000Z",
+                    "result": "W",
+                    "gf": 2,
+                    "ga": 0,
+                    "pens": false
+                  }
+                ],
                 "last": {
-                  "date": "2022-11-02T00:30:00.000Z",
+                  "date": "2026-11-13T20:30:00.000Z",
                   "result": "W",
-                  "gf": 1,
+                  "gf": 2,
                   "ga": 0,
                   "pens": false
                 }
@@ -7948,9 +7984,9 @@
                 "timeKnown": true,
                 "venue": "Anacortes HS",
                 "siteNote": null,
-                "played": false,
+                "played": true,
                 "pens": null,
-                "scoreSource": null,
+                "scoreSource": "scorekeeper",
                 "teams": [
                   {
                     "name": "Auburn Adventist",
@@ -7958,7 +7994,7 @@
                     "abbr": "AA",
                     "color": "#022C66",
                     "isUs": false,
-                    "score": null,
+                    "score": 0,
                     "winner": false,
                     "seed": null
                   },
@@ -7968,8 +8004,8 @@
                     "abbr": "OI",
                     "color": "#034CB2",
                     "isUs": true,
-                    "score": null,
-                    "winner": false,
+                    "score": 2,
+                    "winner": true,
                     "seed": null
                   }
                 ],
@@ -8244,24 +8280,11 @@
                     "seed": null
                   },
                   {
-                    "name": "Ganador del partido 4",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Auburn Adventist",
-                        "mascot": "Falcons",
-                        "abbr": "AA",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Orcas Island",
-                        "mascot": "Vikings",
-                        "abbr": "OI",
-                        "color": "#034CB2",
-                        "isUs": true
-                      }
-                    ],
+                    "name": "Orcas Island",
+                    "mascot": "Vikings",
+                    "abbr": "OI",
+                    "color": "#034CB2",
+                    "isUs": true,
                     "score": null,
                     "winner": false,
                     "seed": null
@@ -8275,9 +8298,9 @@
                   "text": "Partido de última oportunidad",
                   "state": false
                 },
-                "ours": false,
+                "ours": true,
                 "watch": null,
-                "maybeOurs": true
+                "maybeOurs": false
               }
             ],
             "title": "Semifinal del Estatal"
@@ -8350,13 +8373,6 @@
                         "name": "Chesterton Academy of Notre Dame",
                         "mascot": "Knights",
                         "abbr": "CA",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Auburn Adventist",
-                        "mascot": "Falcons",
-                        "abbr": "AA",
                         "color": "#022C66",
                         "isUs": false
                       },
@@ -8450,13 +8466,6 @@
                         "name": "Chesterton Academy of Notre Dame",
                         "mascot": "Knights",
                         "abbr": "CA",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Auburn Adventist",
-                        "mascot": "Falcons",
-                        "abbr": "AA",
                         "color": "#022C66",
                         "isUs": false
                       },
@@ -8643,9 +8652,9 @@
                 "timeKnown": true,
                 "venue": "Anacortes HS",
                 "siteNote": null,
-                "played": false,
+                "played": true,
                 "pens": null,
-                "scoreSource": null,
+                "scoreSource": "scorekeeper",
                 "teams": [
                   {
                     "name": "Auburn Adventist",
@@ -8653,7 +8662,7 @@
                     "abbr": "AA",
                     "color": "#022C66",
                     "isUs": false,
-                    "score": null,
+                    "score": 0,
                     "winner": false,
                     "seed": null
                   },
@@ -8663,8 +8672,8 @@
                     "abbr": "OI",
                     "color": "#034CB2",
                     "isUs": true,
-                    "score": null,
-                    "winner": false,
+                    "score": 2,
+                    "winner": true,
                     "seed": null
                   }
                 ],
@@ -8797,24 +8806,11 @@
                     "seed": null
                   },
                   {
-                    "name": "Ganador del partido 4",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Auburn Adventist",
-                        "mascot": "Falcons",
-                        "abbr": "AA",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Orcas Island",
-                        "mascot": "Vikings",
-                        "abbr": "OI",
-                        "color": "#034CB2",
-                        "isUs": true
-                      }
-                    ],
+                    "name": "Orcas Island",
+                    "mascot": "Vikings",
+                    "abbr": "OI",
+                    "color": "#034CB2",
+                    "isUs": true,
                     "score": null,
                     "winner": false,
                     "seed": null
@@ -8828,9 +8824,9 @@
                   "text": "Partido de última oportunidad",
                   "state": false
                 },
-                "ours": false,
+                "ours": true,
                 "watch": null,
-                "maybeOurs": true
+                "maybeOurs": false
               }
             ]
           },
@@ -8905,13 +8901,6 @@
                         "name": "Chesterton Academy of Notre Dame",
                         "mascot": "Knights",
                         "abbr": "CA",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Auburn Adventist",
-                        "mascot": "Falcons",
-                        "abbr": "AA",
                         "color": "#022C66",
                         "isUs": false
                       },
@@ -9013,13 +9002,6 @@
                     "isUs": false
                   },
                   {
-                    "name": "Auburn Adventist",
-                    "mascot": "Falcons",
-                    "abbr": "AA",
-                    "color": "#022C66",
-                    "isUs": false
-                  },
-                  {
                     "name": "Orcas Island",
                     "mascot": "Vikings",
                     "abbr": "OI",
@@ -9058,9 +9040,9 @@
               "timeKnown": true,
               "venue": "Anacortes HS",
               "siteNote": null,
-              "played": false,
+              "played": true,
               "pens": null,
-              "scoreSource": null,
+              "scoreSource": "scorekeeper",
               "teams": [
                 {
                   "name": "Auburn Adventist",
@@ -9068,7 +9050,7 @@
                   "abbr": "AA",
                   "color": "#022C66",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
                   "winner": false,
                   "seed": null
                 },
@@ -9078,8 +9060,8 @@
                   "abbr": "OI",
                   "color": "#034CB2",
                   "isUs": true,
-                  "score": null,
-                  "winner": false,
+                  "score": 2,
+                  "winner": true,
                   "seed": null
                 }
               ],
@@ -9095,9 +9077,9 @@
               "watch": "https://fan.hudl.com/usa/wa/anacortes/organization/7825/anacortes-high-school/watch?b=QnJvYWRjYXN0NDgxNzIwNQ%3D%3D",
               "maybeOurs": false
             },
-            "result": null,
-            "gf": null,
-            "ga": null,
+            "result": "W",
+            "gf": 2,
+            "ga": 0,
             "pens": null,
             "watch": "https://fan.hudl.com/usa/wa/anacortes/organization/7825/anacortes-high-school/watch?b=QnJvYWRjYXN0NDgxNzIwNQ%3D%3D",
             "opponent": {
@@ -9107,56 +9089,8 @@
               "color": "#022C66",
               "isUs": false
             }
-          }
-        ],
-        "scenarios": {
-          "game": {
-            "no": "4",
-            "round": "firstRound",
-            "label": "Primera ronda del Estatal",
-            "date": "2026-11-13T20:30:00.000Z",
-            "dateWindow": null,
-            "timeKnown": true,
-            "venue": "Anacortes HS",
-            "siteNote": null,
-            "played": false,
-            "pens": null,
-            "scoreSource": null,
-            "teams": [
-              {
-                "name": "Auburn Adventist",
-                "mascot": "Falcons",
-                "abbr": "AA",
-                "color": "#022C66",
-                "isUs": false,
-                "score": null,
-                "winner": false,
-                "seed": null
-              },
-              {
-                "name": "Orcas Island",
-                "mascot": "Vikings",
-                "abbr": "OI",
-                "color": "#034CB2",
-                "isUs": true,
-                "score": null,
-                "winner": false,
-                "seed": null
-              }
-            ],
-            "winner": {
-              "text": "Semifinal del Estatal",
-              "state": false
-            },
-            "loser": {
-              "text": "Fin de temporada",
-              "out": true
-            },
-            "ours": true,
-            "watch": "https://fan.hudl.com/usa/wa/anacortes/organization/7825/anacortes-high-school/watch?b=QnJvYWRjYXN0NDgxNzIwNQ%3D%3D",
-            "maybeOurs": false
           },
-          "win": {
+          {
             "game": {
               "no": "6",
               "round": "semifinal",
@@ -9194,13 +9128,181 @@
                   "seed": null
                 },
                 {
-                  "name": "Ganador del partido 4",
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
+                  "color": "#034CB2",
+                  "isUs": true,
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "Final del Estatal",
+                "state": false
+              },
+              "loser": {
+                "text": "Partido de última oportunidad",
+                "state": false
+              },
+              "ours": true,
+              "watch": null,
+              "maybeOurs": false
+            },
+            "result": null,
+            "gf": null,
+            "ga": null,
+            "pens": null,
+            "watch": null,
+            "opponent": {
+              "name": "Ganador del partido 3",
+              "placeholder": true,
+              "candidates": [
+                {
+                  "name": "Friday Harbor",
+                  "mascot": "Wolverines",
+                  "abbr": "FH",
+                  "color": "#754ACC",
+                  "isUs": false
+                },
+                {
+                  "name": "Chesterton Academy of Notre Dame",
+                  "mascot": "Knights",
+                  "abbr": "CA",
+                  "color": "#022C66",
+                  "isUs": false
+                }
+              ]
+            }
+          }
+        ],
+        "scenarios": {
+          "game": {
+            "no": "6",
+            "round": "semifinal",
+            "label": "Semifinal del Estatal",
+            "date": "2026-11-20T21:00:00.000Z",
+            "dateWindow": null,
+            "timeKnown": true,
+            "venue": null,
+            "siteNote": "",
+            "played": false,
+            "pens": null,
+            "scoreSource": null,
+            "teams": [
+              {
+                "name": "Ganador del partido 3",
+                "placeholder": true,
+                "candidates": [
+                  {
+                    "name": "Friday Harbor",
+                    "mascot": "Wolverines",
+                    "abbr": "FH",
+                    "color": "#754ACC",
+                    "isUs": false
+                  },
+                  {
+                    "name": "Chesterton Academy of Notre Dame",
+                    "mascot": "Knights",
+                    "abbr": "CA",
+                    "color": "#022C66",
+                    "isUs": false
+                  }
+                ],
+                "score": null,
+                "winner": false,
+                "seed": null
+              },
+              {
+                "name": "Orcas Island",
+                "mascot": "Vikings",
+                "abbr": "OI",
+                "color": "#034CB2",
+                "isUs": true,
+                "score": null,
+                "winner": false,
+                "seed": null
+              }
+            ],
+            "winner": {
+              "text": "Final del Estatal",
+              "state": false
+            },
+            "loser": {
+              "text": "Partido de última oportunidad",
+              "state": false
+            },
+            "ours": true,
+            "watch": null,
+            "maybeOurs": false
+          },
+          "win": {
+            "game": {
+              "no": "8",
+              "round": "final",
+              "label": "Final del Estatal",
+              "date": "2026-11-21T23:00:00.000Z",
+              "dateWindow": null,
+              "timeKnown": true,
+              "venue": null,
+              "siteNote": "",
+              "played": false,
+              "pens": null,
+              "scoreSource": null,
+              "teams": [
+                {
+                  "name": "Ganador del partido 5",
                   "placeholder": true,
                   "candidates": [
                     {
-                      "name": "Auburn Adventist",
-                      "mascot": "Falcons",
-                      "abbr": "AA",
+                      "name": "Providence Classical Christian",
+                      "mascot": "Highlanders",
+                      "abbr": "PC",
+                      "color": "#022C66",
+                      "isUs": false
+                    },
+                    {
+                      "name": "Evergreen Lutheran",
+                      "mascot": "Eagles",
+                      "abbr": "EL",
+                      "color": "#00824B",
+                      "isUs": false
+                    },
+                    {
+                      "name": "Mabton",
+                      "mascot": null,
+                      "abbr": "MA",
+                      "color": "#8C3B4A",
+                      "isUs": false
+                    },
+                    {
+                      "name": "Mount Vernon Christian",
+                      "mascot": "Hurricanes",
+                      "abbr": "MV",
+                      "color": "#034CB2",
+                      "isUs": false
+                    }
+                  ],
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Ganador del partido 6",
+                  "placeholder": true,
+                  "candidates": [
+                    {
+                      "name": "Friday Harbor",
+                      "mascot": "Wolverines",
+                      "abbr": "FH",
+                      "color": "#754ACC",
+                      "isUs": false
+                    },
+                    {
+                      "name": "Chesterton Academy of Notre Dame",
+                      "mascot": "Knights",
+                      "abbr": "CA",
                       "color": "#022C66",
                       "isUs": false
                     },
@@ -9218,11 +9320,11 @@
                 }
               ],
               "winner": {
-                "text": "Final del Estatal",
+                "text": "Campeones",
                 "state": false
               },
               "loser": {
-                "text": "Partido de última oportunidad",
+                "text": "Subcampeones",
                 "state": false
               },
               "ours": false,
@@ -9230,239 +9332,124 @@
               "maybeOurs": true
             },
             "win": {
-              "game": {
-                "no": "8",
-                "round": "final",
-                "label": "Final del Estatal",
-                "date": "2026-11-21T23:00:00.000Z",
-                "dateWindow": null,
-                "timeKnown": true,
-                "venue": null,
-                "siteNote": "",
-                "played": false,
-                "pens": null,
-                "scoreSource": null,
-                "teams": [
-                  {
-                    "name": "Ganador del partido 5",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Providence Classical Christian",
-                        "mascot": "Highlanders",
-                        "abbr": "PC",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Evergreen Lutheran",
-                        "mascot": "Eagles",
-                        "abbr": "EL",
-                        "color": "#00824B",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Mabton",
-                        "mascot": null,
-                        "abbr": "MA",
-                        "color": "#8C3B4A",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Mount Vernon Christian",
-                        "mascot": "Hurricanes",
-                        "abbr": "MV",
-                        "color": "#034CB2",
-                        "isUs": false
-                      }
-                    ],
-                    "score": null,
-                    "winner": false,
-                    "seed": null
-                  },
-                  {
-                    "name": "Ganador del partido 6",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Friday Harbor",
-                        "mascot": "Wolverines",
-                        "abbr": "FH",
-                        "color": "#754ACC",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Chesterton Academy of Notre Dame",
-                        "mascot": "Knights",
-                        "abbr": "CA",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Auburn Adventist",
-                        "mascot": "Falcons",
-                        "abbr": "AA",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Orcas Island",
-                        "mascot": "Vikings",
-                        "abbr": "OI",
-                        "color": "#034CB2",
-                        "isUs": true
-                      }
-                    ],
-                    "score": null,
-                    "winner": false,
-                    "seed": null
-                  }
-                ],
-                "winner": {
-                  "text": "Campeones",
-                  "state": false
-                },
-                "loser": {
-                  "text": "Subcampeones",
-                  "state": false
-                },
-                "ours": false,
-                "watch": null,
-                "maybeOurs": true
-              },
-              "win": {
-                "outcome": "Campeones del distrito",
-                "short": "Campeones",
-                "state": false,
-                "over": false
-              },
-              "lose": {
-                "outcome": "Subcampeones del distrito",
-                "short": "Subcampeones",
-                "state": false,
-                "over": false
-              }
+              "outcome": "Campeones del distrito",
+              "short": "Campeones",
+              "state": false,
+              "over": false
             },
             "lose": {
-              "game": {
-                "no": "7",
-                "round": "lastChance",
-                "label": "Partido de última oportunidad",
-                "date": "2026-11-21T18:00:00.000Z",
-                "dateWindow": null,
-                "timeKnown": true,
-                "venue": null,
-                "siteNote": "",
-                "played": false,
-                "pens": null,
-                "scoreSource": null,
-                "teams": [
-                  {
-                    "name": "Perdedor del partido 5",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Providence Classical Christian",
-                        "mascot": "Highlanders",
-                        "abbr": "PC",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Evergreen Lutheran",
-                        "mascot": "Eagles",
-                        "abbr": "EL",
-                        "color": "#00824B",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Mabton",
-                        "mascot": null,
-                        "abbr": "MA",
-                        "color": "#8C3B4A",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Mount Vernon Christian",
-                        "mascot": "Hurricanes",
-                        "abbr": "MV",
-                        "color": "#034CB2",
-                        "isUs": false
-                      }
-                    ],
-                    "score": null,
-                    "winner": false,
-                    "seed": null
-                  },
-                  {
-                    "name": "Perdedor del partido 6",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Friday Harbor",
-                        "mascot": "Wolverines",
-                        "abbr": "FH",
-                        "color": "#754ACC",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Chesterton Academy of Notre Dame",
-                        "mascot": "Knights",
-                        "abbr": "CA",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Auburn Adventist",
-                        "mascot": "Falcons",
-                        "abbr": "AA",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Orcas Island",
-                        "mascot": "Vikings",
-                        "abbr": "OI",
-                        "color": "#034CB2",
-                        "isUs": true
-                      }
-                    ],
-                    "score": null,
-                    "winner": false,
-                    "seed": null
-                  }
-                ],
-                "winner": {
-                  "text": "3.er lugar",
-                  "state": false
-                },
-                "loser": {
-                  "text": "4.º lugar",
-                  "state": false
-                },
-                "ours": false,
-                "watch": null,
-                "maybeOurs": true
-              },
-              "win": {
-                "outcome": "Terminar 3.º en el distrito",
-                "short": "3.er lugar",
-                "state": false,
-                "over": false
-              },
-              "lose": {
-                "outcome": "Terminar 4.º en el distrito",
-                "short": "4.º lugar",
-                "state": false,
-                "over": false
-              }
+              "outcome": "Subcampeones del distrito",
+              "short": "Subcampeones",
+              "state": false,
+              "over": false
             }
           },
           "lose": {
-            "outcome": "Fin de temporada",
-            "short": "Fin de temporada",
-            "state": false,
-            "over": true
+            "game": {
+              "no": "7",
+              "round": "lastChance",
+              "label": "Partido de última oportunidad",
+              "date": "2026-11-21T18:00:00.000Z",
+              "dateWindow": null,
+              "timeKnown": true,
+              "venue": null,
+              "siteNote": "",
+              "played": false,
+              "pens": null,
+              "scoreSource": null,
+              "teams": [
+                {
+                  "name": "Perdedor del partido 5",
+                  "placeholder": true,
+                  "candidates": [
+                    {
+                      "name": "Providence Classical Christian",
+                      "mascot": "Highlanders",
+                      "abbr": "PC",
+                      "color": "#022C66",
+                      "isUs": false
+                    },
+                    {
+                      "name": "Evergreen Lutheran",
+                      "mascot": "Eagles",
+                      "abbr": "EL",
+                      "color": "#00824B",
+                      "isUs": false
+                    },
+                    {
+                      "name": "Mabton",
+                      "mascot": null,
+                      "abbr": "MA",
+                      "color": "#8C3B4A",
+                      "isUs": false
+                    },
+                    {
+                      "name": "Mount Vernon Christian",
+                      "mascot": "Hurricanes",
+                      "abbr": "MV",
+                      "color": "#034CB2",
+                      "isUs": false
+                    }
+                  ],
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                },
+                {
+                  "name": "Perdedor del partido 6",
+                  "placeholder": true,
+                  "candidates": [
+                    {
+                      "name": "Friday Harbor",
+                      "mascot": "Wolverines",
+                      "abbr": "FH",
+                      "color": "#754ACC",
+                      "isUs": false
+                    },
+                    {
+                      "name": "Chesterton Academy of Notre Dame",
+                      "mascot": "Knights",
+                      "abbr": "CA",
+                      "color": "#022C66",
+                      "isUs": false
+                    },
+                    {
+                      "name": "Orcas Island",
+                      "mascot": "Vikings",
+                      "abbr": "OI",
+                      "color": "#034CB2",
+                      "isUs": true
+                    }
+                  ],
+                  "score": null,
+                  "winner": false,
+                  "seed": null
+                }
+              ],
+              "winner": {
+                "text": "3.er lugar",
+                "state": false
+              },
+              "loser": {
+                "text": "4.º lugar",
+                "state": false
+              },
+              "ours": false,
+              "watch": null,
+              "maybeOurs": true
+            },
+            "win": {
+              "outcome": "Terminar 3.º en el distrito",
+              "short": "3.er lugar",
+              "state": false,
+              "over": false
+            },
+            "lose": {
+              "outcome": "Terminar 4.º en el distrito",
+              "short": "4.º lugar",
+              "state": false,
+              "over": false
+            }
           }
         },
         "guaranteedState": null,
@@ -10142,9 +10129,9 @@
           "isUs": false
         },
         "home": true,
-        "result": null,
-        "gf": null,
-        "ga": null,
+        "result": "W",
+        "gf": 2,
+        "ga": 0,
         "stage": "State",
         "venue": "Anacortes HS",
         "watch": "https://fan.hudl.com/usa/wa/anacortes/organization/7825/anacortes-high-school/watch?b=QnJvYWRjYXN0NDgxNzIwNQ%3D%3D",
@@ -10225,11 +10212,6 @@
     ],
     "insights": [
       {
-        "icon": "🗓️",
-        "title": "Estatal: jugamos contra Auburn Adventist el viernes 13 de noviembre",
-        "text": "Vamos 1-0 contra ellos desde 2022. La última vez: ganamos 1-0."
-      },
-      {
         "icon": "🏆",
         "title": "¡Campeones del distrito Y de la liga!",
         "text": "Ganamos la final del distrito contra Mount Vernon Christian el sábado, 0-0 y 4-2 en penales, después de una temporada de liga perfecta (9-0). Próxima parada: el Estatal, que empieza el vie 13 nov."
@@ -10242,7 +10224,7 @@
       {
         "icon": "💪",
         "title": "Invictos toda la temporada",
-        "text": "18 victorias y 1 empate. Hemos anotado 95 goles y solo hemos recibido 13."
+        "text": "19 victorias y 1 empate. Hemos anotado 97 goles y solo hemos recibido 13."
       },
       {
         "icon": "⭐",
@@ -11881,15 +11863,15 @@
           {
             "season": "2026",
             "date": "2026-11-13T20:30:00.000Z",
-            "result": null,
-            "gf": null,
-            "ga": null,
+            "result": "W",
+            "gf": 2,
+            "ga": 0,
             "home": true,
             "stage": "State",
             "venue": "Anacortes HS",
             "pens": false,
             "close": false,
-            "upcoming": true
+            "upcoming": false
           },
           {
             "season": "2022",
@@ -11906,7 +11888,7 @@
           }
         ],
         "record": {
-          "w": 1,
+          "w": 2,
           "l": 0,
           "d": 0
         },
@@ -12105,16 +12087,8 @@
     "historySince": "2022",
     "calendar": [
       {
-        "id": "2026-11-13-g4",
-        "title": "Vikings vs Auburn · Primera ronda del Estatal",
-        "start": "2026-11-13T20:30:00.000Z",
-        "timeKnown": true,
-        "location": "Anacortes HS",
-        "details": "Fútbol varonil de los Orcas Island Vikings. Síguelos en: https://govikings.app"
-      },
-      {
         "id": "2026-11-20-g6",
-        "title": "Vikings vs Friday Harbor o Chesterton · Semifinal del Estatal (si avanzamos)",
+        "title": "Vikings vs Friday Harbor o Chesterton · Semifinal del Estatal",
         "start": "2026-11-20T21:00:00.000Z",
         "timeKnown": true,
         "location": "",
