@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//govikings.app//Vikings Soccer//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-21-g8@govikings.app
+DTSTAMP:20261113T171440Z
+DTSTART:20261121T230000Z
+DTEND:20261122T010000Z
+SUMMARY:Vikings vs TBD · State final (if we advance)
+LOCATION:
+DESCRIPTION:Orcas Island Vikings boys soccer. Follow along: https://govikings.app
+URL:https://govikings.app/
+END:VEVENT
+END:VCALENDAR
