@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T22:46:06.710Z",
+  "generatedAt": "2026-11-13T23:01:06.657Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -4066,6 +4066,62 @@
       "venue": "Anacortes HS",
       "watch": "https://fan.hudl.com/usa/wa/anacortes/organization/7825/anacortes-high-school/watch?b=QnJvYWRjYXN0NDgxNzIwNQ%3D%3D",
       "pens": null
+    },
+    {
+      "date": "2026-11-20T21:00:00.000Z",
+      "opponent": {
+        "name": "Friday Harbor or Chesterton Academy of Notre Dame",
+        "placeholder": true,
+        "candidates": [
+          {
+            "name": "Friday Harbor",
+            "mascot": "Wolverines",
+            "abbr": "FH",
+            "color": "#754ACC",
+            "isUs": false,
+            "meetings": [
+              {
+                "date": "2026-09-25T22:30:00.000Z",
+                "result": "W",
+                "gf": 4,
+                "ga": 1,
+                "home": false
+              },
+              {
+                "date": "2026-10-13T23:00:00.000Z",
+                "result": "W",
+                "gf": 2,
+                "ga": 0,
+                "home": true
+              }
+            ]
+          },
+          {
+            "name": "Chesterton Academy of Notre Dame",
+            "mascot": "Knights",
+            "abbr": "CA",
+            "color": "#022C66",
+            "isUs": false,
+            "meetings": [
+              {
+                "date": "2026-09-19T17:00:00.000Z",
+                "result": "W",
+                "gf": 6,
+                "ga": 0,
+                "home": false
+              }
+            ]
+          }
+        ]
+      },
+      "home": false,
+      "result": null,
+      "gf": null,
+      "ga": null,
+      "stage": "State",
+      "venue": null,
+      "watch": null,
+      "pens": null
     }
   ],
   "history": [
@@ -4307,6 +4363,12 @@
       "start": "2026-11-13T20:30:00.000Z",
       "timeKnown": true,
       "what": "Auburn Adventist",
+      "ours": true
+    },
+    {
+      "start": "2026-11-20T21:00:00.000Z",
+      "timeKnown": true,
+      "what": "Winner #3 (Friday Harbor / Chesterton Academy of Notre Dame)",
       "ours": true
     },
     {
@@ -6069,7 +6131,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-13T22:46:06.710Z",
+    "generatedAt": "2026-11-13T23:01:06.657Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -10136,6 +10198,62 @@
         "venue": "Anacortes HS",
         "watch": "https://fan.hudl.com/usa/wa/anacortes/organization/7825/anacortes-high-school/watch?b=QnJvYWRjYXN0NDgxNzIwNQ%3D%3D",
         "pens": null
+      },
+      {
+        "date": "2026-11-20T21:00:00.000Z",
+        "opponent": {
+          "name": "Friday Harbor o Chesterton Academy of Notre Dame",
+          "placeholder": true,
+          "candidates": [
+            {
+              "name": "Friday Harbor",
+              "mascot": "Wolverines",
+              "abbr": "FH",
+              "color": "#754ACC",
+              "isUs": false,
+              "meetings": [
+                {
+                  "date": "2026-09-25T22:30:00.000Z",
+                  "result": "W",
+                  "gf": 4,
+                  "ga": 1,
+                  "home": false
+                },
+                {
+                  "date": "2026-10-13T23:00:00.000Z",
+                  "result": "W",
+                  "gf": 2,
+                  "ga": 0,
+                  "home": true
+                }
+              ]
+            },
+            {
+              "name": "Chesterton Academy of Notre Dame",
+              "mascot": "Knights",
+              "abbr": "CA",
+              "color": "#022C66",
+              "isUs": false,
+              "meetings": [
+                {
+                  "date": "2026-09-19T17:00:00.000Z",
+                  "result": "W",
+                  "gf": 6,
+                  "ga": 0,
+                  "home": false
+                }
+              ]
+            }
+          ]
+        },
+        "home": false,
+        "result": null,
+        "gf": null,
+        "ga": null,
+        "stage": "State",
+        "venue": null,
+        "watch": null,
+        "pens": null
       }
     ],
     "history": [
@@ -10377,6 +10495,12 @@
         "start": "2026-11-13T20:30:00.000Z",
         "timeKnown": true,
         "what": "Auburn Adventist",
+        "ours": true
+      },
+      {
+        "start": "2026-11-20T21:00:00.000Z",
+        "timeKnown": true,
+        "what": "Winner #3 (Friday Harbor / Chesterton Academy of Notre Dame)",
         "ours": true
       },
       {
