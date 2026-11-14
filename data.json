@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T15:01:06.442Z",
+  "generatedAt": "2026-11-14T18:01:06.658Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -4007,7 +4007,7 @@
         "color": "#034CB2",
         "isUs": false
       },
-      "home": true,
+      "home": false,
       "result": "W",
       "gf": 0,
       "ga": 0,
@@ -4097,8 +4097,8 @@
   "history": [
     {
       "season": "2026-27",
-      "overall": "18-0-1",
-      "w": 18,
+      "overall": "19-0-1",
+      "w": 19,
       "l": 0,
       "t": 1
     },
@@ -4782,7 +4782,7 @@
           "result": "W",
           "gf": 0,
           "ga": 0,
-          "home": true,
+          "home": false,
           "stage": "District",
           "venue": "Sammamish HS",
           "pens": true,
@@ -6101,7 +6101,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-14T15:01:06.442Z",
+    "generatedAt": "2026-11-14T18:01:06.658Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -10109,7 +10109,7 @@
           "color": "#034CB2",
           "isUs": false
         },
-        "home": true,
+        "home": false,
         "result": "W",
         "gf": 0,
         "ga": 0,
@@ -10199,8 +10199,8 @@
     "history": [
       {
         "season": "2026-27",
-        "overall": "18-0-1",
-        "w": 18,
+        "overall": "19-0-1",
+        "w": 19,
         "l": 0,
         "t": 1
       },
@@ -10884,7 +10884,7 @@
             "result": "W",
             "gf": 0,
             "ga": 0,
-            "home": true,
+            "home": false,
             "stage": "District",
             "venue": "Sammamish HS",
             "pens": true,
