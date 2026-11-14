@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T18:01:06.658Z",
+  "generatedAt": "2026-11-14T23:01:06.134Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -92,46 +92,9 @@
             "home": true
           }
         ]
-      },
-      {
-        "name": "Chesterton Academy of Notre Dame",
-        "mascot": "Knights",
-        "abbr": "CA",
-        "color": "#022C66",
-        "isUs": false,
-        "meetings": [
-          {
-            "date": "2026-09-19T17:00:00.000Z",
-            "result": "W",
-            "gf": 6,
-            "ga": 0,
-            "home": false
-          }
-        ]
       }
     ],
-    "feeder": {
-      "teams": [
-        {
-          "name": "Friday Harbor",
-          "mascot": "Wolverines",
-          "abbr": "FH",
-          "color": "#754ACC",
-          "isUs": false
-        },
-        {
-          "name": "Chesterton Academy of Notre Dame",
-          "mascot": "Knights",
-          "abbr": "CA",
-          "color": "#022C66",
-          "isUs": false
-        }
-      ],
-      "date": "2026-11-14T18:00:00.000Z",
-      "timeKnown": true,
-      "venue": "Gonzaga Preparatory School",
-      "played": false
-    },
+    "feeder": null,
     "links": {
       "map": "https://www.google.com/maps/search/?api=1&query=Mount%20Tahoma%20Stadium%2C%20Tacoma%2C%20WA"
     },
@@ -159,17 +122,9 @@
       "date": "2026-11-20T21:00:00.000Z",
       "timeKnown": true,
       "opponents": [
-        "Friday Harbor",
-        "Chesterton"
+        "Friday Harbor"
       ],
-      "decidedBy": {
-        "teams": [
-          "Friday Harbor",
-          "Chesterton"
-        ],
-        "date": "2026-11-14T18:00:00.000Z",
-        "timeKnown": true
-      }
+      "decidedBy": null
     }
   },
   "dates": [
@@ -181,7 +136,7 @@
       "venue": "Mount Tahoma Stadium, Tacoma",
       "status": "confirmed",
       "note": "Next game",
-      "vs": "Friday Harbor or Chesterton",
+      "vs": "Friday Harbor",
       "calId": "2026-11-20-g6"
     },
     {
@@ -191,7 +146,7 @@
       "label": "State final",
       "venue": "Mount Tahoma Stadium, Tacoma",
       "status": "possible",
-      "note": "If we win our next game",
+      "note": "If we beat Friday Harbor on Friday",
       "vs": "Providence or Mabton or Mount Vernon",
       "calId": "2026-11-21-g8"
     },
@@ -202,7 +157,7 @@
       "label": "Last-chance game",
       "venue": null,
       "status": "possible",
-      "note": "If we lose our next game",
+      "note": "If we lose to Friday Harbor on Friday",
       "vs": "Providence or Mabton or Mount Vernon",
       "calId": "2026-11-21-g7"
     }
@@ -2050,9 +2005,9 @@
               "timeKnown": true,
               "venue": "Gonzaga Preparatory School",
               "siteNote": null,
-              "played": false,
+              "played": true,
               "pens": null,
-              "scoreSource": null,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Friday Harbor",
@@ -2060,8 +2015,8 @@
                   "abbr": "FH",
                   "color": "#754ACC",
                   "isUs": false,
-                  "score": null,
-                  "winner": false,
+                  "score": 1,
+                  "winner": true,
                   "seed": null
                 },
                 {
@@ -2070,7 +2025,7 @@
                   "abbr": "CA",
                   "color": "#022C66",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
                   "winner": false,
                   "seed": null
                 }
@@ -2212,24 +2167,11 @@
               "scoreSource": null,
               "teams": [
                 {
-                  "name": "Winner of Game 3",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Friday Harbor",
-                      "mascot": "Wolverines",
-                      "abbr": "FH",
-                      "color": "#754ACC",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Chesterton Academy of Notre Dame",
-                      "mascot": "Knights",
-                      "abbr": "CA",
-                      "color": "#022C66",
-                      "isUs": false
-                    }
-                  ],
+                  "name": "Friday Harbor",
+                  "mascot": "Wolverines",
+                  "abbr": "FH",
+                  "color": "#754ACC",
+                  "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -2318,13 +2260,6 @@
                       "isUs": false
                     },
                     {
-                      "name": "Chesterton Academy of Notre Dame",
-                      "mascot": "Knights",
-                      "abbr": "CA",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
                       "name": "Orcas Island",
                       "mascot": "Vikings",
                       "abbr": "OI",
@@ -2401,13 +2336,6 @@
                       "mascot": "Wolverines",
                       "abbr": "FH",
                       "color": "#754ACC",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Chesterton Academy of Notre Dame",
-                      "mascot": "Knights",
-                      "abbr": "CA",
-                      "color": "#022C66",
                       "isUs": false
                     },
                     {
@@ -2547,9 +2475,9 @@
               "timeKnown": true,
               "venue": "Gonzaga Preparatory School",
               "siteNote": null,
-              "played": false,
+              "played": true,
               "pens": null,
-              "scoreSource": null,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Friday Harbor",
@@ -2557,8 +2485,8 @@
                   "abbr": "FH",
                   "color": "#754ACC",
                   "isUs": false,
-                  "score": null,
-                  "winner": false,
+                  "score": 1,
+                  "winner": true,
                   "seed": null
                 },
                 {
@@ -2567,7 +2495,7 @@
                   "abbr": "CA",
                   "color": "#022C66",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
                   "winner": false,
                   "seed": null
                 }
@@ -2711,24 +2639,11 @@
               "scoreSource": null,
               "teams": [
                 {
-                  "name": "Winner of Game 3",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Friday Harbor",
-                      "mascot": "Wolverines",
-                      "abbr": "FH",
-                      "color": "#754ACC",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Chesterton Academy of Notre Dame",
-                      "mascot": "Knights",
-                      "abbr": "CA",
-                      "color": "#022C66",
-                      "isUs": false
-                    }
-                  ],
+                  "name": "Friday Harbor",
+                  "mascot": "Wolverines",
+                  "abbr": "FH",
+                  "color": "#754ACC",
+                  "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -2819,13 +2734,6 @@
                       "isUs": false
                     },
                     {
-                      "name": "Chesterton Academy of Notre Dame",
-                      "mascot": "Knights",
-                      "abbr": "CA",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
                       "name": "Orcas Island",
                       "mascot": "Vikings",
                       "abbr": "OI",
@@ -2906,13 +2814,6 @@
                   "mascot": "Wolverines",
                   "abbr": "FH",
                   "color": "#754ACC",
-                  "isUs": false
-                },
-                {
-                  "name": "Chesterton Academy of Notre Dame",
-                  "mascot": "Knights",
-                  "abbr": "CA",
-                  "color": "#022C66",
                   "isUs": false
                 },
                 {
@@ -3019,24 +2920,11 @@
             "scoreSource": null,
             "teams": [
               {
-                "name": "Winner of Game 3",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Friday Harbor",
-                    "mascot": "Wolverines",
-                    "abbr": "FH",
-                    "color": "#754ACC",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Chesterton Academy of Notre Dame",
-                    "mascot": "Knights",
-                    "abbr": "CA",
-                    "color": "#022C66",
-                    "isUs": false
-                  }
-                ],
+                "name": "Friday Harbor",
+                "mascot": "Wolverines",
+                "abbr": "FH",
+                "color": "#754ACC",
+                "isUs": false,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -3070,24 +2958,11 @@
           "pens": null,
           "watch": null,
           "opponent": {
-            "name": "Winner of Game 3",
-            "placeholder": true,
-            "candidates": [
-              {
-                "name": "Friday Harbor",
-                "mascot": "Wolverines",
-                "abbr": "FH",
-                "color": "#754ACC",
-                "isUs": false
-              },
-              {
-                "name": "Chesterton Academy of Notre Dame",
-                "mascot": "Knights",
-                "abbr": "CA",
-                "color": "#022C66",
-                "isUs": false
-              }
-            ]
+            "name": "Friday Harbor",
+            "mascot": "Wolverines",
+            "abbr": "FH",
+            "color": "#754ACC",
+            "isUs": false
           }
         }
       ],
@@ -3106,24 +2981,11 @@
           "scoreSource": null,
           "teams": [
             {
-              "name": "Winner of Game 3",
-              "placeholder": true,
-              "candidates": [
-                {
-                  "name": "Friday Harbor",
-                  "mascot": "Wolverines",
-                  "abbr": "FH",
-                  "color": "#754ACC",
-                  "isUs": false
-                },
-                {
-                  "name": "Chesterton Academy of Notre Dame",
-                  "mascot": "Knights",
-                  "abbr": "CA",
-                  "color": "#022C66",
-                  "isUs": false
-                }
-              ],
+              "name": "Friday Harbor",
+              "mascot": "Wolverines",
+              "abbr": "FH",
+              "color": "#754ACC",
+              "isUs": false,
               "score": null,
               "winner": false,
               "seed": null
@@ -3204,13 +3066,6 @@
                     "mascot": "Wolverines",
                     "abbr": "FH",
                     "color": "#754ACC",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Chesterton Academy of Notre Dame",
-                    "mascot": "Knights",
-                    "abbr": "CA",
-                    "color": "#022C66",
                     "isUs": false
                   },
                   {
@@ -3304,13 +3159,6 @@
                     "mascot": "Wolverines",
                     "abbr": "FH",
                     "color": "#754ACC",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Chesterton Academy of Notre Dame",
-                    "mascot": "Knights",
-                    "abbr": "CA",
-                    "color": "#022C66",
                     "isUs": false
                   },
                   {
@@ -4040,49 +3888,11 @@
     {
       "date": "2026-11-20T21:00:00.000Z",
       "opponent": {
-        "name": "Friday Harbor or Chesterton Academy of Notre Dame",
-        "placeholder": true,
-        "candidates": [
-          {
-            "name": "Friday Harbor",
-            "mascot": "Wolverines",
-            "abbr": "FH",
-            "color": "#754ACC",
-            "isUs": false,
-            "meetings": [
-              {
-                "date": "2026-09-25T22:30:00.000Z",
-                "result": "W",
-                "gf": 4,
-                "ga": 1,
-                "home": false
-              },
-              {
-                "date": "2026-10-13T23:00:00.000Z",
-                "result": "W",
-                "gf": 2,
-                "ga": 0,
-                "home": true
-              }
-            ]
-          },
-          {
-            "name": "Chesterton Academy of Notre Dame",
-            "mascot": "Knights",
-            "abbr": "CA",
-            "color": "#022C66",
-            "isUs": false,
-            "meetings": [
-              {
-                "date": "2026-09-19T17:00:00.000Z",
-                "result": "W",
-                "gf": 6,
-                "ga": 0,
-                "home": false
-              }
-            ]
-          }
-        ]
+        "name": "Friday Harbor",
+        "mascot": "Wolverines",
+        "abbr": "FH",
+        "color": "#754ACC",
+        "isUs": false
       },
       "home": false,
       "result": null,
@@ -4167,6 +3977,11 @@
     }
   ],
   "insights": [
+    {
+      "icon": "🗓️",
+      "title": "State: we play Friday Harbor Fri Nov 20",
+      "text": "We’re 8-5 against them since 2022. Last time: won 2-0."
+    },
     {
       "icon": "🏆",
       "title": "District AND league champions!",
@@ -4338,7 +4153,7 @@
     {
       "start": "2026-11-20T21:00:00.000Z",
       "timeKnown": true,
-      "what": "Winner #3 (Friday Harbor / Chesterton Academy of Notre Dame)",
+      "what": "Friday Harbor",
       "ours": true
     },
     {
@@ -4975,6 +4790,19 @@
         "isUs": false
       },
       "meetings": [
+        {
+          "season": "2026",
+          "date": "2026-11-20T21:00:00.000Z",
+          "result": null,
+          "gf": null,
+          "ga": null,
+          "home": false,
+          "stage": "State",
+          "venue": null,
+          "pens": false,
+          "close": false,
+          "upcoming": true
+        },
         {
           "season": "2026",
           "date": "2026-10-13T23:00:00.000Z",
@@ -6050,7 +5878,7 @@
   "calendar": [
     {
       "id": "2026-11-20-g6",
-      "title": "Vikings vs Friday Harbor or Chesterton · State semifinal",
+      "title": "Vikings vs Friday Harbor · State semifinal",
       "start": "2026-11-20T21:00:00.000Z",
       "timeKnown": true,
       "location": "Mount Tahoma Stadium, Tacoma",
@@ -6101,7 +5929,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-14T18:01:06.658Z",
+    "generatedAt": "2026-11-14T23:01:06.134Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -6194,46 +6022,9 @@
               "home": true
             }
           ]
-        },
-        {
-          "name": "Chesterton Academy of Notre Dame",
-          "mascot": "Knights",
-          "abbr": "CA",
-          "color": "#022C66",
-          "isUs": false,
-          "meetings": [
-            {
-              "date": "2026-09-19T17:00:00.000Z",
-              "result": "W",
-              "gf": 6,
-              "ga": 0,
-              "home": false
-            }
-          ]
         }
       ],
-      "feeder": {
-        "teams": [
-          {
-            "name": "Friday Harbor",
-            "mascot": "Wolverines",
-            "abbr": "FH",
-            "color": "#754ACC",
-            "isUs": false
-          },
-          {
-            "name": "Chesterton Academy of Notre Dame",
-            "mascot": "Knights",
-            "abbr": "CA",
-            "color": "#022C66",
-            "isUs": false
-          }
-        ],
-        "date": "2026-11-14T18:00:00.000Z",
-        "timeKnown": true,
-        "venue": "Gonzaga Preparatory School",
-        "played": false
-      },
+      "feeder": null,
       "links": {
         "map": "https://www.google.com/maps/search/?api=1&query=Mount%20Tahoma%20Stadium%2C%20Tacoma%2C%20WA"
       },
@@ -6261,17 +6052,9 @@
         "date": "2026-11-20T21:00:00.000Z",
         "timeKnown": true,
         "opponents": [
-          "Friday Harbor",
-          "Chesterton"
+          "Friday Harbor"
         ],
-        "decidedBy": {
-          "teams": [
-            "Friday Harbor",
-            "Chesterton"
-          ],
-          "date": "2026-11-14T18:00:00.000Z",
-          "timeKnown": true
-        }
+        "decidedBy": null
       }
     },
     "dates": [
@@ -6283,7 +6066,7 @@
         "venue": "Mount Tahoma Stadium, Tacoma",
         "status": "confirmed",
         "note": "Próximo partido",
-        "vs": "Friday Harbor o Chesterton",
+        "vs": "Friday Harbor",
         "calId": "2026-11-20-g6"
       },
       {
@@ -6293,7 +6076,7 @@
         "label": "Final del Estatal",
         "venue": "Mount Tahoma Stadium, Tacoma",
         "status": "possible",
-        "note": "Si ganamos el próximo partido",
+        "note": "Si le ganamos a Friday Harbor el viernes",
         "vs": "Providence o Mabton o Mount Vernon",
         "calId": "2026-11-21-g8"
       },
@@ -6304,7 +6087,7 @@
         "label": "Partido de última oportunidad",
         "venue": null,
         "status": "possible",
-        "note": "Si perdemos el próximo partido",
+        "note": "Si perdemos contra Friday Harbor el viernes",
         "vs": "Providence o Mabton o Mount Vernon",
         "calId": "2026-11-21-g7"
       }
@@ -8152,9 +7935,9 @@
                 "timeKnown": true,
                 "venue": "Gonzaga Preparatory School",
                 "siteNote": null,
-                "played": false,
+                "played": true,
                 "pens": null,
-                "scoreSource": null,
+                "scoreSource": "bracket",
                 "teams": [
                   {
                     "name": "Friday Harbor",
@@ -8162,8 +7945,8 @@
                     "abbr": "FH",
                     "color": "#754ACC",
                     "isUs": false,
-                    "score": null,
-                    "winner": false,
+                    "score": 1,
+                    "winner": true,
                     "seed": null
                   },
                   {
@@ -8172,7 +7955,7 @@
                     "abbr": "CA",
                     "color": "#022C66",
                     "isUs": false,
-                    "score": null,
+                    "score": 0,
                     "winner": false,
                     "seed": null
                   }
@@ -8314,24 +8097,11 @@
                 "scoreSource": null,
                 "teams": [
                   {
-                    "name": "Ganador del partido 3",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Friday Harbor",
-                        "mascot": "Wolverines",
-                        "abbr": "FH",
-                        "color": "#754ACC",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Chesterton Academy of Notre Dame",
-                        "mascot": "Knights",
-                        "abbr": "CA",
-                        "color": "#022C66",
-                        "isUs": false
-                      }
-                    ],
+                    "name": "Friday Harbor",
+                    "mascot": "Wolverines",
+                    "abbr": "FH",
+                    "color": "#754ACC",
+                    "isUs": false,
                     "score": null,
                     "winner": false,
                     "seed": null
@@ -8420,13 +8190,6 @@
                         "isUs": false
                       },
                       {
-                        "name": "Chesterton Academy of Notre Dame",
-                        "mascot": "Knights",
-                        "abbr": "CA",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
                         "name": "Orcas Island",
                         "mascot": "Vikings",
                         "abbr": "OI",
@@ -8503,13 +8266,6 @@
                         "mascot": "Wolverines",
                         "abbr": "FH",
                         "color": "#754ACC",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Chesterton Academy of Notre Dame",
-                        "mascot": "Knights",
-                        "abbr": "CA",
-                        "color": "#022C66",
                         "isUs": false
                       },
                       {
@@ -8649,9 +8405,9 @@
                 "timeKnown": true,
                 "venue": "Gonzaga Preparatory School",
                 "siteNote": null,
-                "played": false,
+                "played": true,
                 "pens": null,
-                "scoreSource": null,
+                "scoreSource": "bracket",
                 "teams": [
                   {
                     "name": "Friday Harbor",
@@ -8659,8 +8415,8 @@
                     "abbr": "FH",
                     "color": "#754ACC",
                     "isUs": false,
-                    "score": null,
-                    "winner": false,
+                    "score": 1,
+                    "winner": true,
                     "seed": null
                   },
                   {
@@ -8669,7 +8425,7 @@
                     "abbr": "CA",
                     "color": "#022C66",
                     "isUs": false,
-                    "score": null,
+                    "score": 0,
                     "winner": false,
                     "seed": null
                   }
@@ -8813,24 +8569,11 @@
                 "scoreSource": null,
                 "teams": [
                   {
-                    "name": "Ganador del partido 3",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Friday Harbor",
-                        "mascot": "Wolverines",
-                        "abbr": "FH",
-                        "color": "#754ACC",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Chesterton Academy of Notre Dame",
-                        "mascot": "Knights",
-                        "abbr": "CA",
-                        "color": "#022C66",
-                        "isUs": false
-                      }
-                    ],
+                    "name": "Friday Harbor",
+                    "mascot": "Wolverines",
+                    "abbr": "FH",
+                    "color": "#754ACC",
+                    "isUs": false,
                     "score": null,
                     "winner": false,
                     "seed": null
@@ -8921,13 +8664,6 @@
                         "isUs": false
                       },
                       {
-                        "name": "Chesterton Academy of Notre Dame",
-                        "mascot": "Knights",
-                        "abbr": "CA",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
                         "name": "Orcas Island",
                         "mascot": "Vikings",
                         "abbr": "OI",
@@ -9008,13 +8744,6 @@
                     "mascot": "Wolverines",
                     "abbr": "FH",
                     "color": "#754ACC",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Chesterton Academy of Notre Dame",
-                    "mascot": "Knights",
-                    "abbr": "CA",
-                    "color": "#022C66",
                     "isUs": false
                   },
                   {
@@ -9121,24 +8850,11 @@
               "scoreSource": null,
               "teams": [
                 {
-                  "name": "Ganador del partido 3",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Friday Harbor",
-                      "mascot": "Wolverines",
-                      "abbr": "FH",
-                      "color": "#754ACC",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Chesterton Academy of Notre Dame",
-                      "mascot": "Knights",
-                      "abbr": "CA",
-                      "color": "#022C66",
-                      "isUs": false
-                    }
-                  ],
+                  "name": "Friday Harbor",
+                  "mascot": "Wolverines",
+                  "abbr": "FH",
+                  "color": "#754ACC",
+                  "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -9172,24 +8888,11 @@
             "pens": null,
             "watch": null,
             "opponent": {
-              "name": "Ganador del partido 3",
-              "placeholder": true,
-              "candidates": [
-                {
-                  "name": "Friday Harbor",
-                  "mascot": "Wolverines",
-                  "abbr": "FH",
-                  "color": "#754ACC",
-                  "isUs": false
-                },
-                {
-                  "name": "Chesterton Academy of Notre Dame",
-                  "mascot": "Knights",
-                  "abbr": "CA",
-                  "color": "#022C66",
-                  "isUs": false
-                }
-              ]
+              "name": "Friday Harbor",
+              "mascot": "Wolverines",
+              "abbr": "FH",
+              "color": "#754ACC",
+              "isUs": false
             }
           }
         ],
@@ -9208,24 +8911,11 @@
             "scoreSource": null,
             "teams": [
               {
-                "name": "Ganador del partido 3",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Friday Harbor",
-                    "mascot": "Wolverines",
-                    "abbr": "FH",
-                    "color": "#754ACC",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Chesterton Academy of Notre Dame",
-                    "mascot": "Knights",
-                    "abbr": "CA",
-                    "color": "#022C66",
-                    "isUs": false
-                  }
-                ],
+                "name": "Friday Harbor",
+                "mascot": "Wolverines",
+                "abbr": "FH",
+                "color": "#754ACC",
+                "isUs": false,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -9306,13 +8996,6 @@
                       "mascot": "Wolverines",
                       "abbr": "FH",
                       "color": "#754ACC",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Chesterton Academy of Notre Dame",
-                      "mascot": "Knights",
-                      "abbr": "CA",
-                      "color": "#022C66",
                       "isUs": false
                     },
                     {
@@ -9406,13 +9089,6 @@
                       "mascot": "Wolverines",
                       "abbr": "FH",
                       "color": "#754ACC",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Chesterton Academy of Notre Dame",
-                      "mascot": "Knights",
-                      "abbr": "CA",
-                      "color": "#022C66",
                       "isUs": false
                     },
                     {
@@ -10142,49 +9818,11 @@
       {
         "date": "2026-11-20T21:00:00.000Z",
         "opponent": {
-          "name": "Friday Harbor o Chesterton Academy of Notre Dame",
-          "placeholder": true,
-          "candidates": [
-            {
-              "name": "Friday Harbor",
-              "mascot": "Wolverines",
-              "abbr": "FH",
-              "color": "#754ACC",
-              "isUs": false,
-              "meetings": [
-                {
-                  "date": "2026-09-25T22:30:00.000Z",
-                  "result": "W",
-                  "gf": 4,
-                  "ga": 1,
-                  "home": false
-                },
-                {
-                  "date": "2026-10-13T23:00:00.000Z",
-                  "result": "W",
-                  "gf": 2,
-                  "ga": 0,
-                  "home": true
-                }
-              ]
-            },
-            {
-              "name": "Chesterton Academy of Notre Dame",
-              "mascot": "Knights",
-              "abbr": "CA",
-              "color": "#022C66",
-              "isUs": false,
-              "meetings": [
-                {
-                  "date": "2026-09-19T17:00:00.000Z",
-                  "result": "W",
-                  "gf": 6,
-                  "ga": 0,
-                  "home": false
-                }
-              ]
-            }
-          ]
+          "name": "Friday Harbor",
+          "mascot": "Wolverines",
+          "abbr": "FH",
+          "color": "#754ACC",
+          "isUs": false
         },
         "home": false,
         "result": null,
@@ -10269,6 +9907,11 @@
       }
     ],
     "insights": [
+      {
+        "icon": "🗓️",
+        "title": "Estatal: jugamos contra Friday Harbor el viernes 20 de noviembre",
+        "text": "Vamos 8-5 contra ellos desde 2022. La última vez: ganamos 2-0."
+      },
       {
         "icon": "🏆",
         "title": "¡Campeones del distrito Y de la liga!",
@@ -10440,7 +10083,7 @@
       {
         "start": "2026-11-20T21:00:00.000Z",
         "timeKnown": true,
-        "what": "Winner #3 (Friday Harbor / Chesterton Academy of Notre Dame)",
+        "what": "Friday Harbor",
         "ours": true
       },
       {
@@ -11077,6 +10720,19 @@
           "isUs": false
         },
         "meetings": [
+          {
+            "season": "2026",
+            "date": "2026-11-20T21:00:00.000Z",
+            "result": null,
+            "gf": null,
+            "ga": null,
+            "home": false,
+            "stage": "State",
+            "venue": null,
+            "pens": false,
+            "close": false,
+            "upcoming": true
+          },
           {
             "season": "2026",
             "date": "2026-10-13T23:00:00.000Z",
@@ -12152,7 +11808,7 @@
     "calendar": [
       {
         "id": "2026-11-20-g6",
-        "title": "Vikings vs Friday Harbor o Chesterton · Semifinal del Estatal",
+        "title": "Vikings vs Friday Harbor · Semifinal del Estatal",
         "start": "2026-11-20T21:00:00.000Z",
         "timeKnown": true,
         "location": "Mount Tahoma Stadium, Tacoma",
