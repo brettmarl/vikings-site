@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:34:54.696Z",
+  "generatedAt": "2026-11-14T01:16:06.348Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -6167,9 +6167,11 @@
       "url": "https://www.wiaa.com/tournament/?sportid=9"
     }
   ],
-  "notes": [],
+  "notes": [
+    "network error for https://www.nfhsnetwork.com/schools/orcas-island-high-school-eastsound-wa/soccer/boys/varsity (The operation was aborted due to timeout); using cached copy from 11/14/2026, 1:01:09 AM"
+  ],
   "es": {
-    "generatedAt": "2026-11-13T23:34:54.696Z",
+    "generatedAt": "2026-11-14T01:16:06.348Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -12337,6 +12339,8 @@
         "url": "https://www.wiaa.com/tournament/?sportid=9"
       }
     ],
-    "notes": []
+    "notes": [
+      "network error for https://www.nfhsnetwork.com/schools/orcas-island-high-school-eastsound-wa/soccer/boys/varsity (The operation was aborted due to timeout); using cached copy from 11/14/2026, 1:01:09 AM"
+    ]
   }
 }
