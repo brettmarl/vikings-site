@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T03:01:06.272Z",
+  "generatedAt": "2026-11-14T05:01:06.360Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -192,7 +192,7 @@
       "venue": "Mount Tahoma Stadium, Tacoma",
       "status": "possible",
       "note": "If we win our next game",
-      "vs": "TBD",
+      "vs": "Providence or Mabton or Mount Vernon",
       "calId": "2026-11-21-g8"
     },
     {
@@ -203,7 +203,7 @@
       "venue": null,
       "status": "possible",
       "note": "If we lose our next game",
-      "vs": "TBD",
+      "vs": "Providence or Mabton or Mount Vernon",
       "calId": "2026-11-21-g7"
     }
   ],
@@ -1954,7 +1954,7 @@
               "siteNote": null,
               "played": true,
               "pens": null,
-              "scoreSource": "maxpreps",
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Auburn Adventist",
@@ -1998,9 +1998,9 @@
               "timeKnown": true,
               "venue": "Franklin Pierce HS",
               "siteNote": null,
-              "played": false,
+              "played": true,
               "pens": null,
-              "scoreSource": null,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Providence Classical Christian",
@@ -2008,8 +2008,8 @@
                   "abbr": "PC",
                   "color": "#022C66",
                   "isUs": false,
-                  "score": null,
-                  "winner": false,
+                  "score": 1,
+                  "winner": true,
                   "seed": null
                 },
                 {
@@ -2018,7 +2018,7 @@
                   "abbr": "EL",
                   "color": "#00824B",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
                   "winner": false,
                   "seed": null
                 }
@@ -2153,24 +2153,11 @@
               "scoreSource": null,
               "teams": [
                 {
-                  "name": "Winner of Game 1",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Providence Classical Christian",
-                      "mascot": "Highlanders",
-                      "abbr": "PC",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Evergreen Lutheran",
-                      "mascot": "Eagles",
-                      "abbr": "EL",
-                      "color": "#00824B",
-                      "isUs": false
-                    }
-                  ],
+                  "name": "Providence Classical Christian",
+                  "mascot": "Highlanders",
+                  "abbr": "PC",
+                  "color": "#022C66",
+                  "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -2301,13 +2288,6 @@
                       "isUs": false
                     },
                     {
-                      "name": "Evergreen Lutheran",
-                      "mascot": "Eagles",
-                      "abbr": "EL",
-                      "color": "#00824B",
-                      "isUs": false
-                    },
-                    {
                       "name": "Mabton",
                       "mascot": null,
                       "abbr": "MA",
@@ -2394,13 +2374,6 @@
                       "isUs": false
                     },
                     {
-                      "name": "Evergreen Lutheran",
-                      "mascot": "Eagles",
-                      "abbr": "EL",
-                      "color": "#00824B",
-                      "isUs": false
-                    },
-                    {
                       "name": "Mabton",
                       "mascot": null,
                       "abbr": "MA",
@@ -2482,9 +2455,9 @@
               "timeKnown": true,
               "venue": "Franklin Pierce HS",
               "siteNote": null,
-              "played": false,
+              "played": true,
               "pens": null,
-              "scoreSource": null,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Providence Classical Christian",
@@ -2492,8 +2465,8 @@
                   "abbr": "PC",
                   "color": "#022C66",
                   "isUs": false,
-                  "score": null,
-                  "winner": false,
+                  "score": 1,
+                  "winner": true,
                   "seed": null
                 },
                 {
@@ -2502,7 +2475,7 @@
                   "abbr": "EL",
                   "color": "#00824B",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
                   "winner": false,
                   "seed": null
                 }
@@ -2622,7 +2595,7 @@
               "siteNote": null,
               "played": true,
               "pens": null,
-              "scoreSource": "maxpreps",
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Auburn Adventist",
@@ -2679,24 +2652,11 @@
               "scoreSource": null,
               "teams": [
                 {
-                  "name": "Winner of Game 1",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Providence Classical Christian",
-                      "mascot": "Highlanders",
-                      "abbr": "PC",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Evergreen Lutheran",
-                      "mascot": "Eagles",
-                      "abbr": "EL",
-                      "color": "#00824B",
-                      "isUs": false
-                    }
-                  ],
+                  "name": "Providence Classical Christian",
+                  "mascot": "Highlanders",
+                  "abbr": "PC",
+                  "color": "#022C66",
+                  "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -2829,13 +2789,6 @@
                       "isUs": false
                     },
                     {
-                      "name": "Evergreen Lutheran",
-                      "mascot": "Eagles",
-                      "abbr": "EL",
-                      "color": "#00824B",
-                      "isUs": false
-                    },
-                    {
                       "name": "Mabton",
                       "mascot": null,
                       "abbr": "MA",
@@ -2926,13 +2879,6 @@
                   "isUs": false
                 },
                 {
-                  "name": "Evergreen Lutheran",
-                  "mascot": "Eagles",
-                  "abbr": "EL",
-                  "color": "#00824B",
-                  "isUs": false
-                },
-                {
                   "name": "Mabton",
                   "mascot": null,
                   "abbr": "MA",
@@ -3010,7 +2956,7 @@
             "siteNote": null,
             "played": true,
             "pens": null,
-            "scoreSource": "maxpreps",
+            "scoreSource": "bracket",
             "teams": [
               {
                 "name": "Auburn Adventist",
@@ -3231,13 +3177,6 @@
                     "isUs": false
                   },
                   {
-                    "name": "Evergreen Lutheran",
-                    "mascot": "Eagles",
-                    "abbr": "EL",
-                    "color": "#00824B",
-                    "isUs": false
-                  },
-                  {
                     "name": "Mabton",
                     "mascot": null,
                     "abbr": "MA",
@@ -3338,13 +3277,6 @@
                     "isUs": false
                   },
                   {
-                    "name": "Evergreen Lutheran",
-                    "mascot": "Eagles",
-                    "abbr": "EL",
-                    "color": "#00824B",
-                    "isUs": false
-                  },
-                  {
                     "name": "Mabton",
                     "mascot": null,
                     "abbr": "MA",
@@ -3424,7 +3356,7 @@
       "final": null,
       "berths": 0,
       "teamCount": null,
-      "bracketLagging": true
+      "bracketLagging": false
     },
     "field": {
       "clinched": [
@@ -6126,7 +6058,7 @@
     },
     {
       "id": "2026-11-21-g8",
-      "title": "Vikings vs TBD · State final (if we advance)",
+      "title": "Vikings vs Providence or Mabton or Mount Vernon · State final (if we advance)",
       "start": "2026-11-21T23:00:00.000Z",
       "timeKnown": true,
       "location": "Mount Tahoma Stadium, Tacoma",
@@ -6134,7 +6066,7 @@
     },
     {
       "id": "2026-11-21-g7",
-      "title": "Vikings vs TBD · Last-chance game (if we advance)",
+      "title": "Vikings vs Providence or Mabton or Mount Vernon · Last-chance game (if we advance)",
       "start": "2026-11-21T18:00:00.000Z",
       "timeKnown": true,
       "location": "",
@@ -6169,7 +6101,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-14T03:01:06.272Z",
+    "generatedAt": "2026-11-14T05:01:06.360Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -6362,7 +6294,7 @@
         "venue": "Mount Tahoma Stadium, Tacoma",
         "status": "possible",
         "note": "Si ganamos el próximo partido",
-        "vs": "Por definir",
+        "vs": "Providence o Mabton o Mount Vernon",
         "calId": "2026-11-21-g8"
       },
       {
@@ -6373,7 +6305,7 @@
         "venue": null,
         "status": "possible",
         "note": "Si perdemos el próximo partido",
-        "vs": "Por definir",
+        "vs": "Providence o Mabton o Mount Vernon",
         "calId": "2026-11-21-g7"
       }
     ],
@@ -8124,7 +8056,7 @@
                 "siteNote": null,
                 "played": true,
                 "pens": null,
-                "scoreSource": "maxpreps",
+                "scoreSource": "bracket",
                 "teams": [
                   {
                     "name": "Auburn Adventist",
@@ -8168,9 +8100,9 @@
                 "timeKnown": true,
                 "venue": "Franklin Pierce HS",
                 "siteNote": null,
-                "played": false,
+                "played": true,
                 "pens": null,
-                "scoreSource": null,
+                "scoreSource": "bracket",
                 "teams": [
                   {
                     "name": "Providence Classical Christian",
@@ -8178,8 +8110,8 @@
                     "abbr": "PC",
                     "color": "#022C66",
                     "isUs": false,
-                    "score": null,
-                    "winner": false,
+                    "score": 1,
+                    "winner": true,
                     "seed": null
                   },
                   {
@@ -8188,7 +8120,7 @@
                     "abbr": "EL",
                     "color": "#00824B",
                     "isUs": false,
-                    "score": null,
+                    "score": 0,
                     "winner": false,
                     "seed": null
                   }
@@ -8323,24 +8255,11 @@
                 "scoreSource": null,
                 "teams": [
                   {
-                    "name": "Ganador del partido 1",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Providence Classical Christian",
-                        "mascot": "Highlanders",
-                        "abbr": "PC",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Evergreen Lutheran",
-                        "mascot": "Eagles",
-                        "abbr": "EL",
-                        "color": "#00824B",
-                        "isUs": false
-                      }
-                    ],
+                    "name": "Providence Classical Christian",
+                    "mascot": "Highlanders",
+                    "abbr": "PC",
+                    "color": "#022C66",
+                    "isUs": false,
                     "score": null,
                     "winner": false,
                     "seed": null
@@ -8471,13 +8390,6 @@
                         "isUs": false
                       },
                       {
-                        "name": "Evergreen Lutheran",
-                        "mascot": "Eagles",
-                        "abbr": "EL",
-                        "color": "#00824B",
-                        "isUs": false
-                      },
-                      {
                         "name": "Mabton",
                         "mascot": null,
                         "abbr": "MA",
@@ -8564,13 +8476,6 @@
                         "isUs": false
                       },
                       {
-                        "name": "Evergreen Lutheran",
-                        "mascot": "Eagles",
-                        "abbr": "EL",
-                        "color": "#00824B",
-                        "isUs": false
-                      },
-                      {
                         "name": "Mabton",
                         "mascot": null,
                         "abbr": "MA",
@@ -8652,9 +8557,9 @@
                 "timeKnown": true,
                 "venue": "Franklin Pierce HS",
                 "siteNote": null,
-                "played": false,
+                "played": true,
                 "pens": null,
-                "scoreSource": null,
+                "scoreSource": "bracket",
                 "teams": [
                   {
                     "name": "Providence Classical Christian",
@@ -8662,8 +8567,8 @@
                     "abbr": "PC",
                     "color": "#022C66",
                     "isUs": false,
-                    "score": null,
-                    "winner": false,
+                    "score": 1,
+                    "winner": true,
                     "seed": null
                   },
                   {
@@ -8672,7 +8577,7 @@
                     "abbr": "EL",
                     "color": "#00824B",
                     "isUs": false,
-                    "score": null,
+                    "score": 0,
                     "winner": false,
                     "seed": null
                   }
@@ -8792,7 +8697,7 @@
                 "siteNote": null,
                 "played": true,
                 "pens": null,
-                "scoreSource": "maxpreps",
+                "scoreSource": "bracket",
                 "teams": [
                   {
                     "name": "Auburn Adventist",
@@ -8849,24 +8754,11 @@
                 "scoreSource": null,
                 "teams": [
                   {
-                    "name": "Ganador del partido 1",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Providence Classical Christian",
-                        "mascot": "Highlanders",
-                        "abbr": "PC",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Evergreen Lutheran",
-                        "mascot": "Eagles",
-                        "abbr": "EL",
-                        "color": "#00824B",
-                        "isUs": false
-                      }
-                    ],
+                    "name": "Providence Classical Christian",
+                    "mascot": "Highlanders",
+                    "abbr": "PC",
+                    "color": "#022C66",
+                    "isUs": false,
                     "score": null,
                     "winner": false,
                     "seed": null
@@ -8999,13 +8891,6 @@
                         "isUs": false
                       },
                       {
-                        "name": "Evergreen Lutheran",
-                        "mascot": "Eagles",
-                        "abbr": "EL",
-                        "color": "#00824B",
-                        "isUs": false
-                      },
-                      {
                         "name": "Mabton",
                         "mascot": null,
                         "abbr": "MA",
@@ -9096,13 +8981,6 @@
                     "isUs": false
                   },
                   {
-                    "name": "Evergreen Lutheran",
-                    "mascot": "Eagles",
-                    "abbr": "EL",
-                    "color": "#00824B",
-                    "isUs": false
-                  },
-                  {
                     "name": "Mabton",
                     "mascot": null,
                     "abbr": "MA",
@@ -9180,7 +9058,7 @@
               "siteNote": null,
               "played": true,
               "pens": null,
-              "scoreSource": "maxpreps",
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Auburn Adventist",
@@ -9401,13 +9279,6 @@
                       "isUs": false
                     },
                     {
-                      "name": "Evergreen Lutheran",
-                      "mascot": "Eagles",
-                      "abbr": "EL",
-                      "color": "#00824B",
-                      "isUs": false
-                    },
-                    {
                       "name": "Mabton",
                       "mascot": null,
                       "abbr": "MA",
@@ -9508,13 +9379,6 @@
                       "isUs": false
                     },
                     {
-                      "name": "Evergreen Lutheran",
-                      "mascot": "Eagles",
-                      "abbr": "EL",
-                      "color": "#00824B",
-                      "isUs": false
-                    },
-                    {
                       "name": "Mabton",
                       "mascot": null,
                       "abbr": "MA",
@@ -9594,7 +9458,7 @@
         "final": null,
         "berths": 0,
         "teamCount": null,
-        "bracketLagging": true
+        "bracketLagging": false
       },
       "field": {
         "clinched": [
@@ -12296,7 +12160,7 @@
       },
       {
         "id": "2026-11-21-g8",
-        "title": "Vikings vs Por definir · Final del Estatal (si avanzamos)",
+        "title": "Vikings vs Providence o Mabton o Mount Vernon · Final del Estatal (si avanzamos)",
         "start": "2026-11-21T23:00:00.000Z",
         "timeKnown": true,
         "location": "Mount Tahoma Stadium, Tacoma",
@@ -12304,7 +12168,7 @@
       },
       {
         "id": "2026-11-21-g7",
-        "title": "Vikings vs Por definir · Partido de última oportunidad (si avanzamos)",
+        "title": "Vikings vs Providence o Mabton o Mount Vernon · Partido de última oportunidad (si avanzamos)",
         "start": "2026-11-21T18:00:00.000Z",
         "timeKnown": true,
         "location": "",
