@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T23:01:06.134Z",
+  "generatedAt": "2026-11-15T01:01:06.886Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -147,7 +147,7 @@
       "venue": "Mount Tahoma Stadium, Tacoma",
       "status": "possible",
       "note": "If we beat Friday Harbor on Friday",
-      "vs": "Providence or Mabton or Mount Vernon",
+      "vs": "Providence or Mount Vernon",
       "calId": "2026-11-21-g8"
     },
     {
@@ -158,7 +158,7 @@
       "venue": null,
       "status": "possible",
       "note": "If we lose to Friday Harbor on Friday",
-      "vs": "Providence or Mabton or Mount Vernon",
+      "vs": "Providence or Mount Vernon",
       "calId": "2026-11-21-g7"
     }
   ],
@@ -2051,9 +2051,9 @@
               "timeKnown": true,
               "venue": "Mt Vernon HS",
               "siteNote": null,
-              "played": false,
+              "played": true,
               "pens": null,
-              "scoreSource": null,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Mabton",
@@ -2061,7 +2061,7 @@
                   "abbr": "MA",
                   "color": "#8C3B4A",
                   "isUs": false,
-                  "score": null,
+                  "score": 1,
                   "winner": false,
                   "seed": null
                 },
@@ -2071,8 +2071,8 @@
                   "abbr": "MV",
                   "color": "#034CB2",
                   "isUs": false,
-                  "score": null,
-                  "winner": false,
+                  "score": 2,
+                  "winner": true,
                   "seed": null
                 }
               ],
@@ -2118,24 +2118,11 @@
                   "seed": null
                 },
                 {
-                  "name": "Winner of Game 2",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Mabton",
-                      "mascot": null,
-                      "abbr": "MA",
-                      "color": "#8C3B4A",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Mount Vernon Christian",
-                      "mascot": "Hurricanes",
-                      "abbr": "MV",
-                      "color": "#034CB2",
-                      "isUs": false
-                    }
-                  ],
+                  "name": "Mount Vernon Christian",
+                  "mascot": "Hurricanes",
+                  "abbr": "MV",
+                  "color": "#034CB2",
+                  "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -2230,13 +2217,6 @@
                       "isUs": false
                     },
                     {
-                      "name": "Mabton",
-                      "mascot": null,
-                      "abbr": "MA",
-                      "color": "#8C3B4A",
-                      "isUs": false
-                    },
-                    {
                       "name": "Mount Vernon Christian",
                       "mascot": "Hurricanes",
                       "abbr": "MV",
@@ -2306,13 +2286,6 @@
                       "mascot": "Highlanders",
                       "abbr": "PC",
                       "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Mabton",
-                      "mascot": null,
-                      "abbr": "MA",
-                      "color": "#8C3B4A",
                       "isUs": false
                     },
                     {
@@ -2429,9 +2402,9 @@
               "timeKnown": true,
               "venue": "Mt Vernon HS",
               "siteNote": null,
-              "played": false,
+              "played": true,
               "pens": null,
-              "scoreSource": null,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Mabton",
@@ -2439,7 +2412,7 @@
                   "abbr": "MA",
                   "color": "#8C3B4A",
                   "isUs": false,
-                  "score": null,
+                  "score": 1,
                   "winner": false,
                   "seed": null
                 },
@@ -2449,8 +2422,8 @@
                   "abbr": "MV",
                   "color": "#034CB2",
                   "isUs": false,
-                  "score": null,
-                  "winner": false,
+                  "score": 2,
+                  "winner": true,
                   "seed": null
                 }
               ],
@@ -2590,24 +2563,11 @@
                   "seed": null
                 },
                 {
-                  "name": "Winner of Game 2",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Mabton",
-                      "mascot": null,
-                      "abbr": "MA",
-                      "color": "#8C3B4A",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Mount Vernon Christian",
-                      "mascot": "Hurricanes",
-                      "abbr": "MV",
-                      "color": "#034CB2",
-                      "isUs": false
-                    }
-                  ],
+                  "name": "Mount Vernon Christian",
+                  "mascot": "Hurricanes",
+                  "abbr": "MV",
+                  "color": "#034CB2",
+                  "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -2704,13 +2664,6 @@
                       "isUs": false
                     },
                     {
-                      "name": "Mabton",
-                      "mascot": null,
-                      "abbr": "MA",
-                      "color": "#8C3B4A",
-                      "isUs": false
-                    },
-                    {
                       "name": "Mount Vernon Christian",
                       "mascot": "Hurricanes",
                       "abbr": "MV",
@@ -2784,13 +2737,6 @@
                   "mascot": "Highlanders",
                   "abbr": "PC",
                   "color": "#022C66",
-                  "isUs": false
-                },
-                {
-                  "name": "Mabton",
-                  "mascot": null,
-                  "abbr": "MA",
-                  "color": "#8C3B4A",
                   "isUs": false
                 },
                 {
@@ -3039,13 +2985,6 @@
                     "isUs": false
                   },
                   {
-                    "name": "Mabton",
-                    "mascot": null,
-                    "abbr": "MA",
-                    "color": "#8C3B4A",
-                    "isUs": false
-                  },
-                  {
                     "name": "Mount Vernon Christian",
                     "mascot": "Hurricanes",
                     "abbr": "MV",
@@ -3129,13 +3068,6 @@
                     "mascot": "Highlanders",
                     "abbr": "PC",
                     "color": "#022C66",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Mabton",
-                    "mascot": null,
-                    "abbr": "MA",
-                    "color": "#8C3B4A",
                     "isUs": false
                   },
                   {
@@ -5886,7 +5818,7 @@
     },
     {
       "id": "2026-11-21-g8",
-      "title": "Vikings vs Providence or Mabton or Mount Vernon · State final (if we advance)",
+      "title": "Vikings vs Providence or Mount Vernon · State final (if we advance)",
       "start": "2026-11-21T23:00:00.000Z",
       "timeKnown": true,
       "location": "Mount Tahoma Stadium, Tacoma",
@@ -5894,7 +5826,7 @@
     },
     {
       "id": "2026-11-21-g7",
-      "title": "Vikings vs Providence or Mabton or Mount Vernon · Last-chance game (if we advance)",
+      "title": "Vikings vs Providence or Mount Vernon · Last-chance game (if we advance)",
       "start": "2026-11-21T18:00:00.000Z",
       "timeKnown": true,
       "location": "",
@@ -5929,7 +5861,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-14T23:01:06.134Z",
+    "generatedAt": "2026-11-15T01:01:06.886Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -6077,7 +6009,7 @@
         "venue": "Mount Tahoma Stadium, Tacoma",
         "status": "possible",
         "note": "Si le ganamos a Friday Harbor el viernes",
-        "vs": "Providence o Mabton o Mount Vernon",
+        "vs": "Providence o Mount Vernon",
         "calId": "2026-11-21-g8"
       },
       {
@@ -6088,7 +6020,7 @@
         "venue": null,
         "status": "possible",
         "note": "Si perdemos contra Friday Harbor el viernes",
-        "vs": "Providence o Mabton o Mount Vernon",
+        "vs": "Providence o Mount Vernon",
         "calId": "2026-11-21-g7"
       }
     ],
@@ -7981,9 +7913,9 @@
                 "timeKnown": true,
                 "venue": "Mt Vernon HS",
                 "siteNote": null,
-                "played": false,
+                "played": true,
                 "pens": null,
-                "scoreSource": null,
+                "scoreSource": "bracket",
                 "teams": [
                   {
                     "name": "Mabton",
@@ -7991,7 +7923,7 @@
                     "abbr": "MA",
                     "color": "#8C3B4A",
                     "isUs": false,
-                    "score": null,
+                    "score": 1,
                     "winner": false,
                     "seed": null
                   },
@@ -8001,8 +7933,8 @@
                     "abbr": "MV",
                     "color": "#034CB2",
                     "isUs": false,
-                    "score": null,
-                    "winner": false,
+                    "score": 2,
+                    "winner": true,
                     "seed": null
                   }
                 ],
@@ -8048,24 +7980,11 @@
                     "seed": null
                   },
                   {
-                    "name": "Ganador del partido 2",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Mabton",
-                        "mascot": null,
-                        "abbr": "MA",
-                        "color": "#8C3B4A",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Mount Vernon Christian",
-                        "mascot": "Hurricanes",
-                        "abbr": "MV",
-                        "color": "#034CB2",
-                        "isUs": false
-                      }
-                    ],
+                    "name": "Mount Vernon Christian",
+                    "mascot": "Hurricanes",
+                    "abbr": "MV",
+                    "color": "#034CB2",
+                    "isUs": false,
                     "score": null,
                     "winner": false,
                     "seed": null
@@ -8160,13 +8079,6 @@
                         "isUs": false
                       },
                       {
-                        "name": "Mabton",
-                        "mascot": null,
-                        "abbr": "MA",
-                        "color": "#8C3B4A",
-                        "isUs": false
-                      },
-                      {
                         "name": "Mount Vernon Christian",
                         "mascot": "Hurricanes",
                         "abbr": "MV",
@@ -8236,13 +8148,6 @@
                         "mascot": "Highlanders",
                         "abbr": "PC",
                         "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Mabton",
-                        "mascot": null,
-                        "abbr": "MA",
-                        "color": "#8C3B4A",
                         "isUs": false
                       },
                       {
@@ -8359,9 +8264,9 @@
                 "timeKnown": true,
                 "venue": "Mt Vernon HS",
                 "siteNote": null,
-                "played": false,
+                "played": true,
                 "pens": null,
-                "scoreSource": null,
+                "scoreSource": "bracket",
                 "teams": [
                   {
                     "name": "Mabton",
@@ -8369,7 +8274,7 @@
                     "abbr": "MA",
                     "color": "#8C3B4A",
                     "isUs": false,
-                    "score": null,
+                    "score": 1,
                     "winner": false,
                     "seed": null
                   },
@@ -8379,8 +8284,8 @@
                     "abbr": "MV",
                     "color": "#034CB2",
                     "isUs": false,
-                    "score": null,
-                    "winner": false,
+                    "score": 2,
+                    "winner": true,
                     "seed": null
                   }
                 ],
@@ -8520,24 +8425,11 @@
                     "seed": null
                   },
                   {
-                    "name": "Ganador del partido 2",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Mabton",
-                        "mascot": null,
-                        "abbr": "MA",
-                        "color": "#8C3B4A",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Mount Vernon Christian",
-                        "mascot": "Hurricanes",
-                        "abbr": "MV",
-                        "color": "#034CB2",
-                        "isUs": false
-                      }
-                    ],
+                    "name": "Mount Vernon Christian",
+                    "mascot": "Hurricanes",
+                    "abbr": "MV",
+                    "color": "#034CB2",
+                    "isUs": false,
                     "score": null,
                     "winner": false,
                     "seed": null
@@ -8634,13 +8526,6 @@
                         "isUs": false
                       },
                       {
-                        "name": "Mabton",
-                        "mascot": null,
-                        "abbr": "MA",
-                        "color": "#8C3B4A",
-                        "isUs": false
-                      },
-                      {
                         "name": "Mount Vernon Christian",
                         "mascot": "Hurricanes",
                         "abbr": "MV",
@@ -8714,13 +8599,6 @@
                     "mascot": "Highlanders",
                     "abbr": "PC",
                     "color": "#022C66",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Mabton",
-                    "mascot": null,
-                    "abbr": "MA",
-                    "color": "#8C3B4A",
                     "isUs": false
                   },
                   {
@@ -8969,13 +8847,6 @@
                       "isUs": false
                     },
                     {
-                      "name": "Mabton",
-                      "mascot": null,
-                      "abbr": "MA",
-                      "color": "#8C3B4A",
-                      "isUs": false
-                    },
-                    {
                       "name": "Mount Vernon Christian",
                       "mascot": "Hurricanes",
                       "abbr": "MV",
@@ -9059,13 +8930,6 @@
                       "mascot": "Highlanders",
                       "abbr": "PC",
                       "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Mabton",
-                      "mascot": null,
-                      "abbr": "MA",
-                      "color": "#8C3B4A",
                       "isUs": false
                     },
                     {
@@ -11816,7 +11680,7 @@
       },
       {
         "id": "2026-11-21-g8",
-        "title": "Vikings vs Providence o Mabton o Mount Vernon · Final del Estatal (si avanzamos)",
+        "title": "Vikings vs Providence o Mount Vernon · Final del Estatal (si avanzamos)",
         "start": "2026-11-21T23:00:00.000Z",
         "timeKnown": true,
         "location": "Mount Tahoma Stadium, Tacoma",
@@ -11824,7 +11688,7 @@
       },
       {
         "id": "2026-11-21-g7",
-        "title": "Vikings vs Providence o Mabton o Mount Vernon · Partido de última oportunidad (si avanzamos)",
+        "title": "Vikings vs Providence o Mount Vernon · Partido de última oportunidad (si avanzamos)",
         "start": "2026-11-21T18:00:00.000Z",
         "timeKnown": true,
         "location": "",
