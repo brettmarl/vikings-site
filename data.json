@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T15:01:06.309Z",
+  "generatedAt": "2026-11-16T15:01:06.501Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -3826,7 +3826,7 @@
         "color": "#754ACC",
         "isUs": false
       },
-      "home": false,
+      "home": true,
       "result": null,
       "gf": null,
       "ga": null,
@@ -4728,7 +4728,7 @@
           "result": null,
           "gf": null,
           "ga": null,
-          "home": false,
+          "home": true,
           "stage": "State",
           "venue": null,
           "pens": false,
@@ -5861,7 +5861,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-15T15:01:06.309Z",
+    "generatedAt": "2026-11-16T15:01:06.501Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -9688,7 +9688,7 @@
           "color": "#754ACC",
           "isUs": false
         },
-        "home": false,
+        "home": true,
         "result": null,
         "gf": null,
         "ga": null,
@@ -10590,7 +10590,7 @@
             "result": null,
             "gf": null,
             "ga": null,
-            "home": false,
+            "home": true,
             "stage": "State",
             "venue": null,
             "pens": false,
