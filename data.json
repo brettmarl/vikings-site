@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T15:01:06.501Z",
+  "generatedAt": "2026-11-17T03:58:13.205Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -154,7 +154,7 @@
       "key": "g7",
       "date": "2026-11-21T18:00:00.000Z",
       "timeKnown": true,
-      "label": "Last-chance game",
+      "label": "3rd-place game",
       "venue": null,
       "status": "possible",
       "note": "If we lose to Friday Harbor on Friday",
@@ -2133,7 +2133,7 @@
                 "state": false
               },
               "loser": {
-                "text": "Last-chance game",
+                "text": "3rd-place game",
                 "state": false
               },
               "ours": false,
@@ -2179,7 +2179,7 @@
                 "state": false
               },
               "loser": {
-                "text": "Last-chance game",
+                "text": "3rd-place game",
                 "state": false
               },
               "ours": true,
@@ -2194,8 +2194,8 @@
           "games": [
             {
               "no": "7",
-              "round": "lastChance",
-              "label": "Last-chance game",
+              "round": "thirdPlace",
+              "label": "3rd-place game",
               "date": "2026-11-21T18:00:00.000Z",
               "dateWindow": null,
               "timeKnown": true,
@@ -2337,7 +2337,7 @@
               "maybeOurs": true
             }
           ],
-          "title": "Last-chance game & State final"
+          "title": "3rd-place game & State final"
         }
       ],
       "mainColumns": [
@@ -2578,7 +2578,7 @@
                 "state": false
               },
               "loser": {
-                "text": "Last-chance game",
+                "text": "3rd-place game",
                 "state": false
               },
               "ours": false,
@@ -2624,7 +2624,7 @@
                 "state": false
               },
               "loser": {
-                "text": "Last-chance game",
+                "text": "3rd-place game",
                 "state": false
               },
               "ours": true,
@@ -2717,8 +2717,8 @@
       "secondChance": [
         {
           "no": "7",
-          "round": "lastChance",
-          "label": "Last-chance game",
+          "round": "thirdPlace",
+          "label": "3rd-place game",
           "date": "2026-11-21T18:00:00.000Z",
           "dateWindow": null,
           "timeKnown": true,
@@ -2891,7 +2891,7 @@
               "state": false
             },
             "loser": {
-              "text": "Last-chance game",
+              "text": "3rd-place game",
               "state": false
             },
             "ours": true,
@@ -2952,7 +2952,7 @@
             "state": false
           },
           "loser": {
-            "text": "Last-chance game",
+            "text": "3rd-place game",
             "state": false
           },
           "ours": true,
@@ -3048,8 +3048,8 @@
         "lose": {
           "game": {
             "no": "7",
-            "round": "lastChance",
-            "label": "Last-chance game",
+            "round": "thirdPlace",
+            "label": "3rd-place game",
             "date": "2026-11-21T18:00:00.000Z",
             "dateWindow": null,
             "timeKnown": true,
@@ -5826,7 +5826,7 @@
     },
     {
       "id": "2026-11-21-g7",
-      "title": "Vikings vs Providence or Mount Vernon · Last-chance game (if we advance)",
+      "title": "Vikings vs Providence or Mount Vernon · 3rd-place game (if we advance)",
       "start": "2026-11-21T18:00:00.000Z",
       "timeKnown": true,
       "location": "",
@@ -5861,7 +5861,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-16T15:01:06.501Z",
+    "generatedAt": "2026-11-17T03:58:13.205Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -6016,7 +6016,7 @@
         "key": "g7",
         "date": "2026-11-21T18:00:00.000Z",
         "timeKnown": true,
-        "label": "Partido de última oportunidad",
+        "label": "Partido por el 3.er lugar",
         "venue": null,
         "status": "possible",
         "note": "Si perdemos contra Friday Harbor el viernes",
@@ -7995,7 +7995,7 @@
                   "state": false
                 },
                 "loser": {
-                  "text": "Partido de última oportunidad",
+                  "text": "Partido por el 3.er lugar",
                   "state": false
                 },
                 "ours": false,
@@ -8041,7 +8041,7 @@
                   "state": false
                 },
                 "loser": {
-                  "text": "Partido de última oportunidad",
+                  "text": "Partido por el 3.er lugar",
                   "state": false
                 },
                 "ours": true,
@@ -8056,8 +8056,8 @@
             "games": [
               {
                 "no": "7",
-                "round": "lastChance",
-                "label": "Partido de última oportunidad",
+                "round": "thirdPlace",
+                "label": "Partido por el 3.er lugar",
                 "date": "2026-11-21T18:00:00.000Z",
                 "dateWindow": null,
                 "timeKnown": true,
@@ -8199,7 +8199,7 @@
                 "maybeOurs": true
               }
             ],
-            "title": "Partido de última oportunidad y Final del Estatal"
+            "title": "Partido por el 3.er lugar y Final del Estatal"
           }
         ],
         "mainColumns": [
@@ -8440,7 +8440,7 @@
                   "state": false
                 },
                 "loser": {
-                  "text": "Partido de última oportunidad",
+                  "text": "Partido por el 3.er lugar",
                   "state": false
                 },
                 "ours": false,
@@ -8486,7 +8486,7 @@
                   "state": false
                 },
                 "loser": {
-                  "text": "Partido de última oportunidad",
+                  "text": "Partido por el 3.er lugar",
                   "state": false
                 },
                 "ours": true,
@@ -8579,8 +8579,8 @@
         "secondChance": [
           {
             "no": "7",
-            "round": "lastChance",
-            "label": "Partido de última oportunidad",
+            "round": "thirdPlace",
+            "label": "Partido por el 3.er lugar",
             "date": "2026-11-21T18:00:00.000Z",
             "dateWindow": null,
             "timeKnown": true,
@@ -8753,7 +8753,7 @@
                 "state": false
               },
               "loser": {
-                "text": "Partido de última oportunidad",
+                "text": "Partido por el 3.er lugar",
                 "state": false
               },
               "ours": true,
@@ -8814,7 +8814,7 @@
               "state": false
             },
             "loser": {
-              "text": "Partido de última oportunidad",
+              "text": "Partido por el 3.er lugar",
               "state": false
             },
             "ours": true,
@@ -8910,8 +8910,8 @@
           "lose": {
             "game": {
               "no": "7",
-              "round": "lastChance",
-              "label": "Partido de última oportunidad",
+              "round": "thirdPlace",
+              "label": "Partido por el 3.er lugar",
               "date": "2026-11-21T18:00:00.000Z",
               "dateWindow": null,
               "timeKnown": true,
@@ -11688,7 +11688,7 @@
       },
       {
         "id": "2026-11-21-g7",
-        "title": "Vikings vs Providence o Mount Vernon · Partido de última oportunidad (si avanzamos)",
+        "title": "Vikings vs Providence o Mount Vernon · Partido por el 3.er lugar (si avanzamos)",
         "start": "2026-11-21T18:00:00.000Z",
         "timeKnown": true,
         "location": "",
@@ -11722,5 +11722,6 @@
       }
     ],
     "notes": []
-  }
+  },
+  "scorekept": []
 }
