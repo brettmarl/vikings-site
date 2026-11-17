@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:58:13.205Z",
+  "generatedAt": "2026-11-17T15:01:07.208Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -3787,7 +3787,7 @@
         "color": "#034CB2",
         "isUs": false
       },
-      "home": false,
+      "home": true,
       "result": "W",
       "gf": 0,
       "ga": 0,
@@ -4529,7 +4529,7 @@
           "result": "W",
           "gf": 0,
           "ga": 0,
-          "home": false,
+          "home": true,
           "stage": "District",
           "venue": "Sammamish HS",
           "pens": true,
@@ -5861,7 +5861,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-17T03:58:13.205Z",
+    "generatedAt": "2026-11-17T15:01:07.208Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -9649,7 +9649,7 @@
           "color": "#034CB2",
           "isUs": false
         },
-        "home": false,
+        "home": true,
         "result": "W",
         "gf": 0,
         "ga": 0,
@@ -10391,7 +10391,7 @@
             "result": "W",
             "gf": 0,
             "ga": 0,
-            "home": false,
+            "home": true,
             "stage": "District",
             "venue": "Sammamish HS",
             "pens": true,
