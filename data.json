@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T15:01:07.208Z",
+  "generatedAt": "2026-11-18T15:01:06.861Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -98,7 +98,7 @@
     "links": {
       "map": "https://www.google.com/maps/search/?api=1&query=Mount%20Tahoma%20Stadium%2C%20Tacoma%2C%20WA"
     },
-    "watch": null,
+    "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
     "calId": "2026-11-20-g6"
   },
   "recentResult": {
@@ -2183,7 +2183,7 @@
                 "state": false
               },
               "ours": true,
-              "watch": null,
+              "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
               "maybeOurs": false
             }
           ],
@@ -2628,7 +2628,7 @@
                 "state": false
               },
               "ours": true,
-              "watch": null,
+              "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
               "maybeOurs": false
             }
           ]
@@ -2895,14 +2895,14 @@
               "state": false
             },
             "ours": true,
-            "watch": null,
+            "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
             "maybeOurs": false
           },
           "result": null,
           "gf": null,
           "ga": null,
           "pens": null,
-          "watch": null,
+          "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
           "opponent": {
             "name": "Friday Harbor",
             "mascot": "Wolverines",
@@ -2956,7 +2956,7 @@
             "state": false
           },
           "ours": true,
-          "watch": null,
+          "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
           "maybeOurs": false
         },
         "win": {
@@ -3832,7 +3832,7 @@
       "ga": null,
       "stage": "State",
       "venue": null,
-      "watch": null,
+      "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
       "pens": null
     }
   ],
@@ -5861,7 +5861,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-17T15:01:07.208Z",
+    "generatedAt": "2026-11-18T15:01:06.861Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -5960,7 +5960,7 @@
       "links": {
         "map": "https://www.google.com/maps/search/?api=1&query=Mount%20Tahoma%20Stadium%2C%20Tacoma%2C%20WA"
       },
-      "watch": null,
+      "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
       "calId": "2026-11-20-g6"
     },
     "recentResult": {
@@ -8045,7 +8045,7 @@
                   "state": false
                 },
                 "ours": true,
-                "watch": null,
+                "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
                 "maybeOurs": false
               }
             ],
@@ -8490,7 +8490,7 @@
                   "state": false
                 },
                 "ours": true,
-                "watch": null,
+                "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
                 "maybeOurs": false
               }
             ]
@@ -8757,14 +8757,14 @@
                 "state": false
               },
               "ours": true,
-              "watch": null,
+              "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
               "maybeOurs": false
             },
             "result": null,
             "gf": null,
             "ga": null,
             "pens": null,
-            "watch": null,
+            "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
             "opponent": {
               "name": "Friday Harbor",
               "mascot": "Wolverines",
@@ -8818,7 +8818,7 @@
               "state": false
             },
             "ours": true,
-            "watch": null,
+            "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
             "maybeOurs": false
           },
           "win": {
@@ -9694,7 +9694,7 @@
         "ga": null,
         "stage": "State",
         "venue": null,
-        "watch": null,
+        "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
         "pens": null
       }
     ],
