@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T23:16:06.276Z",
+  "generatedAt": "2026-11-20T23:46:06.435Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -23,7 +23,7 @@
   "headline": {
     "tone": "great",
     "title": "Into the State final!",
-    "sub": "Beat Friday Harbor 1–0. Playing for the State title Sat Nov 21 in Tacoma."
+    "sub": "Beat Friday Harbor 1–0. Playing for the State title Sat Nov 21 in Tacoma WA."
   },
   "journey": [
     {
@@ -65,8 +65,8 @@
     "date": "2026-11-21T23:00:00.000Z",
     "dateWindow": null,
     "timeKnown": true,
-    "venue": "Mount Tahoma Stadium, Tacoma",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mount%20Tahoma%20Stadium%2C%20Tacoma%2C%20WA",
+    "venue": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=State1B%2F2B%20Finals-Mount%20Tahoma%20Stadium%2C%20Tacoma%20WA%2C%20WA",
     "home": null,
     "hostNote": null,
     "opponents": [
@@ -103,7 +103,7 @@
     ],
     "feeder": null,
     "links": {
-      "map": "https://www.google.com/maps/search/?api=1&query=Mount%20Tahoma%20Stadium%2C%20Tacoma%2C%20WA"
+      "map": "https://www.google.com/maps/search/?api=1&query=State1B%2F2B%20Finals-Mount%20Tahoma%20Stadium%2C%20Tacoma%20WA%2C%20WA"
     },
     "watch": null,
     "calId": "2026-11-21-g8"
@@ -140,7 +140,7 @@
       "date": "2026-11-21T23:00:00.000Z",
       "timeKnown": true,
       "label": "State final",
-      "venue": "Mount Tahoma Stadium, Tacoma",
+      "venue": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
       "status": "confirmed",
       "note": "Next game",
       "vs": "Mount Vernon",
@@ -2234,7 +2234,7 @@
               "date": "2026-11-21T23:00:00.000Z",
               "dateWindow": null,
               "timeKnown": true,
-              "venue": "Mount Tahoma Stadium, Tacoma",
+              "venue": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
               "siteNote": "",
               "played": false,
               "pens": null,
@@ -2583,7 +2583,7 @@
               "date": "2026-11-21T23:00:00.000Z",
               "dateWindow": null,
               "timeKnown": true,
-              "venue": "Mount Tahoma Stadium, Tacoma",
+              "venue": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
               "siteNote": "",
               "played": false,
               "pens": null,
@@ -2804,7 +2804,7 @@
             "date": "2026-11-21T23:00:00.000Z",
             "dateWindow": null,
             "timeKnown": true,
-            "venue": "Mount Tahoma Stadium, Tacoma",
+            "venue": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
             "siteNote": "",
             "played": false,
             "pens": null,
@@ -2865,7 +2865,7 @@
           "date": "2026-11-21T23:00:00.000Z",
           "dateWindow": null,
           "timeKnown": true,
-          "venue": "Mount Tahoma Stadium, Tacoma",
+          "venue": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
           "siteNote": "",
           "played": false,
           "pens": null,
@@ -3619,6 +3619,42 @@
       "venue": null,
       "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
       "pens": null
+    },
+    {
+      "date": "2026-11-21T08:00:00.000Z",
+      "opponent": {
+        "name": "Mount Vernon Christian",
+        "mascot": "Hurricanes",
+        "abbr": "MV",
+        "color": "#034CB2",
+        "isUs": false
+      },
+      "home": false,
+      "result": null,
+      "gf": null,
+      "ga": null,
+      "stage": "State",
+      "venue": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
+      "watch": null,
+      "pens": null
+    },
+    {
+      "date": "2026-11-21T23:00:00.000Z",
+      "opponent": {
+        "name": "Mount Vernon Christian",
+        "mascot": "Hurricanes",
+        "abbr": "MV",
+        "color": "#034CB2",
+        "isUs": false
+      },
+      "home": false,
+      "result": null,
+      "gf": null,
+      "ga": null,
+      "stage": "Tournament",
+      "venue": null,
+      "watch": null,
+      "pens": null
     }
   ],
   "history": [
@@ -3876,6 +3912,18 @@
       "start": "2026-11-20T21:00:00.000Z",
       "timeKnown": true,
       "what": "Friday Harbor",
+      "ours": true
+    },
+    {
+      "start": "2026-11-21T08:00:00.000Z",
+      "timeKnown": false,
+      "what": "Mount Vernon Christian",
+      "ours": true
+    },
+    {
+      "start": "2026-11-21T23:00:00.000Z",
+      "timeKnown": true,
+      "what": "Mount Vernon Christian",
       "ours": true
     },
     {
@@ -4313,6 +4361,32 @@
         "isUs": false
       },
       "meetings": [
+        {
+          "season": "2026",
+          "date": "2026-11-21T23:00:00.000Z",
+          "result": null,
+          "gf": null,
+          "ga": null,
+          "home": false,
+          "stage": "State",
+          "venue": null,
+          "pens": false,
+          "close": false,
+          "upcoming": true
+        },
+        {
+          "season": "2026",
+          "date": "2026-11-21T08:00:00.000Z",
+          "result": null,
+          "gf": null,
+          "ga": null,
+          "home": false,
+          "stage": "State",
+          "venue": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
+          "pens": false,
+          "close": false,
+          "upcoming": true
+        },
         {
           "season": "2026",
           "date": "2026-11-07T23:00:00.000Z",
@@ -5603,7 +5677,7 @@
       "title": "Vikings vs Mount Vernon · State final",
       "start": "2026-11-21T23:00:00.000Z",
       "timeKnown": true,
-      "location": "Mount Tahoma Stadium, Tacoma",
+      "location": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
       "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
     }
   ],
@@ -5635,7 +5709,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-20T23:16:06.276Z",
+    "generatedAt": "2026-11-20T23:46:06.435Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -5659,7 +5733,7 @@
     "headline": {
       "tone": "great",
       "title": "¡A la final del Estatal!",
-      "sub": "Ganamos a Friday Harbor 1–0. Jugamos por el título estatal sábado 21 de noviembre en Tacoma."
+      "sub": "Ganamos a Friday Harbor 1–0. Jugamos por el título estatal sábado 21 de noviembre en Tacoma WA."
     },
     "journey": [
       {
@@ -5701,8 +5775,8 @@
       "date": "2026-11-21T23:00:00.000Z",
       "dateWindow": null,
       "timeKnown": true,
-      "venue": "Mount Tahoma Stadium, Tacoma",
-      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mount%20Tahoma%20Stadium%2C%20Tacoma%2C%20WA",
+      "venue": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=State1B%2F2B%20Finals-Mount%20Tahoma%20Stadium%2C%20Tacoma%20WA%2C%20WA",
       "home": null,
       "hostNote": null,
       "opponents": [
@@ -5739,7 +5813,7 @@
       ],
       "feeder": null,
       "links": {
-        "map": "https://www.google.com/maps/search/?api=1&query=Mount%20Tahoma%20Stadium%2C%20Tacoma%2C%20WA"
+        "map": "https://www.google.com/maps/search/?api=1&query=State1B%2F2B%20Finals-Mount%20Tahoma%20Stadium%2C%20Tacoma%20WA%2C%20WA"
       },
       "watch": null,
       "calId": "2026-11-21-g8"
@@ -5776,7 +5850,7 @@
         "date": "2026-11-21T23:00:00.000Z",
         "timeKnown": true,
         "label": "Final del Estatal",
-        "venue": "Mount Tahoma Stadium, Tacoma",
+        "venue": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
         "status": "confirmed",
         "note": "Próximo partido",
         "vs": "Mount Vernon",
@@ -7870,7 +7944,7 @@
                 "date": "2026-11-21T23:00:00.000Z",
                 "dateWindow": null,
                 "timeKnown": true,
-                "venue": "Mount Tahoma Stadium, Tacoma",
+                "venue": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
                 "siteNote": "",
                 "played": false,
                 "pens": null,
@@ -8219,7 +8293,7 @@
                 "date": "2026-11-21T23:00:00.000Z",
                 "dateWindow": null,
                 "timeKnown": true,
-                "venue": "Mount Tahoma Stadium, Tacoma",
+                "venue": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
                 "siteNote": "",
                 "played": false,
                 "pens": null,
@@ -8440,7 +8514,7 @@
               "date": "2026-11-21T23:00:00.000Z",
               "dateWindow": null,
               "timeKnown": true,
-              "venue": "Mount Tahoma Stadium, Tacoma",
+              "venue": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
               "siteNote": "",
               "played": false,
               "pens": null,
@@ -8501,7 +8575,7 @@
             "date": "2026-11-21T23:00:00.000Z",
             "dateWindow": null,
             "timeKnown": true,
-            "venue": "Mount Tahoma Stadium, Tacoma",
+            "venue": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
             "siteNote": "",
             "played": false,
             "pens": null,
@@ -9255,6 +9329,42 @@
         "venue": null,
         "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
         "pens": null
+      },
+      {
+        "date": "2026-11-21T08:00:00.000Z",
+        "opponent": {
+          "name": "Mount Vernon Christian",
+          "mascot": "Hurricanes",
+          "abbr": "MV",
+          "color": "#034CB2",
+          "isUs": false
+        },
+        "home": false,
+        "result": null,
+        "gf": null,
+        "ga": null,
+        "stage": "State",
+        "venue": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
+        "watch": null,
+        "pens": null
+      },
+      {
+        "date": "2026-11-21T23:00:00.000Z",
+        "opponent": {
+          "name": "Mount Vernon Christian",
+          "mascot": "Hurricanes",
+          "abbr": "MV",
+          "color": "#034CB2",
+          "isUs": false
+        },
+        "home": false,
+        "result": null,
+        "gf": null,
+        "ga": null,
+        "stage": "Tournament",
+        "venue": null,
+        "watch": null,
+        "pens": null
       }
     ],
     "history": [
@@ -9512,6 +9622,18 @@
         "start": "2026-11-20T21:00:00.000Z",
         "timeKnown": true,
         "what": "Friday Harbor",
+        "ours": true
+      },
+      {
+        "start": "2026-11-21T08:00:00.000Z",
+        "timeKnown": false,
+        "what": "Mount Vernon Christian",
+        "ours": true
+      },
+      {
+        "start": "2026-11-21T23:00:00.000Z",
+        "timeKnown": true,
+        "what": "Mount Vernon Christian",
         "ours": true
       },
       {
@@ -9949,6 +10071,32 @@
           "isUs": false
         },
         "meetings": [
+          {
+            "season": "2026",
+            "date": "2026-11-21T23:00:00.000Z",
+            "result": null,
+            "gf": null,
+            "ga": null,
+            "home": false,
+            "stage": "State",
+            "venue": null,
+            "pens": false,
+            "close": false,
+            "upcoming": true
+          },
+          {
+            "season": "2026",
+            "date": "2026-11-21T08:00:00.000Z",
+            "result": null,
+            "gf": null,
+            "ga": null,
+            "home": false,
+            "stage": "State",
+            "venue": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
+            "pens": false,
+            "close": false,
+            "upcoming": true
+          },
           {
             "season": "2026",
             "date": "2026-11-07T23:00:00.000Z",
@@ -11239,7 +11387,7 @@
         "title": "Vikings vs Mount Vernon · Final del Estatal",
         "start": "2026-11-21T23:00:00.000Z",
         "timeKnown": true,
-        "location": "Mount Tahoma Stadium, Tacoma",
+        "location": "State1B/2B Finals-Mount Tahoma Stadium, Tacoma WA",
         "details": "Fútbol varonil de los Orcas Island Vikings. Síguelos en: https://govikings.app"
       }
     ],
