@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:01:06.913Z",
+  "generatedAt": "2026-11-20T21:01:06.265Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -147,7 +147,7 @@
       "venue": "Mount Tahoma Stadium, Tacoma",
       "status": "possible",
       "note": "If we beat Friday Harbor on Friday",
-      "vs": "Providence or Mount Vernon",
+      "vs": "Mount Vernon",
       "calId": "2026-11-21-g8"
     },
     {
@@ -158,7 +158,7 @@
       "venue": "Mount Tahoma Stadium, Tacoma",
       "status": "possible",
       "note": "If we lose to Friday Harbor on Friday",
-      "vs": "Providence or Mount Vernon",
+      "vs": "Providence",
       "calId": "2026-11-21-g7"
     }
   ],
@@ -2103,9 +2103,9 @@
               "timeKnown": true,
               "venue": "Mount Tahoma Stadium, Tacoma",
               "siteNote": "",
-              "played": false,
+              "played": true,
               "pens": null,
-              "scoreSource": null,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Providence Classical Christian",
@@ -2113,7 +2113,7 @@
                   "abbr": "PC",
                   "color": "#022C66",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
                   "winner": false,
                   "seed": null
                 },
@@ -2123,8 +2123,8 @@
                   "abbr": "MV",
                   "color": "#034CB2",
                   "isUs": false,
-                  "score": null,
-                  "winner": false,
+                  "score": 1,
+                  "winner": true,
                   "seed": null
                 }
               ],
@@ -2206,24 +2206,11 @@
               "scoreSource": null,
               "teams": [
                 {
-                  "name": "Loser of Game 5",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Providence Classical Christian",
-                      "mascot": "Highlanders",
-                      "abbr": "PC",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Mount Vernon Christian",
-                      "mascot": "Hurricanes",
-                      "abbr": "MV",
-                      "color": "#034CB2",
-                      "isUs": false
-                    }
-                  ],
+                  "name": "Providence Classical Christian",
+                  "mascot": "Highlanders",
+                  "abbr": "PC",
+                  "color": "#022C66",
+                  "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -2278,24 +2265,11 @@
               "scoreSource": null,
               "teams": [
                 {
-                  "name": "Winner of Game 5",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Providence Classical Christian",
-                      "mascot": "Highlanders",
-                      "abbr": "PC",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Mount Vernon Christian",
-                      "mascot": "Hurricanes",
-                      "abbr": "MV",
-                      "color": "#034CB2",
-                      "isUs": false
-                    }
-                  ],
+                  "name": "Mount Vernon Christian",
+                  "mascot": "Hurricanes",
+                  "abbr": "MV",
+                  "color": "#034CB2",
+                  "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -2548,9 +2522,9 @@
               "timeKnown": true,
               "venue": "Mount Tahoma Stadium, Tacoma",
               "siteNote": "",
-              "played": false,
+              "played": true,
               "pens": null,
-              "scoreSource": null,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Providence Classical Christian",
@@ -2558,7 +2532,7 @@
                   "abbr": "PC",
                   "color": "#022C66",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
                   "winner": false,
                   "seed": null
                 },
@@ -2568,8 +2542,8 @@
                   "abbr": "MV",
                   "color": "#034CB2",
                   "isUs": false,
-                  "score": null,
-                  "winner": false,
+                  "score": 1,
+                  "winner": true,
                   "seed": null
                 }
               ],
@@ -2653,24 +2627,11 @@
               "scoreSource": null,
               "teams": [
                 {
-                  "name": "Winner of Game 5",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Providence Classical Christian",
-                      "mascot": "Highlanders",
-                      "abbr": "PC",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Mount Vernon Christian",
-                      "mascot": "Hurricanes",
-                      "abbr": "MV",
-                      "color": "#034CB2",
-                      "isUs": false
-                    }
-                  ],
+                  "name": "Mount Vernon Christian",
+                  "mascot": "Hurricanes",
+                  "abbr": "MV",
+                  "color": "#034CB2",
+                  "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -2729,24 +2690,11 @@
           "scoreSource": null,
           "teams": [
             {
-              "name": "Loser of Game 5",
-              "placeholder": true,
-              "candidates": [
-                {
-                  "name": "Providence Classical Christian",
-                  "mascot": "Highlanders",
-                  "abbr": "PC",
-                  "color": "#022C66",
-                  "isUs": false
-                },
-                {
-                  "name": "Mount Vernon Christian",
-                  "mascot": "Hurricanes",
-                  "abbr": "MV",
-                  "color": "#034CB2",
-                  "isUs": false
-                }
-              ],
+              "name": "Providence Classical Christian",
+              "mascot": "Highlanders",
+              "abbr": "PC",
+              "color": "#022C66",
+              "isUs": false,
               "score": null,
               "winner": false,
               "seed": null
@@ -2974,24 +2922,11 @@
             "scoreSource": null,
             "teams": [
               {
-                "name": "Winner of Game 5",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Providence Classical Christian",
-                    "mascot": "Highlanders",
-                    "abbr": "PC",
-                    "color": "#022C66",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Mount Vernon Christian",
-                    "mascot": "Hurricanes",
-                    "abbr": "MV",
-                    "color": "#034CB2",
-                    "isUs": false
-                  }
-                ],
+                "name": "Mount Vernon Christian",
+                "mascot": "Hurricanes",
+                "abbr": "MV",
+                "color": "#034CB2",
+                "isUs": false,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -3060,24 +2995,11 @@
             "scoreSource": null,
             "teams": [
               {
-                "name": "Loser of Game 5",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Providence Classical Christian",
-                    "mascot": "Highlanders",
-                    "abbr": "PC",
-                    "color": "#022C66",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Mount Vernon Christian",
-                    "mascot": "Hurricanes",
-                    "abbr": "MV",
-                    "color": "#034CB2",
-                    "isUs": false
-                  }
-                ],
+                "name": "Providence Classical Christian",
+                "mascot": "Highlanders",
+                "abbr": "PC",
+                "color": "#022C66",
+                "isUs": false,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -5818,7 +5740,7 @@
     },
     {
       "id": "2026-11-21-g8",
-      "title": "Vikings vs Providence or Mount Vernon · State final (if we advance)",
+      "title": "Vikings vs Mount Vernon · State final (if we advance)",
       "start": "2026-11-21T23:00:00.000Z",
       "timeKnown": true,
       "location": "Mount Tahoma Stadium, Tacoma",
@@ -5826,7 +5748,7 @@
     },
     {
       "id": "2026-11-21-g7",
-      "title": "Vikings vs Providence or Mount Vernon · 3rd-place game (if we advance)",
+      "title": "Vikings vs Providence · 3rd-place game (if we advance)",
       "start": "2026-11-21T18:00:00.000Z",
       "timeKnown": true,
       "location": "Mount Tahoma Stadium, Tacoma",
@@ -5861,7 +5783,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-20T15:01:06.913Z",
+    "generatedAt": "2026-11-20T21:01:06.265Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -6009,7 +5931,7 @@
         "venue": "Mount Tahoma Stadium, Tacoma",
         "status": "possible",
         "note": "Si le ganamos a Friday Harbor el viernes",
-        "vs": "Providence o Mount Vernon",
+        "vs": "Mount Vernon",
         "calId": "2026-11-21-g8"
       },
       {
@@ -6020,7 +5942,7 @@
         "venue": "Mount Tahoma Stadium, Tacoma",
         "status": "possible",
         "note": "Si perdemos contra Friday Harbor el viernes",
-        "vs": "Providence o Mount Vernon",
+        "vs": "Providence",
         "calId": "2026-11-21-g7"
       }
     ],
@@ -7965,9 +7887,9 @@
                 "timeKnown": true,
                 "venue": "Mount Tahoma Stadium, Tacoma",
                 "siteNote": "",
-                "played": false,
+                "played": true,
                 "pens": null,
-                "scoreSource": null,
+                "scoreSource": "bracket",
                 "teams": [
                   {
                     "name": "Providence Classical Christian",
@@ -7975,7 +7897,7 @@
                     "abbr": "PC",
                     "color": "#022C66",
                     "isUs": false,
-                    "score": null,
+                    "score": 0,
                     "winner": false,
                     "seed": null
                   },
@@ -7985,8 +7907,8 @@
                     "abbr": "MV",
                     "color": "#034CB2",
                     "isUs": false,
-                    "score": null,
-                    "winner": false,
+                    "score": 1,
+                    "winner": true,
                     "seed": null
                   }
                 ],
@@ -8068,24 +7990,11 @@
                 "scoreSource": null,
                 "teams": [
                   {
-                    "name": "Perdedor del partido 5",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Providence Classical Christian",
-                        "mascot": "Highlanders",
-                        "abbr": "PC",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Mount Vernon Christian",
-                        "mascot": "Hurricanes",
-                        "abbr": "MV",
-                        "color": "#034CB2",
-                        "isUs": false
-                      }
-                    ],
+                    "name": "Providence Classical Christian",
+                    "mascot": "Highlanders",
+                    "abbr": "PC",
+                    "color": "#022C66",
+                    "isUs": false,
                     "score": null,
                     "winner": false,
                     "seed": null
@@ -8140,24 +8049,11 @@
                 "scoreSource": null,
                 "teams": [
                   {
-                    "name": "Ganador del partido 5",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Providence Classical Christian",
-                        "mascot": "Highlanders",
-                        "abbr": "PC",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Mount Vernon Christian",
-                        "mascot": "Hurricanes",
-                        "abbr": "MV",
-                        "color": "#034CB2",
-                        "isUs": false
-                      }
-                    ],
+                    "name": "Mount Vernon Christian",
+                    "mascot": "Hurricanes",
+                    "abbr": "MV",
+                    "color": "#034CB2",
+                    "isUs": false,
                     "score": null,
                     "winner": false,
                     "seed": null
@@ -8410,9 +8306,9 @@
                 "timeKnown": true,
                 "venue": "Mount Tahoma Stadium, Tacoma",
                 "siteNote": "",
-                "played": false,
+                "played": true,
                 "pens": null,
-                "scoreSource": null,
+                "scoreSource": "bracket",
                 "teams": [
                   {
                     "name": "Providence Classical Christian",
@@ -8420,7 +8316,7 @@
                     "abbr": "PC",
                     "color": "#022C66",
                     "isUs": false,
-                    "score": null,
+                    "score": 0,
                     "winner": false,
                     "seed": null
                   },
@@ -8430,8 +8326,8 @@
                     "abbr": "MV",
                     "color": "#034CB2",
                     "isUs": false,
-                    "score": null,
-                    "winner": false,
+                    "score": 1,
+                    "winner": true,
                     "seed": null
                   }
                 ],
@@ -8515,24 +8411,11 @@
                 "scoreSource": null,
                 "teams": [
                   {
-                    "name": "Ganador del partido 5",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Providence Classical Christian",
-                        "mascot": "Highlanders",
-                        "abbr": "PC",
-                        "color": "#022C66",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Mount Vernon Christian",
-                        "mascot": "Hurricanes",
-                        "abbr": "MV",
-                        "color": "#034CB2",
-                        "isUs": false
-                      }
-                    ],
+                    "name": "Mount Vernon Christian",
+                    "mascot": "Hurricanes",
+                    "abbr": "MV",
+                    "color": "#034CB2",
+                    "isUs": false,
                     "score": null,
                     "winner": false,
                     "seed": null
@@ -8591,24 +8474,11 @@
             "scoreSource": null,
             "teams": [
               {
-                "name": "Perdedor del partido 5",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Providence Classical Christian",
-                    "mascot": "Highlanders",
-                    "abbr": "PC",
-                    "color": "#022C66",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Mount Vernon Christian",
-                    "mascot": "Hurricanes",
-                    "abbr": "MV",
-                    "color": "#034CB2",
-                    "isUs": false
-                  }
-                ],
+                "name": "Providence Classical Christian",
+                "mascot": "Highlanders",
+                "abbr": "PC",
+                "color": "#022C66",
+                "isUs": false,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -8836,24 +8706,11 @@
               "scoreSource": null,
               "teams": [
                 {
-                  "name": "Ganador del partido 5",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Providence Classical Christian",
-                      "mascot": "Highlanders",
-                      "abbr": "PC",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Mount Vernon Christian",
-                      "mascot": "Hurricanes",
-                      "abbr": "MV",
-                      "color": "#034CB2",
-                      "isUs": false
-                    }
-                  ],
+                  "name": "Mount Vernon Christian",
+                  "mascot": "Hurricanes",
+                  "abbr": "MV",
+                  "color": "#034CB2",
+                  "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -8922,24 +8779,11 @@
               "scoreSource": null,
               "teams": [
                 {
-                  "name": "Perdedor del partido 5",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Providence Classical Christian",
-                      "mascot": "Highlanders",
-                      "abbr": "PC",
-                      "color": "#022C66",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Mount Vernon Christian",
-                      "mascot": "Hurricanes",
-                      "abbr": "MV",
-                      "color": "#034CB2",
-                      "isUs": false
-                    }
-                  ],
+                  "name": "Providence Classical Christian",
+                  "mascot": "Highlanders",
+                  "abbr": "PC",
+                  "color": "#022C66",
+                  "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -11680,7 +11524,7 @@
       },
       {
         "id": "2026-11-21-g8",
-        "title": "Vikings vs Providence o Mount Vernon · Final del Estatal (si avanzamos)",
+        "title": "Vikings vs Mount Vernon · Final del Estatal (si avanzamos)",
         "start": "2026-11-21T23:00:00.000Z",
         "timeKnown": true,
         "location": "Mount Tahoma Stadium, Tacoma",
@@ -11688,7 +11532,7 @@
       },
       {
         "id": "2026-11-21-g7",
-        "title": "Vikings vs Providence o Mount Vernon · Partido por el 3.er lugar (si avanzamos)",
+        "title": "Vikings vs Providence · Partido por el 3.er lugar (si avanzamos)",
         "start": "2026-11-21T18:00:00.000Z",
         "timeKnown": true,
         "location": "Mount Tahoma Stadium, Tacoma",
