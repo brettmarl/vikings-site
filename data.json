@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T21:01:06.265Z",
+  "generatedAt": "2026-11-20T23:16:06.276Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -9,10 +9,10 @@
     "full": "Orcas Island Vikings",
     "sport": "Boys Soccer",
     "season": "2026",
-    "record": "19-0-1",
-    "streak": "W15",
+    "record": "20-0-1",
+    "streak": "W16",
     "goals": {
-      "for": 97,
+      "for": 98,
       "against": 13
     },
     "rank": {
@@ -22,8 +22,8 @@
   },
   "headline": {
     "tone": "great",
-    "title": "Into the State semifinals!",
-    "sub": "Beat Auburn 2–0. Semifinal Fri Nov 20 in Tacoma, then another game Saturday either way."
+    "title": "Into the State final!",
+    "sub": "Beat Friday Harbor 1–0. Playing for the State title Sat Nov 21 in Tacoma."
   },
   "journey": [
     {
@@ -49,9 +49,9 @@
       "name": "State",
       "sub": "State tournament",
       "status": "active",
-      "badge": "Semifinals",
+      "badge": "In the final",
       "good": true,
-      "detail": "Beat Auburn 2–0"
+      "detail": "Beat Friday Harbor 1–0"
     }
   ],
   "connectors": [
@@ -60,9 +60,9 @@
   ],
   "nextGame": {
     "stage": "State",
-    "round": "semifinal",
-    "label": "State semifinal",
-    "date": "2026-11-20T21:00:00.000Z",
+    "round": "final",
+    "label": "State final",
+    "date": "2026-11-21T23:00:00.000Z",
     "dateWindow": null,
     "timeKnown": true,
     "venue": "Mount Tahoma Stadium, Tacoma",
@@ -71,23 +71,30 @@
     "hostNote": null,
     "opponents": [
       {
-        "name": "Friday Harbor",
-        "mascot": "Wolverines",
-        "abbr": "FH",
-        "color": "#754ACC",
+        "name": "Mount Vernon Christian",
+        "mascot": "Hurricanes",
+        "abbr": "MV",
+        "color": "#034CB2",
         "isUs": false,
         "meetings": [
           {
-            "date": "2026-09-25T22:30:00.000Z",
-            "result": "W",
-            "gf": 4,
-            "ga": 1,
+            "date": "2026-09-23T22:00:00.000Z",
+            "result": "D",
+            "gf": 0,
+            "ga": 0,
             "home": false
           },
           {
-            "date": "2026-10-13T23:00:00.000Z",
+            "date": "2026-10-07T23:00:00.000Z",
             "result": "W",
-            "gf": 2,
+            "gf": 1,
+            "ga": 0,
+            "home": true
+          },
+          {
+            "date": "2026-11-07T23:00:00.000Z",
+            "result": "W",
+            "gf": 0,
             "ga": 0,
             "home": true
           }
@@ -98,74 +105,49 @@
     "links": {
       "map": "https://www.google.com/maps/search/?api=1&query=Mount%20Tahoma%20Stadium%2C%20Tacoma%2C%20WA"
     },
-    "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
-    "calId": "2026-11-20-g6"
+    "watch": null,
+    "calId": "2026-11-21-g8"
   },
   "recentResult": {
-    "date": "2026-11-13T20:30:00.000Z",
-    "label": "State first round",
+    "date": "2026-11-20T21:00:00.000Z",
+    "label": "State semifinal",
     "opponent": {
-      "name": "Auburn Adventist",
-      "mascot": "Falcons",
-      "abbr": "AA",
-      "color": "#022C66",
+      "name": "Friday Harbor",
+      "mascot": "Wolverines",
+      "abbr": "FH",
+      "color": "#754ACC",
       "isUs": false
     },
     "result": "W",
-    "gf": 2,
+    "gf": 1,
     "ga": 0,
     "pens": null,
-    "watch": "https://fan.hudl.com/usa/wa/anacortes/organization/7825/anacortes-high-school/watch?b=QnJvYWRjYXN0NDgxNzIwNQ%3D%3D",
-    "chip": "On to the semifinals",
+    "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
+    "chip": "On to the State final",
     "next": {
-      "label": "State semifinal",
-      "date": "2026-11-20T21:00:00.000Z",
+      "label": "State final",
+      "date": "2026-11-21T23:00:00.000Z",
       "timeKnown": true,
       "opponents": [
-        "Friday Harbor"
+        "Mount Vernon"
       ],
       "decidedBy": null
     }
   },
   "dates": [
     {
-      "key": "g6",
-      "date": "2026-11-20T21:00:00.000Z",
-      "timeKnown": true,
-      "label": "State semifinal",
-      "venue": "Mount Tahoma Stadium, Tacoma",
-      "status": "confirmed",
-      "note": "Next game",
-      "vs": "Friday Harbor",
-      "calId": "2026-11-20-g6"
-    },
-    {
       "key": "g8",
       "date": "2026-11-21T23:00:00.000Z",
       "timeKnown": true,
       "label": "State final",
       "venue": "Mount Tahoma Stadium, Tacoma",
-      "status": "possible",
-      "note": "If we beat Friday Harbor on Friday",
+      "status": "confirmed",
+      "note": "Next game",
       "vs": "Mount Vernon",
       "calId": "2026-11-21-g8"
-    },
-    {
-      "key": "g7",
-      "date": "2026-11-21T18:00:00.000Z",
-      "timeKnown": true,
-      "label": "3rd-place game",
-      "venue": "Mount Tahoma Stadium, Tacoma",
-      "status": "possible",
-      "note": "If we lose to Friday Harbor on Friday",
-      "vs": "Providence",
-      "calId": "2026-11-21-g7"
     }
   ],
-  "datesIntro": {
-    "title": "State weekend in Tacoma",
-    "lead": "Two games either way: the semifinal Friday, then Saturday the final if we win or the last-chance game if not."
-  },
+  "datesIntro": null,
   "district": {
     "title": "2026 District 1/2/3/4 1B/2B Boys Soccer",
     "url": "https://www.wpanetwork.com/wiaa/brackets/tournament.php?act=view&tournament_id=5242",
@@ -1660,7 +1642,7 @@
             "place": "3rd place",
             "h2h": {
               "record": {
-                "w": 8,
+                "w": 9,
                 "l": 5,
                 "d": 0
               },
@@ -1679,12 +1661,19 @@
                   "gf": 2,
                   "ga": 0,
                   "pens": false
+                },
+                {
+                  "date": "2026-11-20T21:00:00.000Z",
+                  "result": "W",
+                  "gf": 1,
+                  "ga": 0,
+                  "pens": false
                 }
               ],
               "last": {
-                "date": "2026-10-13T23:00:00.000Z",
+                "date": "2026-11-20T21:00:00.000Z",
                 "result": "W",
-                "gf": 2,
+                "gf": 1,
                 "ga": 0,
                 "pens": false
               }
@@ -2149,9 +2138,9 @@
               "timeKnown": true,
               "venue": "Mount Tahoma Stadium, Tacoma",
               "siteNote": "",
-              "played": false,
+              "played": true,
               "pens": null,
-              "scoreSource": null,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Friday Harbor",
@@ -2159,7 +2148,7 @@
                   "abbr": "FH",
                   "color": "#754ACC",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
                   "winner": false,
                   "seed": null
                 },
@@ -2169,8 +2158,8 @@
                   "abbr": "OI",
                   "color": "#034CB2",
                   "isUs": true,
-                  "score": null,
-                  "winner": false,
+                  "score": 1,
+                  "winner": true,
                   "seed": null
                 }
               ],
@@ -2216,24 +2205,11 @@
                   "seed": null
                 },
                 {
-                  "name": "Loser of Game 6",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Friday Harbor",
-                      "mascot": "Wolverines",
-                      "abbr": "FH",
-                      "color": "#754ACC",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Orcas Island",
-                      "mascot": "Vikings",
-                      "abbr": "OI",
-                      "color": "#034CB2",
-                      "isUs": true
-                    }
-                  ],
+                  "name": "Friday Harbor",
+                  "mascot": "Wolverines",
+                  "abbr": "FH",
+                  "color": "#754ACC",
+                  "isUs": false,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -2249,7 +2225,7 @@
               },
               "ours": false,
               "watch": null,
-              "maybeOurs": true
+              "maybeOurs": false
             },
             {
               "no": "8",
@@ -2275,24 +2251,11 @@
                   "seed": null
                 },
                 {
-                  "name": "Winner of Game 6",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Friday Harbor",
-                      "mascot": "Wolverines",
-                      "abbr": "FH",
-                      "color": "#754ACC",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Orcas Island",
-                      "mascot": "Vikings",
-                      "abbr": "OI",
-                      "color": "#034CB2",
-                      "isUs": true
-                    }
-                  ],
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
+                  "color": "#034CB2",
+                  "isUs": true,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -2306,9 +2269,9 @@
                 "text": "Runner-up",
                 "state": false
               },
-              "ours": false,
+              "ours": true,
               "watch": null,
-              "maybeOurs": true
+              "maybeOurs": false
             }
           ],
           "title": "3rd-place game & State final"
@@ -2568,9 +2531,9 @@
               "timeKnown": true,
               "venue": "Mount Tahoma Stadium, Tacoma",
               "siteNote": "",
-              "played": false,
+              "played": true,
               "pens": null,
-              "scoreSource": null,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Friday Harbor",
@@ -2578,7 +2541,7 @@
                   "abbr": "FH",
                   "color": "#754ACC",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
                   "winner": false,
                   "seed": null
                 },
@@ -2588,8 +2551,8 @@
                   "abbr": "OI",
                   "color": "#034CB2",
                   "isUs": true,
-                  "score": null,
-                  "winner": false,
+                  "score": 1,
+                  "winner": true,
                   "seed": null
                 }
               ],
@@ -2637,24 +2600,11 @@
                   "seed": null
                 },
                 {
-                  "name": "Winner of Game 6",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Friday Harbor",
-                      "mascot": "Wolverines",
-                      "abbr": "FH",
-                      "color": "#754ACC",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Orcas Island",
-                      "mascot": "Vikings",
-                      "abbr": "OI",
-                      "color": "#034CB2",
-                      "isUs": true
-                    }
-                  ],
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
+                  "color": "#034CB2",
+                  "isUs": true,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -2668,9 +2618,9 @@
                 "text": "Runner-up",
                 "state": false
               },
-              "ours": false,
+              "ours": true,
               "watch": null,
-              "maybeOurs": true
+              "maybeOurs": false
             }
           ]
         }
@@ -2700,24 +2650,11 @@
               "seed": null
             },
             {
-              "name": "Loser of Game 6",
-              "placeholder": true,
-              "candidates": [
-                {
-                  "name": "Friday Harbor",
-                  "mascot": "Wolverines",
-                  "abbr": "FH",
-                  "color": "#754ACC",
-                  "isUs": false
-                },
-                {
-                  "name": "Orcas Island",
-                  "mascot": "Vikings",
-                  "abbr": "OI",
-                  "color": "#034CB2",
-                  "isUs": true
-                }
-              ],
+              "name": "Friday Harbor",
+              "mascot": "Wolverines",
+              "abbr": "FH",
+              "color": "#754ACC",
+              "isUs": false,
               "score": null,
               "winner": false,
               "seed": null
@@ -2733,7 +2670,7 @@
           },
           "ours": false,
           "watch": null,
-          "maybeOurs": true,
+          "maybeOurs": false,
           "note": null
         }
       ],
@@ -2809,9 +2746,9 @@
             "timeKnown": true,
             "venue": "Mount Tahoma Stadium, Tacoma",
             "siteNote": "",
-            "played": false,
+            "played": true,
             "pens": null,
-            "scoreSource": null,
+            "scoreSource": "bracket",
             "teams": [
               {
                 "name": "Friday Harbor",
@@ -2819,7 +2756,7 @@
                 "abbr": "FH",
                 "color": "#754ACC",
                 "isUs": false,
-                "score": null,
+                "score": 0,
                 "winner": false,
                 "seed": null
               },
@@ -2829,8 +2766,8 @@
                 "abbr": "OI",
                 "color": "#034CB2",
                 "isUs": true,
-                "score": null,
-                "winner": false,
+                "score": 1,
+                "winner": true,
                 "seed": null
               }
             ],
@@ -2846,9 +2783,9 @@
             "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
             "maybeOurs": false
           },
-          "result": null,
-          "gf": null,
-          "ga": null,
+          "result": "W",
+          "gf": 1,
+          "ga": 0,
           "pens": null,
           "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
           "opponent": {
@@ -2858,56 +2795,8 @@
             "color": "#754ACC",
             "isUs": false
           }
-        }
-      ],
-      "scenarios": {
-        "game": {
-          "no": "6",
-          "round": "semifinal",
-          "label": "State semifinal",
-          "date": "2026-11-20T21:00:00.000Z",
-          "dateWindow": null,
-          "timeKnown": true,
-          "venue": "Mount Tahoma Stadium, Tacoma",
-          "siteNote": "",
-          "played": false,
-          "pens": null,
-          "scoreSource": null,
-          "teams": [
-            {
-              "name": "Friday Harbor",
-              "mascot": "Wolverines",
-              "abbr": "FH",
-              "color": "#754ACC",
-              "isUs": false,
-              "score": null,
-              "winner": false,
-              "seed": null
-            },
-            {
-              "name": "Orcas Island",
-              "mascot": "Vikings",
-              "abbr": "OI",
-              "color": "#034CB2",
-              "isUs": true,
-              "score": null,
-              "winner": false,
-              "seed": null
-            }
-          ],
-          "winner": {
-            "text": "State final",
-            "state": false
-          },
-          "loser": {
-            "text": "3rd-place game",
-            "state": false
-          },
-          "ours": true,
-          "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
-          "maybeOurs": false
         },
-        "win": {
+        {
           "game": {
             "no": "8",
             "round": "final",
@@ -2932,24 +2821,11 @@
                 "seed": null
               },
               {
-                "name": "Winner of Game 6",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Friday Harbor",
-                    "mascot": "Wolverines",
-                    "abbr": "FH",
-                    "color": "#754ACC",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Orcas Island",
-                    "mascot": "Vikings",
-                    "abbr": "OI",
-                    "color": "#034CB2",
-                    "isUs": true
-                  }
-                ],
+                "name": "Orcas Island",
+                "mascot": "Vikings",
+                "abbr": "OI",
+                "color": "#034CB2",
+                "isUs": true,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -2963,95 +2839,82 @@
               "text": "Runner-up",
               "state": false
             },
-            "ours": false,
+            "ours": true,
             "watch": null,
-            "maybeOurs": true
+            "maybeOurs": false
           },
-          "win": {
-            "outcome": "District champions",
-            "short": "Champions",
-            "state": false,
-            "over": false
-          },
-          "lose": {
-            "outcome": "District runner-up",
-            "short": "Runner-up",
-            "state": false,
-            "over": false
+          "result": null,
+          "gf": null,
+          "ga": null,
+          "pens": null,
+          "watch": null,
+          "opponent": {
+            "name": "Mount Vernon Christian",
+            "mascot": "Hurricanes",
+            "abbr": "MV",
+            "color": "#034CB2",
+            "isUs": false
           }
+        }
+      ],
+      "scenarios": {
+        "game": {
+          "no": "8",
+          "round": "final",
+          "label": "State final",
+          "date": "2026-11-21T23:00:00.000Z",
+          "dateWindow": null,
+          "timeKnown": true,
+          "venue": "Mount Tahoma Stadium, Tacoma",
+          "siteNote": "",
+          "played": false,
+          "pens": null,
+          "scoreSource": null,
+          "teams": [
+            {
+              "name": "Mount Vernon Christian",
+              "mascot": "Hurricanes",
+              "abbr": "MV",
+              "color": "#034CB2",
+              "isUs": false,
+              "score": null,
+              "winner": false,
+              "seed": null
+            },
+            {
+              "name": "Orcas Island",
+              "mascot": "Vikings",
+              "abbr": "OI",
+              "color": "#034CB2",
+              "isUs": true,
+              "score": null,
+              "winner": false,
+              "seed": null
+            }
+          ],
+          "winner": {
+            "text": "Champions",
+            "state": false
+          },
+          "loser": {
+            "text": "Runner-up",
+            "state": false
+          },
+          "ours": true,
+          "watch": null,
+          "maybeOurs": false
+        },
+        "win": {
+          "outcome": "District champions",
+          "short": "Champions",
+          "state": false,
+          "over": false
         },
         "lose": {
-          "game": {
-            "no": "7",
-            "round": "thirdPlace",
-            "label": "3rd-place game",
-            "date": "2026-11-21T18:00:00.000Z",
-            "dateWindow": null,
-            "timeKnown": true,
-            "venue": "Mount Tahoma Stadium, Tacoma",
-            "siteNote": "",
-            "played": false,
-            "pens": null,
-            "scoreSource": null,
-            "teams": [
-              {
-                "name": "Providence Classical Christian",
-                "mascot": "Highlanders",
-                "abbr": "PC",
-                "color": "#022C66",
-                "isUs": false,
-                "score": null,
-                "winner": false,
-                "seed": null
-              },
-              {
-                "name": "Loser of Game 6",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Friday Harbor",
-                    "mascot": "Wolverines",
-                    "abbr": "FH",
-                    "color": "#754ACC",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Orcas Island",
-                    "mascot": "Vikings",
-                    "abbr": "OI",
-                    "color": "#034CB2",
-                    "isUs": true
-                  }
-                ],
-                "score": null,
-                "winner": false,
-                "seed": null
-              }
-            ],
-            "winner": {
-              "text": "3rd place",
-              "state": false
-            },
-            "loser": {
-              "text": "4th place",
-              "state": false
-            },
-            "ours": false,
-            "watch": null,
-            "maybeOurs": true
-          },
-          "win": {
-            "outcome": "Finish 3rd in district",
-            "short": "3rd place",
-            "state": false,
-            "over": false
-          },
-          "lose": {
-            "outcome": "Finish 4th in district",
-            "short": "4th place",
-            "state": false,
-            "over": false
-          }
+          "outcome": "District runner-up",
+          "short": "Runner-up",
+          "state": false,
+          "over": false
         }
       },
       "guaranteedState": null,
@@ -3749,9 +3612,9 @@
         "isUs": false
       },
       "home": true,
-      "result": null,
-      "gf": null,
-      "ga": null,
+      "result": "W",
+      "gf": 1,
+      "ga": 0,
       "stage": "State",
       "venue": null,
       "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
@@ -3833,8 +3696,8 @@
   "insights": [
     {
       "icon": "🗓️",
-      "title": "State: we play Friday Harbor Fri Nov 20",
-      "text": "We’re 8-5 against them since 2022. Last time: won 2-0."
+      "title": "State: we play Mount Vernon Christian Sat Nov 21",
+      "text": "We’re 9-3-2 against them since 2022. Last time: won 0-0 on penalties."
     },
     {
       "icon": "🏆",
@@ -3847,9 +3710,14 @@
       "text": "We’ve won the league and districts. Win State too and we take all three titles this season. Last year we won State but lost in districts."
     },
     {
+      "icon": "⚠️",
+      "title": "Mount Vernon plays us close",
+      "text": "Every game has been close: one win and two draws (0-0 and 1-0 and 0-0). They’re our next opponent: Sat Nov 21."
+    },
+    {
       "icon": "💪",
       "title": "Unbeaten all season",
-      "text": "19 wins and 1 draw. We’ve scored 97 goals and allowed just 13."
+      "text": "20 wins and 1 draw. We’ve scored 98 goals and allowed just 13."
     },
     {
       "icon": "⭐",
@@ -3874,7 +3742,7 @@
       "stage": "State",
       "teams": 8,
       "text": "The best 8 small schools in Washington. Lose once and you're out.",
-      "us": "Semifinals"
+      "us": "In the final"
     },
     {
       "stage": "Champion",
@@ -4647,15 +4515,15 @@
         {
           "season": "2026",
           "date": "2026-11-20T21:00:00.000Z",
-          "result": null,
-          "gf": null,
-          "ga": null,
+          "result": "W",
+          "gf": 1,
+          "ga": 0,
           "home": true,
           "stage": "State",
           "venue": null,
           "pens": false,
-          "close": false,
-          "upcoming": true
+          "close": true,
+          "upcoming": false
         },
         {
           "season": "2026",
@@ -4828,7 +4696,7 @@
         }
       ],
       "record": {
-        "w": 8,
+        "w": 9,
         "l": 5,
         "d": 0
       },
@@ -5731,25 +5599,9 @@
   "historySince": "2022",
   "calendar": [
     {
-      "id": "2026-11-20-g6",
-      "title": "Vikings vs Friday Harbor · State semifinal",
-      "start": "2026-11-20T21:00:00.000Z",
-      "timeKnown": true,
-      "location": "Mount Tahoma Stadium, Tacoma",
-      "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
-    },
-    {
       "id": "2026-11-21-g8",
-      "title": "Vikings vs Mount Vernon · State final (if we advance)",
+      "title": "Vikings vs Mount Vernon · State final",
       "start": "2026-11-21T23:00:00.000Z",
-      "timeKnown": true,
-      "location": "Mount Tahoma Stadium, Tacoma",
-      "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
-    },
-    {
-      "id": "2026-11-21-g7",
-      "title": "Vikings vs Providence · 3rd-place game (if we advance)",
-      "start": "2026-11-21T18:00:00.000Z",
       "timeKnown": true,
       "location": "Mount Tahoma Stadium, Tacoma",
       "details": "Orcas Island Vikings boys soccer. Follow along: https://govikings.app"
@@ -5783,7 +5635,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-20T21:01:06.265Z",
+    "generatedAt": "2026-11-20T23:16:06.276Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -5793,10 +5645,10 @@
       "full": "Orcas Island Vikings",
       "sport": "Fútbol varonil",
       "season": "2026",
-      "record": "19-0-1",
-      "streak": "W15",
+      "record": "20-0-1",
+      "streak": "W16",
       "goals": {
-        "for": 97,
+        "for": 98,
         "against": 13
       },
       "rank": {
@@ -5806,8 +5658,8 @@
     },
     "headline": {
       "tone": "great",
-      "title": "¡A las semifinales del Estatal!",
-      "sub": "Ganamos a Auburn 2–0. Semifinal viernes 20 de noviembre en Tacoma, y otro partido el sábado pase lo que pase."
+      "title": "¡A la final del Estatal!",
+      "sub": "Ganamos a Friday Harbor 1–0. Jugamos por el título estatal sábado 21 de noviembre en Tacoma."
     },
     "journey": [
       {
@@ -5833,9 +5685,9 @@
         "name": "Estatal",
         "sub": "Torneo estatal",
         "status": "active",
-        "badge": "Semifinales",
+        "badge": "En la final",
         "good": true,
-        "detail": "Ganamos a Auburn 2–0"
+        "detail": "Ganamos a Friday Harbor 1–0"
       }
     ],
     "connectors": [
@@ -5844,9 +5696,9 @@
     ],
     "nextGame": {
       "stage": "State",
-      "round": "semifinal",
-      "label": "Semifinal del Estatal",
-      "date": "2026-11-20T21:00:00.000Z",
+      "round": "final",
+      "label": "Final del Estatal",
+      "date": "2026-11-21T23:00:00.000Z",
       "dateWindow": null,
       "timeKnown": true,
       "venue": "Mount Tahoma Stadium, Tacoma",
@@ -5855,23 +5707,30 @@
       "hostNote": null,
       "opponents": [
         {
-          "name": "Friday Harbor",
-          "mascot": "Wolverines",
-          "abbr": "FH",
-          "color": "#754ACC",
+          "name": "Mount Vernon Christian",
+          "mascot": "Hurricanes",
+          "abbr": "MV",
+          "color": "#034CB2",
           "isUs": false,
           "meetings": [
             {
-              "date": "2026-09-25T22:30:00.000Z",
-              "result": "W",
-              "gf": 4,
-              "ga": 1,
+              "date": "2026-09-23T22:00:00.000Z",
+              "result": "D",
+              "gf": 0,
+              "ga": 0,
               "home": false
             },
             {
-              "date": "2026-10-13T23:00:00.000Z",
+              "date": "2026-10-07T23:00:00.000Z",
               "result": "W",
-              "gf": 2,
+              "gf": 1,
+              "ga": 0,
+              "home": true
+            },
+            {
+              "date": "2026-11-07T23:00:00.000Z",
+              "result": "W",
+              "gf": 0,
               "ga": 0,
               "home": true
             }
@@ -5882,74 +5741,49 @@
       "links": {
         "map": "https://www.google.com/maps/search/?api=1&query=Mount%20Tahoma%20Stadium%2C%20Tacoma%2C%20WA"
       },
-      "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
-      "calId": "2026-11-20-g6"
+      "watch": null,
+      "calId": "2026-11-21-g8"
     },
     "recentResult": {
-      "date": "2026-11-13T20:30:00.000Z",
-      "label": "Primera ronda del Estatal",
+      "date": "2026-11-20T21:00:00.000Z",
+      "label": "Semifinal del Estatal",
       "opponent": {
-        "name": "Auburn Adventist",
-        "mascot": "Falcons",
-        "abbr": "AA",
-        "color": "#022C66",
+        "name": "Friday Harbor",
+        "mascot": "Wolverines",
+        "abbr": "FH",
+        "color": "#754ACC",
         "isUs": false
       },
       "result": "W",
-      "gf": 2,
+      "gf": 1,
       "ga": 0,
       "pens": null,
-      "watch": "https://fan.hudl.com/usa/wa/anacortes/organization/7825/anacortes-high-school/watch?b=QnJvYWRjYXN0NDgxNzIwNQ%3D%3D",
-      "chip": "A las semifinales",
+      "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
+      "chip": "A la final del Estatal",
       "next": {
-        "label": "Semifinal del Estatal",
-        "date": "2026-11-20T21:00:00.000Z",
+        "label": "Final del Estatal",
+        "date": "2026-11-21T23:00:00.000Z",
         "timeKnown": true,
         "opponents": [
-          "Friday Harbor"
+          "Mount Vernon"
         ],
         "decidedBy": null
       }
     },
     "dates": [
       {
-        "key": "g6",
-        "date": "2026-11-20T21:00:00.000Z",
-        "timeKnown": true,
-        "label": "Semifinal del Estatal",
-        "venue": "Mount Tahoma Stadium, Tacoma",
-        "status": "confirmed",
-        "note": "Próximo partido",
-        "vs": "Friday Harbor",
-        "calId": "2026-11-20-g6"
-      },
-      {
         "key": "g8",
         "date": "2026-11-21T23:00:00.000Z",
         "timeKnown": true,
         "label": "Final del Estatal",
         "venue": "Mount Tahoma Stadium, Tacoma",
-        "status": "possible",
-        "note": "Si le ganamos a Friday Harbor el viernes",
+        "status": "confirmed",
+        "note": "Próximo partido",
         "vs": "Mount Vernon",
         "calId": "2026-11-21-g8"
-      },
-      {
-        "key": "g7",
-        "date": "2026-11-21T18:00:00.000Z",
-        "timeKnown": true,
-        "label": "Partido por el 3.er lugar",
-        "venue": "Mount Tahoma Stadium, Tacoma",
-        "status": "possible",
-        "note": "Si perdemos contra Friday Harbor el viernes",
-        "vs": "Providence",
-        "calId": "2026-11-21-g7"
       }
     ],
-    "datesIntro": {
-      "title": "Fin de semana del Estatal en Tacoma",
-      "lead": "Dos partidos pase lo que pase: la semifinal el viernes, y el sábado la final si ganamos o el partido de consolación si no."
-    },
+    "datesIntro": null,
     "district": {
       "title": "2026 District 1/2/3/4 1B/2B Boys Soccer",
       "url": "https://www.wpanetwork.com/wiaa/brackets/tournament.php?act=view&tournament_id=5242",
@@ -7444,7 +7278,7 @@
               "place": "3.er lugar",
               "h2h": {
                 "record": {
-                  "w": 8,
+                  "w": 9,
                   "l": 5,
                   "d": 0
                 },
@@ -7463,12 +7297,19 @@
                     "gf": 2,
                     "ga": 0,
                     "pens": false
+                  },
+                  {
+                    "date": "2026-11-20T21:00:00.000Z",
+                    "result": "W",
+                    "gf": 1,
+                    "ga": 0,
+                    "pens": false
                   }
                 ],
                 "last": {
-                  "date": "2026-10-13T23:00:00.000Z",
+                  "date": "2026-11-20T21:00:00.000Z",
                   "result": "W",
-                  "gf": 2,
+                  "gf": 1,
                   "ga": 0,
                   "pens": false
                 }
@@ -7933,9 +7774,9 @@
                 "timeKnown": true,
                 "venue": "Mount Tahoma Stadium, Tacoma",
                 "siteNote": "",
-                "played": false,
+                "played": true,
                 "pens": null,
-                "scoreSource": null,
+                "scoreSource": "bracket",
                 "teams": [
                   {
                     "name": "Friday Harbor",
@@ -7943,7 +7784,7 @@
                     "abbr": "FH",
                     "color": "#754ACC",
                     "isUs": false,
-                    "score": null,
+                    "score": 0,
                     "winner": false,
                     "seed": null
                   },
@@ -7953,8 +7794,8 @@
                     "abbr": "OI",
                     "color": "#034CB2",
                     "isUs": true,
-                    "score": null,
-                    "winner": false,
+                    "score": 1,
+                    "winner": true,
                     "seed": null
                   }
                 ],
@@ -8000,24 +7841,11 @@
                     "seed": null
                   },
                   {
-                    "name": "Perdedor del partido 6",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Friday Harbor",
-                        "mascot": "Wolverines",
-                        "abbr": "FH",
-                        "color": "#754ACC",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Orcas Island",
-                        "mascot": "Vikings",
-                        "abbr": "OI",
-                        "color": "#034CB2",
-                        "isUs": true
-                      }
-                    ],
+                    "name": "Friday Harbor",
+                    "mascot": "Wolverines",
+                    "abbr": "FH",
+                    "color": "#754ACC",
+                    "isUs": false,
                     "score": null,
                     "winner": false,
                     "seed": null
@@ -8033,7 +7861,7 @@
                 },
                 "ours": false,
                 "watch": null,
-                "maybeOurs": true
+                "maybeOurs": false
               },
               {
                 "no": "8",
@@ -8059,24 +7887,11 @@
                     "seed": null
                   },
                   {
-                    "name": "Ganador del partido 6",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Friday Harbor",
-                        "mascot": "Wolverines",
-                        "abbr": "FH",
-                        "color": "#754ACC",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Orcas Island",
-                        "mascot": "Vikings",
-                        "abbr": "OI",
-                        "color": "#034CB2",
-                        "isUs": true
-                      }
-                    ],
+                    "name": "Orcas Island",
+                    "mascot": "Vikings",
+                    "abbr": "OI",
+                    "color": "#034CB2",
+                    "isUs": true,
                     "score": null,
                     "winner": false,
                     "seed": null
@@ -8090,9 +7905,9 @@
                   "text": "Subcampeones",
                   "state": false
                 },
-                "ours": false,
+                "ours": true,
                 "watch": null,
-                "maybeOurs": true
+                "maybeOurs": false
               }
             ],
             "title": "Partido por el 3.er lugar y Final del Estatal"
@@ -8352,9 +8167,9 @@
                 "timeKnown": true,
                 "venue": "Mount Tahoma Stadium, Tacoma",
                 "siteNote": "",
-                "played": false,
+                "played": true,
                 "pens": null,
-                "scoreSource": null,
+                "scoreSource": "bracket",
                 "teams": [
                   {
                     "name": "Friday Harbor",
@@ -8362,7 +8177,7 @@
                     "abbr": "FH",
                     "color": "#754ACC",
                     "isUs": false,
-                    "score": null,
+                    "score": 0,
                     "winner": false,
                     "seed": null
                   },
@@ -8372,8 +8187,8 @@
                     "abbr": "OI",
                     "color": "#034CB2",
                     "isUs": true,
-                    "score": null,
-                    "winner": false,
+                    "score": 1,
+                    "winner": true,
                     "seed": null
                   }
                 ],
@@ -8421,24 +8236,11 @@
                     "seed": null
                   },
                   {
-                    "name": "Ganador del partido 6",
-                    "placeholder": true,
-                    "candidates": [
-                      {
-                        "name": "Friday Harbor",
-                        "mascot": "Wolverines",
-                        "abbr": "FH",
-                        "color": "#754ACC",
-                        "isUs": false
-                      },
-                      {
-                        "name": "Orcas Island",
-                        "mascot": "Vikings",
-                        "abbr": "OI",
-                        "color": "#034CB2",
-                        "isUs": true
-                      }
-                    ],
+                    "name": "Orcas Island",
+                    "mascot": "Vikings",
+                    "abbr": "OI",
+                    "color": "#034CB2",
+                    "isUs": true,
                     "score": null,
                     "winner": false,
                     "seed": null
@@ -8452,9 +8254,9 @@
                   "text": "Subcampeones",
                   "state": false
                 },
-                "ours": false,
+                "ours": true,
                 "watch": null,
-                "maybeOurs": true
+                "maybeOurs": false
               }
             ]
           }
@@ -8484,24 +8286,11 @@
                 "seed": null
               },
               {
-                "name": "Perdedor del partido 6",
-                "placeholder": true,
-                "candidates": [
-                  {
-                    "name": "Friday Harbor",
-                    "mascot": "Wolverines",
-                    "abbr": "FH",
-                    "color": "#754ACC",
-                    "isUs": false
-                  },
-                  {
-                    "name": "Orcas Island",
-                    "mascot": "Vikings",
-                    "abbr": "OI",
-                    "color": "#034CB2",
-                    "isUs": true
-                  }
-                ],
+                "name": "Friday Harbor",
+                "mascot": "Wolverines",
+                "abbr": "FH",
+                "color": "#754ACC",
+                "isUs": false,
                 "score": null,
                 "winner": false,
                 "seed": null
@@ -8517,7 +8306,7 @@
             },
             "ours": false,
             "watch": null,
-            "maybeOurs": true,
+            "maybeOurs": false,
             "note": null
           }
         ],
@@ -8593,9 +8382,9 @@
               "timeKnown": true,
               "venue": "Mount Tahoma Stadium, Tacoma",
               "siteNote": "",
-              "played": false,
+              "played": true,
               "pens": null,
-              "scoreSource": null,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Friday Harbor",
@@ -8603,7 +8392,7 @@
                   "abbr": "FH",
                   "color": "#754ACC",
                   "isUs": false,
-                  "score": null,
+                  "score": 0,
                   "winner": false,
                   "seed": null
                 },
@@ -8613,8 +8402,8 @@
                   "abbr": "OI",
                   "color": "#034CB2",
                   "isUs": true,
-                  "score": null,
-                  "winner": false,
+                  "score": 1,
+                  "winner": true,
                   "seed": null
                 }
               ],
@@ -8630,9 +8419,9 @@
               "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
               "maybeOurs": false
             },
-            "result": null,
-            "gf": null,
-            "ga": null,
+            "result": "W",
+            "gf": 1,
+            "ga": 0,
             "pens": null,
             "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
             "opponent": {
@@ -8642,56 +8431,8 @@
               "color": "#754ACC",
               "isUs": false
             }
-          }
-        ],
-        "scenarios": {
-          "game": {
-            "no": "6",
-            "round": "semifinal",
-            "label": "Semifinal del Estatal",
-            "date": "2026-11-20T21:00:00.000Z",
-            "dateWindow": null,
-            "timeKnown": true,
-            "venue": "Mount Tahoma Stadium, Tacoma",
-            "siteNote": "",
-            "played": false,
-            "pens": null,
-            "scoreSource": null,
-            "teams": [
-              {
-                "name": "Friday Harbor",
-                "mascot": "Wolverines",
-                "abbr": "FH",
-                "color": "#754ACC",
-                "isUs": false,
-                "score": null,
-                "winner": false,
-                "seed": null
-              },
-              {
-                "name": "Orcas Island",
-                "mascot": "Vikings",
-                "abbr": "OI",
-                "color": "#034CB2",
-                "isUs": true,
-                "score": null,
-                "winner": false,
-                "seed": null
-              }
-            ],
-            "winner": {
-              "text": "Final del Estatal",
-              "state": false
-            },
-            "loser": {
-              "text": "Partido por el 3.er lugar",
-              "state": false
-            },
-            "ours": true,
-            "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
-            "maybeOurs": false
           },
-          "win": {
+          {
             "game": {
               "no": "8",
               "round": "final",
@@ -8716,24 +8457,11 @@
                   "seed": null
                 },
                 {
-                  "name": "Ganador del partido 6",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Friday Harbor",
-                      "mascot": "Wolverines",
-                      "abbr": "FH",
-                      "color": "#754ACC",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Orcas Island",
-                      "mascot": "Vikings",
-                      "abbr": "OI",
-                      "color": "#034CB2",
-                      "isUs": true
-                    }
-                  ],
+                  "name": "Orcas Island",
+                  "mascot": "Vikings",
+                  "abbr": "OI",
+                  "color": "#034CB2",
+                  "isUs": true,
                   "score": null,
                   "winner": false,
                   "seed": null
@@ -8747,95 +8475,82 @@
                 "text": "Subcampeones",
                 "state": false
               },
-              "ours": false,
+              "ours": true,
               "watch": null,
-              "maybeOurs": true
+              "maybeOurs": false
             },
-            "win": {
-              "outcome": "Campeones del distrito",
-              "short": "Campeones",
-              "state": false,
-              "over": false
-            },
-            "lose": {
-              "outcome": "Subcampeones del distrito",
-              "short": "Subcampeones",
-              "state": false,
-              "over": false
+            "result": null,
+            "gf": null,
+            "ga": null,
+            "pens": null,
+            "watch": null,
+            "opponent": {
+              "name": "Mount Vernon Christian",
+              "mascot": "Hurricanes",
+              "abbr": "MV",
+              "color": "#034CB2",
+              "isUs": false
             }
+          }
+        ],
+        "scenarios": {
+          "game": {
+            "no": "8",
+            "round": "final",
+            "label": "Final del Estatal",
+            "date": "2026-11-21T23:00:00.000Z",
+            "dateWindow": null,
+            "timeKnown": true,
+            "venue": "Mount Tahoma Stadium, Tacoma",
+            "siteNote": "",
+            "played": false,
+            "pens": null,
+            "scoreSource": null,
+            "teams": [
+              {
+                "name": "Mount Vernon Christian",
+                "mascot": "Hurricanes",
+                "abbr": "MV",
+                "color": "#034CB2",
+                "isUs": false,
+                "score": null,
+                "winner": false,
+                "seed": null
+              },
+              {
+                "name": "Orcas Island",
+                "mascot": "Vikings",
+                "abbr": "OI",
+                "color": "#034CB2",
+                "isUs": true,
+                "score": null,
+                "winner": false,
+                "seed": null
+              }
+            ],
+            "winner": {
+              "text": "Campeones",
+              "state": false
+            },
+            "loser": {
+              "text": "Subcampeones",
+              "state": false
+            },
+            "ours": true,
+            "watch": null,
+            "maybeOurs": false
+          },
+          "win": {
+            "outcome": "Campeones del distrito",
+            "short": "Campeones",
+            "state": false,
+            "over": false
           },
           "lose": {
-            "game": {
-              "no": "7",
-              "round": "thirdPlace",
-              "label": "Partido por el 3.er lugar",
-              "date": "2026-11-21T18:00:00.000Z",
-              "dateWindow": null,
-              "timeKnown": true,
-              "venue": "Mount Tahoma Stadium, Tacoma",
-              "siteNote": "",
-              "played": false,
-              "pens": null,
-              "scoreSource": null,
-              "teams": [
-                {
-                  "name": "Providence Classical Christian",
-                  "mascot": "Highlanders",
-                  "abbr": "PC",
-                  "color": "#022C66",
-                  "isUs": false,
-                  "score": null,
-                  "winner": false,
-                  "seed": null
-                },
-                {
-                  "name": "Perdedor del partido 6",
-                  "placeholder": true,
-                  "candidates": [
-                    {
-                      "name": "Friday Harbor",
-                      "mascot": "Wolverines",
-                      "abbr": "FH",
-                      "color": "#754ACC",
-                      "isUs": false
-                    },
-                    {
-                      "name": "Orcas Island",
-                      "mascot": "Vikings",
-                      "abbr": "OI",
-                      "color": "#034CB2",
-                      "isUs": true
-                    }
-                  ],
-                  "score": null,
-                  "winner": false,
-                  "seed": null
-                }
-              ],
-              "winner": {
-                "text": "3.er lugar",
-                "state": false
-              },
-              "loser": {
-                "text": "4.º lugar",
-                "state": false
-              },
-              "ours": false,
-              "watch": null,
-              "maybeOurs": true
-            },
-            "win": {
-              "outcome": "Terminar 3.º en el distrito",
-              "short": "3.er lugar",
-              "state": false,
-              "over": false
-            },
-            "lose": {
-              "outcome": "Terminar 4.º en el distrito",
-              "short": "4.º lugar",
-              "state": false,
-              "over": false
-            }
+            "outcome": "Subcampeones del distrito",
+            "short": "Subcampeones",
+            "state": false,
+            "over": false
           }
         },
         "guaranteedState": null,
@@ -9533,9 +9248,9 @@
           "isUs": false
         },
         "home": true,
-        "result": null,
-        "gf": null,
-        "ga": null,
+        "result": "W",
+        "gf": 1,
+        "ga": 0,
         "stage": "State",
         "venue": null,
         "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam839defbd6c",
@@ -9617,8 +9332,8 @@
     "insights": [
       {
         "icon": "🗓️",
-        "title": "Estatal: jugamos contra Friday Harbor el viernes 20 de noviembre",
-        "text": "Vamos 8-5 contra ellos desde 2022. La última vez: ganamos 2-0."
+        "title": "Estatal: jugamos contra Mount Vernon Christian el sábado 21 de noviembre",
+        "text": "Vamos 9-3-2 contra ellos desde 2022. La última vez: ganamos 0-0 en penales."
       },
       {
         "icon": "🏆",
@@ -9631,9 +9346,14 @@
         "text": "Ya ganamos la liga y el distrito. Si ganamos también el Estatal, nos llevamos los tres títulos esta temporada. El año pasado ganamos el Estatal pero perdimos en el distrito."
       },
       {
+        "icon": "⚠️",
+        "title": "Mount Vernon nos pone las cosas difíciles",
+        "text": "Todos los partidos han sido parejos: una victoria y dos empates (0-0 y 1-0 y 0-0). Son nuestro próximo rival: sábado 21 de noviembre."
+      },
+      {
         "icon": "💪",
         "title": "Invictos toda la temporada",
-        "text": "19 victorias y 1 empate. Hemos anotado 97 goles y solo hemos recibido 13."
+        "text": "20 victorias y 1 empate. Hemos anotado 98 goles y solo hemos recibido 13."
       },
       {
         "icon": "⭐",
@@ -9658,7 +9378,7 @@
         "stage": "Estatal",
         "teams": 8,
         "text": "Las 8 mejores escuelas pequeñas de Washington. Si pierdes una vez, quedas eliminado.",
-        "us": "Semifinales"
+        "us": "En la final"
       },
       {
         "stage": "Campeón",
@@ -10431,15 +10151,15 @@
           {
             "season": "2026",
             "date": "2026-11-20T21:00:00.000Z",
-            "result": null,
-            "gf": null,
-            "ga": null,
+            "result": "W",
+            "gf": 1,
+            "ga": 0,
             "home": true,
             "stage": "State",
             "venue": null,
             "pens": false,
-            "close": false,
-            "upcoming": true
+            "close": true,
+            "upcoming": false
           },
           {
             "season": "2026",
@@ -10612,7 +10332,7 @@
           }
         ],
         "record": {
-          "w": 8,
+          "w": 9,
           "l": 5,
           "d": 0
         },
@@ -11515,25 +11235,9 @@
     "historySince": "2022",
     "calendar": [
       {
-        "id": "2026-11-20-g6",
-        "title": "Vikings vs Friday Harbor · Semifinal del Estatal",
-        "start": "2026-11-20T21:00:00.000Z",
-        "timeKnown": true,
-        "location": "Mount Tahoma Stadium, Tacoma",
-        "details": "Fútbol varonil de los Orcas Island Vikings. Síguelos en: https://govikings.app"
-      },
-      {
         "id": "2026-11-21-g8",
-        "title": "Vikings vs Mount Vernon · Final del Estatal (si avanzamos)",
+        "title": "Vikings vs Mount Vernon · Final del Estatal",
         "start": "2026-11-21T23:00:00.000Z",
-        "timeKnown": true,
-        "location": "Mount Tahoma Stadium, Tacoma",
-        "details": "Fútbol varonil de los Orcas Island Vikings. Síguelos en: https://govikings.app"
-      },
-      {
-        "id": "2026-11-21-g7",
-        "title": "Vikings vs Providence · Partido por el 3.er lugar (si avanzamos)",
-        "start": "2026-11-21T18:00:00.000Z",
         "timeKnown": true,
         "location": "Mount Tahoma Stadium, Tacoma",
         "details": "Fútbol varonil de los Orcas Island Vikings. Síguelos en: https://govikings.app"
@@ -11567,5 +11271,14 @@
     ],
     "notes": []
   },
-  "scorekept": []
+  "scorekept": [
+    {
+      "game": "2026-11-20",
+      "us": 1,
+      "them": 0,
+      "final": true,
+      "show": true,
+      "pens": null
+    }
+  ]
 }
