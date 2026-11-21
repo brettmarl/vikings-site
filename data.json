@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T21:01:06.427Z",
+  "generatedAt": "2026-11-21T21:09:41.345Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -2191,7 +2191,7 @@
               "venue": "Mount Tahoma Stadium, Tacoma",
               "siteNote": "",
               "played": true,
-              "pens": null,
+              "pens": {},
               "scoreSource": "bracket",
               "teams": [
                 {
@@ -2210,7 +2210,7 @@
                   "abbr": "FH",
                   "color": "#754ACC",
                   "isUs": false,
-                  "score": 2,
+                  "score": 1,
                   "winner": true,
                   "seed": null
                 }
@@ -2636,7 +2636,7 @@
           "venue": "Mount Tahoma Stadium, Tacoma",
           "siteNote": "",
           "played": true,
-          "pens": null,
+          "pens": {},
           "scoreSource": "bracket",
           "teams": [
             {
@@ -2655,7 +2655,7 @@
               "abbr": "FH",
               "color": "#754ACC",
               "isUs": false,
-              "score": 2,
+              "score": 1,
               "winner": true,
               "seed": null
             }
@@ -5709,7 +5709,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-21T21:01:06.427Z",
+    "generatedAt": "2026-11-21T21:09:41.345Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -7901,7 +7901,7 @@
                 "venue": "Mount Tahoma Stadium, Tacoma",
                 "siteNote": "",
                 "played": true,
-                "pens": null,
+                "pens": {},
                 "scoreSource": "bracket",
                 "teams": [
                   {
@@ -7920,7 +7920,7 @@
                     "abbr": "FH",
                     "color": "#754ACC",
                     "isUs": false,
-                    "score": 2,
+                    "score": 1,
                     "winner": true,
                     "seed": null
                   }
@@ -8346,7 +8346,7 @@
             "venue": "Mount Tahoma Stadium, Tacoma",
             "siteNote": "",
             "played": true,
-            "pens": null,
+            "pens": {},
             "scoreSource": "bracket",
             "teams": [
               {
@@ -8365,7 +8365,7 @@
                 "abbr": "FH",
                 "color": "#754ACC",
                 "isUs": false,
-                "score": 2,
+                "score": 1,
                 "winner": true,
                 "seed": null
               }
