@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T18:01:06.278Z",
+  "generatedAt": "2026-11-21T21:01:06.427Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -2190,9 +2190,9 @@
               "timeKnown": true,
               "venue": "Mount Tahoma Stadium, Tacoma",
               "siteNote": "",
-              "played": false,
+              "played": true,
               "pens": null,
-              "scoreSource": null,
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Providence Classical Christian",
@@ -2200,7 +2200,7 @@
                   "abbr": "PC",
                   "color": "#022C66",
                   "isUs": false,
-                  "score": null,
+                  "score": 1,
                   "winner": false,
                   "seed": null
                 },
@@ -2210,8 +2210,8 @@
                   "abbr": "FH",
                   "color": "#754ACC",
                   "isUs": false,
-                  "score": null,
-                  "winner": false,
+                  "score": 2,
+                  "winner": true,
                   "seed": null
                 }
               ],
@@ -2635,9 +2635,9 @@
           "timeKnown": true,
           "venue": "Mount Tahoma Stadium, Tacoma",
           "siteNote": "",
-          "played": false,
+          "played": true,
           "pens": null,
-          "scoreSource": null,
+          "scoreSource": "bracket",
           "teams": [
             {
               "name": "Providence Classical Christian",
@@ -2645,7 +2645,7 @@
               "abbr": "PC",
               "color": "#022C66",
               "isUs": false,
-              "score": null,
+              "score": 1,
               "winner": false,
               "seed": null
             },
@@ -2655,8 +2655,8 @@
               "abbr": "FH",
               "color": "#754ACC",
               "isUs": false,
-              "score": null,
-              "winner": false,
+              "score": 2,
+              "winner": true,
               "seed": null
             }
           ],
@@ -5709,7 +5709,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-21T18:01:06.278Z",
+    "generatedAt": "2026-11-21T21:01:06.427Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -7900,9 +7900,9 @@
                 "timeKnown": true,
                 "venue": "Mount Tahoma Stadium, Tacoma",
                 "siteNote": "",
-                "played": false,
+                "played": true,
                 "pens": null,
-                "scoreSource": null,
+                "scoreSource": "bracket",
                 "teams": [
                   {
                     "name": "Providence Classical Christian",
@@ -7910,7 +7910,7 @@
                     "abbr": "PC",
                     "color": "#022C66",
                     "isUs": false,
-                    "score": null,
+                    "score": 1,
                     "winner": false,
                     "seed": null
                   },
@@ -7920,8 +7920,8 @@
                     "abbr": "FH",
                     "color": "#754ACC",
                     "isUs": false,
-                    "score": null,
-                    "winner": false,
+                    "score": 2,
+                    "winner": true,
                     "seed": null
                   }
                 ],
@@ -8345,9 +8345,9 @@
             "timeKnown": true,
             "venue": "Mount Tahoma Stadium, Tacoma",
             "siteNote": "",
-            "played": false,
+            "played": true,
             "pens": null,
-            "scoreSource": null,
+            "scoreSource": "bracket",
             "teams": [
               {
                 "name": "Providence Classical Christian",
@@ -8355,7 +8355,7 @@
                 "abbr": "PC",
                 "color": "#022C66",
                 "isUs": false,
-                "score": null,
+                "score": 1,
                 "winner": false,
                 "seed": null
               },
@@ -8365,8 +8365,8 @@
                 "abbr": "FH",
                 "color": "#754ACC",
                 "isUs": false,
-                "score": null,
-                "winner": false,
+                "score": 2,
+                "winner": true,
                 "seed": null
               }
             ],
