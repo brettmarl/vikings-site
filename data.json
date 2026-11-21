@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T23:46:06.435Z",
+  "generatedAt": "2026-11-21T00:31:06.126Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -3652,7 +3652,7 @@
       "gf": null,
       "ga": null,
       "stage": "Tournament",
-      "venue": null,
+      "venue": "1B/2B State Championship at Mount Tahoma, Tacoma",
       "watch": null,
       "pens": null
     }
@@ -4369,7 +4369,7 @@
           "ga": null,
           "home": false,
           "stage": "State",
-          "venue": null,
+          "venue": "1B/2B State Championship at Mount Tahoma, Tacoma",
           "pens": false,
           "close": false,
           "upcoming": true
@@ -5709,7 +5709,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-20T23:46:06.435Z",
+    "generatedAt": "2026-11-21T00:31:06.126Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -9362,7 +9362,7 @@
         "gf": null,
         "ga": null,
         "stage": "Tournament",
-        "venue": null,
+        "venue": "1B/2B State Championship at Mount Tahoma, Tacoma",
         "watch": null,
         "pens": null
       }
@@ -10079,7 +10079,7 @@
             "ga": null,
             "home": false,
             "stage": "State",
-            "venue": null,
+            "venue": "1B/2B State Championship at Mount Tahoma, Tacoma",
             "pens": false,
             "close": false,
             "upcoming": true
