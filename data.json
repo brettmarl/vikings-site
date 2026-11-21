@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T16:33:50.159Z",
+  "generatedAt": "2026-11-21T18:01:06.278Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -3660,8 +3660,8 @@
   "history": [
     {
       "season": "2026-27",
-      "overall": "19-0-1",
-      "w": 19,
+      "overall": "20-0-1",
+      "w": 20,
       "l": 0,
       "t": 1
     },
@@ -5709,7 +5709,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-21T16:33:50.159Z",
+    "generatedAt": "2026-11-21T18:01:06.278Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -9370,8 +9370,8 @@
     "history": [
       {
         "season": "2026-27",
-        "overall": "19-0-1",
-        "w": 19,
+        "overall": "20-0-1",
+        "w": 20,
         "l": 0,
         "t": 1
       },
