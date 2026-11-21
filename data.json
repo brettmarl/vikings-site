@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T15:01:07.108Z",
+  "generatedAt": "2026-11-21T16:29:13.993Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -105,7 +105,7 @@
     "links": {
       "map": "https://www.google.com/maps/search/?api=1&query=State1B%2F2B%20Finals-Mount%20Tahoma%20Stadium%2C%20Tacoma%20WA%2C%20WA"
     },
-    "watch": null,
+    "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam65bffde843",
     "calId": "2026-11-21-g8"
   },
   "recentResult": {
@@ -2270,7 +2270,7 @@
                 "state": false
               },
               "ours": true,
-              "watch": null,
+              "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam65bffde843",
               "maybeOurs": false
             }
           ],
@@ -2619,7 +2619,7 @@
                 "state": false
               },
               "ours": true,
-              "watch": null,
+              "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam65bffde843",
               "maybeOurs": false
             }
           ]
@@ -2840,14 +2840,14 @@
               "state": false
             },
             "ours": true,
-            "watch": null,
+            "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam65bffde843",
             "maybeOurs": false
           },
           "result": null,
           "gf": null,
           "ga": null,
           "pens": null,
-          "watch": null,
+          "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam65bffde843",
           "opponent": {
             "name": "Mount Vernon Christian",
             "mascot": "Hurricanes",
@@ -2901,7 +2901,7 @@
             "state": false
           },
           "ours": true,
-          "watch": null,
+          "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam65bffde843",
           "maybeOurs": false
         },
         "win": {
@@ -5709,7 +5709,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-21T15:01:07.108Z",
+    "generatedAt": "2026-11-21T16:29:13.993Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -5815,7 +5815,7 @@
       "links": {
         "map": "https://www.google.com/maps/search/?api=1&query=State1B%2F2B%20Finals-Mount%20Tahoma%20Stadium%2C%20Tacoma%20WA%2C%20WA"
       },
-      "watch": null,
+      "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam65bffde843",
       "calId": "2026-11-21-g8"
     },
     "recentResult": {
@@ -7980,7 +7980,7 @@
                   "state": false
                 },
                 "ours": true,
-                "watch": null,
+                "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam65bffde843",
                 "maybeOurs": false
               }
             ],
@@ -8329,7 +8329,7 @@
                   "state": false
                 },
                 "ours": true,
-                "watch": null,
+                "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam65bffde843",
                 "maybeOurs": false
               }
             ]
@@ -8550,14 +8550,14 @@
                 "state": false
               },
               "ours": true,
-              "watch": null,
+              "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam65bffde843",
               "maybeOurs": false
             },
             "result": null,
             "gf": null,
             "ga": null,
             "pens": null,
-            "watch": null,
+            "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam65bffde843",
             "opponent": {
               "name": "Mount Vernon Christian",
               "mascot": "Hurricanes",
@@ -8611,7 +8611,7 @@
               "state": false
             },
             "ours": true,
-            "watch": null,
+            "watch": "https://www.nfhsnetwork.com/events/wiaa-wa/gam65bffde843",
             "maybeOurs": false
           },
           "win": {
