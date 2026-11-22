@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T01:16:07.445Z",
+  "generatedAt": "2026-11-22T01:46:07.029Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -2176,7 +2176,7 @@
               "siteNote": "",
               "played": true,
               "pens": {},
-              "scoreSource": "maxpreps",
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Mount Vernon Christian",
@@ -2525,7 +2525,7 @@
               "siteNote": "",
               "played": true,
               "pens": {},
-              "scoreSource": "maxpreps",
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Mount Vernon Christian",
@@ -2746,7 +2746,7 @@
             "siteNote": "",
             "played": true,
             "pens": {},
-            "scoreSource": "maxpreps",
+            "scoreSource": "bracket",
             "teams": [
               {
                 "name": "Mount Vernon Christian",
@@ -2804,7 +2804,7 @@
       },
       "berths": 0,
       "teamCount": null,
-      "bracketLagging": true
+      "bracketLagging": false
     },
     "field": {
       "clinched": [
@@ -5526,7 +5526,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-22T01:16:07.445Z",
+    "generatedAt": "2026-11-22T01:46:07.029Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -7703,7 +7703,7 @@
                 "siteNote": "",
                 "played": true,
                 "pens": {},
-                "scoreSource": "maxpreps",
+                "scoreSource": "bracket",
                 "teams": [
                   {
                     "name": "Mount Vernon Christian",
@@ -8052,7 +8052,7 @@
                 "siteNote": "",
                 "played": true,
                 "pens": {},
-                "scoreSource": "maxpreps",
+                "scoreSource": "bracket",
                 "teams": [
                   {
                     "name": "Mount Vernon Christian",
@@ -8273,7 +8273,7 @@
               "siteNote": "",
               "played": true,
               "pens": {},
-              "scoreSource": "maxpreps",
+              "scoreSource": "bracket",
               "teams": [
                 {
                   "name": "Mount Vernon Christian",
@@ -8331,7 +8331,7 @@
         },
         "berths": 0,
         "teamCount": null,
-        "bracketLagging": true
+        "bracketLagging": false
       },
       "field": {
         "clinched": [
