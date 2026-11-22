@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T20:01:06.374Z",
+  "generatedAt": "2026-11-22T23:54:28.844Z",
   "team": {
     "name": "Orcas Island",
     "mascot": "Vikings",
@@ -21,9 +21,9 @@
     }
   },
   "headline": {
-    "tone": "neutral",
-    "title": "Season complete",
-    "sub": "We finished runner-up at State."
+    "tone": "great",
+    "title": "What a season!",
+    "sub": "League and district champions, and State runner-up. Our only loss all season was the State final, and it came down to penalties."
   },
   "journey": [
     {
@@ -3597,15 +3597,27 @@
   "insights": [
     {
       "icon": "🏆",
-      "title": "District AND league champions!",
-      "text": "We won the district final against Mount Vernon Christian on Saturday, 0-0 and 4-2 on penalties, after a perfect 9-0 league season. Next stop: State, starting Fri Nov 13."
+      "title": "League champions",
+      "text": "A perfect 9-0 league season."
     },
     {
-      "icon": "⭐",
-      "title": "Defending State champions",
-      "text": "Fun fact: last year we lost a district game to Mount Vernon and still won State. Once you’re in, districts only decide your ranking."
+      "icon": "🏆",
+      "title": "District champions",
+      "text": "We won the district final against Mount Vernon Christian, 0-0 and 4-2 on penalties."
+    },
+    {
+      "icon": "🥈",
+      "title": "State runner-up",
+      "text": "Lost the State final to Mount Vernon 1–1 (on penalties). Our only loss all season."
+    },
+    {
+      "icon": "💪",
+      "title": "20 wins, 1 draw, 1 loss",
+      "text": "We scored 99 goals and allowed just 14."
     }
   ],
+  "seasonOver": true,
+  "insightsTitle": "The 2026 season",
   "funnel": [
     {
       "stage": "League",
@@ -5526,7 +5538,7 @@
   ],
   "notes": [],
   "es": {
-    "generatedAt": "2026-11-22T20:01:06.374Z",
+    "generatedAt": "2026-11-22T23:54:28.844Z",
     "team": {
       "name": "Orcas Island",
       "mascot": "Vikings",
@@ -5548,9 +5560,9 @@
       }
     },
     "headline": {
-      "tone": "neutral",
-      "title": "Temporada terminada",
-      "sub": "Terminamos en subcampeones en el Estatal."
+      "tone": "great",
+      "title": "¡Qué temporada!",
+      "sub": "Campeones de liga y del distrito, y subcampeones del Estatal. Nuestra única derrota de la temporada fue la final del Estatal, y se decidió en penales."
     },
     "journey": [
       {
@@ -9124,15 +9136,27 @@
     "insights": [
       {
         "icon": "🏆",
-        "title": "¡Campeones del distrito Y de la liga!",
-        "text": "Ganamos la final del distrito contra Mount Vernon Christian el sábado, 0-0 y 4-2 en penales, después de una temporada de liga perfecta (9-0). Próxima parada: el Estatal, que empieza el vie 13 nov."
+        "title": "Campeones de liga",
+        "text": "Una temporada de liga perfecta: 9-0."
       },
       {
-        "icon": "⭐",
-        "title": "Campeones estatales defensores",
-        "text": "Dato curioso: el año pasado perdimos un partido del distrito contra Mount Vernon y aun así ganamos el Estatal. Una vez clasificado, el distrito solo decide tu posición."
+        "icon": "🏆",
+        "title": "Campeones del distrito",
+        "text": "Ganamos la final del distrito contra Mount Vernon Christian, 0-0 y 4-2 en penales."
+      },
+      {
+        "icon": "🥈",
+        "title": "Subcampeones del Estatal",
+        "text": "Perdimos la final del Estatal con Mount Vernon 1–1 (en penales). Nuestra única derrota de la temporada."
+      },
+      {
+        "icon": "💪",
+        "title": "20 victorias, 1 empate, 1 derrota",
+        "text": "Anotamos 99 goles y solo recibimos 14."
       }
     ],
+    "seasonOver": true,
+    "insightsTitle": "La temporada 2026",
     "funnel": [
       {
         "stage": "Liga",
